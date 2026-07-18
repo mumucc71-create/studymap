@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L04",
+  "courseId": "EN-L04-C03",
+  "stages": [
+    {
+      "stageId": "EN-L04-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S01-Q01",
+          "stageId": "EN-L04-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 1번: ___ I late? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Is",
+            "Do",
+            "Am"
+          ],
+          "correctAnswer": "Am",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Am입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Am",
+            "am"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S01-Q02",
+          "stageId": "EN-L04-C03-S01",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 2번: “Are you ready?”의 핵심 문법 표현이 ‘Are’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Are이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S01-Q03",
+          "stageId": "EN-L04-C03-S01",
+          "type": "matching",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 3번: ___ he tall? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S01-Q04",
+          "stageId": "EN-L04-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 4번: “Is she happy?”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 행복하니?",
+            "내가 늦었니?",
+            "너는 준비됐니?",
+            "그는 키가 크니?"
+          ],
+          "correctAnswer": "그녀는 행복하니?",
+          "explanation": "문장의 뜻은 ‘그녀는 행복하니?’입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 행복하니?"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S01-Q05",
+          "stageId": "EN-L04-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 5번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S01-Q06",
+          "stageId": "EN-L04-C03-S01",
+          "type": "ordering",
+          "prompt": "be동사 의문문: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "we friends Are?",
+            "Are we friends?",
+            "friends we Are?"
+          ],
+          "correctAnswer": "Are we friends?",
+          "explanation": "바른 어순은 “Are we friends?”입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are we friends?",
+            "Are we friends"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S02-Q01",
+          "stageId": "EN-L04-C03-S02",
+          "type": "matching",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 1번: ___ she happy? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S02-Q02",
+          "stageId": "EN-L04-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 2번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Is",
+            "Am"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S02-Q03",
+          "stageId": "EN-L04-C03-S02",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 3번: “Are we friends?”의 뜻을 고르세요.",
+          "choices": [
+            "그는 키가 크니?",
+            "우리는 친구니?",
+            "내가 늦었니?",
+            "너는 준비됐니?"
+          ],
+          "correctAnswer": "우리는 친구니?",
+          "explanation": "문장의 뜻은 ‘우리는 친구니?’입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 친구니?"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S02-Q04",
+          "stageId": "EN-L04-C03-S02",
+          "type": "fillBlank",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 4번: ___ they here? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Am",
+            "Is",
+            "Do"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S02-Q05",
+          "stageId": "EN-L04-C03-S02",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 5번: ___ I late? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Is",
+            "Do",
+            "Am"
+          ],
+          "correctAnswer": "Am",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Am입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Am",
+            "am"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S02-Q06",
+          "stageId": "EN-L04-C03-S02",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 생활 어휘 문맥 학습 · 6번: “Are you ready?”의 핵심 문법 표현이 ‘Are’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Are이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S03-Q01",
+          "stageId": "EN-L04-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 1번: ___ they here? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Is",
+            "Do",
+            "Are"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S03-Q02",
+          "stageId": "EN-L04-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 2번: ___ I late? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Am",
+            "Are"
+          ],
+          "correctAnswer": "Am",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Am입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Am",
+            "am"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S03-Q03",
+          "stageId": "EN-L04-C03-S03",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 3번: “Are you ready?”의 핵심 문법 표현이 ‘Am’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Are이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S03-Q04",
+          "stageId": "EN-L04-C03-S03",
+          "type": "ordering",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Is he tall?",
+            "tall he Is?",
+            "he tall Is?"
+          ],
+          "correctAnswer": "Is he tall?",
+          "explanation": "바른 어순은 “Is he tall?”입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is he tall?",
+            "Is he tall"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S03-Q05",
+          "stageId": "EN-L04-C03-S03",
+          "type": "matching",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 5번: ___ she happy? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S03-Q06",
+          "stageId": "EN-L04-C03-S03",
+          "type": "fillBlank",
+          "prompt": "be동사 의문문: 문장 구조 발견 · 6번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Is",
+            "Am"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S04-Q01",
+          "stageId": "EN-L04-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 1번: ___ he tall? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S04-Q02",
+          "stageId": "EN-L04-C03-S04",
+          "type": "ordering",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "she happy Is?",
+            "Is she happy?",
+            "happy she Is?"
+          ],
+          "correctAnswer": "Is she happy?",
+          "explanation": "바른 어순은 “Is she happy?”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is she happy?",
+            "Is she happy"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S04-Q03",
+          "stageId": "EN-L04-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 3번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S04-Q04",
+          "stageId": "EN-L04-C03-S04",
+          "type": "fillBlank",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 4번: ___ we friends? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Am",
+            "Is",
+            "Do"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S04-Q05",
+          "stageId": "EN-L04-C03-S04",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 5번: “Are they here?”의 핵심 문법 표현이 ‘Am’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Are이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S04-Q06",
+          "stageId": "EN-L04-C03-S04",
+          "type": "matching",
+          "prompt": "be동사 의문문: 짧은 문장 연습 · 6번: ___ I late? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Am",
+            "Are"
+          ],
+          "correctAnswer": "Am",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Am입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Am",
+            "am"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S05-Q01",
+          "stageId": "EN-L04-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 1번: “Are we friends?”의 뜻을 고르세요.",
+          "choices": [
+            "내가 늦었니?",
+            "너는 준비됐니?",
+            "그는 키가 크니?",
+            "우리는 친구니?"
+          ],
+          "correctAnswer": "우리는 친구니?",
+          "explanation": "문장의 뜻은 ‘우리는 친구니?’입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 친구니?"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S05-Q02",
+          "stageId": "EN-L04-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 2번: ___ they here? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Are",
+            "Am"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S05-Q03",
+          "stageId": "EN-L04-C03-S05",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 3번: “Am I late?”의 핵심 문법 표현이 ‘Are’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Am이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S05-Q04",
+          "stageId": "EN-L04-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 4번: ___ you ready? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Am",
+            "Is",
+            "Do"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S05-Q05",
+          "stageId": "EN-L04-C03-S05",
+          "type": "matching",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 5번: ___ he tall? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S05-Q06",
+          "stageId": "EN-L04-C03-S05",
+          "type": "ordering",
+          "prompt": "be동사 의문문: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "she happy Is?",
+            "Is she happy?",
+            "happy she Is?"
+          ],
+          "correctAnswer": "Is she happy?",
+          "explanation": "바른 어순은 “Is she happy?”입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is she happy?",
+            "Is she happy"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S06-Q01",
+          "stageId": "EN-L04-C03-S06",
+          "type": "listeningChoice",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Am I late?",
+            "Is he tall?",
+            "Is she happy?",
+            "Are you ready?"
+          ],
+          "correctAnswer": "Are you ready?",
+          "explanation": "들은 문장은 “Are you ready?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Are you ready?",
+          "acceptedAnswers": [
+            "Are you ready?"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S06-Q02",
+          "stageId": "EN-L04-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 2번: ___ he tall? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Is",
+            "Am"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S06-Q03",
+          "stageId": "EN-L04-C03-S06",
+          "type": "listeningChoice",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Is he tall?",
+            "Is she happy?",
+            "Am I late?",
+            "Are you ready?"
+          ],
+          "correctAnswer": "Is she happy?",
+          "explanation": "들은 문장은 “Is she happy?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Is she happy?",
+          "acceptedAnswers": [
+            "Is she happy?"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S06-Q04",
+          "stageId": "EN-L04-C03-S06",
+          "type": "dictation",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Is it cold?",
+          "explanation": "바른 문장은 “Is it cold?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Is it cold?",
+          "acceptedAnswers": [
+            "Is it cold?",
+            "Is it cold"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S06-Q05",
+          "stageId": "EN-L04-C03-S06",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 5번: “Are we friends?”의 핵심 문법 표현이 ‘Am’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Are이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S06-Q06",
+          "stageId": "EN-L04-C03-S06",
+          "type": "matching",
+          "prompt": "be동사 의문문: 생활 대화 듣기 · 6번: ___ they here? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Are",
+            "Am"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S07-Q01",
+          "stageId": "EN-L04-C03-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "be동사 의문문: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Is it cold?",
+          "explanation": "“Is it cold?”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Is it cold?",
+          "acceptedAnswers": [
+            "Is it cold?",
+            "Is it cold"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S07-Q02",
+          "stageId": "EN-L04-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 표현 말하기 · 2번: ___ we friends? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Are",
+            "Am"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S07-Q03",
+          "stageId": "EN-L04-C03-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "be동사 의문문: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Are they here?",
+          "explanation": "“Are they here?”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Are they here?",
+          "acceptedAnswers": [
+            "Are they here?",
+            "Are they here"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S07-Q04",
+          "stageId": "EN-L04-C03-S07",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 표현 말하기 · 4번: “Am I late?”의 뜻을 고르세요.",
+          "choices": [
+            "내가 늦었니?",
+            "너는 준비됐니?",
+            "그는 키가 크니?",
+            "그녀는 행복하니?"
+          ],
+          "correctAnswer": "내가 늦었니?",
+          "explanation": "문장의 뜻은 ‘내가 늦었니?’입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내가 늦었니?"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S07-Q05",
+          "stageId": "EN-L04-C03-S07",
+          "type": "matching",
+          "prompt": "be동사 의문문: 표현 말하기 · 5번: ___ you ready? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Is",
+            "Do",
+            "Are"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S07-Q06",
+          "stageId": "EN-L04-C03-S07",
+          "type": "trueFalse",
+          "prompt": "be동사 의문문: 표현 말하기 · 6번: “Is he tall?”의 핵심 문법 표현이 ‘Is’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Is이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S08-Q01",
+          "stageId": "EN-L04-C03-S08",
+          "type": "fillBlank",
+          "prompt": "be동사 의문문: 문장 쓰기 · 1번: ___ I late? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Is",
+            "Do",
+            "Am"
+          ],
+          "correctAnswer": "Am",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Am입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Am",
+            "am"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S08-Q02",
+          "stageId": "EN-L04-C03-S08",
+          "type": "dictation",
+          "prompt": "be동사 의문문: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Are you ready?",
+          "explanation": "바른 문장은 “Are you ready?”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Are you ready?",
+          "acceptedAnswers": [
+            "Are you ready?",
+            "Are you ready"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S08-Q03",
+          "stageId": "EN-L04-C03-S08",
+          "type": "ordering",
+          "prompt": "be동사 의문문: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Is he tall?",
+            "tall he Is?",
+            "he tall Is?"
+          ],
+          "correctAnswer": "Is he tall?",
+          "explanation": "바른 어순은 “Is he tall?”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is he tall?",
+            "Is he tall"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S08-Q04",
+          "stageId": "EN-L04-C03-S08",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 문장 쓰기 · 4번: ___ she happy? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Am",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S08-Q05",
+          "stageId": "EN-L04-C03-S08",
+          "type": "fillBlank",
+          "prompt": "be동사 의문문: 문장 쓰기 · 5번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S08-Q06",
+          "stageId": "EN-L04-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 문장 쓰기 · 6번: ___ we friends? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Are",
+            "Am"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L04-C03-S09-Q01",
+          "stageId": "EN-L04-C03-S09",
+          "type": "reviewMixed",
+          "prompt": "be동사 의문문: 과정 평가 · 1번: ___ she happy? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Am",
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q02",
+          "stageId": "EN-L04-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 과정 평가 · 2번: ___ it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Is",
+            "Am"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q03",
+          "stageId": "EN-L04-C03-S09",
+          "type": "listeningChoice",
+          "prompt": "be동사 의문문: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Is he tall?",
+            "Are we friends?",
+            "Am I late?",
+            "Are you ready?"
+          ],
+          "correctAnswer": "Are we friends?",
+          "explanation": "들은 문장은 “Are we friends?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Are we friends?",
+          "acceptedAnswers": [
+            "Are we friends?"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q04",
+          "stageId": "EN-L04-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 과정 평가 · 4번: ___ they here? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Am",
+            "Is",
+            "Do"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q05",
+          "stageId": "EN-L04-C03-S09",
+          "type": "dictation",
+          "prompt": "be동사 의문문: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Am I late?",
+          "explanation": "바른 문장은 “Am I late?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Am I late?",
+          "acceptedAnswers": [
+            "Am I late?",
+            "Am I late"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q06",
+          "stageId": "EN-L04-C03-S09",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 과정 평가 · 6번: “Are you ready?”의 뜻을 고르세요.",
+          "choices": [
+            "그는 키가 크니?",
+            "그녀는 행복하니?",
+            "너는 준비됐니?",
+            "내가 늦었니?"
+          ],
+          "correctAnswer": "너는 준비됐니?",
+          "explanation": "문장의 뜻은 ‘너는 준비됐니?’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 준비됐니?"
+          ],
+          "exampleSentence": "Are you ready?",
+          "koreanMeaning": "너는 준비됐니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q07",
+          "stageId": "EN-L04-C03-S09",
+          "type": "reviewMixed",
+          "prompt": "be동사 의문문: 과정 평가 · 7번: ___ he tall? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Am",
+            "Are"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is he tall?",
+          "koreanMeaning": "그는 키가 크니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q08",
+          "stageId": "EN-L04-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "be동사 의문문: 과정 평가 · 8번: ___ she happy? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Am",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Is",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Is입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Is",
+            "is"
+          ],
+          "exampleSentence": "Is she happy?",
+          "koreanMeaning": "그녀는 행복하니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q09",
+          "stageId": "EN-L04-C03-S09",
+          "type": "listeningChoice",
+          "prompt": "be동사 의문문: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Am I late?",
+            "Are you ready?",
+            "Is he tall?",
+            "Is it cold?"
+          ],
+          "correctAnswer": "Is it cold?",
+          "explanation": "들은 문장은 “Is it cold?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Is it cold?",
+          "acceptedAnswers": [
+            "Is it cold?"
+          ],
+          "exampleSentence": "Is it cold?",
+          "koreanMeaning": "그것은 차갑니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q10",
+          "stageId": "EN-L04-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "be동사 의문문: 과정 평가 · 10번: ___ we friends? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Do",
+            "Are",
+            "Am"
+          ],
+          "correctAnswer": "Are",
+          "explanation": "be동사 의문문 규칙에 맞는 표현은 Are입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Are",
+            "are"
+          ],
+          "exampleSentence": "Are we friends?",
+          "koreanMeaning": "우리는 친구니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q11",
+          "stageId": "EN-L04-C03-S09",
+          "type": "dictation",
+          "prompt": "be동사 의문문: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Are they here?",
+          "explanation": "바른 문장은 “Are they here?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Are they here?",
+          "acceptedAnswers": [
+            "Are they here?",
+            "Are they here"
+          ],
+          "exampleSentence": "Are they here?",
+          "koreanMeaning": "그들은 여기 있니?"
+        },
+        {
+          "questionId": "EN-L04-C03-S09-Q12",
+          "stageId": "EN-L04-C03-S09",
+          "type": "sentenceMeaning",
+          "prompt": "be동사 의문문: 과정 평가 · 12번: “Am I late?”의 뜻을 고르세요.",
+          "choices": [
+            "내가 늦었니?",
+            "너는 준비됐니?",
+            "그는 키가 크니?",
+            "그녀는 행복하니?"
+          ],
+          "correctAnswer": "내가 늦었니?",
+          "explanation": "문장의 뜻은 ‘내가 늦었니?’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "be동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "be동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내가 늦었니?"
+          ],
+          "exampleSentence": "Am I late?",
+          "koreanMeaning": "내가 늦었니?"
+        }
+      ]
+    }
+  ]
+}

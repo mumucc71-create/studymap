@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C03",
+  "stages": [
+    {
+      "stageId": "EN-L08-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S01-Q01",
+          "stageId": "EN-L08-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 1번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for two hours",
+            "for two years"
+          ],
+          "correctAnswer": "for two years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two years입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two years",
+            "for two years"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S01-Q02",
+          "stageId": "EN-L08-C03-S01",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 2번: 핵심 표현이 ‘for three years’이면 O, 아니면 X를 고르세요: You have been living here for three years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 for three years입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S01-Q03",
+          "stageId": "EN-L08-C03-S01",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 3번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two hours",
+            "for an hour",
+            "for two years",
+            "for three years"
+          ],
+          "correctAnswer": "for an hour",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for an hour입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for an hour",
+            "for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S01-Q04",
+          "stageId": "EN-L08-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 4번: “She has been reading the book for two hours.”의 뜻을 고르세요.",
+          "choices": [
+            "She는 for two hours 동안 계속하고 있다.",
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다.",
+            "He는 for an hour 동안 계속하고 있다."
+          ],
+          "correctAnswer": "She는 for two hours 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘She는 for two hours 동안 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She는 for two hours 동안 계속하고 있다."
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S01-Q05",
+          "stageId": "EN-L08-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 5번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for thirty minutes"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S01-Q06",
+          "stageId": "EN-L08-C03-S01",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been working together for five months They.",
+            "have",
+            "They have been working together for five months.",
+            "months five for together working been have They."
+          ],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 어순은 “They have been working together for five months.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S02-Q01",
+          "stageId": "EN-L08-C03-S02",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 1번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for two hours"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S02-Q02",
+          "stageId": "EN-L08-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 2번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for thirty minutes",
+            "for two years"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S02-Q03",
+          "stageId": "EN-L08-C03-S02",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 3번: “They have been working together for five months.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 for an hour 동안 계속하고 있다.",
+            "They는 for five months 동안 계속하고 있다.",
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다."
+          ],
+          "correctAnswer": "They는 for five months 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘They는 for five months 동안 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They는 for five months 동안 계속하고 있다."
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S02-Q04",
+          "stageId": "EN-L08-C03-S02",
+          "type": "fillBlank",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 4번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for six years",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S02-Q05",
+          "stageId": "EN-L08-C03-S02",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 5번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for a week"
+          ],
+          "correctAnswer": "for a week",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for a week입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for a week",
+            "for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S02-Q06",
+          "stageId": "EN-L08-C03-S02",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: I have been studying English for two years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 for two years입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S03-Q01",
+          "stageId": "EN-L08-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 1번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for six years"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S03-Q02",
+          "stageId": "EN-L08-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 2번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for a week",
+            "for two years"
+          ],
+          "correctAnswer": "for a week",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for a week입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for a week",
+            "for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S03-Q03",
+          "stageId": "EN-L08-C03-S03",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 3번: 핵심 표현이 ‘for three years’이면 O, 아니면 X를 고르세요: I have been studying English for two years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for two years입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S03-Q04",
+          "stageId": "EN-L08-C03-S03",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have been living here for three years.",
+            "years three for here living been have You.",
+            "have been living here for three years You.",
+            "have"
+          ],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 어순은 “You have been living here for three years.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S03-Q05",
+          "stageId": "EN-L08-C03-S03",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 5번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for two hours",
+            "for an hour"
+          ],
+          "correctAnswer": "for an hour",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for an hour입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for an hour",
+            "for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S03-Q06",
+          "stageId": "EN-L08-C03-S03",
+          "type": "fillBlank",
+          "prompt": "수동태 시제 확장: 문법 구조 분석 · 6번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for two hours",
+            "for two years"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S04-Q01",
+          "stageId": "EN-L08-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 1번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for an hour",
+            "for two hours",
+            "for three years"
+          ],
+          "correctAnswer": "for three years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for three years입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for three years",
+            "for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S04-Q02",
+          "stageId": "EN-L08-C03-S04",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has been playing soccer for an hour He.",
+            "have",
+            "He has been playing soccer for an hour.",
+            "hour an for soccer playing been has He."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "바른 어순은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour.",
+            "He has been playing soccer for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S04-Q03",
+          "stageId": "EN-L08-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 3번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for an hour",
+            "for two hours",
+            "for two years",
+            "for three years"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S04-Q04",
+          "stageId": "EN-L08-C03-S04",
+          "type": "fillBlank",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 4번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for thirty minutes",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S04-Q05",
+          "stageId": "EN-L08-C03-S04",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 5번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: They have been working together for five months.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for five months입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S04-Q06",
+          "stageId": "EN-L08-C03-S04",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 문장 분석 연습 · 6번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for six years",
+            "for two years"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S05-Q01",
+          "stageId": "EN-L08-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 1번: “We have been waiting here for thirty minutes.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다.",
+            "He는 for an hour 동안 계속하고 있다.",
+            "We는 for thirty minutes 동안 계속하고 있다."
+          ],
+          "correctAnswer": "We는 for thirty minutes 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘We는 for thirty minutes 동안 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 for thirty minutes 동안 계속하고 있다."
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S05-Q02",
+          "stageId": "EN-L08-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 2번: They have been working together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for five months",
+            "for two years"
+          ],
+          "correctAnswer": "for five months",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for five months입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for five months",
+            "for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S05-Q03",
+          "stageId": "EN-L08-C03-S05",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 3번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: Mina has been studying math for six years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for six years입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S05-Q04",
+          "stageId": "EN-L08-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 4번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for a week",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for a week",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for a week입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for a week",
+            "for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S05-Q05",
+          "stageId": "EN-L08-C03-S05",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 5번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for two hours",
+            "for two years"
+          ],
+          "correctAnswer": "for two years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two years입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two years",
+            "for two years"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S05-Q06",
+          "stageId": "EN-L08-C03-S05",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been living here for three years You.",
+            "have",
+            "You have been living here for three years.",
+            "years three for here living been have You."
+          ],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 어순은 “You have been living here for three years.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S06-Q01",
+          "stageId": "EN-L08-C03-S06",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 1번: “Tom has been using this bike for a week.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다.",
+            "He는 for an hour 동안 계속하고 있다.",
+            "Tom는 for a week 동안 계속하고 있다."
+          ],
+          "correctAnswer": "Tom는 for a week 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘Tom는 for a week 동안 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 for a week 동안 계속하고 있다."
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S06-Q02",
+          "stageId": "EN-L08-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 2번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for an hour",
+            "for two hours",
+            "for two years",
+            "for three years"
+          ],
+          "correctAnswer": "for two years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two years입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two years",
+            "for two years"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S06-Q03",
+          "stageId": "EN-L08-C03-S06",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 3번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: You have been living here for three years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for three years입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S06-Q04",
+          "stageId": "EN-L08-C03-S06",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 4번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for an hour",
+            "for two years",
+            "for three years",
+            "for two hours"
+          ],
+          "correctAnswer": "for an hour",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for an hour입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for an hour",
+            "for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S06-Q05",
+          "stageId": "EN-L08-C03-S06",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 5번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for two hours"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S06-Q06",
+          "stageId": "EN-L08-C03-S06",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been waiting here for thirty minutes We.",
+            "have",
+            "We have been waiting here for thirty minutes.",
+            "minutes thirty for here waiting been have We."
+          ],
+          "correctAnswer": "We have been waiting here for thirty minutes.",
+          "explanation": "바른 어순은 “We have been waiting here for thirty minutes.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have been waiting here for thirty minutes.",
+            "We have been waiting here for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S07-Q01",
+          "stageId": "EN-L08-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English for two years.",
+            "You have been living here for three years.",
+            "She has been reading the book for two hours.",
+            "He has been playing soccer for an hour."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "들은 문장은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has been playing soccer for an hour.",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour."
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S07-Q02",
+          "stageId": "EN-L08-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 2번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for two hours",
+            "for two years"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S07-Q03",
+          "stageId": "EN-L08-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer for an hour.",
+            "We have been waiting here for thirty minutes.",
+            "I have been studying English for two years.",
+            "You have been living here for three years."
+          ],
+          "correctAnswer": "We have been waiting here for thirty minutes.",
+          "explanation": "들은 문장은 “We have been waiting here for thirty minutes.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have been waiting here for thirty minutes.",
+          "acceptedAnswers": [
+            "We have been waiting here for thirty minutes."
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S07-Q04",
+          "stageId": "EN-L08-C03-S07",
+          "type": "dictation",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S07-Q05",
+          "stageId": "EN-L08-C03-S07",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: Mina has been studying math for six years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for six years입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S07-Q06",
+          "stageId": "EN-L08-C03-S07",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 핵심 정보 듣기 · 6번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for a week",
+            "for two years"
+          ],
+          "correctAnswer": "for a week",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for a week입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for a week",
+            "for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S08-Q01",
+          "stageId": "EN-L08-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "“They have been working together for five months.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S08-Q02",
+          "stageId": "EN-L08-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 2번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for six years",
+            "for two years"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S08-Q03",
+          "stageId": "EN-L08-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike for a week.",
+          "explanation": "“Tom has been using this bike for a week.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has been using this bike for a week.",
+          "acceptedAnswers": [
+            "Tom has been using this bike for a week.",
+            "Tom has been using this bike for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S08-Q04",
+          "stageId": "EN-L08-C03-S08",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 4번: “I have been studying English for two years.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다.",
+            "He는 for an hour 동안 계속하고 있다.",
+            "She는 for two hours 동안 계속하고 있다."
+          ],
+          "correctAnswer": "I는 for two years 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘I는 for two years 동안 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 for two years 동안 계속하고 있다."
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S08-Q05",
+          "stageId": "EN-L08-C03-S08",
+          "type": "matching",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 5번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for an hour",
+            "for two hours",
+            "for three years"
+          ],
+          "correctAnswer": "for three years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for three years입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for three years",
+            "for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S08-Q06",
+          "stageId": "EN-L08-C03-S08",
+          "type": "trueFalse",
+          "prompt": "수동태 시제 확장: 근거 설명하기 · 6번: 핵심 표현이 ‘for an hour’이면 O, 아니면 X를 고르세요: He has been playing soccer for an hour.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 for an hour입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S09-Q01",
+          "stageId": "EN-L08-C03-S09",
+          "type": "fillBlank",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 1번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for two hours",
+            "for two years"
+          ],
+          "correctAnswer": "for two years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two years입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two years",
+            "for two years"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S09-Q02",
+          "stageId": "EN-L08-C03-S09",
+          "type": "dictation",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 문장은 “You have been living here for three years.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have been living here for three years.",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S09-Q03",
+          "stageId": "EN-L08-C03-S09",
+          "type": "ordering",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has been playing soccer for an hour.",
+            "hour an for soccer playing been has He.",
+            "has been playing soccer for an hour He."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "바른 어순은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour.",
+            "He has been playing soccer for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S09-Q04",
+          "stageId": "EN-L08-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 4번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two hours",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S09-Q05",
+          "stageId": "EN-L08-C03-S09",
+          "type": "fillBlank",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 5번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for thirty minutes"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S09-Q06",
+          "stageId": "EN-L08-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 논리 문장 쓰기 · 6번: They have been working together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for five months",
+            "for two years"
+          ],
+          "correctAnswer": "for five months",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for five months입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for five months",
+            "for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C03-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C03-S10-Q01",
+          "stageId": "EN-L08-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "수동태 시제 확장: 과정 평가 · 1번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two years",
+            "for three years",
+            "for an hour",
+            "for two hours"
+          ],
+          "correctAnswer": "for two hours",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for two hours입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for two hours",
+            "for two hours"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q02",
+          "stageId": "EN-L08-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 과정 평가 · 2번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for thirty minutes",
+            "for two years"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q03",
+          "stageId": "EN-L08-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "수동태 시제 확장: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer for an hour.",
+            "They have been working together for five months.",
+            "I have been studying English for two years.",
+            "You have been living here for three years."
+          ],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "들은 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months."
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q04",
+          "stageId": "EN-L08-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 과정 평가 · 4번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for six years",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q05",
+          "stageId": "EN-L08-C03-S10",
+          "type": "dictation",
+          "prompt": "수동태 시제 확장: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike for a week.",
+          "explanation": "바른 문장은 “Tom has been using this bike for a week.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has been using this bike for a week.",
+          "acceptedAnswers": [
+            "Tom has been using this bike for a week.",
+            "Tom has been using this bike for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q06",
+          "stageId": "EN-L08-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 과정 평가 · 6번: “I have been studying English for two years.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 for an hour 동안 계속하고 있다.",
+            "She는 for two hours 동안 계속하고 있다.",
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다."
+          ],
+          "correctAnswer": "I는 for two years 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘I는 for two years 동안 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 for two years 동안 계속하고 있다."
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "I는 for two years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q07",
+          "stageId": "EN-L08-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "수동태 시제 확장: 과정 평가 · 7번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for two hours",
+            "for three years",
+            "for two years",
+            "for an hour"
+          ],
+          "correctAnswer": "for three years",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for three years입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for three years",
+            "for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "You는 for three years 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q08",
+          "stageId": "EN-L08-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "수동태 시제 확장: 과정 평가 · 8번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for an hour",
+            "for two years",
+            "for three years",
+            "for two hours"
+          ],
+          "correctAnswer": "for an hour",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for an hour입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for an hour",
+            "for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "He는 for an hour 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q09",
+          "stageId": "EN-L08-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "수동태 시제 확장: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English for two years.",
+            "You have been living here for three years.",
+            "He has been playing soccer for an hour.",
+            "She has been reading the book for two hours."
+          ],
+          "correctAnswer": "She has been reading the book for two hours.",
+          "explanation": "들은 문장은 “She has been reading the book for two hours.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has been reading the book for two hours.",
+          "acceptedAnswers": [
+            "She has been reading the book for two hours."
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "She는 for two hours 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q10",
+          "stageId": "EN-L08-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 시제 확장: 과정 평가 · 10번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for thirty minutes",
+            "for two years"
+          ],
+          "correctAnswer": "for thirty minutes",
+          "explanation": "현재완료 진행형 for 문맥에 맞는 표현은 for thirty minutes입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for thirty minutes",
+            "for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q11",
+          "stageId": "EN-L08-C03-S10",
+          "type": "dictation",
+          "prompt": "수동태 시제 확장: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C03-S10-Q12",
+          "stageId": "EN-L08-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 시제 확장: 과정 평가 · 12번: “Mina has been studying math for six years.”의 뜻을 고르세요.",
+          "choices": [
+            "Mina는 for six years 동안 계속하고 있다.",
+            "I는 for two years 동안 계속하고 있다.",
+            "You는 for three years 동안 계속하고 있다.",
+            "He는 for an hour 동안 계속하고 있다."
+          ],
+          "correctAnswer": "Mina는 for six years 동안 계속하고 있다.",
+          "explanation": "뜻은 ‘Mina는 for six years 동안 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 for",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 시제 확장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 for six years 동안 계속하고 있다."
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속하고 있다."
+        }
+      ]
+    }
+  ]
+}

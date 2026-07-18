@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C09",
+  "stages": [
+    {
+      "stageId": "EN-L05-C09-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S01-Q01",
+          "stageId": "EN-L05-C09-S01",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 1번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S01-Q02",
+          "stageId": "EN-L05-C09-S01",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 2번: 핵심 표현이 ‘How’이면 O, 아니면 X를 고르세요: How do you go home?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 How이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S01-Q03",
+          "stageId": "EN-L05-C09-S01",
+          "type": "matching",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 3번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "Why",
+            "How",
+            "is"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S01-Q04",
+          "stageId": "EN-L05-C09-S01",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 4번: “How is the weather?”의 뜻을 고르세요.",
+          "choices": [
+            "날씨가 어떠니?",
+            "너는 왜 슬프니?",
+            "너는 어떻게 집에 가니?",
+            "그는 왜 달리니?"
+          ],
+          "correctAnswer": "날씨가 어떠니?",
+          "explanation": "뜻은 ‘날씨가 어떠니?’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "날씨가 어떠니?"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S01-Q05",
+          "stageId": "EN-L05-C09-S01",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 5번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S01-Q06",
+          "stageId": "EN-L05-C09-S01",
+          "type": "ordering",
+          "prompt": "의문사 why how: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "are you sad Why?",
+            "is",
+            "Why are you sad?",
+            "sad you are Why?"
+          ],
+          "correctAnswer": "Why are you sad?",
+          "explanation": "바른 어순은 “Why are you sad?”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why are you sad?",
+            "Why are you sad"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S02-Q01",
+          "stageId": "EN-L05-C09-S02",
+          "type": "matching",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 1번: ___ is the weather? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "is",
+            "are",
+            "How"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S02-Q02",
+          "stageId": "EN-L05-C09-S02",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 2번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S02-Q03",
+          "stageId": "EN-L05-C09-S02",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 3번: “Why are you sad?”의 뜻을 고르세요.",
+          "choices": [
+            "날씨가 어떠니?",
+            "너는 왜 슬프니?",
+            "너는 어떻게 집에 가니?",
+            "그는 왜 달리니?"
+          ],
+          "correctAnswer": "너는 왜 슬프니?",
+          "explanation": "뜻은 ‘너는 왜 슬프니?’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 왜 슬프니?"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S02-Q04",
+          "stageId": "EN-L05-C09-S02",
+          "type": "fillBlank",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 4번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "Why",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S02-Q05",
+          "stageId": "EN-L05-C09-S02",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 5번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S02-Q06",
+          "stageId": "EN-L05-C09-S02",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘How’이면 O, 아니면 X를 고르세요: How is the weather?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 How이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S03-Q01",
+          "stageId": "EN-L05-C09-S03",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 문장 구조 발견 · 1번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "is",
+            "are",
+            "How"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S03-Q02",
+          "stageId": "EN-L05-C09-S03",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 문장 구조 발견 · 2번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S03-Q03",
+          "stageId": "EN-L05-C09-S03",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 문장 구조 발견 · 3번: 핵심 표현이 ‘Why’이면 O, 아니면 X를 고르세요: How is the weather?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 How이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S03-Q04",
+          "stageId": "EN-L05-C09-S03",
+          "type": "ordering",
+          "prompt": "의문사 why how: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Why is it cold?",
+            "cold it is Why?",
+            "is it cold Why?",
+            "is"
+          ],
+          "correctAnswer": "Why is it cold?",
+          "explanation": "바른 어순은 “Why is it cold?”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why is it cold?",
+            "Why is it cold"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S03-Q05",
+          "stageId": "EN-L05-C09-S03",
+          "type": "matching",
+          "prompt": "의문사 why how: 문장 구조 발견 · 5번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S03-Q06",
+          "stageId": "EN-L05-C09-S03",
+          "type": "fillBlank",
+          "prompt": "의문사 why how: 문장 구조 발견 · 6번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "How",
+            "Why"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S04-Q01",
+          "stageId": "EN-L05-C09-S04",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 1번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S04-Q02",
+          "stageId": "EN-L05-C09-S04",
+          "type": "ordering",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "are you sad Why?",
+            "is",
+            "Why are you sad?",
+            "sad you are Why?"
+          ],
+          "correctAnswer": "Why are you sad?",
+          "explanation": "바른 어순은 “Why are you sad?”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why are you sad?",
+            "Why are you sad"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S04-Q03",
+          "stageId": "EN-L05-C09-S04",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 3번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "How",
+            "Why",
+            "is"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S04-Q04",
+          "stageId": "EN-L05-C09-S04",
+          "type": "fillBlank",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 4번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "How",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S04-Q05",
+          "stageId": "EN-L05-C09-S04",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 5번: 핵심 표현이 ‘Why’이면 O, 아니면 X를 고르세요: How is the weather?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 How이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S04-Q06",
+          "stageId": "EN-L05-C09-S04",
+          "type": "matching",
+          "prompt": "의문사 why how: 짧은 문장 연습 · 6번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S05-Q01",
+          "stageId": "EN-L05-C09-S05",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 1번: “Why does he run?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 왜 슬프니?",
+            "너는 어떻게 집에 가니?",
+            "날씨가 어떠니?",
+            "그는 왜 달리니?"
+          ],
+          "correctAnswer": "그는 왜 달리니?",
+          "explanation": "뜻은 ‘그는 왜 달리니?’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 왜 달리니?"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S05-Q02",
+          "stageId": "EN-L05-C09-S05",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 2번: ___ is the weather? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "How",
+            "Why"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S05-Q03",
+          "stageId": "EN-L05-C09-S05",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 3번: 핵심 표현이 ‘How’이면 O, 아니면 X를 고르세요: Why is it cold?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Why이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S05-Q04",
+          "stageId": "EN-L05-C09-S05",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 4번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "How",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S05-Q05",
+          "stageId": "EN-L05-C09-S05",
+          "type": "matching",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 5번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "is",
+            "are",
+            "How"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S05-Q06",
+          "stageId": "EN-L05-C09-S05",
+          "type": "ordering",
+          "prompt": "의문사 why how: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "does he run Why?",
+            "is",
+            "Why does he run?",
+            "run he does Why?"
+          ],
+          "correctAnswer": "Why does he run?",
+          "explanation": "바른 어순은 “Why does he run?”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why does he run?",
+            "Why does he run"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S06-Q01",
+          "stageId": "EN-L05-C09-S06",
+          "type": "listeningChoice",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "How do you go home?",
+            "Why does he run?",
+            "How is the weather?",
+            "Why are you sad?"
+          ],
+          "correctAnswer": "Why are you sad?",
+          "explanation": "들은 문장은 “Why are you sad?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Why are you sad?",
+          "acceptedAnswers": [
+            "Why are you sad?"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S06-Q02",
+          "stageId": "EN-L05-C09-S06",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 2번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "How",
+            "Why"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S06-Q03",
+          "stageId": "EN-L05-C09-S06",
+          "type": "listeningChoice",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "How is the weather?",
+            "Why does he run?",
+            "Why are you sad?",
+            "How do you go home?"
+          ],
+          "correctAnswer": "Why does he run?",
+          "explanation": "들은 문장은 “Why does he run?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Why does he run?",
+          "acceptedAnswers": [
+            "Why does he run?"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S06-Q04",
+          "stageId": "EN-L05-C09-S06",
+          "type": "dictation",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "How is the weather?",
+          "explanation": "바른 문장은 “How is the weather?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "How is the weather?",
+          "acceptedAnswers": [
+            "How is the weather?",
+            "How is the weather"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S06-Q05",
+          "stageId": "EN-L05-C09-S06",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 5번: 핵심 표현이 ‘How’이면 O, 아니면 X를 고르세요: Why is it cold?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Why이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S06-Q06",
+          "stageId": "EN-L05-C09-S06",
+          "type": "matching",
+          "prompt": "의문사 why how: 생활 대화 듣기 · 6번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S07-Q01",
+          "stageId": "EN-L05-C09-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "의문사 why how: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "How is the weather?",
+          "explanation": "“How is the weather?”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "How is the weather?",
+          "acceptedAnswers": [
+            "How is the weather?",
+            "How is the weather"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S07-Q02",
+          "stageId": "EN-L05-C09-S07",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 표현 말하기 · 2번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S07-Q03",
+          "stageId": "EN-L05-C09-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "의문사 why how: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Why are you sad?",
+          "explanation": "“Why are you sad?”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Why are you sad?",
+          "acceptedAnswers": [
+            "Why are you sad?",
+            "Why are you sad"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S07-Q04",
+          "stageId": "EN-L05-C09-S07",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 표현 말하기 · 4번: “How do you go home?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 어떻게 집에 가니?",
+            "너는 왜 슬프니?",
+            "그는 왜 달리니?",
+            "날씨가 어떠니?"
+          ],
+          "correctAnswer": "너는 어떻게 집에 가니?",
+          "explanation": "뜻은 ‘너는 어떻게 집에 가니?’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 어떻게 집에 가니?"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S07-Q05",
+          "stageId": "EN-L05-C09-S07",
+          "type": "matching",
+          "prompt": "의문사 why how: 표현 말하기 · 5번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S07-Q06",
+          "stageId": "EN-L05-C09-S07",
+          "type": "trueFalse",
+          "prompt": "의문사 why how: 표현 말하기 · 6번: 핵심 표현이 ‘How’이면 O, 아니면 X를 고르세요: How is the weather?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 How이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S08-Q01",
+          "stageId": "EN-L05-C09-S08",
+          "type": "fillBlank",
+          "prompt": "의문사 why how: 문장 쓰기 · 1번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "is",
+            "are",
+            "How"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S08-Q02",
+          "stageId": "EN-L05-C09-S08",
+          "type": "dictation",
+          "prompt": "의문사 why how: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Why does he run?",
+          "explanation": "바른 문장은 “Why does he run?”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Why does he run?",
+          "acceptedAnswers": [
+            "Why does he run?",
+            "Why does he run"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S08-Q03",
+          "stageId": "EN-L05-C09-S08",
+          "type": "ordering",
+          "prompt": "의문사 why how: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "How is the weather?",
+            "weather the is How?",
+            "is the weather How?"
+          ],
+          "correctAnswer": "How is the weather?",
+          "explanation": "바른 어순은 “How is the weather?”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How is the weather?",
+            "How is the weather"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S08-Q04",
+          "stageId": "EN-L05-C09-S08",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 문장 쓰기 · 4번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "How",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S08-Q05",
+          "stageId": "EN-L05-C09-S08",
+          "type": "fillBlank",
+          "prompt": "의문사 why how: 문장 쓰기 · 5번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S08-Q06",
+          "stageId": "EN-L05-C09-S08",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 문장 쓰기 · 6번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "How",
+            "Why"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C09-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C09-S09-Q01",
+          "stageId": "EN-L05-C09-S09",
+          "type": "reviewMixed",
+          "prompt": "의문사 why how: 과정 평가 · 1번: ___ is it cold? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "is",
+            "are",
+            "Why"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q02",
+          "stageId": "EN-L05-C09-S09",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 과정 평가 · 2번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Why",
+            "How"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q03",
+          "stageId": "EN-L05-C09-S09",
+          "type": "listeningChoice",
+          "prompt": "의문사 why how: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "How is the weather?",
+            "How do you go home?",
+            "Why are you sad?",
+            "Why does he run?"
+          ],
+          "correctAnswer": "How do you go home?",
+          "explanation": "들은 문장은 “How do you go home?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "How do you go home?",
+          "acceptedAnswers": [
+            "How do you go home?"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q04",
+          "stageId": "EN-L05-C09-S09",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 과정 평가 · 4번: ___ does he run? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Why",
+            "How",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q05",
+          "stageId": "EN-L05-C09-S09",
+          "type": "dictation",
+          "prompt": "의문사 why how: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "How is the weather?",
+          "explanation": "바른 문장은 “How is the weather?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "How is the weather?",
+          "acceptedAnswers": [
+            "How is the weather?",
+            "How is the weather"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q06",
+          "stageId": "EN-L05-C09-S09",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 과정 평가 · 6번: “Why is it cold?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 어떻게 집에 가니?",
+            "그는 왜 달리니?",
+            "왜 춥니?",
+            "너는 왜 슬프니?"
+          ],
+          "correctAnswer": "왜 춥니?",
+          "explanation": "뜻은 ‘왜 춥니?’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "왜 춥니?"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q07",
+          "stageId": "EN-L05-C09-S09",
+          "type": "reviewMixed",
+          "prompt": "의문사 why how: 과정 평가 · 7번: ___ are you sad? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "Why",
+            "How",
+            "is"
+          ],
+          "correctAnswer": "Why",
+          "explanation": "의문사 why how에 맞는 표현은 Why입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Why",
+            "why"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q08",
+          "stageId": "EN-L05-C09-S09",
+          "type": "multipleChoice",
+          "prompt": "의문사 why how: 과정 평가 · 8번: ___ do you go home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "How",
+            "Why",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How do you go home?",
+          "koreanMeaning": "너는 어떻게 집에 가니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q09",
+          "stageId": "EN-L05-C09-S09",
+          "type": "listeningChoice",
+          "prompt": "의문사 why how: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Why are you sad?",
+            "How do you go home?",
+            "How is the weather?",
+            "Why does he run?"
+          ],
+          "correctAnswer": "Why does he run?",
+          "explanation": "들은 문장은 “Why does he run?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Why does he run?",
+          "acceptedAnswers": [
+            "Why does he run?"
+          ],
+          "exampleSentence": "Why does he run?",
+          "koreanMeaning": "그는 왜 달리니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q10",
+          "stageId": "EN-L05-C09-S09",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 why how: 과정 평가 · 10번: ___ is the weather? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "How",
+            "Why"
+          ],
+          "correctAnswer": "How",
+          "explanation": "의문사 why how에 맞는 표현은 How입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "How",
+            "how"
+          ],
+          "exampleSentence": "How is the weather?",
+          "koreanMeaning": "날씨가 어떠니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q11",
+          "stageId": "EN-L05-C09-S09",
+          "type": "dictation",
+          "prompt": "의문사 why how: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Why is it cold?",
+          "explanation": "바른 문장은 “Why is it cold?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Why is it cold?",
+          "acceptedAnswers": [
+            "Why is it cold?",
+            "Why is it cold"
+          ],
+          "exampleSentence": "Why is it cold?",
+          "koreanMeaning": "왜 춥니?"
+        },
+        {
+          "questionId": "EN-L05-C09-S09-Q12",
+          "stageId": "EN-L05-C09-S09",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 why how: 과정 평가 · 12번: “Why are you sad?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 왜 슬프니?",
+            "너는 어떻게 집에 가니?",
+            "그는 왜 달리니?",
+            "날씨가 어떠니?"
+          ],
+          "correctAnswer": "너는 왜 슬프니?",
+          "explanation": "뜻은 ‘너는 왜 슬프니?’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 why how",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 why how 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 왜 슬프니?"
+          ],
+          "exampleSentence": "Why are you sad?",
+          "koreanMeaning": "너는 왜 슬프니?"
+        }
+      ]
+    }
+  ]
+}

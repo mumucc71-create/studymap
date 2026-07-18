@@ -1,0 +1,3274 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L11",
+  "courseId": "EN-L11-C15",
+  "stages": [
+    {
+      "stageId": "EN-L11-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S01-Q01",
+          "stageId": "EN-L11-C15-S01",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “establish” in a recent class discussion to express the idea of 확립하다.",
+          "choices": [
+            "accurate",
+            "tendency",
+            "hypothesis",
+            "establish"
+          ],
+          "correctAnswer": "establish",
+          "explanation": "문맥에서 establish은 ‘확립하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "establish",
+            "establish"
+          ],
+          "exampleSentence": "The writer uses “establish” in a recent class discussion to express the idea of 확립하다.",
+          "koreanMeaning": "문맥에서 establish은 ‘확립하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S01-Q02",
+          "stageId": "EN-L11-C15-S01",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “potential” in a recent class discussion to express the idea of 잠재적인.",
+          "choices": [
+            "environment",
+            "economical",
+            "potential",
+            "principle"
+          ],
+          "correctAnswer": "potential",
+          "explanation": "문맥에서 potential은 ‘잠재적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "potential",
+            "potential"
+          ],
+          "exampleSentence": "The writer uses “potential” in a recent class discussion to express the idea of 잠재적인.",
+          "koreanMeaning": "문맥에서 potential은 ‘잠재적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S01-Q03",
+          "stageId": "EN-L11-C15-S01",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “context” in a recent class discussion to express the idea of 맥락.",
+          "choices": [
+            "figure",
+            "context",
+            "cognition",
+            "affective"
+          ],
+          "correctAnswer": "context",
+          "explanation": "문맥에서 context은 ‘맥락’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "context",
+            "context"
+          ],
+          "exampleSentence": "The writer uses “context” in a recent class discussion to express the idea of 맥락.",
+          "koreanMeaning": "문맥에서 context은 ‘맥락’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S01-Q04",
+          "stageId": "EN-L11-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “analyze” during the science project to express the idea of 분석하다.",
+          "choices": [
+            "analyze",
+            "respective",
+            "account",
+            "submarine"
+          ],
+          "correctAnswer": "analyze",
+          "explanation": "문맥에서 analyze은 ‘분석하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "analyze",
+            "analyze"
+          ],
+          "exampleSentence": "The writer uses “analyze” during the science project to express the idea of 분석하다.",
+          "koreanMeaning": "문맥에서 analyze은 ‘분석하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S01-Q05",
+          "stageId": "EN-L11-C15-S01",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "choices": [
+            "issue",
+            "misunderstand",
+            "scientific",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S01-Q06",
+          "stageId": "EN-L11-C15-S01",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reflect” during the science project to express the idea of 반영하다.",
+          "choices": [
+            "decision",
+            "gain experience",
+            "reflect",
+            "rewrite"
+          ],
+          "correctAnswer": "reflect",
+          "explanation": "문맥에서 reflect은 ‘반영하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reflect",
+            "reflect"
+          ],
+          "exampleSentence": "The writer uses “reflect” during the science project to express the idea of 반영하다.",
+          "koreanMeaning": "문맥에서 reflect은 ‘반영하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S02-Q01",
+          "stageId": "EN-L11-C15-S02",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “major factor” during the community meeting to express the idea of 주요 요인.",
+          "choices": [
+            "carry out",
+            "reject",
+            "preserve",
+            "major factor"
+          ],
+          "correctAnswer": "major factor",
+          "explanation": "문맥에서 major factor은 ‘주요 요인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "major factor",
+            "major factor"
+          ],
+          "exampleSentence": "The writer uses “major factor” during the community meeting to express the idea of 주요 요인.",
+          "koreanMeaning": "문맥에서 major factor은 ‘주요 요인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S02-Q02",
+          "stageId": "EN-L11-C15-S02",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "choices": [
+            "infer",
+            "affect",
+            "point out",
+            "decline"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S02-Q03",
+          "stageId": "EN-L11-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” during the community meeting to express the idea of 해로운.",
+          "choices": [
+            "significant",
+            "harmful",
+            "emerge",
+            "enhance"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” during the community meeting to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S02-Q04",
+          "stageId": "EN-L11-C15-S02",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” during the community meeting to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "reduce",
+            "gradual",
+            "consequence"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” during the community meeting to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S02-Q05",
+          "stageId": "EN-L11-C15-S02",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “establish” during the community meeting to express the idea of 확립하다.",
+          "choices": [
+            "accurate",
+            "tendency",
+            "hypothesis",
+            "establish"
+          ],
+          "correctAnswer": "establish",
+          "explanation": "문맥에서 establish은 ‘확립하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "establish",
+            "establish"
+          ],
+          "exampleSentence": "The writer uses “establish” during the community meeting to express the idea of 확립하다.",
+          "koreanMeaning": "문맥에서 establish은 ‘확립하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S02-Q06",
+          "stageId": "EN-L11-C15-S02",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “potential” during the community meeting to express the idea of 잠재적인.",
+          "choices": [
+            "environment",
+            "economical",
+            "potential",
+            "principle"
+          ],
+          "correctAnswer": "potential",
+          "explanation": "문맥에서 potential은 ‘잠재적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "potential",
+            "potential"
+          ],
+          "exampleSentence": "The writer uses “potential” during the community meeting to express the idea of 잠재적인.",
+          "koreanMeaning": "문맥에서 potential은 ‘잠재적인’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S03-Q01",
+          "stageId": "EN-L11-C15-S03",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “approach” during the science project to express the idea of 접근법.",
+          "choices": [
+            "international",
+            "carefully",
+            "reach a conclusion",
+            "approach"
+          ],
+          "correctAnswer": "approach",
+          "explanation": "문맥에서 approach은 ‘접근법’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "approach",
+            "approach"
+          ],
+          "exampleSentence": "The writer uses “approach” during the science project to express the idea of 접근법.",
+          "koreanMeaning": "문맥에서 approach은 ‘접근법’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S03-Q02",
+          "stageId": "EN-L11-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preview” during the science project to express the idea of 미리 보기.",
+          "choices": [
+            "solve a problem",
+            "positive effect",
+            "preview",
+            "responsibility"
+          ],
+          "correctAnswer": "preview",
+          "explanation": "문맥에서 preview은 ‘미리 보기’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preview",
+            "preview"
+          ],
+          "exampleSentence": "The writer uses “preview” during the science project to express the idea of 미리 보기.",
+          "koreanMeaning": "문맥에서 preview은 ‘미리 보기’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S03-Q03",
+          "stageId": "EN-L11-C15-S03",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “improvement” during the science project to express the idea of 향상.",
+          "choices": [
+            "result in",
+            "improvement",
+            "draw attention",
+            "scientific method"
+          ],
+          "correctAnswer": "improvement",
+          "explanation": "문맥에서 improvement은 ‘향상’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "improvement",
+            "improvement"
+          ],
+          "exampleSentence": "The writer uses “improvement” during the science project to express the idea of 향상.",
+          "koreanMeaning": "문맥에서 improvement은 ‘향상’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S03-Q04",
+          "stageId": "EN-L11-C15-S03",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “make a decision” in the environmental report to express the idea of 결정하다.",
+          "choices": [
+            "make a decision",
+            "practical solution",
+            "rely on",
+            "permanent"
+          ],
+          "correctAnswer": "make a decision",
+          "explanation": "문맥에서 make a decision은 ‘결정하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "make a decision",
+            "make a decision"
+          ],
+          "exampleSentence": "The writer uses “make a decision” in the environmental report to express the idea of 결정하다.",
+          "koreanMeaning": "문맥에서 make a decision은 ‘결정하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S03-Q05",
+          "stageId": "EN-L11-C15-S03",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “major factor” in the environmental report to express the idea of 주요 요인.",
+          "choices": [
+            "carry out",
+            "reject",
+            "preserve",
+            "major factor"
+          ],
+          "correctAnswer": "major factor",
+          "explanation": "문맥에서 major factor은 ‘주요 요인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "major factor",
+            "major factor"
+          ],
+          "exampleSentence": "The writer uses “major factor” in the environmental report to express the idea of 주요 요인.",
+          "koreanMeaning": "문맥에서 major factor은 ‘주요 요인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S03-Q06",
+          "stageId": "EN-L11-C15-S03",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” in the environmental report to express the idea of 지적하다.",
+          "choices": [
+            "infer",
+            "affect",
+            "point out",
+            "decline"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in the environmental report to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S04-Q01",
+          "stageId": "EN-L11-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “efficient” in the school research paper to express the idea of 효율적인.",
+          "choices": [
+            "benefit",
+            "resource",
+            "respectful",
+            "efficient"
+          ],
+          "correctAnswer": "efficient",
+          "explanation": "문맥에서 efficient은 ‘효율적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "efficient",
+            "efficient"
+          ],
+          "exampleSentence": "The writer uses “efficient” in the school research paper to express the idea of 효율적인.",
+          "koreanMeaning": "문맥에서 efficient은 ‘효율적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S04-Q02",
+          "stageId": "EN-L11-C15-S04",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “perspective” in the school research paper to express the idea of 관점.",
+          "choices": [
+            "adapt",
+            "set",
+            "perspective",
+            "interpret"
+          ],
+          "correctAnswer": "perspective",
+          "explanation": "문맥에서 perspective은 ‘관점’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "perspective",
+            "perspective"
+          ],
+          "exampleSentence": "The writer uses “perspective” in the school research paper to express the idea of 관점.",
+          "koreanMeaning": "문맥에서 perspective은 ‘관점’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S04-Q03",
+          "stageId": "EN-L11-C15-S04",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “variable” in the school research paper to express the idea of 변인.",
+          "choices": [
+            "predict",
+            "variable",
+            "economic",
+            "address"
+          ],
+          "correctAnswer": "variable",
+          "explanation": "문맥에서 variable은 ‘변인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "variable",
+            "variable"
+          ],
+          "exampleSentence": "The writer uses “variable” in the school research paper to express the idea of 변인.",
+          "koreanMeaning": "문맥에서 variable은 ‘변인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S04-Q04",
+          "stageId": "EN-L11-C15-S04",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” in the school research paper to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "conduct",
+            "disagree",
+            "development"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in the school research paper to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S04-Q05",
+          "stageId": "EN-L11-C15-S04",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “approach” in the school research paper to express the idea of 접근법.",
+          "choices": [
+            "international",
+            "carefully",
+            "reach a conclusion",
+            "approach"
+          ],
+          "correctAnswer": "approach",
+          "explanation": "문맥에서 approach은 ‘접근법’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "approach",
+            "approach"
+          ],
+          "exampleSentence": "The writer uses “approach” in the school research paper to express the idea of 접근법.",
+          "koreanMeaning": "문맥에서 approach은 ‘접근법’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S04-Q06",
+          "stageId": "EN-L11-C15-S04",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preview” in the school research paper to express the idea of 미리 보기.",
+          "choices": [
+            "solve a problem",
+            "positive effect",
+            "preview",
+            "responsibility"
+          ],
+          "correctAnswer": "preview",
+          "explanation": "문맥에서 preview은 ‘미리 보기’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preview",
+            "preview"
+          ],
+          "exampleSentence": "The writer uses “preview” in the school research paper to express the idea of 미리 보기.",
+          "koreanMeaning": "문맥에서 preview은 ‘미리 보기’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S05-Q01",
+          "stageId": "EN-L11-C15-S05",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in the environmental report to express the idea of 다루다.",
+          "choices": [
+            "temporary",
+            "sustain",
+            "maintain",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in the environmental report to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S05-Q02",
+          "stageId": "EN-L11-C15-S05",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "choices": [
+            "indicate",
+            "relevant",
+            "accept",
+            "motivate"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S05-Q03",
+          "stageId": "EN-L11-C15-S05",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” in the environmental report to express the idea of 평가하다.",
+          "choices": [
+            "evidence",
+            "evaluate",
+            "require",
+            "frequent"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” in the environmental report to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S05-Q04",
+          "stageId": "EN-L11-C15-S05",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “assess” while reviewing the social survey to express the idea of 평가하다.",
+          "choices": [
+            "assess",
+            "generally",
+            "factor",
+            "society"
+          ],
+          "correctAnswer": "assess",
+          "explanation": "문맥에서 assess은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "assess",
+            "assess"
+          ],
+          "exampleSentence": "The writer uses “assess” while reviewing the social survey to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 assess은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S05-Q05",
+          "stageId": "EN-L11-C15-S05",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “efficient” while reviewing the social survey to express the idea of 효율적인.",
+          "choices": [
+            "benefit",
+            "resource",
+            "respectful",
+            "efficient"
+          ],
+          "correctAnswer": "efficient",
+          "explanation": "문맥에서 efficient은 ‘효율적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "efficient",
+            "efficient"
+          ],
+          "exampleSentence": "The writer uses “efficient” while reviewing the social survey to express the idea of 효율적인.",
+          "koreanMeaning": "문맥에서 efficient은 ‘효율적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S05-Q06",
+          "stageId": "EN-L11-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “perspective” while reviewing the social survey to express the idea of 관점.",
+          "choices": [
+            "adapt",
+            "set",
+            "perspective",
+            "interpret"
+          ],
+          "correctAnswer": "perspective",
+          "explanation": "문맥에서 perspective은 ‘관점’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "perspective",
+            "perspective"
+          ],
+          "exampleSentence": "The writer uses “perspective” while reviewing the social survey to express the idea of 관점.",
+          "koreanMeaning": "문맥에서 perspective은 ‘관점’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S06-Q01",
+          "stageId": "EN-L11-C15-S06",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rewrite” while analyzing the new evidence to express the idea of 다시 쓰다.",
+          "choices": [
+            "decision",
+            "gain experience",
+            "environmental issue",
+            "rewrite"
+          ],
+          "correctAnswer": "rewrite",
+          "explanation": "문맥에서 rewrite은 ‘다시 쓰다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rewrite",
+            "rewrite"
+          ],
+          "exampleSentence": "The writer uses “rewrite” while analyzing the new evidence to express the idea of 다시 쓰다.",
+          "koreanMeaning": "문맥에서 rewrite은 ‘다시 쓰다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S06-Q02",
+          "stageId": "EN-L11-C15-S06",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” while analyzing the new evidence to express the idea of 효과적인.",
+          "choices": [
+            "strong evidence",
+            "contribute to",
+            "effective",
+            "take action"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” while analyzing the new evidence to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S06-Q03",
+          "stageId": "EN-L11-C15-S06",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “raise awareness” while analyzing the new evidence to express the idea of 인식을 높이다.",
+          "choices": [
+            "increase",
+            "raise awareness",
+            "serious problem",
+            "find out"
+          ],
+          "correctAnswer": "raise awareness",
+          "explanation": "문맥에서 raise awareness은 ‘인식을 높이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "raise awareness",
+            "raise awareness"
+          ],
+          "exampleSentence": "The writer uses “raise awareness” while analyzing the new evidence to express the idea of 인식을 높이다.",
+          "koreanMeaning": "문맥에서 raise awareness은 ‘인식을 높이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S06-Q04",
+          "stageId": "EN-L11-C15-S06",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “social pressure” while analyzing the new evidence to express the idea of 사회적 압력.",
+          "choices": [
+            "social pressure",
+            "lead to",
+            "beneficial",
+            "imply"
+          ],
+          "correctAnswer": "social pressure",
+          "explanation": "문맥에서 social pressure은 ‘사회적 압력’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "social pressure",
+            "social pressure"
+          ],
+          "exampleSentence": "The writer uses “social pressure” while analyzing the new evidence to express the idea of 사회적 압력.",
+          "koreanMeaning": "문맥에서 social pressure은 ‘사회적 압력’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S06-Q05",
+          "stageId": "EN-L11-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” while analyzing the new evidence to express the idea of 다루다.",
+          "choices": [
+            "temporary",
+            "sustain",
+            "maintain",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” while analyzing the new evidence to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S06-Q06",
+          "stageId": "EN-L11-C15-S06",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "choices": [
+            "indicate",
+            "relevant",
+            "accept",
+            "motivate"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S07-Q01",
+          "stageId": "EN-L11-C15-S07",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “principle” while reviewing the social survey to express the idea of 원리.",
+          "choices": [
+            "environment",
+            "economical",
+            "reflect",
+            "principle"
+          ],
+          "correctAnswer": "principle",
+          "explanation": "문맥에서 principle은 ‘원리’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "principle",
+            "principle"
+          ],
+          "exampleSentence": "The writer uses “principle” while reviewing the social survey to express the idea of 원리.",
+          "koreanMeaning": "문맥에서 principle은 ‘원리’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S07-Q02",
+          "stageId": "EN-L11-C15-S07",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “cognition” while reviewing the social survey to express the idea of 인지.",
+          "choices": [
+            "figure",
+            "impossible",
+            "cognition",
+            "affective"
+          ],
+          "correctAnswer": "cognition",
+          "explanation": "문맥에서 cognition은 ‘인지’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cognition",
+            "cognition"
+          ],
+          "exampleSentence": "The writer uses “cognition” while reviewing the social survey to express the idea of 인지.",
+          "koreanMeaning": "문맥에서 cognition은 ‘인지’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S07-Q03",
+          "stageId": "EN-L11-C15-S07",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” while reviewing the social survey to express the idea of 각각의.",
+          "choices": [
+            "creative",
+            "respective",
+            "account",
+            "submarine"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” while reviewing the social survey to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S07-Q04",
+          "stageId": "EN-L11-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “issue” in a study about human behavior to express the idea of 문제.",
+          "choices": [
+            "issue",
+            "misunderstand",
+            "scientific",
+            "meet a need"
+          ],
+          "correctAnswer": "issue",
+          "explanation": "문맥에서 issue은 ‘문제’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "issue",
+            "issue"
+          ],
+          "exampleSentence": "The writer uses “issue” in a study about human behavior to express the idea of 문제.",
+          "koreanMeaning": "문맥에서 issue은 ‘문제’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S07-Q05",
+          "stageId": "EN-L11-C15-S07",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rewrite” in a study about human behavior to express the idea of 다시 쓰다.",
+          "choices": [
+            "decision",
+            "gain experience",
+            "environmental issue",
+            "rewrite"
+          ],
+          "correctAnswer": "rewrite",
+          "explanation": "문맥에서 rewrite은 ‘다시 쓰다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rewrite",
+            "rewrite"
+          ],
+          "exampleSentence": "The writer uses “rewrite” in a study about human behavior to express the idea of 다시 쓰다.",
+          "koreanMeaning": "문맥에서 rewrite은 ‘다시 쓰다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S07-Q06",
+          "stageId": "EN-L11-C15-S07",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” in a study about human behavior to express the idea of 효과적인.",
+          "choices": [
+            "strong evidence",
+            "contribute to",
+            "effective",
+            "take action"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in a study about human behavior to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S08-Q01",
+          "stageId": "EN-L11-C15-S08",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "infer",
+            "affect",
+            "potential",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S08-Q02",
+          "stageId": "EN-L11-C15-S08",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "significant",
+            "context",
+            "emerge",
+            "enhance"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “emerge” in a recent class discussion to express the idea of 나타나다.",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in a recent class discussion to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S08-Q03",
+          "stageId": "EN-L11-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "analyze",
+            "reduce",
+            "gradual",
+            "consequence"
+          ],
+          "correctAnswer": "reduce",
+          "explanation": "문맥에서 reduce은 ‘줄이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “reduce” in a recent class discussion to express the idea of 줄이다.",
+          "acceptedAnswers": [
+            "reduce",
+            "reduce"
+          ],
+          "exampleSentence": "The writer uses “reduce” in a recent class discussion to express the idea of 줄이다.",
+          "koreanMeaning": "문맥에서 reduce은 ‘줄이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S08-Q04",
+          "stageId": "EN-L11-C15-S08",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "accurate",
+            "tendency",
+            "hypothesis",
+            "adopt"
+          ],
+          "correctAnswer": "accurate",
+          "explanation": "문맥에서 accurate은 ‘정확한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “accurate” in a recent class discussion to express the idea of 정확한.",
+          "acceptedAnswers": [
+            "accurate",
+            "accurate"
+          ],
+          "exampleSentence": "The writer uses “accurate” in a recent class discussion to express the idea of 정확한.",
+          "koreanMeaning": "문맥에서 accurate은 ‘정확한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S08-Q05",
+          "stageId": "EN-L11-C15-S08",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "environment",
+            "economical",
+            "reflect",
+            "principle"
+          ],
+          "correctAnswer": "principle",
+          "explanation": "문맥에서 principle은 ‘원리’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “principle” in a recent class discussion to express the idea of 원리.",
+          "acceptedAnswers": [
+            "principle",
+            "principle"
+          ],
+          "exampleSentence": "The writer uses “principle” in a recent class discussion to express the idea of 원리.",
+          "koreanMeaning": "문맥에서 principle은 ‘원리’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S08-Q06",
+          "stageId": "EN-L11-C15-S08",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "figure",
+            "impossible",
+            "cognition",
+            "affective"
+          ],
+          "correctAnswer": "cognition",
+          "explanation": "문맥에서 cognition은 ‘인지’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “cognition” in a recent class discussion to express the idea of 인지.",
+          "acceptedAnswers": [
+            "cognition",
+            "cognition"
+          ],
+          "exampleSentence": "The writer uses “cognition” in a recent class discussion to express the idea of 인지.",
+          "koreanMeaning": "문맥에서 cognition은 ‘인지’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S09-Q01",
+          "stageId": "EN-L11-C15-S09",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “responsibility” in a study about human behavior to express the idea of 책임.",
+          "choices": [
+            "solve a problem",
+            "positive effect",
+            "point out",
+            "responsibility"
+          ],
+          "correctAnswer": "responsibility",
+          "explanation": "문맥에서 responsibility은 ‘책임’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "responsibility",
+            "responsibility"
+          ],
+          "exampleSentence": "The writer uses “responsibility” in a study about human behavior to express the idea of 책임.",
+          "koreanMeaning": "문맥에서 responsibility은 ‘책임’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S09-Q02",
+          "stageId": "EN-L11-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “draw attention” in a study about human behavior to express the idea of 관심을 끌다.",
+          "choices": [
+            "result in",
+            "harmful",
+            "draw attention",
+            "scientific method"
+          ],
+          "correctAnswer": "draw attention",
+          "explanation": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "draw attention",
+            "draw attention"
+          ],
+          "exampleSentence": "The writer uses “draw attention” in a study about human behavior to express the idea of 관심을 끌다.",
+          "koreanMeaning": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S09-Q03",
+          "stageId": "EN-L11-C15-S09",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “practical solution” in a study about human behavior to express the idea of 실용적 해결책.",
+          "choices": [
+            "consume",
+            "practical solution",
+            "rely on",
+            "permanent"
+          ],
+          "correctAnswer": "practical solution",
+          "explanation": "문맥에서 practical solution은 ‘실용적 해결책’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "practical solution",
+            "practical solution"
+          ],
+          "exampleSentence": "The writer uses “practical solution” in a study about human behavior to express the idea of 실용적 해결책.",
+          "koreanMeaning": "문맥에서 practical solution은 ‘실용적 해결책’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S09-Q04",
+          "stageId": "EN-L11-C15-S09",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” during the community meeting to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "reject",
+            "preserve",
+            "establish"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” during the community meeting to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S09-Q05",
+          "stageId": "EN-L11-C15-S09",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” during the community meeting to express the idea of 감소하다.",
+          "choices": [
+            "infer",
+            "affect",
+            "potential",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” during the community meeting to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S09-Q06",
+          "stageId": "EN-L11-C15-S09",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "choices": [
+            "significant",
+            "context",
+            "emerge",
+            "enhance"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S10-Q01",
+          "stageId": "EN-L11-C15-S10",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “interpret” during the science project to express the idea of 해석하다.",
+          "choices": [
+            "adapt",
+            "set",
+            "preview",
+            "interpret"
+          ],
+          "correctAnswer": "interpret",
+          "explanation": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "interpret",
+            "interpret"
+          ],
+          "exampleSentence": "The writer uses “interpret” during the science project to express the idea of 해석하다.",
+          "koreanMeaning": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S10-Q02",
+          "stageId": "EN-L11-C15-S10",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” during the science project to express the idea of 경제의.",
+          "choices": [
+            "predict",
+            "improvement",
+            "economic",
+            "address"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” during the science project to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S10-Q03",
+          "stageId": "EN-L11-C15-S10",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “conduct” during the science project to express the idea of 수행하다.",
+          "choices": [
+            "make a decision",
+            "conduct",
+            "disagree",
+            "development"
+          ],
+          "correctAnswer": "conduct",
+          "explanation": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "conduct",
+            "conduct"
+          ],
+          "exampleSentence": "The writer uses “conduct” during the science project to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S10-Q04",
+          "stageId": "EN-L11-C15-S10",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “international” during the science project to express the idea of 국제적인.",
+          "choices": [
+            "international",
+            "carefully",
+            "reach a conclusion",
+            "major factor"
+          ],
+          "correctAnswer": "international",
+          "explanation": "문맥에서 international은 ‘국제적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "international",
+            "international"
+          ],
+          "exampleSentence": "The writer uses “international” during the science project to express the idea of 국제적인.",
+          "koreanMeaning": "문맥에서 international은 ‘국제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S10-Q05",
+          "stageId": "EN-L11-C15-S10",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “responsibility” during the science project to express the idea of 책임.",
+          "choices": [
+            "solve a problem",
+            "positive effect",
+            "point out",
+            "responsibility"
+          ],
+          "correctAnswer": "responsibility",
+          "explanation": "문맥에서 responsibility은 ‘책임’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "responsibility",
+            "responsibility"
+          ],
+          "exampleSentence": "The writer uses “responsibility” during the science project to express the idea of 책임.",
+          "koreanMeaning": "문맥에서 responsibility은 ‘책임’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S10-Q06",
+          "stageId": "EN-L11-C15-S10",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “draw attention” during the science project to express the idea of 관심을 끌다.",
+          "choices": [
+            "result in",
+            "harmful",
+            "draw attention",
+            "scientific method"
+          ],
+          "correctAnswer": "draw attention",
+          "explanation": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "draw attention",
+            "draw attention"
+          ],
+          "exampleSentence": "The writer uses “draw attention” during the science project to express the idea of 관심을 끌다.",
+          "koreanMeaning": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S11-Q01",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "choices": [
+            "indicate",
+            "relevant",
+            "perspective",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q02",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “require” during the community meeting to express the idea of 요구하다.",
+          "choices": [
+            "evidence",
+            "variable",
+            "require",
+            "frequent"
+          ],
+          "correctAnswer": "require",
+          "explanation": "문맥에서 require은 ‘요구하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "require",
+            "require"
+          ],
+          "exampleSentence": "The writer uses “require” during the community meeting to express the idea of 요구하다.",
+          "koreanMeaning": "문맥에서 require은 ‘요구하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q03",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “generally” during the community meeting to express the idea of 일반적으로.",
+          "choices": [
+            "effective",
+            "generally",
+            "factor",
+            "society"
+          ],
+          "correctAnswer": "generally",
+          "explanation": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "generally",
+            "generally"
+          ],
+          "exampleSentence": "The writer uses “generally” during the community meeting to express the idea of 일반적으로.",
+          "koreanMeaning": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q04",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “benefit” in the school research paper to express the idea of 이점.",
+          "choices": [
+            "benefit",
+            "resource",
+            "respectful",
+            "approach"
+          ],
+          "correctAnswer": "benefit",
+          "explanation": "문맥에서 benefit은 ‘이점’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "benefit",
+            "benefit"
+          ],
+          "exampleSentence": "The writer uses “benefit” in the school research paper to express the idea of 이점.",
+          "koreanMeaning": "문맥에서 benefit은 ‘이점’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q05",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “interpret” in the school research paper to express the idea of 해석하다.",
+          "choices": [
+            "adapt",
+            "set",
+            "preview",
+            "interpret"
+          ],
+          "correctAnswer": "interpret",
+          "explanation": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "interpret",
+            "interpret"
+          ],
+          "exampleSentence": "The writer uses “interpret” in the school research paper to express the idea of 해석하다.",
+          "koreanMeaning": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q06",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "choices": [
+            "predict",
+            "improvement",
+            "economic",
+            "address"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q07",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “conduct” in the school research paper to express the idea of 수행하다.",
+          "choices": [
+            "make a decision",
+            "conduct",
+            "disagree",
+            "development"
+          ],
+          "correctAnswer": "conduct",
+          "explanation": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "conduct",
+            "conduct"
+          ],
+          "exampleSentence": "The writer uses “conduct” in the school research paper to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q08",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “international” in the school research paper to express the idea of 국제적인.",
+          "choices": [
+            "international",
+            "carefully",
+            "reach a conclusion",
+            "major factor"
+          ],
+          "correctAnswer": "international",
+          "explanation": "문맥에서 international은 ‘국제적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "international",
+            "international"
+          ],
+          "exampleSentence": "The writer uses “international” in the school research paper to express the idea of 국제적인.",
+          "koreanMeaning": "문맥에서 international은 ‘국제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q09",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “responsibility” in the school research paper to express the idea of 책임.",
+          "choices": [
+            "solve a problem",
+            "positive effect",
+            "point out",
+            "responsibility"
+          ],
+          "correctAnswer": "responsibility",
+          "explanation": "문맥에서 responsibility은 ‘책임’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "responsibility",
+            "responsibility"
+          ],
+          "exampleSentence": "The writer uses “responsibility” in the school research paper to express the idea of 책임.",
+          "koreanMeaning": "문맥에서 responsibility은 ‘책임’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S11-Q10",
+          "stageId": "EN-L11-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 누적 어휘·구문 복습 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “draw attention” in the school research paper to express the idea of 관심을 끌다.",
+          "choices": [
+            "result in",
+            "harmful",
+            "draw attention",
+            "scientific method"
+          ],
+          "correctAnswer": "draw attention",
+          "explanation": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "draw attention",
+            "draw attention"
+          ],
+          "exampleSentence": "The writer uses “draw attention” in the school research paper to express the idea of 관심을 끌다.",
+          "koreanMeaning": "문맥에서 draw attention은 ‘관심을 끌다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S12-Q01",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “take action” in the environmental report to express the idea of 조치를 취하다.",
+          "choices": [
+            "strong evidence",
+            "contribute to",
+            "accept",
+            "take action"
+          ],
+          "correctAnswer": "take action",
+          "explanation": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "take action",
+            "take action"
+          ],
+          "exampleSentence": "The writer uses “take action” in the environmental report to express the idea of 조치를 취하다.",
+          "koreanMeaning": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q02",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “serious problem” in the environmental report to express the idea of 심각한 문제.",
+          "choices": [
+            "increase",
+            "evaluate",
+            "serious problem",
+            "find out"
+          ],
+          "correctAnswer": "serious problem",
+          "explanation": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "serious problem",
+            "serious problem"
+          ],
+          "exampleSentence": "The writer uses “serious problem” in the environmental report to express the idea of 심각한 문제.",
+          "koreanMeaning": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q03",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” in the environmental report to express the idea of 이어지다.",
+          "choices": [
+            "assess",
+            "lead to",
+            "beneficial",
+            "imply"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” in the environmental report to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q04",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” in the environmental report to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "sustain",
+            "maintain",
+            "efficient"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” in the environmental report to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q05",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "choices": [
+            "indicate",
+            "relevant",
+            "perspective",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q06",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “require” in the environmental report to express the idea of 요구하다.",
+          "choices": [
+            "evidence",
+            "variable",
+            "require",
+            "frequent"
+          ],
+          "correctAnswer": "require",
+          "explanation": "문맥에서 require은 ‘요구하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "require",
+            "require"
+          ],
+          "exampleSentence": "The writer uses “require” in the environmental report to express the idea of 요구하다.",
+          "koreanMeaning": "문맥에서 require은 ‘요구하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q07",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “generally” in the environmental report to express the idea of 일반적으로.",
+          "choices": [
+            "effective",
+            "generally",
+            "factor",
+            "society"
+          ],
+          "correctAnswer": "generally",
+          "explanation": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "generally",
+            "generally"
+          ],
+          "exampleSentence": "The writer uses “generally” in the environmental report to express the idea of 일반적으로.",
+          "koreanMeaning": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q08",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “benefit” while reviewing the social survey to express the idea of 이점.",
+          "choices": [
+            "benefit",
+            "resource",
+            "respectful",
+            "approach"
+          ],
+          "correctAnswer": "benefit",
+          "explanation": "문맥에서 benefit은 ‘이점’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "benefit",
+            "benefit"
+          ],
+          "exampleSentence": "The writer uses “benefit” while reviewing the social survey to express the idea of 이점.",
+          "koreanMeaning": "문맥에서 benefit은 ‘이점’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q09",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “interpret” while reviewing the social survey to express the idea of 해석하다.",
+          "choices": [
+            "adapt",
+            "set",
+            "preview",
+            "interpret"
+          ],
+          "correctAnswer": "interpret",
+          "explanation": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "interpret",
+            "interpret"
+          ],
+          "exampleSentence": "The writer uses “interpret” while reviewing the social survey to express the idea of 해석하다.",
+          "koreanMeaning": "문맥에서 interpret은 ‘해석하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q10",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” while reviewing the social survey to express the idea of 경제의.",
+          "choices": [
+            "predict",
+            "improvement",
+            "economic",
+            "address"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” while reviewing the social survey to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q11",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “conduct” while reviewing the social survey to express the idea of 수행하다.",
+          "choices": [
+            "make a decision",
+            "conduct",
+            "disagree",
+            "development"
+          ],
+          "correctAnswer": "conduct",
+          "explanation": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "conduct",
+            "conduct"
+          ],
+          "exampleSentence": "The writer uses “conduct” while reviewing the social survey to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 conduct은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S12-Q12",
+          "stageId": "EN-L11-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어휘 보스 테스트: 시간 제한 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “international” while reviewing the social survey to express the idea of 국제적인.",
+          "choices": [
+            "international",
+            "carefully",
+            "reach a conclusion",
+            "major factor"
+          ],
+          "correctAnswer": "international",
+          "explanation": "문맥에서 international은 ‘국제적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "international",
+            "international"
+          ],
+          "exampleSentence": "The writer uses “international” while reviewing the social survey to express the idea of 국제적인.",
+          "koreanMeaning": "문맥에서 international은 ‘국제적인’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S13-Q01",
+          "stageId": "EN-L11-C15-S13",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "choices": [
+            "figure",
+            "impossible",
+            "effective",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S13-Q02",
+          "stageId": "EN-L11-C15-S13",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “account” in the school research paper to express the idea of 설명.",
+          "choices": [
+            "creative",
+            "raise awareness",
+            "account",
+            "submarine"
+          ],
+          "correctAnswer": "account",
+          "explanation": "문맥에서 account은 ‘설명’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "account",
+            "account"
+          ],
+          "exampleSentence": "The writer uses “account” in the school research paper to express the idea of 설명.",
+          "koreanMeaning": "문맥에서 account은 ‘설명’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S13-Q03",
+          "stageId": "EN-L11-C15-S13",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “misunderstand” in the school research paper to express the idea of 오해하다.",
+          "choices": [
+            "social pressure",
+            "misunderstand",
+            "scientific",
+            "meet a need"
+          ],
+          "correctAnswer": "misunderstand",
+          "explanation": "문맥에서 misunderstand은 ‘오해하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "misunderstand",
+            "misunderstand"
+          ],
+          "exampleSentence": "The writer uses “misunderstand” in the school research paper to express the idea of 오해하다.",
+          "koreanMeaning": "문맥에서 misunderstand은 ‘오해하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S13-Q04",
+          "stageId": "EN-L11-C15-S13",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decision” while analyzing the new evidence to express the idea of 결정.",
+          "choices": [
+            "decision",
+            "gain experience",
+            "environmental issue",
+            "deal with"
+          ],
+          "correctAnswer": "decision",
+          "explanation": "문맥에서 decision은 ‘결정’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decision",
+            "decision"
+          ],
+          "exampleSentence": "The writer uses “decision” while analyzing the new evidence to express the idea of 결정.",
+          "koreanMeaning": "문맥에서 decision은 ‘결정’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S13-Q05",
+          "stageId": "EN-L11-C15-S13",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “take action” while analyzing the new evidence to express the idea of 조치를 취하다.",
+          "choices": [
+            "strong evidence",
+            "contribute to",
+            "accept",
+            "take action"
+          ],
+          "correctAnswer": "take action",
+          "explanation": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "take action",
+            "take action"
+          ],
+          "exampleSentence": "The writer uses “take action” while analyzing the new evidence to express the idea of 조치를 취하다.",
+          "koreanMeaning": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S13-Q06",
+          "stageId": "EN-L11-C15-S13",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 고난도 지문 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “serious problem” while analyzing the new evidence to express the idea of 심각한 문제.",
+          "choices": [
+            "increase",
+            "evaluate",
+            "serious problem",
+            "find out"
+          ],
+          "correctAnswer": "serious problem",
+          "explanation": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "serious problem",
+            "serious problem"
+          ],
+          "exampleSentence": "The writer uses “serious problem” while analyzing the new evidence to express the idea of 심각한 문제.",
+          "koreanMeaning": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S14",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S14-Q01",
+          "stageId": "EN-L11-C15-S14",
+          "type": "collocation",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “enhance” while reviewing the social survey to express the idea of 향상하다.",
+          "choices": [
+            "significant",
+            "context",
+            "cognition",
+            "enhance"
+          ],
+          "correctAnswer": "enhance",
+          "explanation": "문맥에서 enhance은 ‘향상하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "enhance",
+            "enhance"
+          ],
+          "exampleSentence": "The writer uses “enhance” while reviewing the social survey to express the idea of 향상하다.",
+          "koreanMeaning": "문맥에서 enhance은 ‘향상하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S14-Q02",
+          "stageId": "EN-L11-C15-S14",
+          "type": "phrasalVerb",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “gradual” while reviewing the social survey to express the idea of 점진적인.",
+          "choices": [
+            "analyze",
+            "respective",
+            "gradual",
+            "consequence"
+          ],
+          "correctAnswer": "gradual",
+          "explanation": "문맥에서 gradual은 ‘점진적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gradual",
+            "gradual"
+          ],
+          "exampleSentence": "The writer uses “gradual” while reviewing the social survey to express the idea of 점진적인.",
+          "koreanMeaning": "문맥에서 gradual은 ‘점진적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S14-Q03",
+          "stageId": "EN-L11-C15-S14",
+          "type": "multipleChoice",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “tendency” while reviewing the social survey to express the idea of 경향.",
+          "choices": [
+            "issue",
+            "tendency",
+            "hypothesis",
+            "adopt"
+          ],
+          "correctAnswer": "tendency",
+          "explanation": "문맥에서 tendency은 ‘경향’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tendency",
+            "tendency"
+          ],
+          "exampleSentence": "The writer uses “tendency” while reviewing the social survey to express the idea of 경향.",
+          "koreanMeaning": "문맥에서 tendency은 ‘경향’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S14-Q04",
+          "stageId": "EN-L11-C15-S14",
+          "type": "vocabularyInContext",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “environment” while reviewing the social survey to express the idea of 환경.",
+          "choices": [
+            "environment",
+            "economical",
+            "reflect",
+            "rewrite"
+          ],
+          "correctAnswer": "environment",
+          "explanation": "문맥에서 environment은 ‘환경’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "environment",
+            "environment"
+          ],
+          "exampleSentence": "The writer uses “environment” while reviewing the social survey to express the idea of 환경.",
+          "koreanMeaning": "문맥에서 environment은 ‘환경’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S14-Q05",
+          "stageId": "EN-L11-C15-S14",
+          "type": "derivation",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” while reviewing the social survey to express the idea of 정서적인.",
+          "choices": [
+            "figure",
+            "impossible",
+            "effective",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” while reviewing the social survey to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S14-Q06",
+          "stageId": "EN-L11-C15-S14",
+          "type": "synonymAntonym",
+          "prompt": "수능 어휘 보스 테스트: 실전 세트 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “account” while reviewing the social survey to express the idea of 설명.",
+          "choices": [
+            "creative",
+            "raise awareness",
+            "account",
+            "submarine"
+          ],
+          "correctAnswer": "account",
+          "explanation": "문맥에서 account은 ‘설명’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "account",
+            "account"
+          ],
+          "exampleSentence": "The writer uses “account” while reviewing the social survey to express the idea of 설명.",
+          "koreanMeaning": "문맥에서 account은 ‘설명’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C15-S15",
+      "questions": [
+        {
+          "questionId": "EN-L11-C15-S15-Q01",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “scientific method” while analyzing the new evidence to express the idea of 과학적 방법.",
+          "choices": [
+            "result in",
+            "harmful",
+            "emerge",
+            "scientific method"
+          ],
+          "correctAnswer": "scientific method",
+          "explanation": "문맥에서 scientific method은 ‘과학적 방법’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "scientific method",
+            "scientific method"
+          ],
+          "exampleSentence": "The writer uses “scientific method” while analyzing the new evidence to express the idea of 과학적 방법.",
+          "koreanMeaning": "문맥에서 scientific method은 ‘과학적 방법’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q02",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” while analyzing the new evidence to express the idea of 의존하다.",
+          "choices": [
+            "consume",
+            "reduce",
+            "rely on",
+            "permanent"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” while analyzing the new evidence to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q03",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” while analyzing the new evidence to express the idea of 거부하다.",
+          "choices": [
+            "accurate",
+            "reject",
+            "preserve",
+            "establish"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” while analyzing the new evidence to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q04",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” in a recent class discussion to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "affect",
+            "potential",
+            "principle"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” in a recent class discussion to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q05",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “enhance” in a recent class discussion to express the idea of 향상하다.",
+          "choices": [
+            "significant",
+            "context",
+            "cognition",
+            "enhance"
+          ],
+          "correctAnswer": "enhance",
+          "explanation": "문맥에서 enhance은 ‘향상하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "enhance",
+            "enhance"
+          ],
+          "exampleSentence": "The writer uses “enhance” in a recent class discussion to express the idea of 향상하다.",
+          "koreanMeaning": "문맥에서 enhance은 ‘향상하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q06",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “gradual” in a recent class discussion to express the idea of 점진적인.",
+          "choices": [
+            "analyze",
+            "respective",
+            "gradual",
+            "consequence"
+          ],
+          "correctAnswer": "gradual",
+          "explanation": "문맥에서 gradual은 ‘점진적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gradual",
+            "gradual"
+          ],
+          "exampleSentence": "The writer uses “gradual” in a recent class discussion to express the idea of 점진적인.",
+          "koreanMeaning": "문맥에서 gradual은 ‘점진적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q07",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “tendency” in a recent class discussion to express the idea of 경향.",
+          "choices": [
+            "issue",
+            "tendency",
+            "hypothesis",
+            "adopt"
+          ],
+          "correctAnswer": "tendency",
+          "explanation": "문맥에서 tendency은 ‘경향’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tendency",
+            "tendency"
+          ],
+          "exampleSentence": "The writer uses “tendency” in a recent class discussion to express the idea of 경향.",
+          "koreanMeaning": "문맥에서 tendency은 ‘경향’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q08",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “environment” in a recent class discussion to express the idea of 환경.",
+          "choices": [
+            "environment",
+            "economical",
+            "reflect",
+            "rewrite"
+          ],
+          "correctAnswer": "environment",
+          "explanation": "문맥에서 environment은 ‘환경’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "학술 기본 어휘",
+          "vocabularyTopic": "학술 기본 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "environment",
+            "environment"
+          ],
+          "exampleSentence": "The writer uses “environment” in a recent class discussion to express the idea of 환경.",
+          "koreanMeaning": "문맥에서 environment은 ‘환경’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q09",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in a recent class discussion to express the idea of 정서적인.",
+          "choices": [
+            "figure",
+            "impossible",
+            "effective",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in a recent class discussion to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q10",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “account” in a recent class discussion to express the idea of 설명.",
+          "choices": [
+            "creative",
+            "raise awareness",
+            "account",
+            "submarine"
+          ],
+          "correctAnswer": "account",
+          "explanation": "문맥에서 account은 ‘설명’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "다의어 문맥 판별",
+          "vocabularyTopic": "다의어 문맥 판별",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "account",
+            "account"
+          ],
+          "exampleSentence": "The writer uses “account” in a recent class discussion to express the idea of 설명.",
+          "koreanMeaning": "문맥에서 account은 ‘설명’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q11",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “misunderstand” in a recent class discussion to express the idea of 오해하다.",
+          "choices": [
+            "social pressure",
+            "misunderstand",
+            "scientific",
+            "meet a need"
+          ],
+          "correctAnswer": "misunderstand",
+          "explanation": "문맥에서 misunderstand은 ‘오해하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "접두사와 어근",
+          "vocabularyTopic": "접두사와 어근",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "misunderstand",
+            "misunderstand"
+          ],
+          "exampleSentence": "The writer uses “misunderstand” in a recent class discussion to express the idea of 오해하다.",
+          "koreanMeaning": "문맥에서 misunderstand은 ‘오해하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q12",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decision” during the science project to express the idea of 결정.",
+          "choices": [
+            "decision",
+            "gain experience",
+            "environmental issue",
+            "deal with"
+          ],
+          "correctAnswer": "decision",
+          "explanation": "문맥에서 decision은 ‘결정’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "접미사와 품사 전환",
+          "vocabularyTopic": "접미사와 품사 전환",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decision",
+            "decision"
+          ],
+          "exampleSentence": "The writer uses “decision” during the science project to express the idea of 결정.",
+          "koreanMeaning": "문맥에서 decision은 ‘결정’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q13",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 13번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “take action” during the science project to express the idea of 조치를 취하다.",
+          "choices": [
+            "strong evidence",
+            "contribute to",
+            "accept",
+            "take action"
+          ],
+          "correctAnswer": "take action",
+          "explanation": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "동사 결합과 연어",
+          "vocabularyTopic": "동사 결합과 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "take action",
+            "take action"
+          ],
+          "exampleSentence": "The writer uses “take action” during the science project to express the idea of 조치를 취하다.",
+          "koreanMeaning": "문맥에서 take action은 ‘조치를 취하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q14",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 14번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “serious problem” during the science project to express the idea of 심각한 문제.",
+          "choices": [
+            "increase",
+            "evaluate",
+            "serious problem",
+            "find out"
+          ],
+          "correctAnswer": "serious problem",
+          "explanation": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "형용사 명사 연어",
+          "vocabularyTopic": "형용사 명사 연어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "serious problem",
+            "serious problem"
+          ],
+          "exampleSentence": "The writer uses “serious problem” during the science project to express the idea of 심각한 문제.",
+          "koreanMeaning": "문맥에서 serious problem은 ‘심각한 문제’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q15",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 15번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” during the science project to express the idea of 이어지다.",
+          "choices": [
+            "assess",
+            "lead to",
+            "beneficial",
+            "imply"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” during the science project to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q16",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 16번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” during the science project to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "sustain",
+            "maintain",
+            "efficient"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” during the science project to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q17",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 17번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "choices": [
+            "indicate",
+            "relevant",
+            "perspective",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q18",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 18번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “require” during the science project to express the idea of 요구하다.",
+          "choices": [
+            "evidence",
+            "variable",
+            "require",
+            "frequent"
+          ],
+          "correctAnswer": "require",
+          "explanation": "문맥에서 require은 ‘요구하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "빈출 동사와 파생어",
+          "vocabularyTopic": "빈출 동사와 파생어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "require",
+            "require"
+          ],
+          "exampleSentence": "The writer uses “require” during the science project to express the idea of 요구하다.",
+          "koreanMeaning": "문맥에서 require은 ‘요구하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q19",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 19번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “generally” during the science project to express the idea of 일반적으로.",
+          "choices": [
+            "effective",
+            "generally",
+            "factor",
+            "society"
+          ],
+          "correctAnswer": "generally",
+          "explanation": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "빈출 형용사와 부사",
+          "vocabularyTopic": "빈출 형용사와 부사",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "generally",
+            "generally"
+          ],
+          "exampleSentence": "The writer uses “generally” during the science project to express the idea of 일반적으로.",
+          "koreanMeaning": "문맥에서 generally은 ‘일반적으로’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C15-S15-Q20",
+          "stageId": "EN-L11-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어휘 보스 테스트: 레벨 보스 · 20번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “benefit” in the environmental report to express the idea of 이점.",
+          "choices": [
+            "benefit",
+            "resource",
+            "respectful",
+            "approach"
+          ],
+          "correctAnswer": "benefit",
+          "explanation": "문맥에서 benefit은 ‘이점’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "boss",
+          "grammarFocus": "추상 명사와 개념어",
+          "vocabularyTopic": "추상 명사와 개념어",
+          "sourceObjective": "수능 어휘 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "benefit",
+            "benefit"
+          ],
+          "exampleSentence": "The writer uses “benefit” in the environmental report to express the idea of 이점.",
+          "koreanMeaning": "문맥에서 benefit은 ‘이점’이라는 뜻이다."
+        }
+      ]
+    }
+  ]
+}

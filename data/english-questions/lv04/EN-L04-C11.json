@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L04",
+  "courseId": "EN-L04-C11",
+  "stages": [
+    {
+      "stageId": "EN-L04-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S01-Q01",
+          "stageId": "EN-L04-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 1번: ___ is my book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "These",
+            "Those",
+            "This"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S01-Q02",
+          "stageId": "EN-L04-C11-S01",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 2번: “That is your bag.”의 핵심 문법 표현이 ‘That’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 That이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S01-Q03",
+          "stageId": "EN-L04-C11-S01",
+          "type": "matching",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 3번: ___ are my shoes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Those",
+            "These",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S01-Q04",
+          "stageId": "EN-L04-C11-S01",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 4번: “Those are tall trees.”의 뜻을 고르세요.",
+          "choices": [
+            "저것들은 키 큰 나무들이다.",
+            "이것은 내 책이다.",
+            "저것은 네 가방이다.",
+            "이것들은 내 신발이다."
+          ],
+          "correctAnswer": "저것들은 키 큰 나무들이다.",
+          "explanation": "문장의 뜻은 ‘저것들은 키 큰 나무들이다.’입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "저것들은 키 큰 나무들이다."
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S01-Q05",
+          "stageId": "EN-L04-C11-S01",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 5번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "These",
+            "Those",
+            "This"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S01-Q06",
+          "stageId": "EN-L04-C11-S01",
+          "type": "ordering",
+          "prompt": "지시어 this that: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is a bus That.",
+            "That is a bus.",
+            "bus a is That."
+          ],
+          "correctAnswer": "That is a bus.",
+          "explanation": "바른 어순은 “That is a bus.”입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That is a bus.",
+            "That is a bus"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S02-Q01",
+          "stageId": "EN-L04-C11-S02",
+          "type": "matching",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 1번: ___ are tall trees. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 Those입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S02-Q02",
+          "stageId": "EN-L04-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 2번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S02-Q03",
+          "stageId": "EN-L04-C11-S02",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 3번: “That is a bus.”의 뜻을 고르세요.",
+          "choices": [
+            "이것들은 내 신발이다.",
+            "저것은 버스다.",
+            "이것은 내 책이다.",
+            "저것은 네 가방이다."
+          ],
+          "correctAnswer": "저것은 버스다.",
+          "explanation": "문장의 뜻은 ‘저것은 버스다.’입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "저것은 버스다."
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S02-Q04",
+          "stageId": "EN-L04-C11-S02",
+          "type": "fillBlank",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 4번: ___ are red pens. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "This",
+            "That",
+            "Those"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S02-Q05",
+          "stageId": "EN-L04-C11-S02",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 5번: ___ is my book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "These",
+            "Those",
+            "This"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S02-Q06",
+          "stageId": "EN-L04-C11-S02",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 생활 어휘 문맥 학습 · 6번: “That is your bag.”의 핵심 문법 표현이 ‘That’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 That이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S03-Q01",
+          "stageId": "EN-L04-C11-S03",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 문장 구조 발견 · 1번: ___ are red pens. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "Those",
+            "These"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S03-Q02",
+          "stageId": "EN-L04-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 문장 구조 발견 · 2번: ___ is my book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S03-Q03",
+          "stageId": "EN-L04-C11-S03",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 문장 구조 발견 · 3번: “That is your bag.”의 핵심 문법 표현이 ‘This’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 That이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S03-Q04",
+          "stageId": "EN-L04-C11-S03",
+          "type": "ordering",
+          "prompt": "지시어 this that: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "These are my shoes.",
+            "shoes my are These.",
+            "are my shoes These."
+          ],
+          "correctAnswer": "These are my shoes.",
+          "explanation": "바른 어순은 “These are my shoes.”입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These are my shoes.",
+            "These are my shoes"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S03-Q05",
+          "stageId": "EN-L04-C11-S03",
+          "type": "matching",
+          "prompt": "지시어 this that: 문장 구조 발견 · 5번: ___ are tall trees. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 Those입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S03-Q06",
+          "stageId": "EN-L04-C11-S03",
+          "type": "fillBlank",
+          "prompt": "지시어 this that: 문장 구조 발견 · 6번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S04-Q01",
+          "stageId": "EN-L04-C11-S04",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 1번: ___ are my shoes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "Those",
+            "These"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S04-Q02",
+          "stageId": "EN-L04-C11-S04",
+          "type": "ordering",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "are tall trees Those.",
+            "Those are tall trees.",
+            "trees tall are Those."
+          ],
+          "correctAnswer": "Those are tall trees.",
+          "explanation": "바른 어순은 “Those are tall trees.”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those are tall trees.",
+            "Those are tall trees"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S04-Q03",
+          "stageId": "EN-L04-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 3번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Those",
+            "This",
+            "That",
+            "These"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S04-Q04",
+          "stageId": "EN-L04-C11-S04",
+          "type": "fillBlank",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 4번: ___ is a bus. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "This",
+            "These",
+            "Those"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S04-Q05",
+          "stageId": "EN-L04-C11-S04",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 5번: “These are red pens.”의 핵심 문법 표현이 ‘This’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 These이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S04-Q06",
+          "stageId": "EN-L04-C11-S04",
+          "type": "matching",
+          "prompt": "지시어 this that: 짧은 문장 연습 · 6번: ___ is my book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S05-Q01",
+          "stageId": "EN-L04-C11-S05",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 1번: “That is a bus.”의 뜻을 고르세요.",
+          "choices": [
+            "이것은 내 책이다.",
+            "저것은 네 가방이다.",
+            "이것들은 내 신발이다.",
+            "저것은 버스다."
+          ],
+          "correctAnswer": "저것은 버스다.",
+          "explanation": "문장의 뜻은 ‘저것은 버스다.’입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "저것은 버스다."
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S05-Q02",
+          "stageId": "EN-L04-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 2번: ___ are red pens. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "Those",
+            "These",
+            "This"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S05-Q03",
+          "stageId": "EN-L04-C11-S05",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 3번: “This is my book.”의 핵심 문법 표현이 ‘That’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 This이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S05-Q04",
+          "stageId": "EN-L04-C11-S05",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 4번: ___ is your bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "This",
+            "These",
+            "Those"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S05-Q05",
+          "stageId": "EN-L04-C11-S05",
+          "type": "matching",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 5번: ___ are my shoes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "Those",
+            "These"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S05-Q06",
+          "stageId": "EN-L04-C11-S05",
+          "type": "ordering",
+          "prompt": "지시어 this that: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "are tall trees Those.",
+            "Those are tall trees.",
+            "trees tall are Those."
+          ],
+          "correctAnswer": "Those are tall trees.",
+          "explanation": "바른 어순은 “Those are tall trees.”입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those are tall trees.",
+            "Those are tall trees"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S06-Q01",
+          "stageId": "EN-L04-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "This is my book.",
+            "These are my shoes.",
+            "Those are tall trees.",
+            "That is your bag."
+          ],
+          "correctAnswer": "That is your bag.",
+          "explanation": "들은 문장은 “That is your bag.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "That is your bag.",
+          "acceptedAnswers": [
+            "That is your bag."
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S06-Q02",
+          "stageId": "EN-L04-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 2번: ___ are my shoes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "Those",
+            "These",
+            "This"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S06-Q03",
+          "stageId": "EN-L04-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "These are my shoes.",
+            "Those are tall trees.",
+            "This is my book.",
+            "That is your bag."
+          ],
+          "correctAnswer": "Those are tall trees.",
+          "explanation": "들은 문장은 “Those are tall trees.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Those are tall trees.",
+          "acceptedAnswers": [
+            "Those are tall trees."
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S06-Q04",
+          "stageId": "EN-L04-C11-S06",
+          "type": "dictation",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "This is an apple.",
+          "explanation": "바른 문장은 “This is an apple.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This is an apple.",
+          "acceptedAnswers": [
+            "This is an apple.",
+            "This is an apple"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S06-Q05",
+          "stageId": "EN-L04-C11-S06",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 5번: “That is a bus.”의 핵심 문법 표현이 ‘This’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 That이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S06-Q06",
+          "stageId": "EN-L04-C11-S06",
+          "type": "matching",
+          "prompt": "지시어 this that: 생활 대화 듣기 · 6번: ___ are red pens. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "Those",
+            "These",
+            "This"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S07-Q01",
+          "stageId": "EN-L04-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "지시어 this that: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is an apple.",
+          "explanation": "“This is an apple.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is an apple.",
+          "acceptedAnswers": [
+            "This is an apple.",
+            "This is an apple"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S07-Q02",
+          "stageId": "EN-L04-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 표현 말하기 · 2번: ___ is a bus. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "That",
+            "This"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S07-Q03",
+          "stageId": "EN-L04-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "지시어 this that: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "These are red pens.",
+          "explanation": "“These are red pens.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "These are red pens.",
+          "acceptedAnswers": [
+            "These are red pens.",
+            "These are red pens"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S07-Q04",
+          "stageId": "EN-L04-C11-S07",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 표현 말하기 · 4번: “This is my book.”의 뜻을 고르세요.",
+          "choices": [
+            "이것은 내 책이다.",
+            "저것은 네 가방이다.",
+            "이것들은 내 신발이다.",
+            "저것들은 키 큰 나무들이다."
+          ],
+          "correctAnswer": "이것은 내 책이다.",
+          "explanation": "문장의 뜻은 ‘이것은 내 책이다.’입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이것은 내 책이다."
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S07-Q05",
+          "stageId": "EN-L04-C11-S07",
+          "type": "matching",
+          "prompt": "지시어 this that: 표현 말하기 · 5번: ___ is your bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "These",
+            "Those",
+            "That"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S07-Q06",
+          "stageId": "EN-L04-C11-S07",
+          "type": "trueFalse",
+          "prompt": "지시어 this that: 표현 말하기 · 6번: “These are my shoes.”의 핵심 문법 표현이 ‘These’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 These이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S08-Q01",
+          "stageId": "EN-L04-C11-S08",
+          "type": "fillBlank",
+          "prompt": "지시어 this that: 문장 쓰기 · 1번: ___ is my book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "These",
+            "Those",
+            "This"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S08-Q02",
+          "stageId": "EN-L04-C11-S08",
+          "type": "dictation",
+          "prompt": "지시어 this that: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "That is your bag.",
+          "explanation": "바른 문장은 “That is your bag.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "That is your bag.",
+          "acceptedAnswers": [
+            "That is your bag.",
+            "That is your bag"
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S08-Q03",
+          "stageId": "EN-L04-C11-S08",
+          "type": "ordering",
+          "prompt": "지시어 this that: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "These are my shoes.",
+            "shoes my are These.",
+            "are my shoes These."
+          ],
+          "correctAnswer": "These are my shoes.",
+          "explanation": "바른 어순은 “These are my shoes.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These are my shoes.",
+            "These are my shoes"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S08-Q04",
+          "stageId": "EN-L04-C11-S08",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 문장 쓰기 · 4번: ___ are tall trees. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Those",
+            "This",
+            "That",
+            "These"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 Those입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S08-Q05",
+          "stageId": "EN-L04-C11-S08",
+          "type": "fillBlank",
+          "prompt": "지시어 this that: 문장 쓰기 · 5번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "That",
+            "These",
+            "Those",
+            "This"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S08-Q06",
+          "stageId": "EN-L04-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 문장 쓰기 · 6번: ___ is a bus. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "That",
+            "This"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C11-S09",
+      "questions": [
+        {
+          "questionId": "EN-L04-C11-S09-Q01",
+          "stageId": "EN-L04-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "지시어 this that: 과정 평가 · 1번: ___ are tall trees. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "This",
+            "That",
+            "These",
+            "Those"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 Those입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q02",
+          "stageId": "EN-L04-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 과정 평가 · 2번: ___ is an apple. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "This",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 This입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q03",
+          "stageId": "EN-L04-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "지시어 this that: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "These are my shoes.",
+            "That is a bus.",
+            "This is my book.",
+            "That is your bag."
+          ],
+          "correctAnswer": "That is a bus.",
+          "explanation": "들은 문장은 “That is a bus.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "That is a bus.",
+          "acceptedAnswers": [
+            "That is a bus."
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q04",
+          "stageId": "EN-L04-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 과정 평가 · 4번: ___ are red pens. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "This",
+            "That",
+            "Those"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q05",
+          "stageId": "EN-L04-C11-S09",
+          "type": "dictation",
+          "prompt": "지시어 this that: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "This is my book.",
+          "explanation": "바른 문장은 “This is my book.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This is my book.",
+          "acceptedAnswers": [
+            "This is my book.",
+            "This is my book"
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q06",
+          "stageId": "EN-L04-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 과정 평가 · 6번: “That is your bag.”의 뜻을 고르세요.",
+          "choices": [
+            "이것들은 내 신발이다.",
+            "저것들은 키 큰 나무들이다.",
+            "저것은 네 가방이다.",
+            "이것은 내 책이다."
+          ],
+          "correctAnswer": "저것은 네 가방이다.",
+          "explanation": "문장의 뜻은 ‘저것은 네 가방이다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "저것은 네 가방이다."
+          ],
+          "exampleSentence": "That is your bag.",
+          "koreanMeaning": "저것은 네 가방이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q07",
+          "stageId": "EN-L04-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "지시어 this that: 과정 평가 · 7번: ___ are my shoes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Those",
+            "These",
+            "This",
+            "That"
+          ],
+          "correctAnswer": "These",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 These입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These are my shoes.",
+          "koreanMeaning": "이것들은 내 신발이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q08",
+          "stageId": "EN-L04-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "지시어 this that: 과정 평가 · 8번: ___ are tall trees. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Those",
+            "This",
+            "That",
+            "These"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 Those입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those are tall trees.",
+          "koreanMeaning": "저것들은 키 큰 나무들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q09",
+          "stageId": "EN-L04-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "지시어 this that: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "This is my book.",
+            "That is your bag.",
+            "These are my shoes.",
+            "This is an apple."
+          ],
+          "correctAnswer": "This is an apple.",
+          "explanation": "들은 문장은 “This is an apple.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This is an apple.",
+          "acceptedAnswers": [
+            "This is an apple."
+          ],
+          "exampleSentence": "This is an apple.",
+          "koreanMeaning": "이것은 사과다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q10",
+          "stageId": "EN-L04-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "지시어 this that: 과정 평가 · 10번: ___ is a bus. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "These",
+            "Those",
+            "That",
+            "This"
+          ],
+          "correctAnswer": "That",
+          "explanation": "지시어 this that these those 규칙에 맞는 표현은 That입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "That",
+            "that"
+          ],
+          "exampleSentence": "That is a bus.",
+          "koreanMeaning": "저것은 버스다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q11",
+          "stageId": "EN-L04-C11-S09",
+          "type": "dictation",
+          "prompt": "지시어 this that: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "These are red pens.",
+          "explanation": "바른 문장은 “These are red pens.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "These are red pens.",
+          "acceptedAnswers": [
+            "These are red pens.",
+            "These are red pens"
+          ],
+          "exampleSentence": "These are red pens.",
+          "koreanMeaning": "이것들은 빨간 펜들이다."
+        },
+        {
+          "questionId": "EN-L04-C11-S09-Q12",
+          "stageId": "EN-L04-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "지시어 this that: 과정 평가 · 12번: “This is my book.”의 뜻을 고르세요.",
+          "choices": [
+            "이것은 내 책이다.",
+            "저것은 네 가방이다.",
+            "이것들은 내 신발이다.",
+            "저것들은 키 큰 나무들이다."
+          ],
+          "correctAnswer": "이것은 내 책이다.",
+          "explanation": "문장의 뜻은 ‘이것은 내 책이다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "지시어 this that these those",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "지시어 this that 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이것은 내 책이다."
+          ],
+          "exampleSentence": "This is my book.",
+          "koreanMeaning": "이것은 내 책이다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L11",
+  "courseId": "EN-L11-C12",
+  "stages": [
+    {
+      "stageId": "EN-L11-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S01-Q01",
+          "stageId": "EN-L11-C12-S01",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” in the environmental report to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in the environmental report to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S01-Q02",
+          "stageId": "EN-L11-C12-S01",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S01-Q03",
+          "stageId": "EN-L11-C12-S01",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” in the environmental report to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” in the environmental report to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S01-Q04",
+          "stageId": "EN-L11-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” while reviewing the social survey to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” while reviewing the social survey to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S01-Q05",
+          "stageId": "EN-L11-C12-S01",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” while reviewing the social survey to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” while reviewing the social survey to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S01-Q06",
+          "stageId": "EN-L11-C12-S01",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” while reviewing the social survey to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” while reviewing the social survey to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S02-Q01",
+          "stageId": "EN-L11-C12-S02",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” while analyzing the new evidence to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” while analyzing the new evidence to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S02-Q02",
+          "stageId": "EN-L11-C12-S02",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” while analyzing the new evidence to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” while analyzing the new evidence to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S02-Q03",
+          "stageId": "EN-L11-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” while analyzing the new evidence to express the idea of 해로운.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” while analyzing the new evidence to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S02-Q04",
+          "stageId": "EN-L11-C12-S02",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” while analyzing the new evidence to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” while analyzing the new evidence to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S02-Q05",
+          "stageId": "EN-L11-C12-S02",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” while analyzing the new evidence to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” while analyzing the new evidence to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S02-Q06",
+          "stageId": "EN-L11-C12-S02",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S03-Q01",
+          "stageId": "EN-L11-C12-S03",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” while reviewing the social survey to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” while reviewing the social survey to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S03-Q02",
+          "stageId": "EN-L11-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” while reviewing the social survey to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” while reviewing the social survey to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S03-Q03",
+          "stageId": "EN-L11-C12-S03",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” while reviewing the social survey to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” while reviewing the social survey to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S03-Q04",
+          "stageId": "EN-L11-C12-S03",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” in a study about human behavior to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” in a study about human behavior to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S03-Q05",
+          "stageId": "EN-L11-C12-S03",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” in a study about human behavior to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in a study about human behavior to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S03-Q06",
+          "stageId": "EN-L11-C12-S03",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” in a study about human behavior to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” in a study about human behavior to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S04-Q01",
+          "stageId": "EN-L11-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S04-Q02",
+          "stageId": "EN-L11-C12-S04",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” in a recent class discussion to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” in a recent class discussion to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S04-Q03",
+          "stageId": "EN-L11-C12-S04",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” in a recent class discussion to express the idea of 해로운.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” in a recent class discussion to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S04-Q04",
+          "stageId": "EN-L11-C12-S04",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” in a recent class discussion to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” in a recent class discussion to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S04-Q05",
+          "stageId": "EN-L11-C12-S04",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” in a recent class discussion to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in a recent class discussion to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S04-Q06",
+          "stageId": "EN-L11-C12-S04",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in a recent class discussion to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in a recent class discussion to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S05-Q01",
+          "stageId": "EN-L11-C12-S05",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” in a study about human behavior to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in a study about human behavior to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S05-Q02",
+          "stageId": "EN-L11-C12-S05",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in a study about human behavior to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in a study about human behavior to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S05-Q03",
+          "stageId": "EN-L11-C12-S05",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” in a study about human behavior to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” in a study about human behavior to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S05-Q04",
+          "stageId": "EN-L11-C12-S05",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” during the community meeting to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” during the community meeting to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S05-Q05",
+          "stageId": "EN-L11-C12-S05",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” during the community meeting to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” during the community meeting to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S05-Q06",
+          "stageId": "EN-L11-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” during the community meeting to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” during the community meeting to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S06-Q01",
+          "stageId": "EN-L11-C12-S06",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” during the science project to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” during the science project to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S06-Q02",
+          "stageId": "EN-L11-C12-S06",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” during the science project to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” during the science project to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S06-Q03",
+          "stageId": "EN-L11-C12-S06",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” during the science project to express the idea of 해로운.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” during the science project to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S06-Q04",
+          "stageId": "EN-L11-C12-S06",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” during the science project to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” during the science project to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S06-Q05",
+          "stageId": "EN-L11-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” during the science project to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” during the science project to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S06-Q06",
+          "stageId": "EN-L11-C12-S06",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” during the science project to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” during the science project to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S07-Q01",
+          "stageId": "EN-L11-C12-S07",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” during the community meeting to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” during the community meeting to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S07-Q02",
+          "stageId": "EN-L11-C12-S07",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” during the community meeting to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” during the community meeting to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S07-Q03",
+          "stageId": "EN-L11-C12-S07",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” during the community meeting to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” during the community meeting to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S07-Q04",
+          "stageId": "EN-L11-C12-S07",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” in the school research paper to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” in the school research paper to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S07-Q05",
+          "stageId": "EN-L11-C12-S07",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” in the school research paper to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in the school research paper to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S07-Q06",
+          "stageId": "EN-L11-C12-S07",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” in the school research paper to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” in the school research paper to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S08-Q01",
+          "stageId": "EN-L11-C12-S08",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “decline” in the environmental report to express the idea of 감소하다.",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in the environmental report to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S08-Q02",
+          "stageId": "EN-L11-C12-S08",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “beneficial” in the environmental report to express the idea of 유익한.",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” in the environmental report to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S08-Q03",
+          "stageId": "EN-L11-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “harmful” in the environmental report to express the idea of 해로운.",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” in the environmental report to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S08-Q04",
+          "stageId": "EN-L11-C12-S08",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “temporary” in the environmental report to express the idea of 일시적인.",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” in the environmental report to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S08-Q05",
+          "stageId": "EN-L11-C12-S08",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “permanent” in the environmental report to express the idea of 영구적인.",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in the environmental report to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S08-Q06",
+          "stageId": "EN-L11-C12-S08",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in the environmental report to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S09",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S09-Q01",
+          "stageId": "EN-L11-C12-S09",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” in the school research paper to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in the school research paper to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S09-Q02",
+          "stageId": "EN-L11-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in the school research paper to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in the school research paper to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S09-Q03",
+          "stageId": "EN-L11-C12-S09",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” in the school research paper to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” in the school research paper to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S09-Q04",
+          "stageId": "EN-L11-C12-S09",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” while analyzing the new evidence to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” while analyzing the new evidence to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S09-Q05",
+          "stageId": "EN-L11-C12-S09",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” while analyzing the new evidence to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” while analyzing the new evidence to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S09-Q06",
+          "stageId": "EN-L11-C12-S09",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” while analyzing the new evidence to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” while analyzing the new evidence to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S10",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S10-Q01",
+          "stageId": "EN-L11-C12-S10",
+          "type": "multipleChoice",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” while reviewing the social survey to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” while reviewing the social survey to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S10-Q02",
+          "stageId": "EN-L11-C12-S10",
+          "type": "vocabularyInContext",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” while reviewing the social survey to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” while reviewing the social survey to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S10-Q03",
+          "stageId": "EN-L11-C12-S10",
+          "type": "derivation",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” while reviewing the social survey to express the idea of 해로운.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” while reviewing the social survey to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S10-Q04",
+          "stageId": "EN-L11-C12-S10",
+          "type": "synonymAntonym",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” while reviewing the social survey to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” while reviewing the social survey to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S10-Q05",
+          "stageId": "EN-L11-C12-S10",
+          "type": "collocation",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” while reviewing the social survey to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” while reviewing the social survey to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S10-Q06",
+          "stageId": "EN-L11-C12-S10",
+          "type": "phrasalVerb",
+          "prompt": "반의 관계와 대조: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” while reviewing the social survey to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” while reviewing the social survey to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C12-S11",
+      "questions": [
+        {
+          "questionId": "EN-L11-C12-S11-Q01",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” while analyzing the new evidence to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” while analyzing the new evidence to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q02",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” while analyzing the new evidence to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q03",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” while analyzing the new evidence to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” while analyzing the new evidence to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q04",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” in a recent class discussion to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” in a recent class discussion to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q05",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "decline"
+          ],
+          "correctAnswer": "decline",
+          "explanation": "문맥에서 decline은 ‘감소하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "decline",
+            "decline"
+          ],
+          "exampleSentence": "The writer uses “decline” in a recent class discussion to express the idea of 감소하다.",
+          "koreanMeaning": "문맥에서 decline은 ‘감소하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q06",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “beneficial” in a recent class discussion to express the idea of 유익한.",
+          "choices": [
+            "increase",
+            "reject",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "beneficial",
+          "explanation": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "beneficial",
+            "beneficial"
+          ],
+          "exampleSentence": "The writer uses “beneficial” in a recent class discussion to express the idea of 유익한.",
+          "koreanMeaning": "문맥에서 beneficial은 ‘유익한’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q07",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “harmful” in a recent class discussion to express the idea of 해로운.",
+          "choices": [
+            "increase",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "harmful",
+          "explanation": "문맥에서 harmful은 ‘해로운’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "harmful",
+            "harmful"
+          ],
+          "exampleSentence": "The writer uses “harmful” in a recent class discussion to express the idea of 해로운.",
+          "koreanMeaning": "문맥에서 harmful은 ‘해로운’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q08",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “temporary” in a recent class discussion to express the idea of 일시적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "decline"
+          ],
+          "correctAnswer": "temporary",
+          "explanation": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "temporary",
+            "temporary"
+          ],
+          "exampleSentence": "The writer uses “temporary” in a recent class discussion to express the idea of 일시적인.",
+          "koreanMeaning": "문맥에서 temporary은 ‘일시적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q09",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “permanent” in a recent class discussion to express the idea of 영구적인.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "beneficial",
+            "permanent"
+          ],
+          "correctAnswer": "permanent",
+          "explanation": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "permanent",
+            "permanent"
+          ],
+          "exampleSentence": "The writer uses “permanent” in a recent class discussion to express the idea of 영구적인.",
+          "koreanMeaning": "문맥에서 permanent은 ‘영구적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q10",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “accept” in a recent class discussion to express the idea of 받아들이다.",
+          "choices": [
+            "temporary",
+            "harmful",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "accept",
+          "explanation": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accept",
+            "accept"
+          ],
+          "exampleSentence": "The writer uses “accept” in a recent class discussion to express the idea of 받아들이다.",
+          "koreanMeaning": "문맥에서 accept은 ‘받아들이다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q11",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “reject” in a recent class discussion to express the idea of 거부하다.",
+          "choices": [
+            "temporary",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "reject",
+          "explanation": "문맥에서 reject은 ‘거부하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reject",
+            "reject"
+          ],
+          "exampleSentence": "The writer uses “reject” in a recent class discussion to express the idea of 거부하다.",
+          "koreanMeaning": "문맥에서 reject은 ‘거부하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C12-S11-Q12",
+          "stageId": "EN-L11-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "반의 관계와 대조: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “increase” during the science project to express the idea of 증가하다.",
+          "choices": [
+            "increase",
+            "reject",
+            "accept",
+            "permanent"
+          ],
+          "correctAnswer": "increase",
+          "explanation": "문맥에서 increase은 ‘증가하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "반의 관계와 대조",
+          "vocabularyTopic": "반의 관계와 대조",
+          "sourceObjective": "반의 관계와 대조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increase",
+            "increase"
+          ],
+          "exampleSentence": "The writer uses “increase” during the science project to express the idea of 증가하다.",
+          "koreanMeaning": "문맥에서 increase은 ‘증가하다’이라는 뜻이다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C12",
+  "stages": [
+    {
+      "stageId": "EN-L02-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S01-Q01",
+          "stageId": "EN-L02-C12-S01",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 1번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "star",
+            "fan",
+            "sad",
+            "car"
+          ],
+          "correctAnswer": "car",
+          "explanation": "car에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S01-Q02",
+          "stageId": "EN-L02-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 2번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "star",
+            "car"
+          ],
+          "correctAnswer": "star",
+          "explanation": "star에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S01-Q03",
+          "stageId": "EN-L02-C12-S01",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 3번: fern에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fern의 목표 규칙은 r-controlled-vowel이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S01-Q04",
+          "stageId": "EN-L02-C12-S01",
+          "type": "matching",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 4번: herd와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bird",
+            "rat",
+            "tap",
+            "sunset"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "herd와 bird에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S01-Q05",
+          "stageId": "EN-L02-C12-S01",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 5번: b_rd에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "bird의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S01-Q06",
+          "stageId": "EN-L02-C12-S01",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 firm를 만드세요.",
+          "choices": [
+            "irmf",
+            "fir",
+            "firm",
+            "mrif"
+          ],
+          "correctAnswer": "firm",
+          "explanation": "f + i + r + m를 순서대로 놓으면 firm입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "firm",
+            "FIRM"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S02-Q01",
+          "stageId": "EN-L02-C12-S02",
+          "type": "matching",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 1번: fern와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "sunset",
+            "herd"
+          ],
+          "correctAnswer": "herd",
+          "explanation": "fern와 herd에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "herd",
+            "HERD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S02-Q02",
+          "stageId": "EN-L02-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 2번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "herd",
+            "car"
+          ],
+          "correctAnswer": "herd",
+          "explanation": "herd에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "herd",
+            "HERD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S02-Q03",
+          "stageId": "EN-L02-C12-S02",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 bird를 만드세요.",
+          "choices": [
+            "bir",
+            "bird",
+            "drib",
+            "irdb"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "b + i + r + d를 순서대로 놓으면 bird입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S02-Q04",
+          "stageId": "EN-L02-C12-S02",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 4번: _irm에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "f",
+          "explanation": "firm의 빠진 글자는 f입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "f",
+            "F"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S02-Q05",
+          "stageId": "EN-L02-C12-S02",
+          "type": "spelling",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 5번: c_rn에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "corn의 빠진 글자는 o입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S02-Q06",
+          "stageId": "EN-L02-C12-S02",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 핵심 글자·철자 · 6번: fork에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "fork의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S03-Q01",
+          "stageId": "EN-L02-C12-S03",
+          "type": "listeningChoice",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "car",
+            "rat",
+            "tap",
+            "bird"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "음성은 bird를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bird",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S03-Q02",
+          "stageId": "EN-L02-C12-S03",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 2번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "firm",
+            "car"
+          ],
+          "correctAnswer": "firm",
+          "explanation": "firm에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "firm",
+            "FIRM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S03-Q03",
+          "stageId": "EN-L02-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 3번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "corn",
+            "car",
+            "rat"
+          ],
+          "correctAnswer": "corn",
+          "explanation": "corn에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "corn",
+            "CORN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S03-Q04",
+          "stageId": "EN-L02-C12-S03",
+          "type": "listeningChoice",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "fork",
+            "car",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "fork",
+          "explanation": "음성은 fork를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fork",
+          "acceptedAnswers": [
+            "fork",
+            "FORK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S03-Q05",
+          "stageId": "EN-L02-C12-S03",
+          "type": "matching",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 5번: turn와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "sunset",
+            "curl"
+          ],
+          "correctAnswer": "curl",
+          "explanation": "turn와 curl에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "curl",
+            "CURL"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S03-Q06",
+          "stageId": "EN-L02-C12-S03",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 음가 듣고 구별하기 · 6번: curl에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "curl의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S04-Q01",
+          "stageId": "EN-L02-C12-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 1번: corn를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "corn",
+          "explanation": "corn에는 vowel sound controlled by r 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "corn",
+          "acceptedAnswers": [
+            "corn",
+            "CORN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S04-Q02",
+          "stageId": "EN-L02-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 2번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "fork",
+            "car"
+          ],
+          "correctAnswer": "fork",
+          "explanation": "fork에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fork",
+            "FORK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S04-Q03",
+          "stageId": "EN-L02-C12-S04",
+          "type": "matching",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 3번: turn와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "curl",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "curl",
+          "explanation": "turn와 curl에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "curl",
+            "CURL"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S04-Q04",
+          "stageId": "EN-L02-C12-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 4번: curl를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "curl",
+          "explanation": "curl에는 vowel sound controlled by r 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "curl",
+          "acceptedAnswers": [
+            "curl",
+            "CURL"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S04-Q05",
+          "stageId": "EN-L02-C12-S04",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 5번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "car",
+            "rat",
+            "tap",
+            "park"
+          ],
+          "correctAnswer": "park",
+          "explanation": "park에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S04-Q06",
+          "stageId": "EN-L02-C12-S04",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 소리 내어 따라 읽기 · 6번: storm에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "storm의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S05-Q01",
+          "stageId": "EN-L02-C12-S05",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 1번: 글자를 바르게 배열해 turn를 만드세요.",
+          "choices": [
+            "nrut",
+            "urnt",
+            "tur",
+            "turn"
+          ],
+          "correctAnswer": "turn",
+          "explanation": "t + u + r + n를 순서대로 놓으면 turn입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "turn",
+            "TURN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S05-Q02",
+          "stageId": "EN-L02-C12-S05",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 2번: cu_l에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "curl의 빠진 글자는 r입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S05-Q03",
+          "stageId": "EN-L02-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 3번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "park",
+            "car",
+            "rat"
+          ],
+          "correctAnswer": "park",
+          "explanation": "park에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S05-Q04",
+          "stageId": "EN-L02-C12-S05",
+          "type": "matching",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 4번: storm와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "car",
+            "cap",
+            "bed",
+            "sunset"
+          ],
+          "correctAnswer": "car",
+          "explanation": "storm와 car에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S05-Q05",
+          "stageId": "EN-L02-C12-S05",
+          "type": "ordering",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 5번: 글자를 바르게 배열해 car를 만드세요.",
+          "choices": [
+            "rac",
+            "arc",
+            "ca",
+            "car"
+          ],
+          "correctAnswer": "car",
+          "explanation": "c + a + r를 순서대로 놓으면 car입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S05-Q06",
+          "stageId": "EN-L02-C12-S05",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 문자 인식 연습 · 6번: star에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "star의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S06-Q01",
+          "stageId": "EN-L02-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 1번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "car",
+            "rat",
+            "tap",
+            "park"
+          ],
+          "correctAnswer": "park",
+          "explanation": "park에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S06-Q02",
+          "stageId": "EN-L02-C12-S06",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 2번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cap",
+            "bed",
+            "storm",
+            "car"
+          ],
+          "correctAnswer": "storm",
+          "explanation": "storm에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "storm",
+            "STORM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S06-Q03",
+          "stageId": "EN-L02-C12-S06",
+          "type": "matching",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 3번: car와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "star",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "star",
+          "explanation": "car와 star에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S06-Q04",
+          "stageId": "EN-L02-C12-S06",
+          "type": "trueFalse",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 4번: star에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "star의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S06-Q05",
+          "stageId": "EN-L02-C12-S06",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 fern를 만드세요.",
+          "choices": [
+            "nref",
+            "ernf",
+            "fer",
+            "fern"
+          ],
+          "correctAnswer": "fern",
+          "explanation": "f + e + r + n를 순서대로 놓으면 fern입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fern",
+            "FERN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S06-Q06",
+          "stageId": "EN-L02-C12-S06",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 단어 읽기 적용 · 6번: he_d에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "herd의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S07-Q01",
+          "stageId": "EN-L02-C12-S07",
+          "type": "spelling",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 1번: c_r에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "car의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S07-Q02",
+          "stageId": "EN-L02-C12-S07",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 2번: st_r에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "star의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S07-Q03",
+          "stageId": "EN-L02-C12-S07",
+          "type": "dictation",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fern",
+          "explanation": "fern의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fern",
+          "acceptedAnswers": [
+            "fern",
+            "FERN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S07-Q04",
+          "stageId": "EN-L02-C12-S07",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 herd를 만드세요.",
+          "choices": [
+            "herd",
+            "dreh",
+            "erdh",
+            "her"
+          ],
+          "correctAnswer": "herd",
+          "explanation": "h + e + r + d를 순서대로 놓으면 herd입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "herd",
+            "HERD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S07-Q05",
+          "stageId": "EN-L02-C12-S07",
+          "type": "spelling",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 5번: b_rd에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "bird의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S07-Q06",
+          "stageId": "EN-L02-C12-S07",
+          "type": "fillBlank",
+          "prompt": "r-통제 모음: 철자와 받아쓰기 · 6번: fi_m에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "firm의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C12-S08-Q01",
+          "stageId": "EN-L02-C12-S08",
+          "type": "reviewMixed",
+          "prompt": "r-통제 모음: 과정 평가 · 1번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "car",
+            "rat",
+            "tap",
+            "fern"
+          ],
+          "correctAnswer": "fern",
+          "explanation": "fern에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fern",
+            "FERN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q02",
+          "stageId": "EN-L02-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 과정 평가 · 2번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "herd",
+            "car"
+          ],
+          "correctAnswer": "herd",
+          "explanation": "herd에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "herd",
+            "HERD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q03",
+          "stageId": "EN-L02-C12-S08",
+          "type": "listeningChoice",
+          "prompt": "r-통제 모음: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "bird",
+            "car",
+            "rat"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "음성은 bird를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bird",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q04",
+          "stageId": "EN-L02-C12-S08",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 과정 평가 · 4번: 글자를 바르게 배열해 firm를 만드세요.",
+          "choices": [
+            "firm",
+            "mrif",
+            "irmf",
+            "fir"
+          ],
+          "correctAnswer": "firm",
+          "explanation": "f + i + r + m를 순서대로 놓으면 firm입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "firm",
+            "FIRM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q05",
+          "stageId": "EN-L02-C12-S08",
+          "type": "dictation",
+          "prompt": "r-통제 모음: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "corn",
+          "explanation": "corn의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "corn",
+          "acceptedAnswers": [
+            "corn",
+            "CORN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q06",
+          "stageId": "EN-L02-C12-S08",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 과정 평가 · 6번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "fork",
+            "car"
+          ],
+          "correctAnswer": "fork",
+          "explanation": "fork에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fork",
+            "FORK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q07",
+          "stageId": "EN-L02-C12-S08",
+          "type": "reviewMixed",
+          "prompt": "r-통제 모음: 과정 평가 · 7번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "turn",
+            "car",
+            "rat"
+          ],
+          "correctAnswer": "turn",
+          "explanation": "turn에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "turn",
+            "TURN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q08",
+          "stageId": "EN-L02-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "r-통제 모음: 과정 평가 · 8번: r-controlled-vowel 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "curl",
+            "car",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "curl",
+          "explanation": "curl에는 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "curl",
+            "CURL"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q09",
+          "stageId": "EN-L02-C12-S08",
+          "type": "listeningChoice",
+          "prompt": "r-통제 모음: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "car",
+            "rat",
+            "tap",
+            "park"
+          ],
+          "correctAnswer": "park",
+          "explanation": "음성은 park를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "park",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q10",
+          "stageId": "EN-L02-C12-S08",
+          "type": "wordBuilding",
+          "prompt": "r-통제 모음: 과정 평가 · 10번: 글자를 바르게 배열해 storm를 만드세요.",
+          "choices": [
+            "torms",
+            "stor",
+            "storm",
+            "mrots"
+          ],
+          "correctAnswer": "storm",
+          "explanation": "s + t + o + r + m를 순서대로 놓으면 storm입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "storm",
+            "STORM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q11",
+          "stageId": "EN-L02-C12-S08",
+          "type": "dictation",
+          "prompt": "r-통제 모음: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "car",
+          "explanation": "car의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "car",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C12-S08-Q12",
+          "stageId": "EN-L02-C12-S08",
+          "type": "soundDiscrimination",
+          "prompt": "r-통제 모음: 과정 평가 · 12번: vowel sound controlled by r이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "star",
+            "car",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "star",
+          "explanation": "star에서 vowel sound controlled by r을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "r-통제 모음 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ]
+        }
+      ]
+    }
+  ]
+}

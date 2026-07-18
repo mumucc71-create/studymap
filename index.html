@@ -1,0 +1,1391 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Study Coin</title>
+<link rel="stylesheet" href="styles.css?v=math-wrong-note-tree-top-v3" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="phone dark active onboarding" data-screen="login">
+        <div class="brand-mark">S</div>
+        <h1 class="welcome-title">반가워요!<br />오늘도 함께<br />성장해봐요</h1>
+        <p class="welcome-copy">내 공부 친구와 오늘의 미션을 이어가요.</p>
+        <form class="signup-card auth-card">
+          <label>아이디
+            <input id="loginUser" type="text" placeholder="아이디" />
+          </label>
+          <label>비밀번호
+            <input id="loginPassword" type="password" placeholder="비밀번호" />
+          </label>
+          <p class="auth-error hidden" id="loginError">아이디 또는 비밀번호를 확인해 주세요.</p>
+        </form>
+        <button class="primary" id="loginButton">로그인</button>
+        <button class="secondary auth-switch" data-go="signup">회원가입</button>
+      </section>
+
+      <section class="phone dark onboarding" data-screen="signup">
+        <h1 class="welcome-title">계정을 만들어<br />공부를 시작해보세요!</h1>
+        <p class="welcome-copy">정보를 입력하고 나만의 공부방을 만들어 보세요.</p>
+        <section class="signup-role-card" data-choice-group="role">
+          <h2>누구로 시작할까요?</h2>
+          <div class="choice-grid three-col">
+            <button class="selected" type="button" data-role="student">학생</button>
+            <button type="button" data-role="parent">학부모</button>
+            <button type="button" data-role="teacher">선생님</button>
+          </div>
+        </section>
+        <form class="signup-card">
+          <label>이름
+            <span class="signup-field-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"></circle><path d="M4 21a8 8 0 0 1 16 0"></path></svg></span>
+            <input id="studentName" type="text" placeholder="이름을 입력해주세요" />
+          </label>
+          <label>아이디
+            <span class="signup-field-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"></rect><circle cx="8" cy="11" r="2"></circle><path d="M5.5 16c.8-1.5 4.2-1.5 5 0M14 9h4M14 13h4"></path></svg></span>
+            <input id="signupUser" type="text" placeholder="아이디를 입력해주세요" />
+          </label>
+          <label>비밀번호
+            <span class="signup-field-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="5" y="10" width="14" height="11" rx="2"></rect><path d="M8 10V7a4 4 0 0 1 8 0v3"></path></svg></span>
+            <input id="signupPassword" type="password" placeholder="비밀번호를 입력해주세요" />
+            <span class="signup-password-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M3 3l18 18M10.6 10.7a2 2 0 0 0 2.7 2.7M9.9 4.2A10.8 10.8 0 0 1 12 4c5.5 0 9 5 9 5a15.4 15.4 0 0 1-2.1 2.7M6.6 6.6C4.3 8.1 3 10 3 10s3.5 5 9 5c1 0 1.9-.2 2.8-.5"></path></svg></span>
+          </label>
+          <p class="auth-error hidden" id="signupError">아이디와 비밀번호를 확인해 주세요.</p>
+          <p class="auth-success hidden" id="signupSuccess">회원가입이 완료됐어요.</p>
+        </form>
+      <button class="primary bottom-action" id="signupButton">회원가입</button>
+      <div class="signup-divider"><span>또는</span></div>
+      <button class="signup-kakao" type="button">
+        <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3C6.48 3 2 6.55 2 10.93c0 2.84 1.88 5.33 4.7 6.73l-.96 3.53c-.09.32.28.58.55.39l4.2-2.79c.49.05 1 .08 1.51.08 5.52 0 10-3.55 10-7.94S17.52 3 12 3Z" /></svg>
+        <span>카카오로 회원가입</span>
+      </button>
+      <button class="signup-naver" type="button">
+        <b aria-hidden="true">N</b>
+        <span>네이버로 회원가입</span>
+      </button>
+      <button class="secondary auth-switch" data-go="login">로그인</button>
+    </section>
+
+      <section class="phone dark onboarding" data-screen="profile-setup">
+        <nav class="topbar center"><button data-go="signup">‹</button><h2>학습 설정</h2><span></span></nav>
+        <h1 class="setup-title" id="setupTitle">나에게 맞게<br />공부를 준비할게요</h1>
+        <section class="setup-block">
+          <h2 id="gradeSetupTitle">학년</h2>
+          <div class="school-tabs">
+            <button class="selected" data-school-tab="elementary">초등</button>
+            <button data-school-tab="middle">중등</button>
+            <button data-school-tab="high">고등</button>
+          </div>
+          <div class="choice-grid grades active" data-grade-panel="elementary" data-choice-group="grade">
+            <button class="selected" data-grade="초등 4학년">4학년</button>
+            <button data-grade="초등 5학년">5학년</button>
+            <button data-grade="초등 6학년">6학년</button>
+          </div>
+          <div class="choice-grid grades" data-grade-panel="middle" data-choice-group="grade">
+            <button data-grade="중등 1학년">1학년</button>
+            <button data-grade="중등 2학년">2학년</button>
+            <button data-grade="중등 3학년">3학년</button>
+          </div>
+          <div class="choice-grid grades" data-grade-panel="high" data-choice-group="grade">
+            <button data-grade="고등 1학년">1학년</button>
+            <button data-grade="고등 2학년">2학년</button>
+            <button data-grade="고등 3학년">3학년</button>
+          </div>
+        </section>
+        <section class="setup-block">
+          <h2 id="genderSetupTitle">성별</h2>
+          <div class="choice-grid two-col" data-choice-group="gender">
+            <button class="selected">남학생</button>
+            <button>여학생</button>
+          </div>
+        </section>
+        <section class="setup-block">
+          <h2 id="dreamSetupTitle">장래희망</h2>
+          <label class="dream-field">
+            <input id="dreamJob" type="text" value="과학자" placeholder="예: 의사, 개발자, 작가" />
+          </label>
+        </section>
+        <section class="setup-block">
+          <h2 id="subjectSetupTitle">원하는 과목</h2>
+          <p id="subjectSetupCopy">하나만 골라도 되고, 여러 과목을 함께 선택할 수 있어요.</p>
+          <div class="subject-list">
+            <button class="selected" data-subject="수학">➕ 수학</button>
+            <button data-subject="영어">🔤 영어</button>
+            <button data-subject="독서">📚 독서</button>
+            <button data-subject="과학">🔬 과학</button>
+            <button data-subject="한자">字 한자</button>
+          </div>
+        </section>
+        <section class="setup-block level-test-subject-block">
+          <h2>진단할 과목</h2>
+          <p>레벨테스트는 한 과목씩 정확하게 진단해요.</p>
+          <div class="subject-list" id="levelTestSubjectPicker">
+            <button class="selected" type="button" data-level-test-subject="수학">수학</button>
+            <button type="button" data-level-test-subject="영어">영어</button>
+            <button type="button" data-level-test-subject="독서">독서</button>
+            <button type="button" data-level-test-subject="과학">과학</button>
+            <button type="button" data-level-test-subject="한자">한자</button>
+          </div>
+        </section>
+        <button class="primary bottom-action" id="setupLevelStart" type="button">레벨테스트 시작</button>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone dark onboarding" data-screen="level-test">
+        <nav class="topbar center"><button data-go="profile-setup">‹</button><h2>레벨테스트</h2><span></span></nav>
+        <section class="test-hero">
+          <span>맞춤 진단</span>
+          <h1>초등부터 고등까지<br />이어지는 레벨테스트예요</h1>
+          <p id="testSubjects">수학 과목으로 현재 실력을 확인할게요.</p>
+          <p id="testDream">과학자 꿈에 가까워지도록 학습 계획을 맞춰볼게요.</p>
+        </section>
+        <section class="diagnosis-card">
+          <div><span>가입 유형</span><strong id="joinSummary">학생</strong></div>
+          <div><span>선택 과목</span><strong id="progressSummary">수학</strong></div>
+          <div><span>내가 선택한 시작 기준</span><strong id="startPoint">초4에서 시작</strong></div>
+        </section>
+        <div class="test-flow">
+          <article><b>1</b><div><h3>선택 정보 확인</h3><p>내가 직접 선택한 역할, 학년, 과목으로 테스트를 시작해요.</p></div></article>
+          <article><b>2</b><div><h3>개념 단위 진단</h3><p>초등, 중등, 고등을 작은 단원으로 나눠 막히는 지점을 찾아요.</p></div></article>
+          <article><b>3</b><div><h3>선택한 학년에서 시작</h3><p>내가 선택한 학년에서 시작하고, 답변에 따라 문제 난이도가 조정돼요.</p></div></article>
+        </div>
+        <button class="start-text-cta" type="button" data-open-test-subject="standard">레벨테스트 시작하기</button>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone dark onboarding" data-screen="resume-test">
+        <nav class="topbar center"><button data-go="level-test">‹</button><h2>AI 레벨테스트</h2><span></span></nav>
+        <section class="resume-card">
+          <span>이전에 진행하던 AI 레벨테스트가 있어요</span>
+          <h1>이어 하시겠습니까?</h1>
+          <div class="resume-progress"><div><i id="resumeProgress"></i></div><strong id="resumePercent">AI 분석 42%</strong></div>
+          <div class="resume-list">
+            <p><b>현재까지 분석한 영역</b><span id="resumeChecked">수감각, 계산력</span></p>
+            <p><b>진행 중인 영역</b><span id="resumeFocus">분수</span></p>
+            <p><b>저장 시점</b><span id="resumeSavedAt">방금 전</span></p>
+          </div>
+        </section>
+        <div class="resume-actions">
+          <button class="primary" id="resumeTest">이어하기</button>
+          <button class="secondary" id="restartTest">처음부터 다시</button>
+        </div>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light profile-home" data-screen="home">
+        <nav class="topbar"><button id="homeMenuButton">☰</button><button class="bell">♧<b>3</b></button></nav>
+        <aside class="side-menu hidden" id="homeMenu">
+          <div class="side-menu-head"><strong>메뉴</strong><button id="closeHomeMenu">×</button></div>
+          <button data-go="profile-setup">학습 설정</button>
+          <button data-go="coins">코인 보기</button>
+          <button id="logoutButton" class="logout">로그아웃</button>
+        </aside>
+        <div class="profile">
+          <img id="homeAvatar" data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="학생 프로필" />
+          <div>
+            <h1 id="homeGreeting">안녕하세요, 학생님</h1>
+            <p id="homeMessage">오늘도 멋지게 공부해보자!</p>
+          </div>
+        </div>
+        <section class="profile-customizer" data-go="avatar-customize">
+          <div class="panel-title"><h2>프로필 꾸미기</h2><span>메인에 바로 반영</span></div>
+          <label>이름
+            <input id="profileName" type="text" value="학생" />
+          </label>
+          <label>오늘의 한마디
+            <input id="profileMessage" type="text" value="오늘도 멋지게 공부해보자!" />
+          </label>
+          <div class="avatar-picker" id="avatarPicker">
+            <button class="selected" data-avatar="https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=160&q=80"><img src="https://images.unsplash.com/photo-1599566150163-29194dcaad36?auto=format&fit=crop&w=80&q=80" alt="아바타 1" /></button>
+            <button data-avatar="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=160&q=80"><img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=80&q=80" alt="아바타 2" /></button>
+            <button data-avatar="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=160&q=80"><img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=80&q=80" alt="아바타 3" /></button>
+          </div>
+        </section>
+        <div class="level">
+          <span>오늘의 진행률</span><strong id="homeDailyProgressText">0%</strong>
+          <div class="bar"><i id="homeDailyProgressBar" style="width: 0%"></i></div>
+        </div>
+        <section class="home-test-card">
+          <button class="home-test-button home-test-button-standard" type="button" data-open-test-subject="standard">레벨테스트</button>
+          <button class="home-test-button home-test-button-elite" type="button" id="startEliteTestButton" data-open-test-subject="elite">Elite Test 도전하기 ›</button>
+        </section>
+        <section class="panel">
+          <div class="panel-title"><h2>오늘의 미션</h2><button class="plan-link" data-go="plan">계획보기</button></div>
+          <div class="bar full"><i></i></div>
+          <ul class="missions">
+            <li><b>✓</b>수학 연산 20문제 풀기<span>완료</span></li>
+            <li><b>✓</b>영어 단어 20개 학습<span>완료</span></li>
+            <li><b>✓</b>독서 30분 읽고 퀴즈 풀기<span>완료</span></li>
+          </ul>
+        </section>
+        <button class="primary" data-go="study-empty">공부 시작하기 <span>→</span></button>
+        <footer class="tabs app-tabs">
+          <button class="on" data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light avatar-screen" data-screen="avatar-customize">
+        <nav class="avatar-nav"><button data-go="home">‹</button><h2>아바타 꾸미기</h2><button data-go="home">완료</button></nav>
+        <section class="avatar-hero">
+          <div>
+            <span>AI 성장 친구</span>
+            <h1>너의 성장을<br /><b>AI</b>가 함께 응원할게!</h1>
+            <p>공부할수록 더 멋진 모습으로 성장해요.</p>
+          </div>
+          <div class="avatar-character"></div>
+        </section>
+        <section class="avatar-card">
+          <div class="panel-title"><h2>공부 친구 컬렉션</h2><span>레벨업으로 하나씩 획득</span></div>
+          <div class="friend-collection">
+            <button class="owned selected" data-unlock-level="1" data-friend="star"><i></i><b>별이</b><small>기본 지급</small></button>
+            <button data-unlock-level="10" data-friend="flower"><i></i><b>꽃이</b><small>Lv.10 해금</small></button>
+            <button data-unlock-level="20" data-friend="cloud"><i></i><b>구름이</b><small>Lv.20 해금</small></button>
+            <button data-unlock-level="30" data-friend="circle"><i></i><b>동글이</b><small>Lv.30 해금</small></button>
+            <button data-unlock-level="40" data-friend="drop"><i></i><b>물방울이</b><small>Lv.40 해금</small></button>
+            <button data-unlock-level="50" data-friend="clover"><i></i><b>네잎이</b><small>Lv.50 해금</small></button>
+            <button data-unlock-level="70" data-friend="fire"><i></i><b>불꽃이</b><small>Lv.70 해금</small></button>
+            <button data-unlock-level="100" data-friend="hex"><i></i><b>육각이</b><small>Lv.100 해금</small></button>
+          </div>
+        </section>
+        <section class="avatar-card">
+          <div class="panel-title"><h2>별이의 레벨 성장</h2><span>Lv.1 → Lv.100</span></div>
+          <div class="star-growth">
+            <article><i></i><b>LV.1</b><span>새내기 별이</span></article>
+            <article><i></i><b>LV.10</b><span>책가방</span></article>
+            <article><i></i><b>LV.20</b><span>연필</span></article>
+            <article><i></i><b>LV.30</b><span>안경</span></article>
+            <article><i></i><b>LV.40</b><span>모자</span></article>
+            <article><i></i><b>LV.50</b><span>왕관</span></article>
+            <article><i></i><b>LV.70</b><span>망토</span></article>
+            <article><i></i><b>LV.100</b><span>우주별이</span></article>
+          </div>
+          <div class="growth-line"><i></i><span>LV.1</span><span>LV.20</span><span>LV.50</span><span>LV.100</span></div>
+        </section>
+        <section class="avatar-card">
+          <div class="panel-title"><h2>캐릭터 기본 형태</h2><span>FRONT · SIDE · BACK</span></div>
+          <div class="avatar-views">
+            <article><div></div><span>FRONT</span></article>
+            <article><div></div><span>SIDE</span></article>
+            <article><div></div><span>BACK</span></article>
+          </div>
+        </section>
+        <section class="avatar-card">
+          <div class="panel-title"><h2>표정 변화</h2><span>기분에 따라 변경</span></div>
+          <div class="expression-row">
+            <button class="selected">기본</button>
+            <button>행복</button>
+            <button>신남</button>
+            <button>생각중</button>
+            <button>속상</button>
+          </div>
+        </section>
+        <section class="avatar-card">
+          <div class="panel-title"><h2>꾸미기 아이템</h2><span id="avatarLevelLabel">현재 Lv.23</span></div>
+          <div class="item-grid">
+            <button class="selected" data-unlock-level="1"><b>Lv.1 기본</b><span>⭐</span><small>착용중</small></button>
+            <button data-unlock-level="5"><b>Lv.5 작은별</b><span>✨</span><small>획득 가능</small></button>
+            <button data-unlock-level="10"><b>Lv.10 책가방</b><span>🎒</span><small>획득 가능</small></button>
+            <button data-unlock-level="20"><b>Lv.20 연필</b><span>✏️</span><small>획득 가능</small></button>
+            <button data-unlock-level="30"><b>Lv.30 안경</b><span>👓</span><small>잠금</small></button>
+            <button data-unlock-level="50"><b>Lv.50 펫</b><span>🐾</span><small>잠금</small></button>
+            <button data-unlock-level="70"><b>Lv.70 망토</b><span>🦸</span><small>잠금</small></button>
+            <button data-unlock-level="100"><b>Lv.100 왕관</b><span>👑</span><small>잠금</small></button>
+            <button data-unlock-level="999"><b>이벤트 장식</b><span>⭐</span><small>준비중</small></button>
+          </div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light plan-screen" data-screen="plan">
+        <nav class="topbar"><button data-go="home">‹</button><span></span><span></span></nav>
+        <section class="plan-goal-hero">
+          <img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="공부 친구" />
+          <h1>오늘의 목표는?</h1>
+          <p>하나를 선택하고 시작해요</p>
+        </section>
+        <section class="plan-goal-list">
+          <button type="button" data-plan-goal="mathematics"><i>➕</i><span>수학학습 변경</span></button>
+          <button type="button" data-plan-goal="english"><i>🔤</i><span>영어학습 변경</span></button>
+          <button type="button" data-plan-goal="reading"><i>📚</i><span>독서 변경</span></button>
+          <button type="button" data-plan-goal="science"><i>🔬</i><span>과학 변경</span></button>
+          <button type="button" data-plan-goal="hanja"><i>字</i><span>한자 변경</span></button>
+          <button type="button" data-plan-goal="custom"><i>✎</i><span>기타 직접 설정</span></button>
+        </section>
+        <section class="plan-goal-settings">
+          <h2>매일 반복할 목표량</h2>
+          <label class="plan-custom-title hidden" id="planCustomTitleField">
+            <span>목표 이름</span>
+            <input id="planCustomTitle" type="text" maxlength="30" placeholder="예: 영어 단어 복습" />
+          </label>
+          <div class="plan-goal-amount">
+            <label><span>기준</span><select id="planGoalMetric"><option value="questions">문제 수</option><option value="minutes">학습 시간</option></select></label>
+            <label><span>목표량</span><div><input id="planGoalTarget" type="number" min="1" max="300" value="10" /><b id="planGoalUnit">문제</b></div></label>
+          </div>
+          <p>한 번 저장하면 이 목표가 매일 자동으로 반복돼요.</p>
+        </section>
+        <button class="primary plan-next" type="button">다음</button>
+        <footer class="tabs app-tabs">
+          <button class="on" data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light study-empty-screen" data-screen="study-empty">
+        <header class="study-hero">
+          <div>
+            <h1><span data-profile-name-text>학생</span>님, 오늘도<br />즐겁게 학습해볼까?</h1>
+            <p>매일 조금씩, 나의 성장을 만들어가요!</p>
+          </div>
+          <img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="공부 친구" />
+          <button type="button" aria-label="알림">♧</button>
+        </header>
+        <section class="study-subjects">
+          <div class="study-section-title">
+            <h2>과목 선택</h2>
+            <span>주간 목표 <b id="studyWeeklyGoalCount">0</b> / 10</span>
+          </div>
+          <article class="learning-subject-entry" data-learning-subject="mathematics" role="button" tabindex="0" style="--subject-color:#35ad78; --subject-bg:#d9f3e7;">
+            <img src="assets/study-subject-math.png" alt="수학" />
+            <div><h3>수학</h3><p>문제 풀이로 실력을 키워요</p><div><i id="mathLearningProgressBar" style="width: 0%"></i></div></div>
+            <span id="mathLearningProgressText">0%</span><button type="button" data-learning-subject="mathematics" aria-label="수학 학습 열기">›</button>
+          </article>
+          <article class="subject-learning-entry" data-subject-learning="english" role="button" tabindex="0" style="--subject-color:#f3c84f; --subject-bg:#fff1c8;">
+            <img src="assets/study-subject-english.png" alt="영어" />
+            <div><h3>영어</h3><p>TOEFL 단어·문법·독해·듣기·말하기</p><div><i style="width: 0%"></i></div></div>
+            <span data-subject-progress="english">0%</span><button type="button" data-subject-learning="english" aria-label="영어 학습 열기">›</button>
+          </article>
+          <article class="subject-learning-entry" data-subject-learning="reading" role="button" tabindex="0" style="--subject-color:#aa96d8; --subject-bg:#e5ddf7;">
+            <img src="assets/study-subject-reading.png" alt="독서" />
+            <div><h3>독서</h3><p>다양한 책을 읽고 생각을 넓혀요</p><div><i style="width: 0%"></i></div></div>
+            <span data-subject-progress="reading">0%</span><button type="button" data-subject-learning="reading" aria-label="독서 학습 열기">›</button>
+          </article>
+          <article class="subject-learning-entry" data-subject-learning="science" role="button" tabindex="0" style="--subject-color:#62add6; --subject-bg:#d9eef8;">
+            <img src="assets/study-subject-science.png" alt="과학" />
+            <div><h3>과학</h3><p>실험과 탐구로 과학을 즐겨요</p><div><i style="width: 0%"></i></div></div>
+            <span data-subject-progress="science">0%</span><button type="button" data-subject-learning="science" aria-label="과학 학습 열기">›</button>
+          </article>
+          <article class="subject-learning-entry" data-subject-learning="hanja" role="button" tabindex="0" style="--subject-color:#ff895f; --subject-bg:#ffe1d5;">
+            <img src="assets/study-subject-hanja.png" alt="한자" />
+            <div><h3>한자</h3><p>한자를 배우고 어휘력을 키워요</p><div><i style="width: 0%"></i></div></div>
+            <span data-subject-progress="hanja">0%</span><button type="button" data-subject-learning="hanja" aria-label="한자 학습 열기">›</button>
+          </article>
+        </section>
+        <section class="study-goal-card">
+          <span>🌱</span>
+          <div><h2>오늘의 목표</h2><p id="studyDailyGoalText">목표를 설정하고 매일 이어가세요.</p></div>
+          <button type="button" data-go="plan">목표 확인하기</button>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button class="on" data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light subject-learning-screen" data-screen="subject-learning">
+        <header class="learning-page-nav">
+          <button type="button" data-go="study-empty" aria-label="과목 선택으로 돌아가기">‹</button>
+          <div><span id="subjectLearningEyebrow">과목별 학습</span><h1 id="subjectLearningTitle">영어</h1></div>
+          <span aria-hidden="true"></span>
+        </header>
+        <nav class="subject-learning-tree" id="subjectLearningTree" aria-label="학습 단계"></nav>
+        <section class="subject-learning-progress">
+          <div><span id="subjectLearningStage">기본 문제</span><b id="subjectLearningCount">1 / 5</b></div>
+          <i><em id="subjectLearningBar"></em></i>
+          <p id="subjectLearningMastery">모든 문제를 맞히면 다음 단계가 열려요.</p>
+        </section>
+        <main class="subject-learning-main" id="subjectLearningMain"></main>
+        <section class="subject-learning-actions" id="subjectLearningActions"></section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button class="on" data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light learning-map-screen" data-screen="learning-map">
+        <header class="learning-page-nav">
+          <button type="button" data-learning-action="math-map-back" aria-label="이전 화면으로 돌아가기">‹</button>
+          <div><span>수학</span><h1>수학 학습맵</h1></div>
+          <span aria-hidden="true"></span>
+        </header>
+        <button type="button" class="learning-preview-button math-wrong-note-top-button" data-learning-action="open-math-wrong-note">오답노트</button>
+        <section class="english-roadmap-summary math-roadmap-summary">
+          <div>
+            <span>현재 과정</span>
+            <h2 id="learningMapCourseTitle">수학 전체 과정</h2>
+            <p>진도 <strong id="learningMapProgress">0%</strong> · <span id="learningMapStatus">개념 알아보기부터 시작해요.</span></p>
+            <i><em id="learningMapProgressBar"></em></i>
+          </div>
+          <img src="assets/study-subject-math.png" alt="수학 학습" />
+        </section>
+        <section class="learning-path-section math-roadmap-path">
+          <div class="learning-section-heading">
+            <h2 id="learningMapHeading">수학 학습 로드맵</h2>
+            <span id="learningCompletedStages">0 / 7 완료</span>
+          </div>
+          <button type="button" class="learning-preview-button" id="learningMapStartButton" data-learning-action="open-current-math-stage" hidden>단원 학습</button>
+          <div class="learning-stage-map" id="learningStageMap"></div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button class="on" data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light learning-lesson-screen" data-screen="learning-lesson">
+        <header class="learning-page-nav learning-lesson-nav">
+          <button type="button" data-learning-action="pause-to-map" aria-label="학습맵으로 돌아가기">‹</button>
+          <div><span id="learningLessonUnit">1단원 유리수와 순환소수</span><h1 id="learningLessonTitle">개념 알아보기</h1></div>
+          <span aria-hidden="true"></span>
+        </header>
+        <section class="learning-lesson-progress">
+          <div><i id="learningLessonProgressBar"></i></div>
+          <span id="learningLessonProgressText">학습 준비</span>
+        </section>
+        <section class="learning-concept-card" id="learningConceptCard" hidden>
+          <span id="learningConceptEyebrow">핵심 개념 1</span>
+          <h2 id="learningConceptTitle"></h2>
+          <p id="learningConceptBody"></p>
+          <div id="learningConceptFormula"></div>
+          <p class="learning-concept-example" id="learningConceptExample"></p>
+          <div class="learning-concept-actions">
+            <button type="button" class="learning-secondary-button" data-learning-action="previous-concept">이전</button>
+            <button type="button" class="learning-primary-button" data-learning-action="next-concept">다음</button>
+          </div>
+        </section>
+        <section class="learning-question-wrap" id="learningQuestionWrap" hidden>
+          <div class="learning-question-meta">
+            <span id="learningQuestionNumber">문제 1</span>
+            <span id="learningQuestionDifficulty">난이도 하</span>
+          </div>
+          <article class="learning-question-card">
+            <span id="learningQuestionConcept">유리수</span>
+            <h2 id="learningQuestionText"></h2>
+            <div class="learning-answer-area" id="learningAnswerArea"></div>
+          </article>
+          <div class="learning-feedback" id="learningFeedback" hidden>
+            <strong id="learningFeedbackTitle"></strong>
+            <p id="learningFeedbackText"></p>
+          </div>
+          <div class="learning-question-actions">
+            <button type="button" class="learning-secondary-button" data-learning-action="previous-question">이전</button>
+            <button type="button" class="learning-secondary-button" data-learning-action="show-hint">힌트</button>
+            <button type="button" class="learning-secondary-button" data-learning-action="reveal-answer">풀이 보기</button>
+            <button type="button" class="learning-secondary-button" data-learning-action="open-notebook">계산 노트</button>
+            <button type="button" class="learning-secondary-button" data-learning-action="pause-to-map">여기까지</button>
+            <button type="button" class="learning-primary-button" id="learningSubmitButton" data-learning-action="submit-answer">정답 확인</button>
+          </div>
+          <section class="learning-notebook" id="learningNotebook" hidden>
+            <div><b>계산 노트</b><button type="button" data-learning-action="clear-notebook">지우기</button><button type="button" data-learning-action="close-notebook">닫기</button></div>
+            <canvas id="learningNotebookCanvas" aria-label="손글씨 계산 노트"></canvas>
+          </section>
+          <button type="button" class="learning-concept-return" id="learningConceptReturn" data-learning-action="return-to-concept" hidden>이 개념 다시 보기</button>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button class="on" data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light learning-stage-result-screen" data-screen="learning-stage-result">
+        <header class="learning-page-nav">
+          <button type="button" data-learning-action="result-to-map" aria-label="학습맵으로 돌아가기">‹</button>
+          <div><span>학습 결과</span><h1 id="learningResultStageTitle">기본 문제</h1></div>
+          <span aria-hidden="true"></span>
+        </header>
+        <section class="learning-result-hero">
+          <span id="learningResultBadge">✓</span>
+          <div class="learning-reward-chest" id="learningRewardChest" aria-hidden="true" hidden>
+            <div class="learning-reward-glow"></div>
+            <div class="learning-reward-coins">
+              <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
+            </div>
+            <div class="learning-treasure-chest">
+              <i class="learning-chest-lid"><b></b></i>
+              <i class="learning-chest-body"><b></b></i>
+            </div>
+          </div>
+          <h2 id="learningResultTitle">단계를 완료했어요!</h2>
+          <p id="learningResultMessage">다음 단계가 열렸어요.</p>
+        </section>
+        <section class="learning-result-grid">
+          <article><span>맞힌 문제</span><strong id="learningResultCorrect">0 / 5</strong></article>
+          <article><span>정답률</span><strong id="learningResultAccuracy">0%</strong></article>
+          <article><span>획득 경험치</span><strong id="learningResultXp">+0 XP</strong></article>
+          <article><span>획득 코인</span><strong id="learningResultCoins">+0</strong></article>
+          <article><span>최대 연속 정답</span><strong id="learningResultStreak">0</strong></article>
+          <article><span>틀린 문제</span><strong id="learningResultWrong">0</strong></article>
+          <article><span>소요시간</span><strong id="learningResultTime">0분 0초</strong></article>
+        </section>
+        <section class="learning-weak-card">
+          <span>취약 개념</span>
+          <strong id="learningResultWeak">없음</strong>
+          <p id="learningResultRecommendation">안정적으로 이해하고 있어요.</p>
+        </section>
+        <div class="learning-result-actions">
+          <button type="button" class="learning-primary-button" id="learningNextStageButton" data-learning-action="next-stage">다음 단계</button>
+          <button type="button" class="learning-secondary-button" id="learningRetryButton" data-learning-action="retry-wrong">틀린 문제 다시 풀기</button>
+          <button type="button" class="learning-text-button" data-learning-action="result-to-map">단원으로 돌아가기</button>
+        </div>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button class="on" data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light study-room-screen" data-screen="study-room">
+        <header class="study-room-head">
+          <button type="button" data-go="home">‹</button>
+          <button type="button" aria-label="알림">♧</button>
+          <div>
+            <h1>공부방</h1>
+            <p>함께 공부하면 더 즐거워요!</p>
+          </div>
+          <img class="room-hero-main" src="assets/profile-avatar-main-cutout.png" alt="공부 친구" />
+          <img class="room-hero-sub" src="assets/profile-avatar-yellow-cutout.png" alt="공부 친구" />
+        </header>
+        <section class="study-room-actions">
+          <article data-go="study-room-create">
+            <span>⌂</span>
+            <div><h2>공부방 열기</h2></div>
+            <button type="button" data-go="study-room-create">›</button>
+          </article>
+          <article data-go="study-room-find">
+            <span>⌕</span>
+            <div><h2>공부방 찾기</h2></div>
+            <button type="button" data-go="study-room-find">›</button>
+          </article>
+        </section>
+        <section class="study-room-list">
+          <div class="study-room-title"><h2>진행 중인 공부방</h2><button type="button">더보기 ›</button></div>
+          <article>
+            <img src="assets/profile-avatar-calm-cutout.png" alt="" />
+            <div><h3>수학 마스터 도전! 👑</h3><p>#중2 수학  #문제풀이  #등급UP</p><small>8명</small></div>
+            <span>공부 중<br /><b>12:30 남음</b><button type="button" data-go="study-room-detail">입장하기</button></span>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-reading-cutout.png" alt="" />
+            <div><h3>영어 단어 정복!</h3><p>#영어  #단어암기  #매일10개</p><small>6명</small></div>
+            <span>공부 중<br /><b>08:45 남음</b><button type="button" data-go="study-room-detail">입장하기</button></span>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="" />
+            <div><h3>독서 토론방</h3><p>#책읽기  #생각나누기  #토론</p><small>10명</small></div>
+            <span>공부 중<br /><b>25:10 남음</b><button type="button" data-go="study-room-detail">입장하기</button></span>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-angry-cutout.png" alt="" />
+            <div><h3>과학 실험 탐구</h3><p>#과학  #실험  #탐구력UP</p><small>5명</small></div>
+            <span>공부 중<br /><b>15:30 남음</b><button type="button" data-go="study-room-detail">입장하기</button></span>
+          </article>
+        </section>
+        <section class="study-room-banner">
+          <img src="assets/profile-avatar-main-cutout.png" alt="" />
+          <div><h2>공부방에서 함께하면 집중력도 UP!</h2><p>서로 응원하고 목표를 달성해요.</p></div>
+          <button type="button" data-go="result">기록</button>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button class="on" data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light study-room-create-screen" data-screen="study-room-create">
+        <nav class="room-create-nav">
+          <button type="button" data-go="study-room">‹</button>
+          <h1>공부방 열기</h1>
+          <span></span>
+        </nav>
+        <header class="room-create-hero">
+          <div>
+            <h2>나만의 공부방을<br />만들어보세요!</h2>
+            <p>친구들과 함께 공부하면<br />더 즐겁고, 더 성장할 수 있어요.</p>
+          </div>
+          <div class="room-create-friends">
+            <img src="assets/profile-avatar-reading-cutout.png" alt="공부 친구" />
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="공부 친구" />
+          </div>
+        </header>
+        <section class="room-create-form">
+          <label>
+            <span>▯</span>
+            <b>공부방 이름</b>
+            <input id="roomCreateName" type="text" maxlength="20" placeholder="예) 수학 마스터 도전!" />
+            <em>0 / 20</em>
+          </label>
+          <label>
+            <span>▤</span>
+            <b>공부방 소개</b>
+            <textarea id="roomCreateDescription" maxlength="60" placeholder="공부방을 소개해 주세요!"></textarea>
+            <em>0 / 60</em>
+          </label>
+          <label>
+            <span>▥</span>
+            <b>주요 과목</b>
+            <select id="roomCreateSubject">
+              <option>과목을 선택하세요</option>
+              <option>수학</option>
+              <option>영어</option>
+              <option>독서</option>
+              <option>과학</option>
+              <option>한자</option>
+            </select>
+          </label>
+          <label>
+            <span>▱</span>
+            <b>학년/수준</b>
+            <select id="roomCreateLevel">
+              <option>학년 또는 수준을 선택하세요</option>
+              <option>초등 4학년</option>
+              <option>초등 5학년</option>
+              <option>초등 6학년</option>
+              <option>중학교 1학년</option>
+              <option>중학교 2학년</option>
+              <option>중학교 3학년</option>
+              <option>고등학생</option>
+            </select>
+          </label>
+          <div class="room-create-public">
+            <span>◎</span>
+            <b>공개 설정</b>
+            <button class="on" type="button">◎ 전체 공개</button>
+            <button type="button">▣ 비공개</button>
+          </div>
+        </section>
+        <section class="room-create-tip">
+          <span>💡</span>
+          <p><b>좋은 공부방 이름 TIP!</b><br />목표나 특징이 잘 드러나는 이름이 좋아요!<br />예) 매일 30분 수학 / 중2 수학 정복 / 독서 습관 만들기</p>
+        </section>
+        <button class="room-create-submit" id="roomCreateSubmit" type="button">＋ 공부방 만들기</button>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button><button data-go="study-empty"><span>학습</span></button><button class="on" data-go="study-room"><span>공부방</span></button><button data-go="result"><span>기록</span></button><button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light study-room-find-screen" data-screen="study-room-find">
+        <nav class="room-find-nav">
+          <button type="button" data-go="study-room">‹</button>
+          <h1>공부방 찾기</h1>
+          <span></span>
+        </nav>
+        <header class="room-find-hero">
+          <div>
+            <h2>나에게 맞는<br />공부방을 찾아보세요!</h2>
+            <p>함께 공부하면 더 즐겁고, 더 성장할 수 있어요.</p>
+          </div>
+          <div class="room-find-friends">
+            <img src="assets/profile-avatar-main-cutout.png" alt="공부 친구" />
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="공부 친구" />
+          </div>
+        </header>
+        <label class="room-search-box">
+          <span>⌕</span>
+          <input type="search" placeholder="공부방 이름으로 검색" />
+        </label>
+        <div class="room-find-title">
+          <h2>전체 공부방</h2>
+          <button type="button">☷ 필터⌄</button>
+        </div>
+        <section class="room-find-list">
+          <article>
+            <img src="assets/profile-avatar-calm-cutout.png" alt="" />
+            <div><h3>수학 마스터 도전! 👑</h3><p><b>함께 공부방</b><span>수학</span></p><em>문제풀이와 개념정리를 함께해요!<br />우리 함께 수학 실력 UP!</em><small>♙ 8 / 10명　|　◷ 오늘 12:30</small></div>
+            <aside><strong>모집중</strong><button type="button" data-go="study-room-detail">입장하기</button></aside>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-reading-cutout.png" alt="" />
+            <div><h3>영어 단어 정복!</h3><p><b>함께 공부방</b><span>영어</span></p><em>매일 10개 단어씩!<br />꾸준함이 실력을 만든다.</em><small>♙ 6 / 8명　|　◷ 오늘 08:45</small></div>
+            <aside><strong>모집중</strong><button type="button" data-go="study-room-detail">입장하기</button></aside>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="" />
+            <div><h3>독서 토론방 📖</h3><p><b class="human">인간 공부방</b><span>독서</span></p><em>책을 읽고 생각을 나누며<br />더 깊게 이해해요!</em><small>♙ 10 / 12명　|　◷ 어제 19:20</small></div>
+            <aside><strong>모집중</strong><button type="button" data-go="study-room-detail">입장하기</button></aside>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-fresh-cutout.png" alt="" />
+            <div><h3>과학 실험 탐구 🧪</h3><p><b class="human">인간 공부방</b><span>과학</span></p><em>실험과 탐구로 과학 원리를<br />재미있게 배워요!</em><small>♙ 7 / 10명　|　◷ 오늘 16:00</small></div>
+            <aside><strong>모집중</strong><button type="button" data-go="study-room-detail">입장하기</button></aside>
+          </article>
+          <article>
+            <img src="assets/profile-avatar-hanja-cutout.png" alt="" />
+            <div><h3>홈스쿨 함께 공부해요 🏠</h3><p><b class="human">인간 공부방</b><span>홈스쿨</span></p><em>홈스쿨 친구들과 함께 계획 세우고<br />서로 응원하며 성장해요!</em><small>♙ 5 / 6명　|　◷ 오늘 09:00</small></div>
+            <aside><strong>모집중</strong><button type="button" data-go="study-room-detail">입장하기</button></aside>
+          </article>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button class="on" data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>더보기</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light study-room-detail-screen" data-screen="study-room-detail">
+        <nav class="room-detail-nav">
+          <button type="button" data-go="study-room-find">‹</button>
+          <h1>공부방</h1>
+          <button type="button" aria-label="더보기">•••</button>
+        </nav>
+        <section class="room-detail-summary">
+          <div class="room-detail-cover"><img src="assets/profile-avatar-main-cutout.png" alt="공부 중인 친구" /></div>
+          <div>
+            <h2 data-room-name>공부방</h2>
+            <span data-room-subject>수학</span>
+            <p><b>◎</b> 공부 목표<br />이차방정식 완벽 이해!</p>
+            <p><b>♙</b> 참여 인원&nbsp; <span data-room-time>함께 공부 0분</span></p>
+          </div>
+        </section>
+        <section class="room-detail-members">
+          <h2>멤버</h2>
+          <div class="room-member-grid">
+            <article><i></i><img src="assets/profile-avatar-main-cutout.png" alt="나" /><h3>나</h3><span>공부 중</span></article>
+            <article><i></i><img src="assets/profile-avatar-yellow-cutout.png" alt="민지" /><h3>민지</h3><span>공부 중</span></article>
+            <article class="away"><i></i><img src="assets/profile-avatar-reading-cutout.png" alt="태호" /><h3>태호</h3><span>자리 비움</span></article>
+            <article><i></i><img src="assets/profile-avatar-calm-cutout.png" alt="서연" /><h3>서연</h3><span>공부 중</span></article>
+            <article class="away"><i></i><img src="assets/profile-avatar-hanja-cutout.png" alt="하준" /><h3>하준</h3><span>자리 비움</span></article>
+            <article><i></i><img src="assets/profile-avatar-fresh-cutout.png" alt="지우" /><h3>지우</h3><span>공부 중</span></article>
+          </div>
+        </section>
+        <section class="room-detail-topic">
+          <h2>현재 공부 주제</h2>
+          <article><b>x²</b><div><h3>이차방정식</h3><p>레벨 테스트를 통해 내 실력을 확인해보세요!</p></div></article>
+        </section>
+        <section class="room-detail-actions">
+          <button type="button" data-open-test-subject="standard"><b>✓</b><span>레벨 테스트<small>내 실력 확인하기</small></span><em>›</em></button>
+          <button type="button" data-go="study-empty"><b>▤</b><span>스터디 시작<small>본격적으로 공부하기</small></span><em>›</em></button>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button class="on" data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light quiz-screen" data-screen="quiz">
+        <nav class="topbar center"><button data-go="level-test">‹</button><h2 id="quizTitle">수학 레벨테스트</h2><button type="button" id="quitTest">그만두기</button></nav>
+        <div class="progress ai-progress"><div><i id="quizProgress"></i></div><span id="quizCount">AI 분석중</span></div>
+        <div class="quiz-route" id="quizRoute">AI가 현재 실력을 분석하고 있습니다.</div>
+        <section class="ai-analysis">
+          <div><span>현재 분석</span><strong id="currentAnalysis">계산력</strong></div>
+          <div><span>확인된 영역</span><strong id="checkedAnalysis">분석 시작</strong></div>
+          <div><span>다음 분석</span><strong id="nextAnalysis">분수</strong></div>
+        </section>
+        <div class="timer-card"><span id="timeLabel">전체 남은 시간</span><strong id="timeLeft">0:00</strong><button id="stopTestTop">이전 문제</button></div>
+        <section class="quiz-visual">
+          <img src="assets/profile-avatar-calm-cutout.png" alt="문제를 생각하는 친구" />
+          <h2>다음 문제를 풀어볼까요?</h2>
+          <p id="quizConceptSub">수학 · 분수의 덧셈과 뺄셈</p>
+        </section>
+        <section class="question">
+          <span id="quizConcept">Q.1</span>
+          <h1 id="quizPrompt">다음 계산의 결과는?</h1>
+          <strong id="quizProblem">3 + 4 =</strong>
+        </section>
+        <div class="answers" id="answerList">
+          <button data-answer="6">6</button><button data-answer="7">7</button><button data-answer="8">8</button><button data-answer="9">9</button>
+        </div>
+        <aside class="toast hidden" id="quizToast"><span id="toastIcon">🏆</span><div><strong id="toastTitle">선택 완료</strong><p id="toastCopy">다음 문제로 이어서 진단할게요.</p></div></aside>
+        <aside class="explanation-card hidden" id="reviewExplanation"></aside>
+        <div class="quiz-actions" id="quizActions">
+          <button class="secondary" id="stopTest">이전 문제</button>
+          <button class="secondary unknown" id="unknownQuestion">모름</button>
+          <button class="primary" id="nextQuestion">다음 문제</button>
+        </div>
+        <button class="secondary pause-test" id="pauseTest">오늘은 여기까지</button>
+        <div class="review-actions hidden" id="reviewActions">
+          <button class="secondary" id="backToResult">결과로 돌아가기</button>
+        </div>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light quiz-screen elite-quiz-screen" data-screen="elite-quiz">
+        <nav class="topbar center">
+          <button type="button" id="eliteQuitTop">그만두기</button>
+          <h2>Elite 레벨테스트</h2>
+          <span></span>
+        </nav>
+        <div class="progress ai-progress">
+          <div><i id="eliteProgress"></i></div>
+          <span id="eliteProgressLabel">상위권 분석 중</span>
+        </div>
+        <div class="quiz-route" id="eliteRoute">선택 학년의 상위권 사고력을 진단하고 있습니다.</div>
+        <section class="ai-analysis elite-analysis">
+          <div><span>현재 영역</span><strong id="eliteCurrentConcept">문제 해결력</strong></div>
+          <div><span>난이도</span><strong>상위 5%</strong></div>
+          <div><span>남은 시간</span><strong id="eliteTimeLeft">20:00</strong></div>
+        </section>
+        <section class="quiz-visual elite-quiz-visual">
+          <img src="assets/profile-avatar-hanja-cutout.png" alt="엘리트 문제를 생각하는 친구" />
+          <h2>한 단계 깊게 생각해볼까요?</h2>
+          <p id="eliteConceptSub">여러 개념을 연결하는 심화 문제</p>
+        </section>
+        <div id="eliteQuestionArea">
+          <section class="question elite-question">
+            <span id="eliteQuestionNumber">E.1</span>
+            <h1 id="elitePrompt">다음 문제를 해결하세요.</h1>
+            <strong id="eliteProblem"></strong>
+          </section>
+          <div class="answers" id="eliteAnswerList"></div>
+          <p class="elite-selection-message" id="eliteSelectionMessage">답을 선택한 뒤 다음 문제를 눌러주세요.</p>
+          <div class="quiz-actions elite-actions">
+            <button class="secondary" type="button" id="elitePrevious">이전 문제</button>
+            <button class="secondary unknown" type="button" id="eliteUnknown">모름</button>
+            <button class="primary" type="button" id="eliteNext">다음 문제</button>
+          </div>
+          <button class="secondary pause-test elite-quit" type="button" id="eliteQuit">오늘은 여기까지</button>
+        </div>
+        <section class="elite-result hidden" id="eliteResultPanel">
+          <span>Elite 분석 완료</span>
+          <h1 id="eliteResultTitle">상위권 사고력 진단 결과</h1>
+          <div class="elite-result-score"><strong id="eliteResultScore">0점</strong><small id="eliteResultCount">0문제 중 0문제 정답</small></div>
+          <p id="eliteResultCopy"></p>
+          <button class="primary" type="button" id="eliteRestart">다시 도전하기</button>
+          <button class="secondary" type="button" id="eliteResultHome">홈으로</button>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light result-stats-screen" data-screen="result">
+        <section class="growth-stats-ui">
+          <div class="growth-period-tabs">
+            <button type="button" data-period="daily">일간</button>
+            <button type="button" class="on" data-period="weekly">주간</button>
+            <button type="button" data-period="monthly">월간</button>
+          </div>
+          <section class="growth-card focus-card">
+            <h2>이번 주 집중도</h2>
+            <strong>85%</strong>
+            <svg viewBox="0 0 280 150" aria-label="이번 주 집중도 그래프">
+              <line x1="24" y1="34" x2="256" y2="34"></line>
+              <line x1="24" y1="74" x2="256" y2="74"></line>
+              <line x1="24" y1="114" x2="256" y2="114"></line>
+              <path class="area" d="M24 108 C48 78 66 72 88 82 S126 82 148 54 S184 74 202 42 S238 28 256 20 L256 132 L24 132 Z"></path>
+              <path class="line" d="M24 108 C48 78 66 72 88 82 S126 82 148 54 S184 74 202 42 S238 28 256 20"></path>
+              <g>
+                <text x="20" y="28">100</text>
+                <text x="20" y="72">50</text>
+                <text x="24" y="142">월</text>
+                <text x="62" y="142">화</text>
+                <text x="100" y="142">수</text>
+                <text x="138" y="142">목</text>
+                <text x="176" y="142">금</text>
+                <text x="214" y="142">토</text>
+                <text x="252" y="142">일</text>
+              </g>
+            </svg>
+          </section>
+          <div class="growth-metrics">
+            <article>
+              <span>◷ 총 학습 시간</span>
+              <strong>12시간 30분</strong>
+              <small>지난 주보다 <b>+2시간</b></small>
+            </article>
+            <article>
+              <span>☆ 완료한 목표</span>
+              <strong>8 / 10개</strong>
+              <small>지난 주보다 <b>+2개</b></small>
+            </article>
+          </div>
+          <section class="subject-time">
+            <div class="section-row">
+              <h2>오늘 과목별 학습 시간</h2>
+            </div>
+            <article><i>▣</i><b>수학</b><span>5시간 20분</span><div><em style="width: 92%"></em></div></article>
+            <article><i>▥</i><b>영어</b><span>3시간 10분</span><div><em style="width: 68%"></em></div></article>
+            <article><i>▤</i><b>국어</b><span>2시간 40분</span><div><em style="width: 55%"></em></div></article>
+            <article><i>▦</i><b>과학</b><span>1시간 20분</span><div><em style="width: 38%"></em></div></article>
+            <article><i>字</i><b>한자</b><span>0분</span><div><em style="width: 0%"></em></div></article>
+          </section>
+        </section>
+        <nav class="topbar center"><button data-go="level-test">‹</button><h2>레벨테스트 결과</h2><span></span></nav>
+        <div class="grade diagnostic"><div id="resultLevel">E4</div></div>
+        <h1 class="center-title">진단 결과를 정리했어요</h1>
+        <p class="center-copy" id="resultStartCopy">초등 4-2 분수의 덧셈에서 막힘이 보여요.</p>
+        <div class="stats four">
+          <article><span>AI 분석</span><strong id="resultTotal">분석 완료</strong><small>개념별 추론 기준</small></article>
+          <article><span>진단 점수</span><strong id="stableZone">92점</strong></article>
+          <article><span>오답</span><strong id="wrongCount">0개</strong></article>
+          <article><span>헷갈림</span><strong id="startLevel">1개</strong></article>
+        </div>
+        <section class="concept-map">
+          <div class="panel-title"><h2>개념별 진단</h2><span>막히는 지점 표시</span></div>
+          <ul id="conceptMapList">
+            <li class="ok"><b>초등 1~3</b><span>기초 연산 안정</span></li>
+            <li class="warn"><b id="blockedConcept">초등 4-2 분수의 덧셈</b><span>헷갈린 개념</span></li>
+          </ul>
+        </section>
+        <section class="adaptive-summary">
+          <article><span>강한 영역</span><strong id="strongDomains">계산력</strong></article>
+          <article><span>약한 영역</span><strong id="weakDomains">분수, 비율</strong></article>
+          <article><span>AI 확신도</span><strong id="confidenceDomains">분수 87% · 비율 45%</strong></article>
+          <article><span>개념 숙련도</span><strong id="masteryDomains">분수: 기초 이해</strong></article>
+          <article><span>추천 학습 경로</span><strong id="learningPath">초6 비와 비율 → 비례식 → 문자식</strong></article>
+        </section>
+        <section class="review-card">
+          <div class="panel-title"><h2>오답 리뷰</h2><span id="wrongReviewSummary">오답 0개</span></div>
+          <ul id="wrongReviewList">
+            <li class="empty">오답 문항이 없습니다.</li>
+          </ul>
+        </section>
+        <section class="bonus">
+          <div><span>⭐</span><b>맞춤 학습 시작 보너스<br /><em>+50 코인</em></b></div><button data-go="coins">›</button>
+          <div class="week"><i>월</i><i>화</i><i>수</i><i>목</i><i class="today">금</i><i>토</i><i>일</i></div>
+        </section>
+        <button class="primary" id="continueLearningAfterTest" type="button">이어서 공부하기</button>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button class="on" data-go="result"><span>기록</span></button>
+          <button data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light coin-redesign" data-screen="coins">
+        <section class="coin-overview-ui">
+          <button class="coin-back" data-go="result">‹</button>
+          <div class="coin-hero">
+            <div>
+              <h1>내 코인</h1>
+              <p>열심히 공부하고 코인을<br />모아봐요</p>
+            </div>
+            <div class="coin-fire-friend"><span></span></div>
+          </div>
+          <section class="coin-balance-card">
+            <span>보유 코인</span>
+            <strong><i>C</i> 2,450</strong>
+            <button>코인 내역 보기</button>
+          </section>
+        </section>
+        <nav class="topbar center"><button data-go="result">‹</button><h2>내 코인</h2><button data-go="home">⌕</button></nav>
+        <div class="seg"><button class="on">내 코인</button><button>코인 내역</button></div>
+        <section class="coin-card">
+          <span>보유 코인</span><strong>🪙 2,450</strong>
+          <img src="https://cdn-icons-png.flaticon.com/512/272/272525.png" alt="" />
+          <div><p>이번 달 획득<br /><b>🪙 1,250</b></p><p>이번 달 사용<br /><b>◉ 0</b></p></div>
+        </section>
+        <article class="menu-card"><div><h3>용돈 신청</h3><p>코인을 용돈으로 바꿔요.</p></div><span>👛</span></article>
+        <article class="menu-card"><div><h3>목표 설정</h3><p>목표 코인을 설정해요.</p></div><span>🎯</span></article>
+        <article class="menu-card small"><h3>교환 비율 안내</h3><p>10,000 코인 = 1,000원<br />부모님의 승인이 필요해요.</p></article>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light parent-redesign" data-screen="parent">
+        <button class="settings-button settings-trigger" id="settingsMenuButton" type="button">⚙</button>
+        <section class="settings-popover hidden" id="settingsPopover">
+          <button type="button"><span>♧ 알림 설정</span><b>›</b></button>
+          <button type="button"><span>⚙ 계정 설정</span><b>›</b></button>
+          <button type="button"><span>? 고객센터</span><b>›</b></button>
+          <button type="button" id="menuLogoutButton"><span>↪ 로그아웃</span><b>›</b></button>
+        </section>
+        <section class="parent-summary-ui">
+          <section class="menu-profile">
+            <div class="menu-avatar-wrap">
+              <img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="학생 프로필" />
+              <button type="button" data-go="profile-change">✎</button>
+            </div>
+            <h1 data-profile-name-text>학생</h1>
+            <p data-profile-email-text></p>
+          </section>
+          <section class="menu-level-card">
+            <div>
+              <h2>레벨 1</h2>
+              <span>EXP 0 / 300</span>
+            </div>
+            <i>⭐</i>
+            <div class="menu-exp-bar"><em></em></div>
+          </section>
+          <section class="menu-activity-summary">
+            <h2>내 활동 요약</h2>
+            <dl>
+              <dt>총 공부 시간</dt><dd>0분</dd>
+              <dt>획득 코인</dt><dd>0</dd>
+              <dt>완료한 미션</dt><dd>0개</dd>
+              <dt>연속 공부</dt><dd>0일</dd>
+            </dl>
+          </section>
+          <section class="all-menu-card">
+            <button type="button" data-go="profile-change"><span>프로필변경</span><b>›</b></button>
+            <button type="button" data-go="ranking"><span>전체랭킹</span><b>›</b></button>
+            <button type="button" data-go="friends"><span>친구목록</span><b>›</b></button>
+            <button type="button" data-go="coins"><span>코인교환</span><b>›</b></button>
+          </section>
+        </section>
+        <header class="parent-head"><h1>부모님 홈</h1><div><button data-go="home">☰</button><button data-go="coins">♧</button></div></header>
+        <div class="parent-profile">
+          <img src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=160&q=80" alt="부모 프로필" />
+          <div><h2><span data-profile-name-text>학생</span>님</h2><p>환영합니다!</p></div>
+        </div>
+        <section class="summary">
+          <h2>이번 달 학습 요약</h2>
+          <div><p>전체 공부 시간<br /><b>12시간 45분</b></p><p>푼 문제 풀이<br /><b>523문제</b></p><p>평균 정답률<br /><b>89%</b></p></div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light ranking-screen" data-screen="ranking">
+        <header class="ranking-head">
+          <button type="button" data-go="parent">‹</button>
+          <h1>친구와 함께 성장해요</h1>
+          <p>서로 응원하고 함께 목표를 달성해봐요</p>
+          <div class="ranking-hero-friends">
+            <img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="내 프로필" />
+            <span>♥</span>
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="지안" />
+          </div>
+        </header>
+        <section class="ranking-card">
+          <div class="ranking-tabs">
+            <button type="button" data-go="friends">친구 목록</button>
+            <button class="on" type="button">랭킹</button>
+          </div>
+          <div class="ranking-podium">
+            <article class="second">
+              <img src="assets/profile-avatar-calm-cutout.png" alt="민지" />
+              <b>민지</b>
+              <span>10,300코인</span>
+              <i>2</i>
+            </article>
+            <article class="first">
+              <em>👑</em>
+              <img src="assets/profile-avatar-yellow-cutout.png" alt="지안" />
+              <b>지안</b>
+              <span>12,450코인</span>
+              <i>1</i>
+            </article>
+            <article class="third">
+              <img src="assets/profile-avatar-sad-cutout.png" alt="서연" />
+              <b>서연</b>
+              <span>9,820코인</span>
+              <i>3</i>
+            </article>
+          </div>
+          <div class="ranking-list">
+            <article><b>4</b><img src="assets/profile-avatar-hanja-cutout.png" alt="" /><span>하은</span><em>8,450코인</em></article>
+            <article><b>5</b><img src="assets/profile-avatar-reading-cutout.png" alt="" /><span>태호</span><em>7,230코인</em></article>
+            <article class="me"><b>6</b><img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="" /><span>나</span><em>6,880코인</em></article>
+            <article><b>7</b><img src="assets/profile-avatar-sad-cutout.png" alt="" /><span>예린</span><em>5,440코인</em></article>
+            <article><b>8</b><img src="assets/profile-avatar-joy-cutout.png" alt="" /><span>준수</span><em>4,810코인</em></article>
+          </div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light friends-screen" data-screen="friends">
+        <header class="ranking-head">
+          <button type="button" data-go="parent">‹</button>
+          <h1>친구 목록</h1>
+          <p>함께 공부하는 친구들을 확인해요</p>
+          <div class="ranking-hero-friends">
+            <img data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="내 프로필" />
+            <span>♥</span>
+            <img src="assets/profile-avatar-yellow-cutout.png" alt="지안" />
+          </div>
+        </header>
+        <section class="ranking-card">
+          <div class="ranking-tabs">
+            <button class="on" type="button">친구 목록</button>
+            <button type="button" data-go="ranking">랭킹</button>
+          </div>
+          <div class="friend-list">
+            <article><img src="assets/profile-avatar-yellow-cutout.png" alt="" /><div><b>지안</b><span>12,450코인</span></div><em>응원하기</em></article>
+            <article><img src="assets/profile-avatar-sad-cutout.png" alt="" /><div><b>서연</b><span>9,820코인</span></div><em>응원하기</em></article>
+            <article><img src="assets/profile-avatar-hanja-cutout.png" alt="" /><div><b>하은</b><span>8,450코인</span></div><em>응원하기</em></article>
+            <article><img src="assets/profile-avatar-reading-cutout.png" alt="" /><div><b>태호</b><span>7,230코인</span></div><em>응원하기</em></article>
+          </div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light profile-change-screen" data-screen="profile-change">
+        <nav class="profile-change-nav">
+          <button data-go="parent">‹</button>
+          <h1>프로필 꾸미기</h1>
+          <span></span>
+        </nav>
+        <header class="profile-change-head">
+          <section class="profile-change-preview">
+            <div class="profile-change-avatar">
+              <img id="profileChangePreview" data-profile-avatar src="assets/profile-avatar-main-cutout.png" alt="선택한 프로필" />
+            </div>
+            <div class="profile-change-title">
+              <h2><span data-profile-name-text>학생</span></h2>
+              <div class="profile-badges"><span>Lv. 1</span><span>0일 연속</span></div>
+              <p>열심히 공부하며 꿈을 향해 달려가요!</p>
+            </div>
+          </section>
+          <aside class="profile-side-card">
+            <h2>내 활동 요약</h2>
+            <dl>
+              <dt>총 공부 시간</dt><dd>0분</dd>
+              <dt>획득 코인</dt><dd>0</dd>
+              <dt>완료한 미션</dt><dd>0개</dd>
+              <dt>연속 공부</dt><dd>0일</dd>
+            </dl>
+          </aside>
+        </header>
+        <main class="profile-change-layout">
+          <section class="profile-main-card">
+            <button class="profile-basic-toggle" id="profileBasicToggle" type="button" aria-expanded="false" aria-controls="profileBasicFields">기본정보 수정</button>
+            <div class="profile-basic-fields" id="profileBasicFields" hidden>
+              <label><span>닉네임</span><input id="profileEditName" type="text" value="학생" maxlength="10" /><em>2 / 10</em></label>
+              <label><span>이메일</span><input id="profileEditEmail" type="email" value="" /></label>
+              <div class="profile-location-row">
+                <label><span>지역</span><select><option>충청남도</option><option>서울특별시</option><option>경기도</option></select></label>
+                <label><span>&nbsp;</span><select><option>아산시</option><option>천안시</option><option>강남구</option></select></label>
+              </div>
+              <div class="profile-school-type">
+                <span>학교 유형</span>
+                <button class="on" type="button">🏫 일반학교</button><button type="button">🏠 홈스쿨</button><button type="button">🌿 대안학교</button><button type="button">📄 검정고시</button>
+              </div>
+              <label><span>학교명</span><input type="text" value="온양중학교" placeholder="학교 이름을 입력하세요" /></label>
+              <label><span>학년</span><select><option>중학교 2학년</option><option>초등학교 4학년</option><option>초등학교 5학년</option><option>초등학교 6학년</option><option>중학교 1학년</option><option>중학교 3학년</option><option>고등학교 1학년</option><option>고등학교 2학년</option><option>고등학교 3학년</option></select></label>
+              <label><span>소개글 <small>(선택)</small></span><input type="text" value="오늘도 열공🔥" maxlength="30" /><em>6 / 30</em></label>
+              <div class="profile-basic-actions">
+                <button id="profileBasicClose" type="button">닫기</button>
+                <button id="profileBasicSave" type="button">저장</button>
+              </div>
+            </div>
+
+            <section class="profile-avatar-select">
+              <h2>아바타 선택</h2>
+              <div class="profile-avatar-grid" id="profileChangePicker">
+                <button class="selected" type="button" data-avatar="assets/profile-avatar-main-cutout.png" data-unlock-level="1"><img src="assets/profile-avatar-main-cutout.png" alt="행복해요" /><span>행복해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-yellow-cutout.png" data-unlock-level="5" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-yellow-cutout.png" alt="행복해요" /><span>행복해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-joy-cutout.png" data-unlock-level="10" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-joy-cutout.png" alt="기뻐요" /><span>기뻐요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-calm-cutout.png" data-unlock-level="15" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-calm-cutout.png" alt="평온해요" /><span>평온해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-sad-cutout.png" data-unlock-level="20" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-sad-cutout.png" alt="슬퍼요" /><span>슬퍼요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-tired-cutout.png" data-unlock-level="25" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-tired-cutout.png" alt="지쳤어요" /><span>지쳤어요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-angry-cutout.png" data-unlock-level="30" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-angry-cutout.png" alt="화나요" /><span>화나요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-anxious-cutout.png" data-unlock-level="35" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-anxious-cutout.png" alt="불안해요" /><span>불안해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-warm-cutout.png" data-unlock-level="40" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-warm-cutout.png" alt="따분해요" /><span>따분해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-fresh-cutout.png" data-unlock-level="45" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-fresh-cutout.png" alt="상쾌해요" /><span>상쾌해요</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-hanja-cutout.png" data-unlock-level="50" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-hanja-cutout.png" alt="한자왕" /><span>한자왕</span></button>
+                <button type="button" data-avatar="assets/profile-avatar-reading-cutout.png" data-unlock-level="55" data-locked-avatar aria-disabled="true"><img src="assets/profile-avatar-reading-cutout.png" alt="독서중" /><span>독서중</span></button>
+              </div>
+              <button class="more-avatar-button" type="button">더 많은 아바타 보기⌄</button>
+            </section>
+          </section>
+          <aside class="profile-right-column">
+            <section class="profile-ranking-card">
+              <h2>랭킹 미리보기</h2>
+              <dl>
+                <dt>🌎 전국</dt><dd>4,852위</dd>
+                <dt>🏢 충청남도</dt><dd>18위</dd>
+                <dt>📍 아산시</dt><dd>2위</dd>
+                <dt>🏫 온양중학교</dt><dd>1위</dd>
+                <dt>🏠 홈스쿨 (충남)</dt><dd>3위</dd>
+                <dt>📖 검정고시 (전국)</dt><dd>25위</dd>
+              </dl>
+              <button type="button" data-go="ranking">랭킹 더보기 🏆</button>
+            </section>
+            <section class="profile-public-card">
+              <h2>프로필 공개 설정 <small>?</small></h2>
+              <ul>
+                <li><span>닉네임</span><b>공개</b></li>
+                <li><span>아바타</span><b>공개</b></li>
+                <li><span>지역</span><b>공개</b></li>
+                <li><span>학교명</span><b>공개</b><em>비공개</em></li>
+                <li><span>소개글</span><b>공개</b><em>비공개</em></li>
+                <li><span>이메일</span><em>비공개</em></li>
+              </ul>
+              <p>🔒 이메일은 항상 비공개로 보호됩니다.</p>
+            </section>
+          </aside>
+        </main>
+        <footer class="tabs app-tabs profile-change-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light" data-screen="analysis">
+        <header class="simple-head"><button data-go="parent">‹</button><h1>학습 분석</h1><span></span></header>
+        <div class="seg pale"><button class="on">주간</button><button>월간</button><button>전체</button></div>
+        <div class="date-nav"><button>‹</button><span>5.20 ~ 5.26</span><button>›</button></div>
+        <div class="metric-row"><article><span>공부 시간</span><b>12시간 45분</b><em>▲ 2시간 15분</em></article><article><span>정답률</span><b>89%</b><em>▲ 5%</em></article><article><span>문제 풀이</span><b>523문제</b><em>▲ 78문제</em></article></div>
+        <section class="chart"><h2>일별 공부 시간</h2><svg viewBox="0 0 280 160"><polyline points="16,118 58,102 100,78 142,52 184,92 226,64 264,46" /><g><circle cx="16" cy="118" r="5"/><circle cx="58" cy="102" r="5"/><circle cx="100" cy="78" r="5"/><circle cx="142" cy="52" r="5"/><circle cx="184" cy="92" r="5"/><circle cx="226" cy="64" r="5"/><circle cx="264" cy="46" r="5"/></g></svg></section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+
+      <section class="phone light" data-screen="approve">
+        <header class="simple-head"><button data-go="parent">‹</button><h1>용돈 신청 승인</h1><span></span></header>
+        <div class="seg pale"><button class="on">신청 목록</button><button>승인 내역</button></div>
+        <section class="request-card">
+          <p><span data-profile-name-text>학생</span>님이 신청한 용돈</p><strong>10,000 코인</strong><h2>= 1,000 원</h2>
+          <dl><dt>신청일</dt><dd>2024.05.26 (일)</dd><dt>보유 코인</dt><dd>2,450 코인</dd></dl>
+          <div><button>거절</button><button class="approve">승인</button></div>
+        </section>
+        <footer class="tabs app-tabs">
+          <button data-go="home"><span>홈</span></button>
+          <button data-go="study-empty"><span>학습</span></button>
+          <button data-go="study-room"><span>공부방</span></button>
+          <button data-go="result"><span>기록</span></button>
+          <button class="on" data-go="parent"><span>전체메뉴</span></button>
+        </footer>
+      </section>
+      <section class="test-subject-modal hidden" id="testSubjectModal" role="dialog" aria-modal="true" aria-labelledby="testSubjectModalTitle">
+        <div class="test-subject-dialog">
+          <button class="test-subject-close" id="testSubjectClose" type="button" aria-label="닫기">×</button>
+          <span class="test-subject-eyebrow" id="testSubjectEyebrow">레벨테스트</span>
+          <h2 id="testSubjectModalTitle">테스트할 과목을 골라주세요</h2>
+          <p>선택한 과목의 문제로 테스트를 시작해요.</p>
+          <div class="test-subject-options">
+            <button type="button" data-test-subject="수학">수학</button>
+            <button type="button" data-test-subject="영어">영어</button>
+            <button type="button" data-test-subject="독서">독서</button>
+            <button type="button" data-test-subject="과학">과학</button>
+            <button type="button" data-test-subject="한자">한자</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="math-wrong-note-modal" id="mathWrongNoteModal" role="dialog" aria-modal="true" aria-labelledby="mathWrongNoteTitle" hidden>
+        <article>
+          <header><div><span>수학 복습</span><h2 id="mathWrongNoteTitle">오답노트</h2></div><button type="button" data-learning-action="close-math-wrong-note" aria-label="오답노트 닫기">×</button></header>
+          <p>틀린 문제와 풀이 보기를 사용한 문제가 자동으로 저장됩니다.</p>
+          <div class="math-wrong-note-list" id="mathWrongNoteList"></div>
+        </article>
+      </section>
+    </main>
+
+    <script src="question-generators.js?v=large-number-variety-v1"></script>
+    <script src="learning-content.js?v=math-learning-flow-v3"></script>
+    <script src="math-curriculum-data.js?v=math-roadmap-data-v2"></script>
+    <script src="math-question-mapping.js?v=math-question-mapping-v1"></script>
+    <script src="script.js?v=history-screen-refresh-v6-direct-quiz-route"></script>
+    <script src="elite-test.js?v=elite-v2-subject-picker"></script>
+<script src="learning.js?v=math-wrong-note-auto-open-v4"></script>
+    <script src="social-system.js?v=all-subject-daily-progress-v4"></script>
+    <script src="hanja-levels-data.js?v=hanja-levels-3500"></script>
+<script src="subject-learning-content.js?v=subject-content-v4-hanja-full-test"></script>
+    <script src="science-curriculum-data.js?v=science-2022-full-v4-worked-examples"></script>
+    <script src="toefl-english-content.js?v=toefl-english-v1"></script>
+    <script src="english-vocabulary-content.js?v=english-vocabulary-v1"></script>
+    <script src="data/english-curriculum.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv01.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv02.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv03.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv04.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv05.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv06.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv07.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv08.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv09.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv10.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv11.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv12.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv13.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv14.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv15.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv16.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv17.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv18.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv19.js?v=english-20-levels-ui-v1"></script>
+    <script src="data/english-questions-lv20.js?v=english-20-levels-ui-v1"></script>
+    <script src="english-master-curriculum.js?v=english-full-reading-audit-v3"></script>
+    <script src="data/reading/reading-books.js?v=reading-books-900-v1"></script>
+    <script src="data/reading/reading-books-ko.js?v=reading-books-ko-v1"></script>
+    <script src="reading-library-content.js?v=reading-library-v1"></script>
+<script src="subject-learning.js?v=science-concept-diagrams-v2"></script>
+  </body>
+</html>
+
+

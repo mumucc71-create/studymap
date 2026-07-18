@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C01",
+  "stages": [
+    {
+      "stageId": "EN-L02-C01-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S01-Q01",
+          "stageId": "EN-L02-C01-S01",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 문자와 소리 발견 · 1번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "map",
+            "pen",
+            "web",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "cat 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S01-Q02",
+          "stageId": "EN-L02-C01-S01",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 문자와 소리 발견 · 2번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "map",
+            "cat"
+          ],
+          "correctAnswer": "map",
+          "explanation": "map에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S01-Q03",
+          "stageId": "EN-L02-C01-S01",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 문자와 소리 발견 · 3번: bag에 short-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "bag의 목표 규칙은 short-a이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S01-Q04",
+          "stageId": "EN-L02-C01-S01",
+          "type": "matching",
+          "prompt": "단모음 a: 문자와 소리 발견 · 4번: hat와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "jam",
+            "pen",
+            "web",
+            "bed"
+          ],
+          "correctAnswer": "jam",
+          "explanation": "hat와 jam에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "jam",
+            "JAM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S01-Q05",
+          "stageId": "EN-L02-C01-S01",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 문자와 소리 발견 · 5번: ja_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "m",
+          "explanation": "jam의 빠진 글자는 m입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "m",
+            "M"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S01-Q06",
+          "stageId": "EN-L02-C01-S01",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 fan를 만드세요.",
+          "choices": [
+            "anf",
+            "fa",
+            "fan",
+            "naf"
+          ],
+          "correctAnswer": "fan",
+          "explanation": "f + a + n를 순서대로 놓으면 fan입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S02-Q01",
+          "stageId": "EN-L02-C01-S02",
+          "type": "matching",
+          "prompt": "단모음 a: 핵심 글자·철자 · 1번: bag와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "bed",
+            "hat"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "bag와 hat에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S02-Q02",
+          "stageId": "EN-L02-C01-S02",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 핵심 글자·철자 · 2번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "hat",
+            "cat"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "hat에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S02-Q03",
+          "stageId": "EN-L02-C01-S02",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 jam를 만드세요.",
+          "choices": [
+            "ja",
+            "jam",
+            "maj",
+            "amj"
+          ],
+          "correctAnswer": "jam",
+          "explanation": "j + a + m를 순서대로 놓으면 jam입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "jam",
+            "JAM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S02-Q04",
+          "stageId": "EN-L02-C01-S02",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 핵심 글자·철자 · 4번: f_n에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "fan의 빠진 글자는 a입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S02-Q05",
+          "stageId": "EN-L02-C01-S02",
+          "type": "spelling",
+          "prompt": "단모음 a: 핵심 글자·철자 · 5번: ra_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "rat의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S02-Q06",
+          "stageId": "EN-L02-C01-S02",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 핵심 글자·철자 · 6번: cap에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "cap의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S03-Q01",
+          "stageId": "EN-L02-C01-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "jam"
+          ],
+          "correctAnswer": "jam",
+          "explanation": "음성은 jam를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "jam",
+          "acceptedAnswers": [
+            "jam",
+            "JAM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S03-Q02",
+          "stageId": "EN-L02-C01-S03",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 2번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "fan",
+            "cat"
+          ],
+          "correctAnswer": "fan",
+          "explanation": "fan 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S03-Q03",
+          "stageId": "EN-L02-C01-S03",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 3번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "web",
+            "rat",
+            "cat",
+            "pen"
+          ],
+          "correctAnswer": "rat",
+          "explanation": "rat에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S03-Q04",
+          "stageId": "EN-L02-C01-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cap",
+            "cat",
+            "pen",
+            "web"
+          ],
+          "correctAnswer": "cap",
+          "explanation": "음성은 cap를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cap",
+          "acceptedAnswers": [
+            "cap",
+            "CAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S03-Q05",
+          "stageId": "EN-L02-C01-S03",
+          "type": "matching",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 5번: bat와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "bed",
+            "man"
+          ],
+          "correctAnswer": "man",
+          "explanation": "bat와 man에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "man",
+            "MAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S03-Q06",
+          "stageId": "EN-L02-C01-S03",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 음가 듣고 구별하기 · 6번: man에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "man의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S04-Q01",
+          "stageId": "EN-L02-C01-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 1번: rat 단어를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "rat",
+          "explanation": "rat 단어에는 단모음 a 소리 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "rat",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S04-Q02",
+          "stageId": "EN-L02-C01-S04",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 2번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "cap",
+            "cat"
+          ],
+          "correctAnswer": "cap",
+          "explanation": "cap에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cap",
+            "CAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S04-Q03",
+          "stageId": "EN-L02-C01-S04",
+          "type": "matching",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 3번: bat와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bed",
+            "man",
+            "pen",
+            "web"
+          ],
+          "correctAnswer": "man",
+          "explanation": "bat와 man에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "man",
+            "MAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S04-Q04",
+          "stageId": "EN-L02-C01-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 4번: man 단어를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "man",
+          "explanation": "man 단어에는 단모음 a 소리 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "man",
+          "acceptedAnswers": [
+            "man",
+            "MAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S04-Q05",
+          "stageId": "EN-L02-C01-S04",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 5번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "sad"
+          ],
+          "correctAnswer": "sad",
+          "explanation": "sad 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sad",
+            "SAD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S04-Q06",
+          "stageId": "EN-L02-C01-S04",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 소리 내어 따라 읽기 · 6번: tap에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "tap의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S05-Q01",
+          "stageId": "EN-L02-C01-S05",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 문자 인식 연습 · 1번: 글자를 바르게 배열해 bat를 만드세요.",
+          "choices": [
+            "tab",
+            "atb",
+            "ba",
+            "bat"
+          ],
+          "correctAnswer": "bat",
+          "explanation": "b + a + t를 순서대로 놓으면 bat입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bat",
+            "BAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S05-Q02",
+          "stageId": "EN-L02-C01-S05",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 문자 인식 연습 · 2번: ma_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "man의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S05-Q03",
+          "stageId": "EN-L02-C01-S05",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 문자 인식 연습 · 3번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "web",
+            "sad",
+            "cat",
+            "pen"
+          ],
+          "correctAnswer": "sad",
+          "explanation": "sad에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sad",
+            "SAD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S05-Q04",
+          "stageId": "EN-L02-C01-S05",
+          "type": "matching",
+          "prompt": "단모음 a: 문자 인식 연습 · 4번: tap와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "bed"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "tap와 cat에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S05-Q05",
+          "stageId": "EN-L02-C01-S05",
+          "type": "ordering",
+          "prompt": "단모음 a: 문자 인식 연습 · 5번: 글자를 바르게 배열해 cat를 만드세요.",
+          "choices": [
+            "tac",
+            "atc",
+            "ca",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "c + a + t를 순서대로 놓으면 cat입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S05-Q06",
+          "stageId": "EN-L02-C01-S05",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 문자 인식 연습 · 6번: map에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "map의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S06-Q01",
+          "stageId": "EN-L02-C01-S06",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 단어 읽기 적용 · 1번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "sad"
+          ],
+          "correctAnswer": "sad",
+          "explanation": "sad에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sad",
+            "SAD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S06-Q02",
+          "stageId": "EN-L02-C01-S06",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 단어 읽기 적용 · 2번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "tap",
+            "cat"
+          ],
+          "correctAnswer": "tap",
+          "explanation": "tap 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tap",
+            "TAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S06-Q03",
+          "stageId": "EN-L02-C01-S06",
+          "type": "matching",
+          "prompt": "단모음 a: 단어 읽기 적용 · 3번: cat와 같은 단모음 a 소리 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bed",
+            "map",
+            "pen",
+            "web"
+          ],
+          "correctAnswer": "map",
+          "explanation": "cat와 map에는 모두 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S06-Q04",
+          "stageId": "EN-L02-C01-S06",
+          "type": "trueFalse",
+          "prompt": "단모음 a: 단어 읽기 적용 · 4번: map에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "map의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S06-Q05",
+          "stageId": "EN-L02-C01-S06",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 bag를 만드세요.",
+          "choices": [
+            "gab",
+            "agb",
+            "ba",
+            "bag"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "b + a + g를 순서대로 놓으면 bag입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S06-Q06",
+          "stageId": "EN-L02-C01-S06",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 단어 읽기 적용 · 6번: _at에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "hat의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S07-Q01",
+          "stageId": "EN-L02-C01-S07",
+          "type": "spelling",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 1번: c_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "cat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S07-Q02",
+          "stageId": "EN-L02-C01-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 2번: ma_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "map의 빠진 글자는 p입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S07-Q03",
+          "stageId": "EN-L02-C01-S07",
+          "type": "dictation",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "bag",
+          "explanation": "bag의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bag",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S07-Q04",
+          "stageId": "EN-L02-C01-S07",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 hat를 만드세요.",
+          "choices": [
+            "hat",
+            "tah",
+            "ath",
+            "ha"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "h + a + t를 순서대로 놓으면 hat입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S07-Q05",
+          "stageId": "EN-L02-C01-S07",
+          "type": "spelling",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 5번: ja_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "m",
+          "explanation": "jam의 빠진 글자는 m입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "m",
+            "M"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S07-Q06",
+          "stageId": "EN-L02-C01-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 a: 철자와 받아쓰기 · 6번: _an에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "f",
+          "explanation": "fan의 빠진 글자는 f입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "f",
+            "F"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C01-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C01-S08-Q01",
+          "stageId": "EN-L02-C01-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 a: 과정 평가 · 1번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "bag"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "bag에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q02",
+          "stageId": "EN-L02-C01-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 과정 평가 · 2번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "hat",
+            "cat"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "hat에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q03",
+          "stageId": "EN-L02-C01-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 a: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "web",
+            "jam",
+            "cat",
+            "pen"
+          ],
+          "correctAnswer": "jam",
+          "explanation": "음성은 jam를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "jam",
+          "acceptedAnswers": [
+            "jam",
+            "JAM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q04",
+          "stageId": "EN-L02-C01-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 과정 평가 · 4번: 글자를 바르게 배열해 fan를 만드세요.",
+          "choices": [
+            "fan",
+            "naf",
+            "anf",
+            "fa"
+          ],
+          "correctAnswer": "fan",
+          "explanation": "f + a + n를 순서대로 놓으면 fan입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q05",
+          "stageId": "EN-L02-C01-S08",
+          "type": "dictation",
+          "prompt": "단모음 a: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "rat",
+          "explanation": "rat의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rat",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q06",
+          "stageId": "EN-L02-C01-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 과정 평가 · 6번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "pen",
+            "web",
+            "cap",
+            "cat"
+          ],
+          "correctAnswer": "cap",
+          "explanation": "cap 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cap",
+            "CAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q07",
+          "stageId": "EN-L02-C01-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 a: 과정 평가 · 7번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "web",
+            "bat",
+            "cat",
+            "pen"
+          ],
+          "correctAnswer": "bat",
+          "explanation": "bat에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bat",
+            "BAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q08",
+          "stageId": "EN-L02-C01-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 a: 과정 평가 · 8번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "cat",
+            "pen",
+            "web"
+          ],
+          "correctAnswer": "man",
+          "explanation": "man에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "man",
+            "MAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q09",
+          "stageId": "EN-L02-C01-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 a: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "sad"
+          ],
+          "correctAnswer": "sad",
+          "explanation": "음성은 sad를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sad",
+          "acceptedAnswers": [
+            "sad",
+            "SAD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q10",
+          "stageId": "EN-L02-C01-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 a: 과정 평가 · 10번: 글자를 바르게 배열해 tap를 만드세요.",
+          "choices": [
+            "apt",
+            "ta",
+            "tap",
+            "pat"
+          ],
+          "correctAnswer": "tap",
+          "explanation": "t + a + p를 순서대로 놓으면 tap입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tap",
+            "TAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q11",
+          "stageId": "EN-L02-C01-S08",
+          "type": "dictation",
+          "prompt": "단모음 a: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "cat",
+          "explanation": "cat의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cat",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C01-S08-Q12",
+          "stageId": "EN-L02-C01-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 a: 과정 평가 · 12번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "map",
+            "cat",
+            "pen",
+            "web"
+          ],
+          "correctAnswer": "map",
+          "explanation": "map 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "단모음 a 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        }
+      ]
+    }
+  ]
+}

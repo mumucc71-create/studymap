@@ -1,0 +1,1255 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L01",
+  "courseId": "EN-L01-C02",
+  "stages": [
+    {
+      "stageId": "EN-L01-C02-S01",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S01-Q01",
+          "stageId": "EN-L01-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 1번: 대문자 N를 고르세요.",
+          "choices": [
+            "P",
+            "R",
+            "U",
+            "N"
+          ],
+          "correctAnswer": "N",
+          "explanation": "N의 모양을 확인하세요. 글자 이름은 엔입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N",
+            "n"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S01-Q02",
+          "stageId": "EN-L01-C02-S01",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 2번: 'O 다음 글자는 P이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O 다음 글자는 P이므로 O가 정답입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S01-Q03",
+          "stageId": "EN-L01-C02-S01",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 3번: P와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "x",
+            "p",
+            "r",
+            "u"
+          ],
+          "correctAnswer": "p",
+          "explanation": "P와 p는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S01-Q04",
+          "stageId": "EN-L01-C02-S01",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 4번: P, __, R에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Q",
+          "explanation": "P 다음, R 앞에는 Q가 옵니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Q",
+            "q"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S01-Q05",
+          "stageId": "EN-L01-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 5번: 대문자 R를 고르세요.",
+          "choices": [
+            "T",
+            "V",
+            "Y",
+            "R"
+          ],
+          "correctAnswer": "R",
+          "explanation": "R의 모양을 확인하세요. 글자 이름은 알입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R",
+            "r"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S01-Q06",
+          "stageId": "EN-L01-C02-S01",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 문자와 소리 발견 · 6번: 'S 다음 글자는 T이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "S 다음 글자는 T이므로 O가 정답입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S02",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S02-Q01",
+          "stageId": "EN-L01-C02-S02",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 1번: Q와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "s",
+            "v",
+            "y",
+            "q"
+          ],
+          "correctAnswer": "q",
+          "explanation": "Q와 q는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "q"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S02-Q02",
+          "stageId": "EN-L01-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 2번: 대문자 R를 고르세요.",
+          "choices": [
+            "V",
+            "Y",
+            "R",
+            "T"
+          ],
+          "correctAnswer": "R",
+          "explanation": "R의 모양을 확인하세요. 글자 이름은 알입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R",
+            "r"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S02-Q03",
+          "stageId": "EN-L01-C02-S02",
+          "type": "spelling",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 3번: R, __, T에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "S",
+          "explanation": "R 다음, T 앞에는 S가 옵니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S",
+            "s"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S02-Q04",
+          "stageId": "EN-L01-C02-S02",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 4번: 'T 다음 글자는 U이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "T 다음 글자는 U이므로 O가 정답입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S02-Q05",
+          "stageId": "EN-L01-C02-S02",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 5번: U와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "w",
+            "z",
+            "c",
+            "u"
+          ],
+          "correctAnswer": "u",
+          "explanation": "U와 u는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S02-Q06",
+          "stageId": "EN-L01-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 핵심 글자·철자 · 6번: 대문자 V를 고르세요.",
+          "choices": [
+            "Z",
+            "C",
+            "V",
+            "X"
+          ],
+          "correctAnswer": "V",
+          "explanation": "V의 모양을 확인하세요. 글자 이름은 브이입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "V",
+            "v"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S03",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S03-Q01",
+          "stageId": "EN-L01-C02-S03",
+          "type": "listeningChoice",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 글자를 고르세요.",
+          "choices": [
+            "V",
+            "X",
+            "A",
+            "T"
+          ],
+          "correctAnswer": "T",
+          "explanation": "음성은 T(티)를 읽었습니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "T",
+          "acceptedAnswers": [
+            "T",
+            "t"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S03-Q02",
+          "stageId": "EN-L01-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 2번: 대문자 U를 고르세요.",
+          "choices": [
+            "Y",
+            "B",
+            "U",
+            "W"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U의 모양을 확인하세요. 글자 이름은 유입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S03-Q03",
+          "stageId": "EN-L01-C02-S03",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 3번: 'V 다음 글자는 X이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "V 다음 글자는 W이므로 X가 정답입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S03-Q04",
+          "stageId": "EN-L01-C02-S03",
+          "type": "listeningChoice",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 글자를 고르세요.",
+          "choices": [
+            "W",
+            "Y",
+            "A",
+            "D"
+          ],
+          "correctAnswer": "W",
+          "explanation": "음성은 W(더블유)를 읽었습니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "W",
+          "acceptedAnswers": [
+            "W",
+            "w"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S03-Q05",
+          "stageId": "EN-L01-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 5번: 대문자 X를 고르세요.",
+          "choices": [
+            "Z",
+            "B",
+            "E",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "X의 모양을 확인하세요. 글자 이름은 엑스입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X",
+            "x"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S03-Q06",
+          "stageId": "EN-L01-C02-S03",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 음가 듣고 구별하기 · 6번: 'Y 다음 글자는 Z이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "Y 다음 글자는 Z이므로 O가 정답입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S04",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S04-Q01",
+          "stageId": "EN-L01-C02-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 1번: 화면의 글자 W를 소리 내어 읽고 글자를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "W",
+          "explanation": "W의 글자 이름은 더블유입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "W",
+          "acceptedAnswers": [
+            "W",
+            "w",
+            "더블유"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S04-Q02",
+          "stageId": "EN-L01-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 2번: 대문자 X를 고르세요.",
+          "choices": [
+            "B",
+            "E",
+            "X",
+            "Z"
+          ],
+          "correctAnswer": "X",
+          "explanation": "X의 모양을 확인하세요. 글자 이름은 엑스입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X",
+            "x"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S04-Q03",
+          "stageId": "EN-L01-C02-S04",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 3번: Y와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "g",
+            "y",
+            "a",
+            "d"
+          ],
+          "correctAnswer": "y",
+          "explanation": "Y와 y는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "y"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S04-Q04",
+          "stageId": "EN-L01-C02-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 4번: 화면의 글자 Z를 소리 내어 읽고 글자를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Z",
+          "explanation": "Z의 글자 이름은 지입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Z",
+          "acceptedAnswers": [
+            "Z",
+            "z",
+            "지"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S04-Q05",
+          "stageId": "EN-L01-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 5번: 대문자 N를 고르세요.",
+          "choices": [
+            "P",
+            "R",
+            "U",
+            "N"
+          ],
+          "correctAnswer": "N",
+          "explanation": "N의 모양을 확인하세요. 글자 이름은 엔입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N",
+            "n"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S04-Q06",
+          "stageId": "EN-L01-C02-S04",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 소리 내어 따라 읽기 · 6번: O와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "t",
+            "w",
+            "o",
+            "q"
+          ],
+          "correctAnswer": "o",
+          "explanation": "O와 o는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S05",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S05-Q01",
+          "stageId": "EN-L01-C02-S05",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-N-M",
+            "M-L-N",
+            "N-M-L",
+            "L-M-N"
+          ],
+          "correctAnswer": "L-M-N",
+          "explanation": "L, M, N 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L-M-N",
+            "LMN"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S05-Q02",
+          "stageId": "EN-L01-C02-S05",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 2번: M, __, O에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "N",
+          "explanation": "M 다음, O 앞에는 N가 옵니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N",
+            "n"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S05-Q03",
+          "stageId": "EN-L01-C02-S05",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 3번: 대문자 O를 고르세요.",
+          "choices": [
+            "V",
+            "O",
+            "Q",
+            "S"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O의 모양을 확인하세요. 글자 이름은 오입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S05-Q04",
+          "stageId": "EN-L01-C02-S05",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 4번: P와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "p",
+            "r",
+            "u",
+            "x"
+          ],
+          "correctAnswer": "p",
+          "explanation": "P와 p는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S05-Q05",
+          "stageId": "EN-L01-C02-S05",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-R-Q",
+            "Q-P-R",
+            "R-Q-P",
+            "P-Q-R"
+          ],
+          "correctAnswer": "P-Q-R",
+          "explanation": "P, Q, R 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P-Q-R",
+            "PQR"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S05-Q06",
+          "stageId": "EN-L01-C02-S05",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 문자 인식 연습 · 6번: Q, __, S에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "R",
+          "explanation": "Q 다음, S 앞에는 R가 옵니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R",
+            "r"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S06",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S06-Q01",
+          "stageId": "EN-L01-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 1번: 대문자 P를 고르세요.",
+          "choices": [
+            "R",
+            "T",
+            "W",
+            "P"
+          ],
+          "correctAnswer": "P",
+          "explanation": "P의 모양을 확인하세요. 글자 이름은 피입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P",
+            "p"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S06-Q02",
+          "stageId": "EN-L01-C02-S06",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-O-Q",
+            "Q-P-O",
+            "O-P-Q",
+            "O-Q-P"
+          ],
+          "correctAnswer": "O-P-Q",
+          "explanation": "O, P, Q 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O-P-Q",
+            "OPQ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S06-Q03",
+          "stageId": "EN-L01-C02-S06",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 3번: Q, __, S에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "R",
+          "explanation": "Q 다음, S 앞에는 R가 옵니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R",
+            "r"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S06-Q04",
+          "stageId": "EN-L01-C02-S06",
+          "type": "trueFalse",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 4번: 'S 다음 글자는 T이다.' 맞으면 O, 틀리면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "S 다음 글자는 T이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S06-Q05",
+          "stageId": "EN-L01-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 5번: 대문자 T를 고르세요.",
+          "choices": [
+            "V",
+            "X",
+            "A",
+            "T"
+          ],
+          "correctAnswer": "T",
+          "explanation": "T의 모양을 확인하세요. 글자 이름은 티입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T",
+            "t"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S06-Q06",
+          "stageId": "EN-L01-C02-S06",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 단어 읽기 적용 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-S-U",
+            "U-T-S",
+            "S-T-U",
+            "S-U-T"
+          ],
+          "correctAnswer": "S-T-U",
+          "explanation": "S, T, U 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S-T-U",
+            "STU"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S07",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S07-Q01",
+          "stageId": "EN-L01-C02-S07",
+          "type": "spelling",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 1번: R, __, T에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "S",
+          "explanation": "R 다음, T 앞에는 S가 옵니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S",
+            "s"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S07-Q02",
+          "stageId": "EN-L01-C02-S07",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 2번: S, __, U에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "T",
+          "explanation": "S 다음, U 앞에는 T가 옵니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T",
+            "t"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S07-Q03",
+          "stageId": "EN-L01-C02-S07",
+          "type": "matching",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 3번: U와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "c",
+            "u",
+            "w",
+            "z"
+          ],
+          "correctAnswer": "u",
+          "explanation": "U와 u는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S07-Q04",
+          "stageId": "EN-L01-C02-S07",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 4번: 대문자 V를 고르세요.",
+          "choices": [
+            "V",
+            "X",
+            "Z",
+            "C"
+          ],
+          "correctAnswer": "V",
+          "explanation": "V의 모양을 확인하세요. 글자 이름은 브이입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "V",
+            "v"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S07-Q05",
+          "stageId": "EN-L01-C02-S07",
+          "type": "spelling",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 5번: V, __, X에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "W",
+          "explanation": "V 다음, X 앞에는 W가 옵니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "W",
+            "w"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S07-Q06",
+          "stageId": "EN-L01-C02-S07",
+          "type": "fillBlank",
+          "prompt": "대문자 N-Z: 철자와 받아쓰기 · 6번: W, __, Y에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "X",
+          "explanation": "W 다음, Y 앞에는 X가 옵니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X",
+            "x"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C02-S08",
+      "questions": [
+        {
+          "questionId": "EN-L01-C02-S08-Q01",
+          "stageId": "EN-L01-C02-S08",
+          "type": "reviewMixed",
+          "prompt": "대문자 N-Z: 과정 평가 · 1번: 대문자 V를 고르세요.",
+          "choices": [
+            "X",
+            "Z",
+            "C",
+            "V"
+          ],
+          "correctAnswer": "V",
+          "explanation": "V의 모양을 확인하세요. 글자 이름은 브이입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "V",
+            "v"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q02",
+          "stageId": "EN-L01-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 과정 평가 · 2번: 대문자 W를 고르세요.",
+          "choices": [
+            "A",
+            "D",
+            "W",
+            "Y"
+          ],
+          "correctAnswer": "W",
+          "explanation": "W의 모양을 확인하세요. 글자 이름은 더블유입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "W",
+            "w"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q03",
+          "stageId": "EN-L01-C02-S08",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 과정 평가 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "V-U-T",
+            "T-U-V",
+            "T-V-U",
+            "U-T-V"
+          ],
+          "correctAnswer": "T-U-V",
+          "explanation": "T, U, V 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T-U-V",
+            "TUV"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q04",
+          "stageId": "EN-L01-C02-S08",
+          "type": "listeningChoice",
+          "prompt": "대문자 N-Z: 과정 평가 · 4번: 음성을 듣고 같은 글자를 고르세요.",
+          "choices": [
+            "Y",
+            "A",
+            "C",
+            "F"
+          ],
+          "correctAnswer": "Y",
+          "explanation": "음성은 Y(와이)를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Y",
+          "acceptedAnswers": [
+            "Y",
+            "y"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q05",
+          "stageId": "EN-L01-C02-S08",
+          "type": "spelling",
+          "prompt": "대문자 N-Z: 과정 평가 · 5번: Y, __, A에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Z",
+          "explanation": "Y 다음, A 앞에는 Z가 옵니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Z",
+            "z"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q06",
+          "stageId": "EN-L01-C02-S08",
+          "type": "reviewMixed",
+          "prompt": "대문자 N-Z: 과정 평가 · 6번: 대문자 N를 고르세요.",
+          "choices": [
+            "R",
+            "U",
+            "N",
+            "P"
+          ],
+          "correctAnswer": "N",
+          "explanation": "N의 모양을 확인하세요. 글자 이름은 엔입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N",
+            "n"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q07",
+          "stageId": "EN-L01-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 과정 평가 · 7번: 대문자 O를 고르세요.",
+          "choices": [
+            "V",
+            "O",
+            "Q",
+            "S"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O의 모양을 확인하세요. 글자 이름은 오입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q08",
+          "stageId": "EN-L01-C02-S08",
+          "type": "ordering",
+          "prompt": "대문자 N-Z: 과정 평가 · 8번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "B-C-D",
+            "B-D-C",
+            "C-B-D",
+            "D-C-B"
+          ],
+          "correctAnswer": "B-C-D",
+          "explanation": "B, C, D 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "B-C-D",
+            "BCD"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q09",
+          "stageId": "EN-L01-C02-S08",
+          "type": "listeningChoice",
+          "prompt": "대문자 N-Z: 과정 평가 · 9번: 음성을 듣고 같은 글자를 고르세요.",
+          "choices": [
+            "S",
+            "U",
+            "X",
+            "Q"
+          ],
+          "correctAnswer": "Q",
+          "explanation": "음성은 Q(큐)를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Q",
+          "acceptedAnswers": [
+            "Q",
+            "q"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q10",
+          "stageId": "EN-L01-C02-S08",
+          "type": "spelling",
+          "prompt": "대문자 N-Z: 과정 평가 · 10번: Q, __, S에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "R",
+          "explanation": "Q 다음, S 앞에는 R가 옵니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R",
+            "r"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q11",
+          "stageId": "EN-L01-C02-S08",
+          "type": "reviewMixed",
+          "prompt": "대문자 N-Z: 과정 평가 · 11번: 대문자 S를 고르세요.",
+          "choices": [
+            "Z",
+            "S",
+            "U",
+            "W"
+          ],
+          "correctAnswer": "S",
+          "explanation": "S의 모양을 확인하세요. 글자 이름은 에스입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S",
+            "s"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C02-S08-Q12",
+          "stageId": "EN-L01-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "대문자 N-Z: 과정 평가 · 12번: 대문자 T를 고르세요.",
+          "choices": [
+            "T",
+            "V",
+            "X",
+            "A"
+          ],
+          "correctAnswer": "T",
+          "explanation": "T의 모양을 확인하세요. 글자 이름은 티입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "대문자 N-Z 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T",
+            "t"
+          ]
+        }
+      ]
+    }
+  ]
+}

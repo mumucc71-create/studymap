@@ -1,0 +1,1674 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C14",
+  "stages": [
+    {
+      "stageId": "EN-L02-C14-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S01-Q01",
+          "stageId": "EN-L02-C14-S01",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 1번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "map",
+            "pen",
+            "web",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "cat 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S01-Q02",
+          "stageId": "EN-L02-C14-S01",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 2번: short-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "hen",
+            "bed"
+          ],
+          "correctAnswer": "hen",
+          "explanation": "hen에는 short-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-e",
+          "targetSound": "short e in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hen",
+            "HEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S01-Q03",
+          "stageId": "EN-L02-C14-S01",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 3번: fin에 short-o 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fin의 목표 규칙은 short-i이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S01-Q04",
+          "stageId": "EN-L02-C14-S01",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 4번: mop와 같은 short o in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pot",
+            "fan",
+            "sad",
+            "sun"
+          ],
+          "correctAnswer": "pot",
+          "explanation": "mop와 pot에는 모두 short-o 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pot",
+            "POT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S01-Q05",
+          "stageId": "EN-L02-C14-S01",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 5번: ru_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "run의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S01-Q06",
+          "stageId": "EN-L02-C14-S01",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 net를 만드세요.",
+          "choices": [
+            "etn",
+            "ne",
+            "net",
+            "ten"
+          ],
+          "correctAnswer": "net",
+          "explanation": "n + e + t를 순서대로 놓으면 net입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "net",
+            "NET"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S02-Q01",
+          "stageId": "EN-L02-C14-S02",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 1번: log와 같은 short o in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "sun",
+            "mop"
+          ],
+          "correctAnswer": "mop",
+          "explanation": "log와 mop에는 모두 short-o 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mop",
+            "MOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S02-Q02",
+          "stageId": "EN-L02-C14-S02",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 2번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "mud",
+            "sun"
+          ],
+          "correctAnswer": "mud",
+          "explanation": "mud에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mud",
+            "MUD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S02-Q03",
+          "stageId": "EN-L02-C14-S02",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 map를 만드세요.",
+          "choices": [
+            "ma",
+            "map",
+            "pam",
+            "apm"
+          ],
+          "correctAnswer": "map",
+          "explanation": "m + a + p를 순서대로 놓으면 map입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S02-Q04",
+          "stageId": "EN-L02-C14-S02",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 4번: h_n에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "hen의 빠진 글자는 e입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "final-consonant",
+          "targetSound": "last consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S02-Q05",
+          "stageId": "EN-L02-C14-S02",
+          "type": "spelling",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 5번: s_op에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "stop의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S02-Q06",
+          "stageId": "EN-L02-C14-S02",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 핵심 글자·철자 · 6번: much에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "much의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S03-Q01",
+          "stageId": "EN-L02-C14-S03",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "bat",
+            "red",
+            "map"
+          ],
+          "correctAnswer": "map",
+          "explanation": "음성은 map를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "final-consonant",
+          "targetSound": "last consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "map",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S03-Q02",
+          "stageId": "EN-L02-C14-S03",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 2번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "frog",
+            "flag"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "frog에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S03-Q03",
+          "stageId": "EN-L02-C14-S03",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 3번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "fish",
+            "ship",
+            "rat"
+          ],
+          "correctAnswer": "fish",
+          "explanation": "fish에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S03-Q04",
+          "stageId": "EN-L02-C14-S03",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "rope",
+            "cake",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "rope",
+          "explanation": "음성은 rope를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rope",
+          "acceptedAnswers": [
+            "rope",
+            "ROPE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S03-Q05",
+          "stageId": "EN-L02-C14-S03",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 5번: team와 같은 vowel team sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "car",
+            "coat"
+          ],
+          "correctAnswer": "coat",
+          "explanation": "team와 coat에는 모두 vowel-team 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "vowel-team",
+          "targetSound": "vowel team sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "coat",
+            "COAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S03-Q06",
+          "stageId": "EN-L02-C14-S03",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 음가 듣고 구별하기 · 6번: curl에 r-controlled-vowel 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "curl의 목표 규칙은 r-controlled-vowel이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S04-Q01",
+          "stageId": "EN-L02-C14-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 1번: home를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "home",
+          "explanation": "home에는 long vowel with silent e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "home",
+          "acceptedAnswers": [
+            "home",
+            "HOME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S04-Q02",
+          "stageId": "EN-L02-C14-S04",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 2번: vowel-team 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "food",
+            "rain"
+          ],
+          "correctAnswer": "food",
+          "explanation": "food에는 vowel-team 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "vowel-team",
+          "targetSound": "vowel team sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "food",
+            "FOOD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S04-Q03",
+          "stageId": "EN-L02-C14-S04",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 3번: turn와 같은 vowel sound controlled by r 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "curl",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "curl",
+          "explanation": "turn와 curl에는 모두 r-controlled-vowel 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "curl",
+            "CURL"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S04-Q04",
+          "stageId": "EN-L02-C14-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 4번: basket를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "basket",
+          "explanation": "basket에는 two spoken syllables 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "basket",
+          "acceptedAnswers": [
+            "basket",
+            "BASKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S04-Q05",
+          "stageId": "EN-L02-C14-S04",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 5번: 단모음 a 소리가 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "pen",
+            "web",
+            "sad"
+          ],
+          "correctAnswer": "sad",
+          "explanation": "sad 단어에서 단모음 a 소리를 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sad",
+            "SAD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S04-Q06",
+          "stageId": "EN-L02-C14-S04",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 소리 내어 따라 읽기 · 6번: jet에 short-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "jet의 목표 규칙은 short-e이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-e",
+          "targetSound": "short e in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S05-Q01",
+          "stageId": "EN-L02-C14-S05",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 1번: 글자를 바르게 배열해 rabbit를 만드세요.",
+          "choices": [
+            "tibbar",
+            "abbitr",
+            "rabbi",
+            "rabbit"
+          ],
+          "correctAnswer": "rabbit",
+          "explanation": "r + a + b + b + i + t를 순서대로 놓으면 rabbit입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S05-Q02",
+          "stageId": "EN-L02-C14-S05",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 2번: ma_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "man의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S05-Q03",
+          "stageId": "EN-L02-C14-S05",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 3번: short-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "web",
+            "bed",
+            "fan"
+          ],
+          "correctAnswer": "web",
+          "explanation": "web에는 short-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-e",
+          "targetSound": "short e in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "web",
+            "WEB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S05-Q04",
+          "stageId": "EN-L02-C14-S05",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 4번: mix와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "dog"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "mix와 pig에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S05-Q05",
+          "stageId": "EN-L02-C14-S05",
+          "type": "ordering",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 5번: 글자를 바르게 배열해 dog를 만드세요.",
+          "choices": [
+            "god",
+            "ogd",
+            "do",
+            "dog"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "d + o + g를 순서대로 놓으면 dog입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S05-Q06",
+          "stageId": "EN-L02-C14-S05",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 문자 인식 연습 · 6번: cup에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "cup의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S06-Q01",
+          "stageId": "EN-L02-C14-S06",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 1번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "kid"
+          ],
+          "correctAnswer": "kid",
+          "explanation": "kid에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "kid",
+            "KID"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S06-Q02",
+          "stageId": "EN-L02-C14-S06",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 2번: short o in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "box",
+            "dog"
+          ],
+          "correctAnswer": "box",
+          "explanation": "box에서 short o in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "box",
+            "BOX"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S06-Q03",
+          "stageId": "EN-L02-C14-S06",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 3번: sun와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "cup",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "cup",
+          "explanation": "sun와 cup에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cup",
+            "CUP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S06-Q04",
+          "stageId": "EN-L02-C14-S06",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 4번: dog에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "dog의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S06-Q05",
+          "stageId": "EN-L02-C14-S06",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 pig를 만드세요.",
+          "choices": [
+            "gip",
+            "igp",
+            "pi",
+            "pig"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "p + i + g를 순서대로 놓으면 pig입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "final-consonant",
+          "targetSound": "last consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S06-Q06",
+          "stageId": "EN-L02-C14-S06",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 단어 읽기 적용 · 6번: dr_m에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "drum의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S07-Q01",
+          "stageId": "EN-L02-C14-S07",
+          "type": "spelling",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 1번: c_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "cat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S07-Q02",
+          "stageId": "EN-L02-C14-S07",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 2번: be_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "bed의 빠진 글자는 d입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "final-consonant",
+          "targetSound": "last consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S07-Q03",
+          "stageId": "EN-L02-C14-S07",
+          "type": "dictation",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "plug",
+          "explanation": "plug의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "plug",
+          "acceptedAnswers": [
+            "plug",
+            "PLUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S07-Q04",
+          "stageId": "EN-L02-C14-S07",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 whip를 만드세요.",
+          "choices": [
+            "whip",
+            "pihw",
+            "hipw",
+            "whi"
+          ],
+          "correctAnswer": "whip",
+          "explanation": "w + h + i + p를 순서대로 놓으면 whip입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "whip",
+            "WHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S07-Q05",
+          "stageId": "EN-L02-C14-S07",
+          "type": "spelling",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 5번: b_ke에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "bike의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S07-Q06",
+          "stageId": "EN-L02-C14-S07",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 철자와 받아쓰기 · 6번: go_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "goat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "vowel-team",
+          "targetSound": "vowel team sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S08-Q01",
+          "stageId": "EN-L02-C14-S08",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "thin"
+          ],
+          "correctAnswer": "thin",
+          "explanation": "음성은 thin를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "thin",
+          "acceptedAnswers": [
+            "thin",
+            "THIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S08-Q02",
+          "stageId": "EN-L02-C14-S08",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 2번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "game",
+            "cake"
+          ],
+          "correctAnswer": "game",
+          "explanation": "game에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S08-Q03",
+          "stageId": "EN-L02-C14-S08",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 3번: vowel-team 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "boat",
+            "rain",
+            "rat"
+          ],
+          "correctAnswer": "boat",
+          "explanation": "boat에는 vowel-team 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "vowel-team",
+          "targetSound": "vowel team sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "boat",
+            "BOAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S08-Q04",
+          "stageId": "EN-L02-C14-S08",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "firm",
+            "car",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "firm",
+          "explanation": "음성은 firm를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "firm",
+          "acceptedAnswers": [
+            "firm",
+            "FIRM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S08-Q05",
+          "stageId": "EN-L02-C14-S08",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 5번: bedroom와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "man",
+            "leg",
+            "cat",
+            "farmer"
+          ],
+          "correctAnswer": "farmer",
+          "explanation": "bedroom와 farmer에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "farmer",
+            "FARMER"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S08-Q06",
+          "stageId": "EN-L02-C14-S08",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 듣고 철자 고르기 · 6번: cap에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "cap의 목표 규칙은 short-a이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "listening",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 듣고 철자 고르기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S09",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S09-Q01",
+          "stageId": "EN-L02-C14-S09",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 1번: 글자를 바르게 배열해 bird를 만드세요.",
+          "choices": [
+            "drib",
+            "irdb",
+            "bir",
+            "bird"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "b + i + r + d를 순서대로 놓으면 bird입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S09-Q02",
+          "stageId": "EN-L02-C14-S09",
+          "type": "fillBlank",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 2번: ra_nbow에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "rainbow의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S09-Q03",
+          "stageId": "EN-L02-C14-S09",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 3번: short-a 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "web",
+            "rat",
+            "cat",
+            "pen"
+          ],
+          "correctAnswer": "rat",
+          "explanation": "rat에는 short-a 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "short-a",
+          "targetSound": "short a in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S09-Q04",
+          "stageId": "EN-L02-C14-S09",
+          "type": "matching",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 4번: wet와 같은 short e in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pet",
+            "fan",
+            "sad",
+            "pig"
+          ],
+          "correctAnswer": "pet",
+          "explanation": "wet와 pet에는 모두 short-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "short-e",
+          "targetSound": "short e in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pet",
+            "PET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S09-Q05",
+          "stageId": "EN-L02-C14-S09",
+          "type": "ordering",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 5번: 글자를 바르게 배열해 win를 만드세요.",
+          "choices": [
+            "niw",
+            "inw",
+            "wi",
+            "win"
+          ],
+          "correctAnswer": "win",
+          "explanation": "w + i + n를 순서대로 놓으면 win입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "win",
+            "WIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S09-Q06",
+          "stageId": "EN-L02-C14-S09",
+          "type": "trueFalse",
+          "prompt": "파닉스 누적 복습: 소리·철자 혼합 연습 · 6번: nod에 short-o 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "nod의 목표 규칙은 short-o이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 소리·철자 혼합 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C14-S10",
+      "questions": [
+        {
+          "questionId": "EN-L02-C14-S10-Q01",
+          "stageId": "EN-L02-C14-S10",
+          "type": "reviewMixed",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 1번: short-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bed",
+            "fan",
+            "sad",
+            "ten"
+          ],
+          "correctAnswer": "ten",
+          "explanation": "ten에는 short-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-e",
+          "targetSound": "short e in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ten",
+            "TEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q02",
+          "stageId": "EN-L02-C14-S10",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 2번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "dig",
+            "pig"
+          ],
+          "correctAnswer": "dig",
+          "explanation": "dig에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dig",
+            "DIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q03",
+          "stageId": "EN-L02-C14-S10",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "rod",
+            "dog",
+            "fan"
+          ],
+          "correctAnswer": "rod",
+          "explanation": "음성은 rod를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-o",
+          "targetSound": "short o in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rod",
+          "acceptedAnswers": [
+            "rod",
+            "ROD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q04",
+          "stageId": "EN-L02-C14-S10",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 4번: 글자를 바르게 배열해 bug를 만드세요.",
+          "choices": [
+            "bug",
+            "gub",
+            "ugb",
+            "bu"
+          ],
+          "correctAnswer": "bug",
+          "explanation": "b + u + g를 순서대로 놓으면 bug입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bug",
+            "BUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q05",
+          "stageId": "EN-L02-C14-S10",
+          "type": "dictation",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "van",
+          "explanation": "van의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "van",
+          "acceptedAnswers": [
+            "van",
+            "VAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q06",
+          "stageId": "EN-L02-C14-S10",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 6번: last consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "red",
+            "bus",
+            "cat"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "bus에서 last consonant sound을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "final-consonant",
+          "targetSound": "last consonant sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q07",
+          "stageId": "EN-L02-C14-S10",
+          "type": "reviewMixed",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 7번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "flag",
+            "clap",
+            "rat"
+          ],
+          "correctAnswer": "flag",
+          "explanation": "flag에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flag",
+            "FLAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q08",
+          "stageId": "EN-L02-C14-S10",
+          "type": "multipleChoice",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 8번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "chip",
+            "ship",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "chip",
+          "explanation": "chip에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chip",
+            "CHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q09",
+          "stageId": "EN-L02-C14-S10",
+          "type": "listeningChoice",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "name"
+          ],
+          "correctAnswer": "name",
+          "explanation": "음성은 name를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "name",
+          "acceptedAnswers": [
+            "name",
+            "NAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q10",
+          "stageId": "EN-L02-C14-S10",
+          "type": "wordBuilding",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 10번: 글자를 바르게 배열해 feet를 만드세요.",
+          "choices": [
+            "eetf",
+            "fee",
+            "feet",
+            "teef"
+          ],
+          "correctAnswer": "feet",
+          "explanation": "f + e + e + t를 순서대로 놓으면 feet입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "vowel-team",
+          "targetSound": "vowel team sound",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "feet",
+            "FEET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q11",
+          "stageId": "EN-L02-C14-S10",
+          "type": "dictation",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "bird",
+          "explanation": "bird의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "r-controlled-vowel",
+          "targetSound": "vowel sound controlled by r",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bird",
+          "acceptedAnswers": [
+            "bird",
+            "BIRD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C14-S10-Q12",
+          "stageId": "EN-L02-C14-S10",
+          "type": "soundDiscrimination",
+          "prompt": "파닉스 누적 복습: 과정 평가 · 12번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rainbow",
+            "sunset",
+            "man",
+            "leg"
+          ],
+          "correctAnswer": "rainbow",
+          "explanation": "rainbow에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "파닉스 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainbow",
+            "RAINBOW"
+          ]
+        }
+      ]
+    }
+  ]
+}

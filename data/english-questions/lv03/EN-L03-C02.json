@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C02",
+  "stages": [
+    {
+      "stageId": "EN-L03-C02-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S01-Q01",
+          "stageId": "EN-L03-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 1번: ‘하나’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "four",
+            "one"
+          ],
+          "correctAnswer": "one",
+          "explanation": "‘하나’은 영어로 one입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "one",
+            "ONE"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C02-S01-Q02",
+          "stageId": "EN-L03-C02-S01",
+          "type": "sentenceMeaning",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 2번: “I see two.”에서 two의 뜻을 고르세요.",
+          "choices": [
+            "셋",
+            "넷",
+            "둘",
+            "하나"
+          ],
+          "correctAnswer": "둘",
+          "explanation": "two은 ‘둘’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "둘"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C02-S01-Q03",
+          "stageId": "EN-L03-C02-S01",
+          "type": "trueFalse",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 3번: three의 뜻이 ‘하나’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "three의 뜻은 ‘셋’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S01-Q04",
+          "stageId": "EN-L03-C02-S01",
+          "type": "matching",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 4번: four과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "넷",
+            "하나",
+            "둘",
+            "셋"
+          ],
+          "correctAnswer": "넷",
+          "explanation": "four은 ‘넷’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "넷"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S01-Q05",
+          "stageId": "EN-L03-C02-S01",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 5번: I am ___. 빈칸에 ‘다섯’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "three",
+            "five"
+          ],
+          "correctAnswer": "five",
+          "explanation": "문맥과 뜻에 맞는 단어는 five입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S01-Q06",
+          "stageId": "EN-L03-C02-S01",
+          "type": "categorization",
+          "prompt": "숫자와 나이: 핵심 표현 이해 · 6번: six을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "수와 나이",
+            "학교"
+          ],
+          "correctAnswer": "수와 나이",
+          "explanation": "six은 수와 나이 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "수와 나이"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S02-Q01",
+          "stageId": "EN-L03-C02-S02",
+          "type": "matching",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 1번: four과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "하나",
+            "둘",
+            "셋",
+            "넷"
+          ],
+          "correctAnswer": "넷",
+          "explanation": "four은 ‘넷’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "넷"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S02-Q02",
+          "stageId": "EN-L03-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 2번: ‘다섯’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "five",
+            "one"
+          ],
+          "correctAnswer": "five",
+          "explanation": "‘다섯’은 영어로 five입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S02-Q03",
+          "stageId": "EN-L03-C02-S02",
+          "type": "categorization",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 3번: six을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "수와 나이",
+            "신체",
+            "음식과 음료"
+          ],
+          "correctAnswer": "수와 나이",
+          "explanation": "six은 수와 나이 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "수와 나이"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C02-S02-Q04",
+          "stageId": "EN-L03-C02-S02",
+          "type": "spelling",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 4번: s_ven에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "seven의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        },
+        {
+          "questionId": "EN-L03-C02-S02-Q05",
+          "stageId": "EN-L03-C02-S02",
+          "type": "wordBuilding",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘여덟’을 만드세요.",
+          "choices": [
+            "thgie",
+            "ighte",
+            "eigh",
+            "eight"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "바른 철자는 eight입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eight",
+            "EIGHT"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        },
+        {
+          "questionId": "EN-L03-C02-S02-Q06",
+          "stageId": "EN-L03-C02-S02",
+          "type": "fillBlank",
+          "prompt": "숫자와 나이: 생활 어휘 문맥 학습 · 6번: _ine에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "nine의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ],
+          "koreanMeaning": "아홉",
+          "exampleSentence": "I am nine."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S03-Q01",
+          "stageId": "EN-L03-C02-S03",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 1번: I am ___. 빈칸에 ‘일곱’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "three",
+            "seven"
+          ],
+          "correctAnswer": "seven",
+          "explanation": "문맥과 뜻에 맞는 단어는 seven입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "seven",
+            "SEVEN"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        },
+        {
+          "questionId": "EN-L03-C02-S03-Q02",
+          "stageId": "EN-L03-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 2번: ‘여덟’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "eight",
+            "one"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "‘여덟’은 영어로 eight입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eight",
+            "EIGHT"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        },
+        {
+          "questionId": "EN-L03-C02-S03-Q03",
+          "stageId": "EN-L03-C02-S03",
+          "type": "trueFalse",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 3번: nine의 뜻이 ‘하나’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "nine의 뜻은 ‘아홉’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "아홉",
+          "exampleSentence": "I am nine."
+        },
+        {
+          "questionId": "EN-L03-C02-S03-Q04",
+          "stageId": "EN-L03-C02-S03",
+          "type": "ordering",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I see ten.",
+            "ten see I.",
+            "see ten I."
+          ],
+          "correctAnswer": "I see ten.",
+          "explanation": "바른 어순은 “I see ten.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see ten.",
+            "I see ten"
+          ],
+          "koreanMeaning": "열",
+          "exampleSentence": "I see ten."
+        },
+        {
+          "questionId": "EN-L03-C02-S03-Q05",
+          "stageId": "EN-L03-C02-S03",
+          "type": "fillBlank",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 5번: on_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "one의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C02-S03-Q06",
+          "stageId": "EN-L03-C02-S03",
+          "type": "matching",
+          "prompt": "숫자와 나이: 문장 구조 발견 · 6번: two과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "셋",
+            "넷",
+            "둘",
+            "하나"
+          ],
+          "correctAnswer": "둘",
+          "explanation": "two은 ‘둘’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "둘"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S04-Q01",
+          "stageId": "EN-L03-C02-S04",
+          "type": "wordBuilding",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘열’을 만드세요.",
+          "choices": [
+            "net",
+            "ent",
+            "te",
+            "ten"
+          ],
+          "correctAnswer": "ten",
+          "explanation": "바른 철자는 ten입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ten",
+            "TEN"
+          ],
+          "koreanMeaning": "열",
+          "exampleSentence": "I see ten."
+        },
+        {
+          "questionId": "EN-L03-C02-S04-Q02",
+          "stageId": "EN-L03-C02-S04",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 2번: I am ___. 빈칸에 ‘하나’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "three",
+            "four",
+            "one",
+            "two"
+          ],
+          "correctAnswer": "one",
+          "explanation": "문맥과 뜻에 맞는 단어는 one입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "one",
+            "ONE"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C02-S04-Q03",
+          "stageId": "EN-L03-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 3번: ‘둘’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "four",
+            "two",
+            "one",
+            "three"
+          ],
+          "correctAnswer": "two",
+          "explanation": "‘둘’은 영어로 two입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "two",
+            "TWO"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C02-S04-Q04",
+          "stageId": "EN-L03-C02-S04",
+          "type": "categorization",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 4번: three을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "수와 나이",
+            "음식과 음료",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "수와 나이",
+          "explanation": "three은 수와 나이 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "수와 나이"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S04-Q05",
+          "stageId": "EN-L03-C02-S04",
+          "type": "ordering",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "four see I.",
+            "see four I.",
+            "I see four."
+          ],
+          "correctAnswer": "I see four.",
+          "explanation": "바른 어순은 “I see four.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see four.",
+            "I see four"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S04-Q06",
+          "stageId": "EN-L03-C02-S04",
+          "type": "fillBlank",
+          "prompt": "숫자와 나이: 짧은 문장 연습 · 6번: fi_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "v",
+          "explanation": "five의 빠진 글자는 v입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "v",
+            "V"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S05-Q01",
+          "stageId": "EN-L03-C02-S05",
+          "type": "sentenceMeaning",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 1번: “I am three.”에서 three의 뜻을 고르세요.",
+          "choices": [
+            "하나",
+            "둘",
+            "넷",
+            "셋"
+          ],
+          "correctAnswer": "셋",
+          "explanation": "three은 ‘셋’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "셋"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S05-Q02",
+          "stageId": "EN-L03-C02-S05",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 2번: ‘넷’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "four",
+            "one"
+          ],
+          "correctAnswer": "four",
+          "explanation": "‘넷’은 영어로 four입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "four",
+            "FOUR"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S05-Q03",
+          "stageId": "EN-L03-C02-S05",
+          "type": "trueFalse",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 3번: five의 뜻이 ‘하나’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "five의 뜻은 ‘다섯’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S05-Q04",
+          "stageId": "EN-L03-C02-S05",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 4번: I see ___. 빈칸에 ‘여섯’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "six",
+            "one",
+            "two",
+            "three"
+          ],
+          "correctAnswer": "six",
+          "explanation": "문맥과 뜻에 맞는 단어는 six입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "six",
+            "SIX"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C02-S05-Q05",
+          "stageId": "EN-L03-C02-S05",
+          "type": "matching",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 5번: seven과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "하나",
+            "둘",
+            "셋",
+            "일곱"
+          ],
+          "correctAnswer": "일곱",
+          "explanation": "seven은 ‘일곱’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "일곱"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        },
+        {
+          "questionId": "EN-L03-C02-S05-Q06",
+          "stageId": "EN-L03-C02-S05",
+          "type": "ordering",
+          "prompt": "숫자와 나이: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "see eight I.",
+            "I see eight.",
+            "eight see I."
+          ],
+          "correctAnswer": "I see eight.",
+          "explanation": "바른 어순은 “I see eight.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see eight.",
+            "I see eight"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S06-Q01",
+          "stageId": "EN-L03-C02-S06",
+          "type": "listeningChoice",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "three",
+            "six"
+          ],
+          "correctAnswer": "six",
+          "explanation": "음성의 핵심 단어는 six입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "six",
+          "acceptedAnswers": [
+            "six"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C02-S06-Q02",
+          "stageId": "EN-L03-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 2번: ‘일곱’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "seven",
+            "one"
+          ],
+          "correctAnswer": "seven",
+          "explanation": "‘일곱’은 영어로 seven입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "seven",
+            "SEVEN"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        },
+        {
+          "questionId": "EN-L03-C02-S06-Q03",
+          "stageId": "EN-L03-C02-S06",
+          "type": "listeningChoice",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "three",
+            "eight",
+            "one",
+            "two"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "음성의 핵심 단어는 eight입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "eight",
+          "acceptedAnswers": [
+            "eight"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        },
+        {
+          "questionId": "EN-L03-C02-S06-Q04",
+          "stageId": "EN-L03-C02-S06",
+          "type": "dictation",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "nine",
+          "explanation": "아홉은 영어로 nine입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "nine",
+          "acceptedAnswers": [
+            "nine",
+            "NINE"
+          ],
+          "koreanMeaning": "아홉",
+          "exampleSentence": "I am nine."
+        },
+        {
+          "questionId": "EN-L03-C02-S06-Q05",
+          "stageId": "EN-L03-C02-S06",
+          "type": "trueFalse",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 5번: ten의 뜻이 ‘하나’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "ten의 뜻은 ‘열’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "열",
+          "exampleSentence": "I see ten."
+        },
+        {
+          "questionId": "EN-L03-C02-S06-Q06",
+          "stageId": "EN-L03-C02-S06",
+          "type": "matching",
+          "prompt": "숫자와 나이: 생활 대화 듣기 · 6번: one과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "셋",
+            "넷",
+            "하나",
+            "둘"
+          ],
+          "correctAnswer": "하나",
+          "explanation": "one은 ‘하나’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "하나"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S07-Q01",
+          "stageId": "EN-L03-C02-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "숫자와 나이: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I am nine.",
+          "explanation": "I am nine.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I am nine.",
+          "acceptedAnswers": [
+            "I am nine.",
+            "I am nine"
+          ],
+          "koreanMeaning": "아홉",
+          "exampleSentence": "I am nine."
+        },
+        {
+          "questionId": "EN-L03-C02-S07-Q02",
+          "stageId": "EN-L03-C02-S07",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 표현 말하기 · 2번: ‘열’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "ten",
+            "one"
+          ],
+          "correctAnswer": "ten",
+          "explanation": "‘열’은 영어로 ten입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ten",
+            "TEN"
+          ],
+          "koreanMeaning": "열",
+          "exampleSentence": "I see ten."
+        },
+        {
+          "questionId": "EN-L03-C02-S07-Q03",
+          "stageId": "EN-L03-C02-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "숫자와 나이: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I am one.",
+          "explanation": "I am one.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I am one.",
+          "acceptedAnswers": [
+            "I am one.",
+            "I am one"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C02-S07-Q04",
+          "stageId": "EN-L03-C02-S07",
+          "type": "sentenceMeaning",
+          "prompt": "숫자와 나이: 표현 말하기 · 4번: “I see two.”에서 two의 뜻을 고르세요.",
+          "choices": [
+            "둘",
+            "하나",
+            "셋",
+            "넷"
+          ],
+          "correctAnswer": "둘",
+          "explanation": "two은 ‘둘’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "둘"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C02-S07-Q05",
+          "stageId": "EN-L03-C02-S07",
+          "type": "matching",
+          "prompt": "숫자와 나이: 표현 말하기 · 5번: three과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "하나",
+            "둘",
+            "넷",
+            "셋"
+          ],
+          "correctAnswer": "셋",
+          "explanation": "three은 ‘셋’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "셋"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S07-Q06",
+          "stageId": "EN-L03-C02-S07",
+          "type": "trueFalse",
+          "prompt": "숫자와 나이: 표현 말하기 · 6번: four의 뜻이 ‘넷’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "four의 뜻은 ‘넷’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S08-Q01",
+          "stageId": "EN-L03-C02-S08",
+          "type": "spelling",
+          "prompt": "숫자와 나이: 문장 쓰기 · 1번: _wo에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "two의 빠진 글자는 t입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C02-S08-Q02",
+          "stageId": "EN-L03-C02-S08",
+          "type": "fillBlank",
+          "prompt": "숫자와 나이: 문장 쓰기 · 2번: _hree에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "three의 빠진 글자는 t입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S08-Q03",
+          "stageId": "EN-L03-C02-S08",
+          "type": "dictation",
+          "prompt": "숫자와 나이: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "four",
+          "explanation": "넷은 영어로 four입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "four",
+          "acceptedAnswers": [
+            "four",
+            "FOUR"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S08-Q04",
+          "stageId": "EN-L03-C02-S08",
+          "type": "wordBuilding",
+          "prompt": "숫자와 나이: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘다섯’을 만드세요.",
+          "choices": [
+            "five",
+            "evif",
+            "ivef",
+            "fiv"
+          ],
+          "correctAnswer": "five",
+          "explanation": "바른 철자는 five입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S08-Q05",
+          "stageId": "EN-L03-C02-S08",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 문장 쓰기 · 5번: I see ___. 빈칸에 ‘여섯’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "three",
+            "six"
+          ],
+          "correctAnswer": "six",
+          "explanation": "문맥과 뜻에 맞는 단어는 six입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "six",
+            "SIX"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C02-S08-Q06",
+          "stageId": "EN-L03-C02-S08",
+          "type": "ordering",
+          "prompt": "숫자와 나이: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "am seven I.",
+            "I am seven.",
+            "seven am I."
+          ],
+          "correctAnswer": "I am seven.",
+          "explanation": "바른 어순은 “I am seven.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I am seven.",
+            "I am seven"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C02-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C02-S09-Q01",
+          "stageId": "EN-L03-C02-S09",
+          "type": "reviewMixed",
+          "prompt": "숫자와 나이: 과정 평가 · 1번: ‘다섯’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "three",
+            "five"
+          ],
+          "correctAnswer": "five",
+          "explanation": "‘다섯’은 영어로 five입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q02",
+          "stageId": "EN-L03-C02-S09",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 과정 평가 · 2번: ‘여섯’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "six",
+            "one"
+          ],
+          "correctAnswer": "six",
+          "explanation": "‘여섯’은 영어로 six입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "six",
+            "SIX"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q03",
+          "stageId": "EN-L03-C02-S09",
+          "type": "listeningChoice",
+          "prompt": "숫자와 나이: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "three",
+            "seven",
+            "one",
+            "two"
+          ],
+          "correctAnswer": "seven",
+          "explanation": "음성의 핵심 단어는 seven입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "seven",
+          "acceptedAnswers": [
+            "seven"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q04",
+          "stageId": "EN-L03-C02-S09",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 과정 평가 · 4번: I see ___. 빈칸에 ‘여덟’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "eight",
+            "one",
+            "two",
+            "three"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "문맥과 뜻에 맞는 단어는 eight입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eight",
+            "EIGHT"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q05",
+          "stageId": "EN-L03-C02-S09",
+          "type": "dictation",
+          "prompt": "숫자와 나이: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "nine",
+          "explanation": "아홉은 영어로 nine입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "nine",
+          "acceptedAnswers": [
+            "nine",
+            "NINE"
+          ],
+          "koreanMeaning": "아홉",
+          "exampleSentence": "I am nine."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q06",
+          "stageId": "EN-L03-C02-S09",
+          "type": "sentenceMeaning",
+          "prompt": "숫자와 나이: 과정 평가 · 6번: “I see ten.”에서 ten의 뜻을 고르세요.",
+          "choices": [
+            "둘",
+            "셋",
+            "열",
+            "하나"
+          ],
+          "correctAnswer": "열",
+          "explanation": "ten은 ‘열’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "열"
+          ],
+          "koreanMeaning": "열",
+          "exampleSentence": "I see ten."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q07",
+          "stageId": "EN-L03-C02-S09",
+          "type": "reviewMixed",
+          "prompt": "숫자와 나이: 과정 평가 · 7번: ‘하나’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "four",
+            "one",
+            "two",
+            "three"
+          ],
+          "correctAnswer": "one",
+          "explanation": "‘하나’은 영어로 one입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "one",
+            "ONE"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q08",
+          "stageId": "EN-L03-C02-S09",
+          "type": "multipleChoice",
+          "prompt": "숫자와 나이: 과정 평가 · 8번: ‘둘’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "two",
+            "one",
+            "three",
+            "four"
+          ],
+          "correctAnswer": "two",
+          "explanation": "‘둘’은 영어로 two입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "two",
+            "TWO"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q09",
+          "stageId": "EN-L03-C02-S09",
+          "type": "listeningChoice",
+          "prompt": "숫자와 나이: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "one",
+            "two",
+            "four",
+            "three"
+          ],
+          "correctAnswer": "three",
+          "explanation": "음성의 핵심 단어는 three입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "three",
+          "acceptedAnswers": [
+            "three"
+          ],
+          "koreanMeaning": "셋",
+          "exampleSentence": "I am three."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q10",
+          "stageId": "EN-L03-C02-S09",
+          "type": "sentenceCompletion",
+          "prompt": "숫자와 나이: 과정 평가 · 10번: I see ___. 빈칸에 ‘넷’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "two",
+            "three",
+            "four",
+            "one"
+          ],
+          "correctAnswer": "four",
+          "explanation": "문맥과 뜻에 맞는 단어는 four입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "four",
+            "FOUR"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q11",
+          "stageId": "EN-L03-C02-S09",
+          "type": "dictation",
+          "prompt": "숫자와 나이: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "five",
+          "explanation": "다섯은 영어로 five입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "five",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C02-S09-Q12",
+          "stageId": "EN-L03-C02-S09",
+          "type": "sentenceMeaning",
+          "prompt": "숫자와 나이: 과정 평가 · 12번: “I see six.”에서 six의 뜻을 고르세요.",
+          "choices": [
+            "여섯",
+            "하나",
+            "둘",
+            "셋"
+          ],
+          "correctAnswer": "여섯",
+          "explanation": "six은 ‘여섯’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "숫자와 나이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "여섯"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        }
+      ]
+    }
+  ]
+}

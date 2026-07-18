@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C03",
+  "stages": [
+    {
+      "stageId": "EN-L03-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S01-Q01",
+          "stageId": "EN-L03-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 핵심 표현 이해 · 1번: ‘빨간색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "yellow",
+            "red"
+          ],
+          "correctAnswer": "red",
+          "explanation": "‘빨간색’은 영어로 red입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "red",
+            "RED"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        },
+        {
+          "questionId": "EN-L03-C03-S01-Q02",
+          "stageId": "EN-L03-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "색과 모양: 핵심 표현 이해 · 2번: “I see blue.”에서 blue의 뜻을 고르세요.",
+          "choices": [
+            "초록색",
+            "노란색",
+            "파란색",
+            "빨간색"
+          ],
+          "correctAnswer": "파란색",
+          "explanation": "blue은 ‘파란색’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "파란색"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        },
+        {
+          "questionId": "EN-L03-C03-S01-Q03",
+          "stageId": "EN-L03-C03-S01",
+          "type": "trueFalse",
+          "prompt": "색과 모양: 핵심 표현 이해 · 3번: green의 뜻이 ‘빨간색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "green의 뜻은 ‘초록색’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S01-Q04",
+          "stageId": "EN-L03-C03-S01",
+          "type": "matching",
+          "prompt": "색과 모양: 핵심 표현 이해 · 4번: yellow과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "노란색",
+            "빨간색",
+            "파란색",
+            "초록색"
+          ],
+          "correctAnswer": "노란색",
+          "explanation": "yellow은 ‘노란색’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "노란색"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S01-Q05",
+          "stageId": "EN-L03-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 핵심 표현 이해 · 5번: It is ___. 빈칸에 ‘검은색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "green",
+            "black"
+          ],
+          "correctAnswer": "black",
+          "explanation": "문맥과 뜻에 맞는 단어는 black입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S01-Q06",
+          "stageId": "EN-L03-C03-S01",
+          "type": "categorization",
+          "prompt": "색과 모양: 핵심 표현 이해 · 6번: white을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "색과 모양",
+            "학교"
+          ],
+          "correctAnswer": "색과 모양",
+          "explanation": "white은 색과 모양 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "색과 모양"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S02-Q01",
+          "stageId": "EN-L03-C03-S02",
+          "type": "matching",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 1번: yellow과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빨간색",
+            "파란색",
+            "초록색",
+            "노란색"
+          ],
+          "correctAnswer": "노란색",
+          "explanation": "yellow은 ‘노란색’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "노란색"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S02-Q02",
+          "stageId": "EN-L03-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 2번: ‘검은색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "black",
+            "red"
+          ],
+          "correctAnswer": "black",
+          "explanation": "‘검은색’은 영어로 black입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S02-Q03",
+          "stageId": "EN-L03-C03-S02",
+          "type": "categorization",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 3번: white을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "색과 모양",
+            "신체",
+            "음식과 음료"
+          ],
+          "correctAnswer": "색과 모양",
+          "explanation": "white은 색과 모양 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "색과 모양"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C03-S02-Q04",
+          "stageId": "EN-L03-C03-S02",
+          "type": "spelling",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 4번: _ircle에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "circle의 빠진 글자는 c입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        },
+        {
+          "questionId": "EN-L03-C03-S02-Q05",
+          "stageId": "EN-L03-C03-S02",
+          "type": "wordBuilding",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘정사각형’을 만드세요.",
+          "choices": [
+            "erauqs",
+            "quares",
+            "squar",
+            "square"
+          ],
+          "correctAnswer": "square",
+          "explanation": "바른 철자는 square입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "square",
+            "SQUARE"
+          ],
+          "koreanMeaning": "정사각형",
+          "exampleSentence": "I see a square."
+        },
+        {
+          "questionId": "EN-L03-C03-S02-Q06",
+          "stageId": "EN-L03-C03-S02",
+          "type": "fillBlank",
+          "prompt": "색과 모양: 생활 어휘 문맥 학습 · 6번: _tar에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "star의 빠진 글자는 s입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S03-Q01",
+          "stageId": "EN-L03-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 문장 구조 발견 · 1번: It is a ___. 빈칸에 ‘원’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "green",
+            "circle"
+          ],
+          "correctAnswer": "circle",
+          "explanation": "문맥과 뜻에 맞는 단어는 circle입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "circle",
+            "CIRCLE"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        },
+        {
+          "questionId": "EN-L03-C03-S03-Q02",
+          "stageId": "EN-L03-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 문장 구조 발견 · 2번: ‘정사각형’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "square",
+            "red"
+          ],
+          "correctAnswer": "square",
+          "explanation": "‘정사각형’은 영어로 square입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "square",
+            "SQUARE"
+          ],
+          "koreanMeaning": "정사각형",
+          "exampleSentence": "I see a square."
+        },
+        {
+          "questionId": "EN-L03-C03-S03-Q03",
+          "stageId": "EN-L03-C03-S03",
+          "type": "trueFalse",
+          "prompt": "색과 모양: 문장 구조 발견 · 3번: star의 뜻이 ‘빨간색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "star의 뜻은 ‘별 모양’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        },
+        {
+          "questionId": "EN-L03-C03-S03-Q04",
+          "stageId": "EN-L03-C03-S03",
+          "type": "ordering",
+          "prompt": "색과 모양: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I see big.",
+            "big see I.",
+            "see big I."
+          ],
+          "correctAnswer": "I see big.",
+          "explanation": "바른 어순은 “I see big.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see big.",
+            "I see big"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C03-S03-Q05",
+          "stageId": "EN-L03-C03-S03",
+          "type": "fillBlank",
+          "prompt": "색과 모양: 문장 구조 발견 · 5번: re_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "red의 빠진 글자는 d입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        },
+        {
+          "questionId": "EN-L03-C03-S03-Q06",
+          "stageId": "EN-L03-C03-S03",
+          "type": "matching",
+          "prompt": "색과 모양: 문장 구조 발견 · 6번: blue과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "초록색",
+            "노란색",
+            "파란색",
+            "빨간색"
+          ],
+          "correctAnswer": "파란색",
+          "explanation": "blue은 ‘파란색’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "파란색"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S04-Q01",
+          "stageId": "EN-L03-C03-S04",
+          "type": "wordBuilding",
+          "prompt": "색과 모양: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘큰’을 만드세요.",
+          "choices": [
+            "gib",
+            "igb",
+            "bi",
+            "big"
+          ],
+          "correctAnswer": "big",
+          "explanation": "바른 철자는 big입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "big",
+            "BIG"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C03-S04-Q02",
+          "stageId": "EN-L03-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 짧은 문장 연습 · 2번: It is ___. 빈칸에 ‘빨간색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "green",
+            "yellow",
+            "red",
+            "blue"
+          ],
+          "correctAnswer": "red",
+          "explanation": "문맥과 뜻에 맞는 단어는 red입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "red",
+            "RED"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        },
+        {
+          "questionId": "EN-L03-C03-S04-Q03",
+          "stageId": "EN-L03-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 짧은 문장 연습 · 3번: ‘파란색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "yellow",
+            "blue",
+            "red",
+            "green"
+          ],
+          "correctAnswer": "blue",
+          "explanation": "‘파란색’은 영어로 blue입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "blue",
+            "BLUE"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        },
+        {
+          "questionId": "EN-L03-C03-S04-Q04",
+          "stageId": "EN-L03-C03-S04",
+          "type": "categorization",
+          "prompt": "색과 모양: 짧은 문장 연습 · 4번: green을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "색과 모양",
+            "음식과 음료",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "색과 모양",
+          "explanation": "green은 색과 모양 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "색과 모양"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S04-Q05",
+          "stageId": "EN-L03-C03-S04",
+          "type": "ordering",
+          "prompt": "색과 모양: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "yellow see I.",
+            "see yellow I.",
+            "I see yellow."
+          ],
+          "correctAnswer": "I see yellow.",
+          "explanation": "바른 어순은 “I see yellow.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see yellow.",
+            "I see yellow"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S04-Q06",
+          "stageId": "EN-L03-C03-S04",
+          "type": "fillBlank",
+          "prompt": "색과 모양: 짧은 문장 연습 · 6번: _lack에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "b",
+          "explanation": "black의 빠진 글자는 b입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "b",
+            "B"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S05-Q01",
+          "stageId": "EN-L03-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "색과 모양: 짧은 글 읽기 · 1번: “It is green.”에서 green의 뜻을 고르세요.",
+          "choices": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "correctAnswer": "초록색",
+          "explanation": "green은 ‘초록색’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "초록색"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S05-Q02",
+          "stageId": "EN-L03-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 짧은 글 읽기 · 2번: ‘노란색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "yellow",
+            "red"
+          ],
+          "correctAnswer": "yellow",
+          "explanation": "‘노란색’은 영어로 yellow입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yellow",
+            "YELLOW"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S05-Q03",
+          "stageId": "EN-L03-C03-S05",
+          "type": "trueFalse",
+          "prompt": "색과 모양: 짧은 글 읽기 · 3번: black의 뜻이 ‘빨간색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "black의 뜻은 ‘검은색’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S05-Q04",
+          "stageId": "EN-L03-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 짧은 글 읽기 · 4번: I see ___. 빈칸에 ‘흰색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "white",
+            "red",
+            "blue",
+            "green"
+          ],
+          "correctAnswer": "white",
+          "explanation": "문맥과 뜻에 맞는 단어는 white입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "white",
+            "WHITE"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C03-S05-Q05",
+          "stageId": "EN-L03-C03-S05",
+          "type": "matching",
+          "prompt": "색과 모양: 짧은 글 읽기 · 5번: circle과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빨간색",
+            "파란색",
+            "초록색",
+            "원"
+          ],
+          "correctAnswer": "원",
+          "explanation": "circle은 ‘원’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "원"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        },
+        {
+          "questionId": "EN-L03-C03-S05-Q06",
+          "stageId": "EN-L03-C03-S05",
+          "type": "ordering",
+          "prompt": "색과 모양: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "see a square I.",
+            "I see a square.",
+            "square a see I."
+          ],
+          "correctAnswer": "I see a square.",
+          "explanation": "바른 어순은 “I see a square.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see a square.",
+            "I see a square"
+          ],
+          "koreanMeaning": "정사각형",
+          "exampleSentence": "I see a square."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S06-Q01",
+          "stageId": "EN-L03-C03-S06",
+          "type": "listeningChoice",
+          "prompt": "색과 모양: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "green",
+            "white"
+          ],
+          "correctAnswer": "white",
+          "explanation": "음성의 핵심 단어는 white입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "white",
+          "acceptedAnswers": [
+            "white"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C03-S06-Q02",
+          "stageId": "EN-L03-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 생활 대화 듣기 · 2번: ‘원’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "circle",
+            "red"
+          ],
+          "correctAnswer": "circle",
+          "explanation": "‘원’은 영어로 circle입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "circle",
+            "CIRCLE"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        },
+        {
+          "questionId": "EN-L03-C03-S06-Q03",
+          "stageId": "EN-L03-C03-S06",
+          "type": "listeningChoice",
+          "prompt": "색과 모양: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "green",
+            "square",
+            "red",
+            "blue"
+          ],
+          "correctAnswer": "square",
+          "explanation": "음성의 핵심 단어는 square입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "square",
+          "acceptedAnswers": [
+            "square"
+          ],
+          "koreanMeaning": "정사각형",
+          "exampleSentence": "I see a square."
+        },
+        {
+          "questionId": "EN-L03-C03-S06-Q04",
+          "stageId": "EN-L03-C03-S06",
+          "type": "dictation",
+          "prompt": "색과 모양: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "star",
+          "explanation": "별 모양은 영어로 star입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "star",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        },
+        {
+          "questionId": "EN-L03-C03-S06-Q05",
+          "stageId": "EN-L03-C03-S06",
+          "type": "trueFalse",
+          "prompt": "색과 모양: 생활 대화 듣기 · 5번: big의 뜻이 ‘빨간색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "big의 뜻은 ‘큰’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C03-S06-Q06",
+          "stageId": "EN-L03-C03-S06",
+          "type": "matching",
+          "prompt": "색과 모양: 생활 대화 듣기 · 6번: red과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "초록색",
+            "노란색",
+            "빨간색",
+            "파란색"
+          ],
+          "correctAnswer": "빨간색",
+          "explanation": "red은 ‘빨간색’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "빨간색"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S07-Q01",
+          "stageId": "EN-L03-C03-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "색과 모양: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It is a star.",
+          "explanation": "It is a star.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It is a star.",
+          "acceptedAnswers": [
+            "It is a star.",
+            "It is a star"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        },
+        {
+          "questionId": "EN-L03-C03-S07-Q02",
+          "stageId": "EN-L03-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 표현 말하기 · 2번: ‘큰’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "big",
+            "red"
+          ],
+          "correctAnswer": "big",
+          "explanation": "‘큰’은 영어로 big입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "big",
+            "BIG"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C03-S07-Q03",
+          "stageId": "EN-L03-C03-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "색과 모양: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It is red.",
+          "explanation": "It is red.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It is red.",
+          "acceptedAnswers": [
+            "It is red.",
+            "It is red"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        },
+        {
+          "questionId": "EN-L03-C03-S07-Q04",
+          "stageId": "EN-L03-C03-S07",
+          "type": "sentenceMeaning",
+          "prompt": "색과 모양: 표현 말하기 · 4번: “I see blue.”에서 blue의 뜻을 고르세요.",
+          "choices": [
+            "파란색",
+            "빨간색",
+            "초록색",
+            "노란색"
+          ],
+          "correctAnswer": "파란색",
+          "explanation": "blue은 ‘파란색’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "파란색"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        },
+        {
+          "questionId": "EN-L03-C03-S07-Q05",
+          "stageId": "EN-L03-C03-S07",
+          "type": "matching",
+          "prompt": "색과 모양: 표현 말하기 · 5번: green과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빨간색",
+            "파란색",
+            "노란색",
+            "초록색"
+          ],
+          "correctAnswer": "초록색",
+          "explanation": "green은 ‘초록색’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "초록색"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S07-Q06",
+          "stageId": "EN-L03-C03-S07",
+          "type": "trueFalse",
+          "prompt": "색과 모양: 표현 말하기 · 6번: yellow의 뜻이 ‘노란색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "yellow의 뜻은 ‘노란색’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S08-Q01",
+          "stageId": "EN-L03-C03-S08",
+          "type": "spelling",
+          "prompt": "색과 모양: 문장 쓰기 · 1번: b_ue에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "l",
+          "explanation": "blue의 빠진 글자는 l입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "l",
+            "L"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        },
+        {
+          "questionId": "EN-L03-C03-S08-Q02",
+          "stageId": "EN-L03-C03-S08",
+          "type": "fillBlank",
+          "prompt": "색과 모양: 문장 쓰기 · 2번: _reen에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "g",
+          "explanation": "green의 빠진 글자는 g입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "g",
+            "G"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S08-Q03",
+          "stageId": "EN-L03-C03-S08",
+          "type": "dictation",
+          "prompt": "색과 모양: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "yellow",
+          "explanation": "노란색은 영어로 yellow입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "yellow",
+          "acceptedAnswers": [
+            "yellow",
+            "YELLOW"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S08-Q04",
+          "stageId": "EN-L03-C03-S08",
+          "type": "wordBuilding",
+          "prompt": "색과 모양: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘검은색’을 만드세요.",
+          "choices": [
+            "black",
+            "kcalb",
+            "lackb",
+            "blac"
+          ],
+          "correctAnswer": "black",
+          "explanation": "바른 철자는 black입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S08-Q05",
+          "stageId": "EN-L03-C03-S08",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 문장 쓰기 · 5번: I see ___. 빈칸에 ‘흰색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "green",
+            "white"
+          ],
+          "correctAnswer": "white",
+          "explanation": "문맥과 뜻에 맞는 단어는 white입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "white",
+            "WHITE"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C03-S08-Q06",
+          "stageId": "EN-L03-C03-S08",
+          "type": "ordering",
+          "prompt": "색과 모양: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is a circle It.",
+            "It is a circle.",
+            "circle a is It."
+          ],
+          "correctAnswer": "It is a circle.",
+          "explanation": "바른 어순은 “It is a circle.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is a circle.",
+            "It is a circle"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C03-S09-Q01",
+          "stageId": "EN-L03-C03-S09",
+          "type": "reviewMixed",
+          "prompt": "색과 모양: 과정 평가 · 1번: ‘검은색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "green",
+            "black"
+          ],
+          "correctAnswer": "black",
+          "explanation": "‘검은색’은 영어로 black입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q02",
+          "stageId": "EN-L03-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 과정 평가 · 2번: ‘흰색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "white",
+            "red"
+          ],
+          "correctAnswer": "white",
+          "explanation": "‘흰색’은 영어로 white입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "white",
+            "WHITE"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q03",
+          "stageId": "EN-L03-C03-S09",
+          "type": "listeningChoice",
+          "prompt": "색과 모양: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "green",
+            "circle",
+            "red",
+            "blue"
+          ],
+          "correctAnswer": "circle",
+          "explanation": "음성의 핵심 단어는 circle입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "circle",
+          "acceptedAnswers": [
+            "circle"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q04",
+          "stageId": "EN-L03-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 과정 평가 · 4번: I see a ___. 빈칸에 ‘정사각형’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "square",
+            "red",
+            "blue",
+            "green"
+          ],
+          "correctAnswer": "square",
+          "explanation": "문맥과 뜻에 맞는 단어는 square입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "square",
+            "SQUARE"
+          ],
+          "koreanMeaning": "정사각형",
+          "exampleSentence": "I see a square."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q05",
+          "stageId": "EN-L03-C03-S09",
+          "type": "dictation",
+          "prompt": "색과 모양: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "star",
+          "explanation": "별 모양은 영어로 star입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "star",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q06",
+          "stageId": "EN-L03-C03-S09",
+          "type": "sentenceMeaning",
+          "prompt": "색과 모양: 과정 평가 · 6번: “I see big.”에서 big의 뜻을 고르세요.",
+          "choices": [
+            "파란색",
+            "초록색",
+            "큰",
+            "빨간색"
+          ],
+          "correctAnswer": "큰",
+          "explanation": "big은 ‘큰’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "큰"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q07",
+          "stageId": "EN-L03-C03-S09",
+          "type": "reviewMixed",
+          "prompt": "색과 모양: 과정 평가 · 7번: ‘빨간색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "yellow",
+            "red",
+            "blue",
+            "green"
+          ],
+          "correctAnswer": "red",
+          "explanation": "‘빨간색’은 영어로 red입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "red",
+            "RED"
+          ],
+          "koreanMeaning": "빨간색",
+          "exampleSentence": "It is red."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q08",
+          "stageId": "EN-L03-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "색과 모양: 과정 평가 · 8번: ‘파란색’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "red",
+            "green",
+            "yellow"
+          ],
+          "correctAnswer": "blue",
+          "explanation": "‘파란색’은 영어로 blue입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "blue",
+            "BLUE"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q09",
+          "stageId": "EN-L03-C03-S09",
+          "type": "listeningChoice",
+          "prompt": "색과 모양: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "red",
+            "blue",
+            "yellow",
+            "green"
+          ],
+          "correctAnswer": "green",
+          "explanation": "음성의 핵심 단어는 green입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "green",
+          "acceptedAnswers": [
+            "green"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q10",
+          "stageId": "EN-L03-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "색과 모양: 과정 평가 · 10번: I see ___. 빈칸에 ‘노란색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "yellow",
+            "red"
+          ],
+          "correctAnswer": "yellow",
+          "explanation": "문맥과 뜻에 맞는 단어는 yellow입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yellow",
+            "YELLOW"
+          ],
+          "koreanMeaning": "노란색",
+          "exampleSentence": "I see yellow."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q11",
+          "stageId": "EN-L03-C03-S09",
+          "type": "dictation",
+          "prompt": "색과 모양: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "black",
+          "explanation": "검은색은 영어로 black입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "black",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C03-S09-Q12",
+          "stageId": "EN-L03-C03-S09",
+          "type": "sentenceMeaning",
+          "prompt": "색과 모양: 과정 평가 · 12번: “I see white.”에서 white의 뜻을 고르세요.",
+          "choices": [
+            "흰색",
+            "빨간색",
+            "파란색",
+            "초록색"
+          ],
+          "correctAnswer": "흰색",
+          "explanation": "white은 ‘흰색’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "색과 모양 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "흰색"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        }
+      ]
+    }
+  ]
+}

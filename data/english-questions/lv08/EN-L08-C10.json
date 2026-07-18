@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C10",
+  "stages": [
+    {
+      "stageId": "EN-L08-C10-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S01-Q01",
+          "stageId": "EN-L08-C10-S01",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 1번: I ___ English for two years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been reading",
+            "have been studying"
+          ],
+          "correctAnswer": "have been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been studying입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been studying",
+            "have been studying"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S01-Q02",
+          "stageId": "EN-L08-C10-S01",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 2번: 핵심 표현이 ‘have been living’이면 O, 아니면 X를 고르세요: You have been living here for three years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have been living입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S01-Q03",
+          "stageId": "EN-L08-C10-S01",
+          "type": "matching",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 3번: He ___ soccer for an hour. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been reading",
+            "has been playing",
+            "have been studying",
+            "have been living"
+          ],
+          "correctAnswer": "has been playing",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been playing입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been playing",
+            "has been playing"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S01-Q04",
+          "stageId": "EN-L08-C10-S01",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 4번: “She has been reading the book for two hours.”의 뜻을 고르세요.",
+          "choices": [
+            "계속된 행동을 나타낸다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S01-Q05",
+          "stageId": "EN-L08-C10-S01",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 5번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "have been waiting"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S01-Q06",
+          "stageId": "EN-L08-C10-S01",
+          "type": "ordering",
+          "prompt": "5형식 문장: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been working together for five months They.",
+            "have",
+            "They have been working together for five months.",
+            "months five for together working been have They."
+          ],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 어순은 “They have been working together for five months.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S02-Q01",
+          "stageId": "EN-L08-C10-S02",
+          "type": "matching",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 1번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "has been reading"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S02-Q02",
+          "stageId": "EN-L08-C10-S02",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 2번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "have been waiting",
+            "have been studying"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S02-Q03",
+          "stageId": "EN-L08-C10-S02",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 3번: “They have been working together for five months.”의 뜻을 고르세요.",
+          "choices": [
+            "ever",
+            "계속된 행동을 나타낸다.",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S02-Q04",
+          "stageId": "EN-L08-C10-S02",
+          "type": "fillBlank",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 4번: Mina ___ math for six years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been studying",
+            "have been studying",
+            "have been living",
+            "has been playing"
+          ],
+          "correctAnswer": "has been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been studying입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been studying",
+            "has been studying"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S02-Q05",
+          "stageId": "EN-L08-C10-S02",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 5번: Tom ___ this bike for a week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "has been using"
+          ],
+          "correctAnswer": "has been using",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been using입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been using",
+            "has been using"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S02-Q06",
+          "stageId": "EN-L08-C10-S02",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘have been studying’이면 O, 아니면 X를 고르세요: I have been studying English for two years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have been studying입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S03-Q01",
+          "stageId": "EN-L08-C10-S03",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 문법 구조 분석 · 1번: Mina ___ math for six years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "has been studying"
+          ],
+          "correctAnswer": "has been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been studying입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been studying",
+            "has been studying"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S03-Q02",
+          "stageId": "EN-L08-C10-S03",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 문법 구조 분석 · 2번: Tom ___ this bike for a week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been using",
+            "have been studying"
+          ],
+          "correctAnswer": "has been using",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been using입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been using",
+            "has been using"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S03-Q03",
+          "stageId": "EN-L08-C10-S03",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 문법 구조 분석 · 3번: 핵심 표현이 ‘have been living’이면 O, 아니면 X를 고르세요: I have been studying English for two years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have been studying입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S03-Q04",
+          "stageId": "EN-L08-C10-S03",
+          "type": "ordering",
+          "prompt": "5형식 문장: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have been living here for three years.",
+            "years three for here living been have You.",
+            "have been living here for three years You.",
+            "have"
+          ],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 어순은 “You have been living here for three years.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S03-Q05",
+          "stageId": "EN-L08-C10-S03",
+          "type": "matching",
+          "prompt": "5형식 문장: 문법 구조 분석 · 5번: He ___ soccer for an hour. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been reading",
+            "has been playing"
+          ],
+          "correctAnswer": "has been playing",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been playing입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been playing",
+            "has been playing"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S03-Q06",
+          "stageId": "EN-L08-C10-S03",
+          "type": "fillBlank",
+          "prompt": "5형식 문장: 문법 구조 분석 · 6번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been reading",
+            "have been studying"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S04-Q01",
+          "stageId": "EN-L08-C10-S04",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 문장 분석 연습 · 1번: You ___ here for three years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "has been playing",
+            "has been reading",
+            "have been living"
+          ],
+          "correctAnswer": "have been living",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been living입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been living",
+            "have been living"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S04-Q02",
+          "stageId": "EN-L08-C10-S04",
+          "type": "ordering",
+          "prompt": "5형식 문장: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has been playing soccer for an hour He.",
+            "have",
+            "He has been playing soccer for an hour.",
+            "hour an for soccer playing been has He."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "바른 어순은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour.",
+            "He has been playing soccer for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S04-Q03",
+          "stageId": "EN-L08-C10-S04",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 문장 분석 연습 · 3번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been playing",
+            "has been reading",
+            "have been studying",
+            "have been living"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S04-Q04",
+          "stageId": "EN-L08-C10-S04",
+          "type": "fillBlank",
+          "prompt": "5형식 문장: 문장 분석 연습 · 4번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been waiting",
+            "have been studying",
+            "have been living",
+            "has been playing"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S04-Q05",
+          "stageId": "EN-L08-C10-S04",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 문장 분석 연습 · 5번: 핵심 표현이 ‘have been studying’이면 O, 아니면 X를 고르세요: They have been working together for five months.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have been working입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S04-Q06",
+          "stageId": "EN-L08-C10-S04",
+          "type": "matching",
+          "prompt": "5형식 문장: 문장 분석 연습 · 6번: Mina ___ math for six years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been studying",
+            "have been studying"
+          ],
+          "correctAnswer": "has been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been studying입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been studying",
+            "has been studying"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S05-Q01",
+          "stageId": "EN-L08-C10-S05",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 문단 구조 적용 · 1번: “We have been waiting here for thirty minutes.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "계속된 행동을 나타낸다."
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S05-Q02",
+          "stageId": "EN-L08-C10-S05",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 문단 구조 적용 · 2번: They ___ together for five months. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "have been working",
+            "have been studying"
+          ],
+          "correctAnswer": "have been working",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been working입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been working",
+            "have been working"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S05-Q03",
+          "stageId": "EN-L08-C10-S05",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 문단 구조 적용 · 3번: 핵심 표현이 ‘have been studying’이면 O, 아니면 X를 고르세요: Mina has been studying math for six years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has been studying입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S05-Q04",
+          "stageId": "EN-L08-C10-S05",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 문단 구조 적용 · 4번: Tom ___ this bike for a week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been using",
+            "have been studying",
+            "have been living",
+            "has been playing"
+          ],
+          "correctAnswer": "has been using",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been using입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been using",
+            "has been using"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S05-Q05",
+          "stageId": "EN-L08-C10-S05",
+          "type": "matching",
+          "prompt": "5형식 문장: 문단 구조 적용 · 5번: I ___ English for two years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been reading",
+            "have been studying"
+          ],
+          "correctAnswer": "have been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been studying입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been studying",
+            "have been studying"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S05-Q06",
+          "stageId": "EN-L08-C10-S05",
+          "type": "ordering",
+          "prompt": "5형식 문장: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been living here for three years You.",
+            "have",
+            "You have been living here for three years.",
+            "years three for here living been have You."
+          ],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 어순은 “You have been living here for three years.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S06-Q01",
+          "stageId": "EN-L08-C10-S06",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 구문독해 적용 · 1번: “Tom has been using this bike for a week.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "계속된 행동을 나타낸다."
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S06-Q02",
+          "stageId": "EN-L08-C10-S06",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 구문독해 적용 · 2번: I ___ English for two years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been playing",
+            "has been reading",
+            "have been studying",
+            "have been living"
+          ],
+          "correctAnswer": "have been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been studying입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been studying",
+            "have been studying"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S06-Q03",
+          "stageId": "EN-L08-C10-S06",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 구문독해 적용 · 3번: 핵심 표현이 ‘have been studying’이면 O, 아니면 X를 고르세요: You have been living here for three years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have been living입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S06-Q04",
+          "stageId": "EN-L08-C10-S06",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 구문독해 적용 · 4번: He ___ soccer for an hour. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been playing",
+            "have been studying",
+            "have been living",
+            "has been reading"
+          ],
+          "correctAnswer": "has been playing",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been playing입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been playing",
+            "has been playing"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S06-Q05",
+          "stageId": "EN-L08-C10-S06",
+          "type": "matching",
+          "prompt": "5형식 문장: 구문독해 적용 · 5번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "has been reading"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S06-Q06",
+          "stageId": "EN-L08-C10-S06",
+          "type": "ordering",
+          "prompt": "5형식 문장: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been waiting here for thirty minutes We.",
+            "have",
+            "We have been waiting here for thirty minutes.",
+            "minutes thirty for here waiting been have We."
+          ],
+          "correctAnswer": "We have been waiting here for thirty minutes.",
+          "explanation": "바른 어순은 “We have been waiting here for thirty minutes.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have been waiting here for thirty minutes.",
+            "We have been waiting here for thirty minutes"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S07-Q01",
+          "stageId": "EN-L08-C10-S07",
+          "type": "listeningChoice",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English for two years.",
+            "You have been living here for three years.",
+            "She has been reading the book for two hours.",
+            "He has been playing soccer for an hour."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "들은 문장은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has been playing soccer for an hour.",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour."
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S07-Q02",
+          "stageId": "EN-L08-C10-S07",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 2번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been reading",
+            "have been studying"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S07-Q03",
+          "stageId": "EN-L08-C10-S07",
+          "type": "listeningChoice",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer for an hour.",
+            "We have been waiting here for thirty minutes.",
+            "I have been studying English for two years.",
+            "You have been living here for three years."
+          ],
+          "correctAnswer": "We have been waiting here for thirty minutes.",
+          "explanation": "들은 문장은 “We have been waiting here for thirty minutes.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have been waiting here for thirty minutes.",
+          "acceptedAnswers": [
+            "We have been waiting here for thirty minutes."
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S07-Q04",
+          "stageId": "EN-L08-C10-S07",
+          "type": "dictation",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S07-Q05",
+          "stageId": "EN-L08-C10-S07",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘have been studying’이면 O, 아니면 X를 고르세요: Mina has been studying math for six years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has been studying입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S07-Q06",
+          "stageId": "EN-L08-C10-S07",
+          "type": "matching",
+          "prompt": "5형식 문장: 핵심 정보 듣기 · 6번: Tom ___ this bike for a week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been using",
+            "have been studying"
+          ],
+          "correctAnswer": "has been using",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been using입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been using",
+            "has been using"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S08-Q01",
+          "stageId": "EN-L08-C10-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "5형식 문장: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "“They have been working together for five months.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S08-Q02",
+          "stageId": "EN-L08-C10-S08",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 근거 설명하기 · 2번: Mina ___ math for six years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been studying",
+            "have been studying"
+          ],
+          "correctAnswer": "has been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been studying입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been studying",
+            "has been studying"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S08-Q03",
+          "stageId": "EN-L08-C10-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "5형식 문장: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike for a week.",
+          "explanation": "“Tom has been using this bike for a week.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has been using this bike for a week.",
+          "acceptedAnswers": [
+            "Tom has been using this bike for a week.",
+            "Tom has been using this bike for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S08-Q04",
+          "stageId": "EN-L08-C10-S08",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 근거 설명하기 · 4번: “I have been studying English for two years.”의 뜻을 고르세요.",
+          "choices": [
+            "계속된 행동을 나타낸다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S08-Q05",
+          "stageId": "EN-L08-C10-S08",
+          "type": "matching",
+          "prompt": "5형식 문장: 근거 설명하기 · 5번: You ___ here for three years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "has been playing",
+            "has been reading",
+            "have been living"
+          ],
+          "correctAnswer": "have been living",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been living입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been living",
+            "have been living"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S08-Q06",
+          "stageId": "EN-L08-C10-S08",
+          "type": "trueFalse",
+          "prompt": "5형식 문장: 근거 설명하기 · 6번: 핵심 표현이 ‘has been playing’이면 O, 아니면 X를 고르세요: He has been playing soccer for an hour.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 has been playing입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S09-Q01",
+          "stageId": "EN-L08-C10-S09",
+          "type": "fillBlank",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 1번: I ___ English for two years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "has been reading",
+            "have been studying"
+          ],
+          "correctAnswer": "have been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been studying입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been studying",
+            "have been studying"
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S09-Q02",
+          "stageId": "EN-L08-C10-S09",
+          "type": "dictation",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have been living here for three years.",
+          "explanation": "바른 문장은 “You have been living here for three years.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have been living here for three years.",
+          "acceptedAnswers": [
+            "You have been living here for three years.",
+            "You have been living here for three years"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S09-Q03",
+          "stageId": "EN-L08-C10-S09",
+          "type": "ordering",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has been playing soccer for an hour.",
+            "hour an for soccer playing been has He.",
+            "has been playing soccer for an hour He."
+          ],
+          "correctAnswer": "He has been playing soccer for an hour.",
+          "explanation": "바른 어순은 “He has been playing soccer for an hour.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer for an hour.",
+            "He has been playing soccer for an hour"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S09-Q04",
+          "stageId": "EN-L08-C10-S09",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 4번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been reading",
+            "have been studying",
+            "have been living",
+            "has been playing"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S09-Q05",
+          "stageId": "EN-L08-C10-S09",
+          "type": "fillBlank",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 5번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "have been waiting"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S09-Q06",
+          "stageId": "EN-L08-C10-S09",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 논리 문장 쓰기 · 6번: They ___ together for five months. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "have been working",
+            "have been studying"
+          ],
+          "correctAnswer": "have been working",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been working입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been working",
+            "have been working"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C10-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C10-S10-Q01",
+          "stageId": "EN-L08-C10-S10",
+          "type": "reviewMixed",
+          "prompt": "5형식 문장: 과정 평가 · 1번: She ___ the book for two hours. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been studying",
+            "have been living",
+            "has been playing",
+            "has been reading"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been reading입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q02",
+          "stageId": "EN-L08-C10-S10",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 과정 평가 · 2번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "have been waiting",
+            "have been studying"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q03",
+          "stageId": "EN-L08-C10-S10",
+          "type": "listeningChoice",
+          "prompt": "5형식 문장: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer for an hour.",
+            "They have been working together for five months.",
+            "I have been studying English for two years.",
+            "You have been living here for three years."
+          ],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "들은 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months."
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q04",
+          "stageId": "EN-L08-C10-S10",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 과정 평가 · 4번: Mina ___ math for six years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been studying",
+            "have been studying",
+            "have been living",
+            "has been playing"
+          ],
+          "correctAnswer": "has been studying",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been studying입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been studying",
+            "has been studying"
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q05",
+          "stageId": "EN-L08-C10-S10",
+          "type": "dictation",
+          "prompt": "5형식 문장: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike for a week.",
+          "explanation": "바른 문장은 “Tom has been using this bike for a week.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has been using this bike for a week.",
+          "acceptedAnswers": [
+            "Tom has been using this bike for a week.",
+            "Tom has been using this bike for a week"
+          ],
+          "exampleSentence": "Tom has been using this bike for a week.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q06",
+          "stageId": "EN-L08-C10-S10",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 과정 평가 · 6번: “I have been studying English for two years.”의 뜻을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "계속된 행동을 나타낸다.",
+            "have"
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "I have been studying English for two years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q07",
+          "stageId": "EN-L08-C10-S10",
+          "type": "reviewMixed",
+          "prompt": "5형식 문장: 과정 평가 · 7번: You ___ here for three years. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been reading",
+            "have been living",
+            "have been studying",
+            "has been playing"
+          ],
+          "correctAnswer": "have been living",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been living입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been living",
+            "have been living"
+          ],
+          "exampleSentence": "You have been living here for three years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q08",
+          "stageId": "EN-L08-C10-S10",
+          "type": "multipleChoice",
+          "prompt": "5형식 문장: 과정 평가 · 8번: He ___ soccer for an hour. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has been playing",
+            "have been studying",
+            "have been living",
+            "has been reading"
+          ],
+          "correctAnswer": "has been playing",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 has been playing입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been playing",
+            "has been playing"
+          ],
+          "exampleSentence": "He has been playing soccer for an hour.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q09",
+          "stageId": "EN-L08-C10-S10",
+          "type": "listeningChoice",
+          "prompt": "5형식 문장: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English for two years.",
+            "You have been living here for three years.",
+            "He has been playing soccer for an hour.",
+            "She has been reading the book for two hours."
+          ],
+          "correctAnswer": "She has been reading the book for two hours.",
+          "explanation": "들은 문장은 “She has been reading the book for two hours.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has been reading the book for two hours.",
+          "acceptedAnswers": [
+            "She has been reading the book for two hours."
+          ],
+          "exampleSentence": "She has been reading the book for two hours.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q10",
+          "stageId": "EN-L08-C10-S10",
+          "type": "sentenceCompletion",
+          "prompt": "5형식 문장: 과정 평가 · 10번: We ___ here for thirty minutes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have been living",
+            "has been playing",
+            "have been waiting",
+            "have been studying"
+          ],
+          "correctAnswer": "have been waiting",
+          "explanation": "문장 재배열 문맥에 맞는 표현은 have been waiting입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have been waiting",
+            "have been waiting"
+          ],
+          "exampleSentence": "We have been waiting here for thirty minutes.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q11",
+          "stageId": "EN-L08-C10-S10",
+          "type": "dictation",
+          "prompt": "5형식 문장: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together for five months.",
+          "explanation": "바른 문장은 “They have been working together for five months.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together for five months.",
+          "acceptedAnswers": [
+            "They have been working together for five months.",
+            "They have been working together for five months"
+          ],
+          "exampleSentence": "They have been working together for five months.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        },
+        {
+          "questionId": "EN-L08-C10-S10-Q12",
+          "stageId": "EN-L08-C10-S10",
+          "type": "sentenceMeaning",
+          "prompt": "5형식 문장: 과정 평가 · 12번: “Mina has been studying math for six years.”의 뜻을 고르세요.",
+          "choices": [
+            "계속된 행동을 나타낸다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "계속된 행동을 나타낸다.",
+          "explanation": "뜻은 ‘계속된 행동을 나타낸다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 재배열",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "5형식 문장 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "계속된 행동을 나타낸다."
+          ],
+          "exampleSentence": "Mina has been studying math for six years.",
+          "koreanMeaning": "계속된 행동을 나타낸다."
+        }
+      ]
+    }
+  ]
+}

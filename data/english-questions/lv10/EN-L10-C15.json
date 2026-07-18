@@ -1,0 +1,2998 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C15",
+  "stages": [
+    {
+      "stageId": "EN-L10-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S01-Q01",
+          "stageId": "EN-L10-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 1번: The young artist ___ books on Saturday morning for two hours. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has been playing",
+            "has been carrying",
+            "subject",
+            "has been reading"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "완료진행형 문맥에 맞는 답은 has been reading입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "The young artist has been reading books on Saturday morning for two hours.",
+          "koreanMeaning": "The young artist는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S01-Q02",
+          "stageId": "EN-L10-C15-S01",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 2번: 핵심 구조가 ‘yesterday’이면 O, 아니면 X를 고르세요: The soccer player reads books every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S01-Q03",
+          "stageId": "EN-L10-C15-S01",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 3번: The new student ___ books this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "has already read",
+            "has already played",
+            "has already made"
+          ],
+          "correctAnswer": "has already read",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already read입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already read",
+            "has already read"
+          ],
+          "exampleSentence": "The new student has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S01-Q04",
+          "stageId": "EN-L10-C15-S01",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 4번: “Mina should write short notes on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "상황에 알맞은 조언을 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "상황에 알맞은 조언을 나타낸다.",
+          "explanation": "핵심 의미는 ‘상황에 알맞은 조언을 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상황에 알맞은 조언을 나타낸다."
+          ],
+          "exampleSentence": "Mina should write short notes on Saturday morning.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S01-Q05",
+          "stageId": "EN-L10-C15-S01",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 5번: Short notes ___ by Tom on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "is made",
+            "subject",
+            "is written"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by Tom on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S01-Q06",
+          "stageId": "EN-L10-C15-S01",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plans to write short notes on Saturday morning My.",
+            "subject",
+            "My brother plans to write short notes on Saturday morning.",
+            "morning Saturday on notes short write to plans brother My."
+          ],
+          "correctAnswer": "My brother plans to write short notes on Saturday morning.",
+          "explanation": "바른 어순은 “My brother plans to write short notes on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plans to write short notes on Saturday morning.",
+            "My brother plans to write short notes on Saturday morning"
+          ],
+          "exampleSentence": "My brother plans to write short notes on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S02-Q01",
+          "stageId": "EN-L10-C15-S02",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 1번: Tom plans ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to find",
+            "to studie",
+            "subject",
+            "to carrie"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "Tom plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S02-Q02",
+          "stageId": "EN-L10-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 2번: My brother enjoys ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "subject",
+            "carrying",
+            "finding"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "My brother enjoys carrying a blue bag near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S02-Q03",
+          "stageId": "EN-L10-C15-S02",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 3번: “The student notices the quiet student carrying a blue bag near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "The student notices the quiet student carrying a blue bag near the school.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S02-Q04",
+          "stageId": "EN-L10-C15-S02",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 4번: Our teacher carries a blue bag, and the sentence can be changed ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "without changing its meaning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "without changing its meaning",
+          "explanation": "문장 변환 문맥에 맞는 답은 without changing its meaning입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "without changing its meaning",
+            "without changing its meaning"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S02-Q05",
+          "stageId": "EN-L10-C15-S02",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 5번: The young artist carries a blue bag near the school, ___ the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "so"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "The young artist carries a blue bag near the school, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S02-Q06",
+          "stageId": "EN-L10-C15-S02",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘As a result’이면 O, 아니면 X를 고르세요: The soccer player carries a blue bag near the school. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag near the school. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S03-Q01",
+          "stageId": "EN-L10-C15-S03",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 1번: The young artist writes short notes in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist writes short notes in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S03-Q02",
+          "stageId": "EN-L10-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 2번: The soccer player writes short notes in the library. The activity builds ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a useful study routine",
+            "subject"
+          ],
+          "correctAnswer": "a useful study routine",
+          "explanation": "생활 및 학습 지문 문맥에 맞는 답은 a useful study routine입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a useful study routine",
+            "a useful study routine"
+          ],
+          "exampleSentence": "The soccer player writes short notes in the library. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S03-Q03",
+          "stageId": "EN-L10-C15-S03",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student has been writing short notes in the library, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student has been writing short notes in the library, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S03-Q04",
+          "stageId": "EN-L10-C15-S03",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina has been studying English in the library for two hours.",
+            "hours two for library the in English studying been has Mina.",
+            "has been studying English in the library for two hours Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina has been studying English in the library for two hours.",
+          "explanation": "바른 어순은 “Mina has been studying English in the library for two hours.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina has been studying English in the library for two hours.",
+            "Mina has been studying English in the library for two hours"
+          ],
+          "exampleSentence": "Mina has been studying English in the library for two hours.",
+          "koreanMeaning": "Mina는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S03-Q05",
+          "stageId": "EN-L10-C15-S03",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 5번: Tom studies English every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S03-Q06",
+          "stageId": "EN-L10-C15-S03",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 문법 구조 분석 · 6번: My brother ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "subject",
+            "has already studied",
+            "has already opened"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "My brother has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S04-Q01",
+          "stageId": "EN-L10-C15-S04",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 1번: Tom ___ a simple plan this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already read",
+            "has already played",
+            "subject",
+            "has already made"
+          ],
+          "correctAnswer": "has already made",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already made",
+            "has already made"
+          ],
+          "exampleSentence": "Tom has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S04-Q02",
+          "stageId": "EN-L10-C15-S04",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother should make a simple plan after class My.",
+            "subject",
+            "My brother should make a simple plan after class.",
+            "class after plan simple a make should brother My."
+          ],
+          "correctAnswer": "My brother should make a simple plan after class.",
+          "explanation": "바른 어순은 “My brother should make a simple plan after class.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother should make a simple plan after class.",
+            "My brother should make a simple plan after class"
+          ],
+          "exampleSentence": "My brother should make a simple plan after class.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S04-Q03",
+          "stageId": "EN-L10-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 3번: A simple plan ___ by The student after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "is made",
+            "is written",
+            "is played"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by The student after class.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S04-Q04",
+          "stageId": "EN-L10-C15-S04",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 4번: Our teacher plans ___ a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to make",
+            "to write",
+            "to play",
+            "subject"
+          ],
+          "correctAnswer": "to make",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to make입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to make",
+            "to make"
+          ],
+          "exampleSentence": "Our teacher plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S04-Q05",
+          "stageId": "EN-L10-C15-S04",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 5번: 핵심 구조가 ‘writing’이면 O, 아니면 X를 고르세요: The young artist enjoys making a simple plan after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist enjoys making a simple plan after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S04-Q06",
+          "stageId": "EN-L10-C15-S04",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 문장 분석 연습 · 6번: The soccer player notices the ___ making a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet student",
+            "careful student",
+            "helpful student",
+            "happy student"
+          ],
+          "correctAnswer": "helpful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 helpful student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful student",
+            "helpful student"
+          ],
+          "exampleSentence": "The soccer player notices the helpful student making a simple plan after class.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S05-Q01",
+          "stageId": "EN-L10-C15-S05",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 1번: “The young artist notices the busy student studying English at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "The young artist notices the busy student studying English at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S05-Q02",
+          "stageId": "EN-L10-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 2번: The soccer player studies English, and the sentence can be changed ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "without changing its meaning",
+            "subject"
+          ],
+          "correctAnswer": "without changing its meaning",
+          "explanation": "문장 변환 문맥에 맞는 답은 without changing its meaning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "without changing its meaning",
+            "without changing its meaning"
+          ],
+          "exampleSentence": "The soccer player studies English, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S05-Q03",
+          "stageId": "EN-L10-C15-S05",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student studies English at the community center, so the next step is easier.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 so입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student studies English at the community center, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S05-Q04",
+          "stageId": "EN-L10-C15-S05",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 4번: Mina plays soccer at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Mina plays soccer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S05-Q05",
+          "stageId": "EN-L10-C15-S05",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 5번: Tom plays soccer at the community center. The activity builds ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a useful study routine"
+          ],
+          "correctAnswer": "a useful study routine",
+          "explanation": "생활 및 학습 지문 문맥에 맞는 답은 a useful study routine입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a useful study routine",
+            "a useful study routine"
+          ],
+          "exampleSentence": "Tom plays soccer at the community center. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S05-Q06",
+          "stageId": "EN-L10-C15-S05",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has been playing soccer at the community center, and the effort has produced a clear result My.",
+            "subject",
+            "My brother has been playing soccer at the community center, and the effort has produced a clear result.",
+            "result clear a produced has effort the and center, community the at soccer playing been has brother My."
+          ],
+          "correctAnswer": "My brother has been playing soccer at the community center, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “My brother has been playing soccer at the community center, and the effort has produced a clear result.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has been playing soccer at the community center, and the effort has produced a clear result.",
+            "My brother has been playing soccer at the community center, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "My brother has been playing soccer at the community center, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S06-Q01",
+          "stageId": "EN-L10-C15-S06",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 1번: “Tom has been finding the answer during study time, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Tom has been finding the answer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S06-Q02",
+          "stageId": "EN-L10-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 2번: My brother ___ the answer during study time for two hours. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has been opening",
+            "subject",
+            "has been finding",
+            "has been writing"
+          ],
+          "correctAnswer": "has been finding",
+          "explanation": "완료진행형 문맥에 맞는 답은 has been finding입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been finding",
+            "has been finding"
+          ],
+          "exampleSentence": "My brother has been finding the answer during study time for two hours.",
+          "koreanMeaning": "My brother는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S06-Q03",
+          "stageId": "EN-L10-C15-S06",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student finds the answer every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S06-Q04",
+          "stageId": "EN-L10-C15-S06",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 4번: Our teacher ___ the answer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "has already studied",
+            "has already opened",
+            "subject"
+          ],
+          "correctAnswer": "has already found",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already found입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already found",
+            "has already found"
+          ],
+          "exampleSentence": "Our teacher has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S06-Q05",
+          "stageId": "EN-L10-C15-S06",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 5번: The young artist ___ find the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "should"
+          ],
+          "correctAnswer": "should",
+          "explanation": "조동사 심화 문맥에 맞는 답은 should입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "should",
+            "should"
+          ],
+          "exampleSentence": "The young artist should find the answer during study time.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S06-Q06",
+          "stageId": "EN-L10-C15-S06",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "answer is found by The soccer player during study time The.",
+            "subject",
+            "The answer is found by The soccer player during study time.",
+            "time study during player soccer The by found is answer The."
+          ],
+          "correctAnswer": "The answer is found by The soccer player during study time.",
+          "explanation": "바른 어순은 “The answer is found by The soccer player during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The answer is found by The soccer player during study time.",
+            "The answer is found by The soccer player during study time"
+          ],
+          "exampleSentence": "The answer is found by The soccer player during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S07-Q01",
+          "stageId": "EN-L10-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "A simple plan is made by My brother during study time.",
+            "Books is read by The new student at the community center.",
+            "Soccer is played by Our teacher after class.",
+            "Soccer is played by The young artist near the school."
+          ],
+          "correctAnswer": "Soccer is played by The young artist near the school.",
+          "explanation": "들은 문장은 “Soccer is played by The young artist near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Soccer is played by The young artist near the school.",
+          "acceptedAnswers": [
+            "Soccer is played by The young artist near the school."
+          ],
+          "exampleSentence": "Soccer is played by The young artist near the school.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S07-Q02",
+          "stageId": "EN-L10-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 2번: The soccer player plans ___ soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "subject",
+            "to play",
+            "to make"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "The soccer player plans to play soccer near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S07-Q03",
+          "stageId": "EN-L10-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player enjoys playing soccer after class.",
+            "The new student enjoys playing soccer near the school.",
+            "Our teacher enjoys making a simple plan during study time.",
+            "Tom enjoys writing short notes at the community center."
+          ],
+          "correctAnswer": "The new student enjoys playing soccer near the school.",
+          "explanation": "들은 문장은 “The new student enjoys playing soccer near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student enjoys playing soccer near the school.",
+          "acceptedAnswers": [
+            "The new student enjoys playing soccer near the school."
+          ],
+          "exampleSentence": "The new student enjoys playing soccer near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S07-Q04",
+          "stageId": "EN-L10-C15-S07",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina notices the quiet student opening the window near the school.",
+          "explanation": "바른 문장은 “Mina notices the quiet student opening the window near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina notices the quiet student opening the window near the school.",
+          "acceptedAnswers": [
+            "Mina notices the quiet student opening the window near the school.",
+            "Mina notices the quiet student opening the window near the school"
+          ],
+          "exampleSentence": "Mina notices the quiet student opening the window near the school.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S07-Q05",
+          "stageId": "EN-L10-C15-S07",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom opens the window, and the sentence can be changed without changing its meaning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 without changing its meaning입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom opens the window, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S07-Q06",
+          "stageId": "EN-L10-C15-S07",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 핵심 정보 듣기 · 6번: My brother opens the window near the school, ___ the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "so",
+            "subject"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "My brother opens the window near the school, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S08-Q01",
+          "stageId": "EN-L10-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom reads books in the library, so the next step is easier.",
+          "explanation": "“Tom reads books in the library, so the next step is easier.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom reads books in the library, so the next step is easier.",
+          "acceptedAnswers": [
+            "Tom reads books in the library, so the next step is easier.",
+            "Tom reads books in the library, so the next step is easier"
+          ],
+          "exampleSentence": "Tom reads books in the library, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S08-Q02",
+          "stageId": "EN-L10-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 2번: My brother reads books in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother reads books in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S08-Q03",
+          "stageId": "EN-L10-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student reads books in the library. The activity builds a useful study routine.",
+          "explanation": "“The student reads books in the library. The activity builds a useful study routine.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student reads books in the library. The activity builds a useful study routine.",
+          "acceptedAnswers": [
+            "The student reads books in the library. The activity builds a useful study routine.",
+            "The student reads books in the library. The activity builds a useful study routine"
+          ],
+          "exampleSentence": "The student reads books in the library. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S08-Q04",
+          "stageId": "EN-L10-C15-S08",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 4번: “Our teacher has been reading books in the library, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Our teacher has been reading books in the library, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S08-Q05",
+          "stageId": "EN-L10-C15-S08",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 5번: The young artist ___ books in the library for two hours. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has been playing",
+            "has been carrying",
+            "subject",
+            "has been reading"
+          ],
+          "correctAnswer": "has been reading",
+          "explanation": "완료진행형 문맥에 맞는 답은 has been reading입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been reading",
+            "has been reading"
+          ],
+          "exampleSentence": "The young artist has been reading books in the library for two hours.",
+          "koreanMeaning": "The young artist는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S08-Q06",
+          "stageId": "EN-L10-C15-S08",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 근거 설명하기 · 6번: 핵심 구조가 ‘yesterday’이면 O, 아니면 X를 고르세요: The soccer player reads books every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S09-Q01",
+          "stageId": "EN-L10-C15-S09",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 1번: The young artist opens the window every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S09-Q02",
+          "stageId": "EN-L10-C15-S09",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player has already opened the window this week.",
+          "explanation": "바른 문장은 “The soccer player has already opened the window this week.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player has already opened the window this week.",
+          "acceptedAnswers": [
+            "The soccer player has already opened the window this week.",
+            "The soccer player has already opened the window this week"
+          ],
+          "exampleSentence": "The soccer player has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S09-Q03",
+          "stageId": "EN-L10-C15-S09",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student should open the window after class.",
+            "class after window the open should student new The.",
+            "new student should open the window after class The."
+          ],
+          "correctAnswer": "The new student should open the window after class.",
+          "explanation": "바른 어순은 “The new student should open the window after class.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student should open the window after class.",
+            "The new student should open the window after class"
+          ],
+          "exampleSentence": "The new student should open the window after class.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S09-Q04",
+          "stageId": "EN-L10-C15-S09",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 4번: A blue bag ___ by Mina after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is carried",
+            "is found",
+            "is studied",
+            "is opened"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by Mina after class.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S09-Q05",
+          "stageId": "EN-L10-C15-S09",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 5번: Tom plans ___ a blue bag after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to find",
+            "to studie",
+            "subject",
+            "to carrie"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "Tom plans to carrie a blue bag after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S09-Q06",
+          "stageId": "EN-L10-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 논리 문장 쓰기 · 6번: My brother enjoys ___ a blue bag after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "subject",
+            "carrying",
+            "finding"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "My brother enjoys carrying a blue bag after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S10-Q01",
+          "stageId": "EN-L10-C15-S10",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 1번: Tom enjoys ___ short notes at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "making",
+            "subject",
+            "writing"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "Tom enjoys writing short notes at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S10-Q02",
+          "stageId": "EN-L10-C15-S10",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother notices the tired student writing short notes at the community center My.",
+            "subject",
+            "My brother notices the tired student writing short notes at the community center.",
+            "center community the at notes short writing student tired the notices brother My."
+          ],
+          "correctAnswer": "My brother notices the tired student writing short notes at the community center.",
+          "explanation": "바른 어순은 “My brother notices the tired student writing short notes at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother notices the tired student writing short notes at the community center.",
+            "My brother notices the tired student writing short notes at the community center"
+          ],
+          "exampleSentence": "My brother notices the tired student writing short notes at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S10-Q03",
+          "stageId": "EN-L10-C15-S10",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 3번: The student writes short notes, and the sentence can be changed ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "without changing its meaning",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "without changing its meaning",
+          "explanation": "문장 변환 문맥에 맞는 답은 without changing its meaning입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "without changing its meaning",
+            "without changing its meaning"
+          ],
+          "exampleSentence": "The student writes short notes, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S10-Q04",
+          "stageId": "EN-L10-C15-S10",
+          "type": "fillBlank",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 4번: Our teacher writes short notes at the community center, ___ the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "so",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "Our teacher writes short notes at the community center, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S10-Q05",
+          "stageId": "EN-L10-C15-S10",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist writes short notes at the community center. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist writes short notes at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S10-Q06",
+          "stageId": "EN-L10-C15-S10",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 혼합 문제 적용 · 6번: The soccer player writes short notes at the community center. The activity builds ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a useful study routine",
+            "subject"
+          ],
+          "correctAnswer": "a useful study routine",
+          "explanation": "생활 및 학습 지문 문맥에 맞는 답은 a useful study routine입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a useful study routine",
+            "a useful study routine"
+          ],
+          "exampleSentence": "The soccer player writes short notes at the community center. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S11-Q01",
+          "stageId": "EN-L10-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 1번: The young artist carries a blue bag during study time. The activity builds ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a useful study routine"
+          ],
+          "correctAnswer": "a useful study routine",
+          "explanation": "생활 및 학습 지문 문맥에 맞는 답은 a useful study routine입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a useful study routine",
+            "a useful study routine"
+          ],
+          "exampleSentence": "The young artist carries a blue bag during study time. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q02",
+          "stageId": "EN-L10-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina has been playing soccer after class, and the effort has produced a clear result.",
+            "The young artist has been carrying a blue bag at home, and the effort has produced a clear result.",
+            "The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result.",
+            "The student has been reading books at the community center, and the effort has produced a clear result."
+          ],
+          "correctAnswer": "The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "explanation": "들은 문장은 “The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result.”입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result."
+          ],
+          "exampleSentence": "The soccer player has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q03",
+          "stageId": "EN-L10-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 3번: “The new student has been carrying a blue bag during study time for two hours.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "The soccer player는 두 시간 동안 계속 행동하고 있다.",
+            "The new student는 두 시간 동안 계속 행동하고 있다.",
+            "Our teacher는 두 시간 동안 계속 행동하고 있다.",
+            "Tom는 두 시간 동안 계속 행동하고 있다."
+          ],
+          "correctAnswer": "The new student는 두 시간 동안 계속 행동하고 있다.",
+          "explanation": "핵심 의미는 ‘The new student는 두 시간 동안 계속 행동하고 있다.’입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student는 두 시간 동안 계속 행동하고 있다."
+          ],
+          "exampleSentence": "The new student has been carrying a blue bag during study time for two hours.",
+          "koreanMeaning": "The new student는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q04",
+          "stageId": "EN-L10-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 4번: Mina makes a simple plan every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Mina makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q05",
+          "stageId": "EN-L10-C15-S11",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has already made a simple plan this week.",
+          "explanation": "바른 문장은 “Tom has already made a simple plan this week.”입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has already made a simple plan this week.",
+          "acceptedAnswers": [
+            "Tom has already made a simple plan this week.",
+            "Tom has already made a simple plan this week"
+          ],
+          "exampleSentence": "Tom has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q06",
+          "stageId": "EN-L10-C15-S11",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother should make a simple plan during study time My.",
+            "subject",
+            "My brother should make a simple plan during study time.",
+            "time study during plan simple a make should brother My."
+          ],
+          "correctAnswer": "My brother should make a simple plan during study time.",
+          "explanation": "바른 어순은 “My brother should make a simple plan during study time.”입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother should make a simple plan during study time.",
+            "My brother should make a simple plan during study time"
+          ],
+          "exampleSentence": "My brother should make a simple plan during study time.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q07",
+          "stageId": "EN-L10-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 7번: A simple plan ___ by The student during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "is made",
+            "is written",
+            "is played"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by The student during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q08",
+          "stageId": "EN-L10-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher plans to make a simple plan during study time.",
+            "Tom plans to write short notes at the community center.",
+            "The soccer player plans to play soccer after class.",
+            "The student plans to make a simple plan at home."
+          ],
+          "correctAnswer": "Our teacher plans to make a simple plan during study time.",
+          "explanation": "들은 문장은 “Our teacher plans to make a simple plan during study time.”입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Our teacher plans to make a simple plan during study time.",
+          "acceptedAnswers": [
+            "Our teacher plans to make a simple plan during study time."
+          ],
+          "exampleSentence": "Our teacher plans to make a simple plan during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q09",
+          "stageId": "EN-L10-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 9번: “The young artist enjoys making a simple plan during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "The young artist enjoys making a simple plan during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S11-Q10",
+          "stageId": "EN-L10-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 이전 레벨 누적 복습 · 10번: The soccer player notices the ___ making a simple plan during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "careful student",
+            "tired student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 12,
+          "skill": "review",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "The soccer player notices the careful student making a simple plan during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S12-Q01",
+          "stageId": "EN-L10-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 1번: Tom ___ studie English near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "should"
+          ],
+          "correctAnswer": "should",
+          "explanation": "조동사 심화 문맥에 맞는 답은 should입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "should",
+            "should"
+          ],
+          "exampleSentence": "Tom should studie English near the school.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q02",
+          "stageId": "EN-L10-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 2번: English ___ by My brother near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "subject",
+            "is studied",
+            "is opened"
+          ],
+          "correctAnswer": "is studied",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is studied입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is studied",
+            "is studied"
+          ],
+          "exampleSentence": "English is studied by My brother near the school.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q03",
+          "stageId": "EN-L10-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother plans to studie English after class.",
+            "The student plans to studie English near the school.",
+            "Mina plans to carrie a blue bag during study time.",
+            "The young artist plans to find the answer before lunch."
+          ],
+          "correctAnswer": "The student plans to studie English near the school.",
+          "explanation": "들은 문장은 “The student plans to studie English near the school.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student plans to studie English near the school.",
+          "acceptedAnswers": [
+            "The student plans to studie English near the school."
+          ],
+          "exampleSentence": "The student plans to studie English near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q04",
+          "stageId": "EN-L10-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 4번: Our teacher enjoys ___ English near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "carrying",
+            "finding",
+            "subject"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "Our teacher enjoys studying English near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q05",
+          "stageId": "EN-L10-C15-S12",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist notices the ready student studying English near the school.",
+          "explanation": "바른 문장은 “The young artist notices the ready student studying English near the school.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist notices the ready student studying English near the school.",
+          "acceptedAnswers": [
+            "The young artist notices the ready student studying English near the school.",
+            "The young artist notices the ready student studying English near the school"
+          ],
+          "exampleSentence": "The young artist notices the ready student studying English near the school.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q06",
+          "stageId": "EN-L10-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 6번: “The soccer player studies English, and the sentence can be changed without changing its meaning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "핵심 의미를 유지하며 문장을 바꾼다.",
+            "subject"
+          ],
+          "correctAnswer": "핵심 의미를 유지하며 문장을 바꾼다.",
+          "explanation": "핵심 의미는 ‘핵심 의미를 유지하며 문장을 바꾼다.’입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 의미를 유지하며 문장을 바꾼다."
+          ],
+          "exampleSentence": "The soccer player studies English, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q07",
+          "stageId": "EN-L10-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 7번: The new student studies English near the school, ___ the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "so",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "The new student studies English near the school, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q08",
+          "stageId": "EN-L10-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 8번: Mina plays soccer near the school. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Mina plays soccer near the school. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q09",
+          "stageId": "EN-L10-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player carries a blue bag during study time. The activity builds a useful study routine.",
+            "The student reads books at the community center. The activity builds a useful study routine.",
+            "Mina plays soccer after class. The activity builds a useful study routine.",
+            "Tom plays soccer near the school. The activity builds a useful study routine."
+          ],
+          "correctAnswer": "Tom plays soccer near the school. The activity builds a useful study routine.",
+          "explanation": "들은 문장은 “Tom plays soccer near the school. The activity builds a useful study routine.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom plays soccer near the school. The activity builds a useful study routine.",
+          "acceptedAnswers": [
+            "Tom plays soccer near the school. The activity builds a useful study routine."
+          ],
+          "exampleSentence": "Tom plays soccer near the school. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q10",
+          "stageId": "EN-L10-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 10번: My brother has been playing soccer near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been playing soccer near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q11",
+          "stageId": "EN-L10-C15-S12",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student has been playing soccer near the school for two hours.",
+          "explanation": "바른 문장은 “The student has been playing soccer near the school for two hours.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student has been playing soccer near the school for two hours.",
+          "acceptedAnswers": [
+            "The student has been playing soccer near the school for two hours.",
+            "The student has been playing soccer near the school for two hours"
+          ],
+          "exampleSentence": "The student has been playing soccer near the school for two hours.",
+          "koreanMeaning": "The student는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S12-Q12",
+          "stageId": "EN-L10-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 과정 성취 확인 · 12번: “Our teacher plays soccer every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "Our teacher plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S13-Q01",
+          "stageId": "EN-L10-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 1번: “The young artist makes a simple plan, and the sentence can be changed without changing its meaning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "핵심 의미를 유지하며 문장을 바꾼다."
+          ],
+          "correctAnswer": "핵심 의미를 유지하며 문장을 바꾼다.",
+          "explanation": "핵심 의미는 ‘핵심 의미를 유지하며 문장을 바꾼다.’입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 의미를 유지하며 문장을 바꾼다."
+          ],
+          "exampleSentence": "The young artist makes a simple plan, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S13-Q02",
+          "stageId": "EN-L10-C15-S13",
+          "type": "multipleChoice",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 2번: The ___ccer player makes a simple plan at home, so the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "so",
+            "subject"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan at home, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S13-Q03",
+          "stageId": "EN-L10-C15-S13",
+          "type": "trueFalse",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student makes a simple plan at home. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student makes a simple plan at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S13-Q04",
+          "stageId": "EN-L10-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 4번: Mina finds the answer at home. The activity builds ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a useful study routine",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a useful study routine",
+          "explanation": "생활 및 학습 지문 문맥에 맞는 답은 a useful study routine입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a useful study routine",
+            "a useful study routine"
+          ],
+          "exampleSentence": "Mina finds the answer at home. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S13-Q05",
+          "stageId": "EN-L10-C15-S13",
+          "type": "matching",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 5번: Tom has been finding the answer at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been finding the answer at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S13-Q06",
+          "stageId": "EN-L10-C15-S13",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 장문 독해 확장 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has been finding the answer at home for two hours My.",
+            "subject",
+            "My brother has been finding the answer at home for two hours.",
+            "hours two for home at answer the finding been has brother My."
+          ],
+          "correctAnswer": "My brother has been finding the answer at home for two hours.",
+          "explanation": "바른 어순은 “My brother has been finding the answer at home for two hours.”입니다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has been finding the answer at home for two hours.",
+            "My brother has been finding the answer at home for two hours"
+          ],
+          "exampleSentence": "My brother has been finding the answer at home for two hours.",
+          "koreanMeaning": "My brother는 두 시간 동안 계속 행동하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C15-S14",
+      "questions": [
+        {
+          "questionId": "EN-L10-C15-S14-Q01",
+          "stageId": "EN-L10-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 1번: Tom ___ soccer after class for two hours. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has been carrying",
+            "has been reading",
+            "subject",
+            "has been playing"
+          ],
+          "correctAnswer": "has been playing",
+          "explanation": "완료진행형 문맥에 맞는 답은 has been playing입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has been playing",
+            "has been playing"
+          ],
+          "exampleSentence": "Tom has been playing soccer after class for two hours.",
+          "koreanMeaning": "Tom는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q02",
+          "stageId": "EN-L10-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher reads books every week but completed it yesterday.",
+            "Tom plays soccer every week but completed it yesterday.",
+            "My brother plays soccer every week but completed it yesterday.",
+            "The new student carries a blue bag every week but completed it yesterday."
+          ],
+          "correctAnswer": "My brother plays soccer every week but completed it yesterday.",
+          "explanation": "들은 문장은 “My brother plays soccer every week but completed it yesterday.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "My brother plays soccer every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "My brother plays soccer every week but completed it yesterday."
+          ],
+          "exampleSentence": "My brother plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q03",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 3번: “The student has already played soccer this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "The student has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q04",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 4번: Our teacher ___ play soccer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "should",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "should",
+          "explanation": "조동사 심화 문맥에 맞는 답은 should입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "should",
+            "should"
+          ],
+          "exampleSentence": "Our teacher should play soccer after class.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q05",
+          "stageId": "EN-L10-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Soccer is played by The young artist after class.",
+          "explanation": "바른 문장은 “Soccer is played by The young artist after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Soccer is played by The young artist after class.",
+          "acceptedAnswers": [
+            "Soccer is played by The young artist after class.",
+            "Soccer is played by The young artist after class"
+          ],
+          "exampleSentence": "Soccer is played by The young artist after class.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q06",
+          "stageId": "EN-L10-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player plans to play soccer after class The.",
+            "subject",
+            "The soccer player plans to play soccer after class.",
+            "class after soccer play to plans player soccer The."
+          ],
+          "correctAnswer": "The soccer player plans to play soccer after class.",
+          "explanation": "바른 어순은 “The soccer player plans to play soccer after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player plans to play soccer after class.",
+            "The soccer player plans to play soccer after class"
+          ],
+          "exampleSentence": "The soccer player plans to play soccer after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q07",
+          "stageId": "EN-L10-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 7번: The new student enjoys ___ soccer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "playing",
+            "making",
+            "writing"
+          ],
+          "correctAnswer": "playing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 playing입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "playing",
+            "playing"
+          ],
+          "exampleSentence": "The new student enjoys playing soccer after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q08",
+          "stageId": "EN-L10-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina notices the confident student opening the window after class.",
+            "The young artist notices the helpful student making a simple plan at home.",
+            "My brother notices the happy student writing short notes near the school.",
+            "The new student notices the ready student playing soccer during study time."
+          ],
+          "correctAnswer": "Mina notices the confident student opening the window after class.",
+          "explanation": "들은 문장은 “Mina notices the confident student opening the window after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina notices the confident student opening the window after class.",
+          "acceptedAnswers": [
+            "Mina notices the confident student opening the window after class."
+          ],
+          "exampleSentence": "Mina notices the confident student opening the window after class.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q09",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 9번: “Tom opens the window, and the sentence can be changed without changing its meaning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "핵심 의미를 유지하며 문장을 바꾼다."
+          ],
+          "correctAnswer": "핵심 의미를 유지하며 문장을 바꾼다.",
+          "explanation": "핵심 의미는 ‘핵심 의미를 유지하며 문장을 바꾼다.’입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "문장 변환",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 의미를 유지하며 문장을 바꾼다."
+          ],
+          "exampleSentence": "Tom opens the window, and the sentence can be changed without changing its meaning.",
+          "koreanMeaning": "핵심 의미를 유지하며 문장을 바꾼다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q10",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 10번: My brother opens the window after class, ___ the next step is easier. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "so",
+            "subject"
+          ],
+          "correctAnswer": "so",
+          "explanation": "문장 연결 문맥에 맞는 답은 so입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "문장 연결",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "so",
+            "so"
+          ],
+          "exampleSentence": "My brother opens the window after class, so the next step is easier.",
+          "koreanMeaning": "원인 뒤에 결과를 연결한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q11",
+          "stageId": "EN-L10-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student opens the window after class. As a result, the group understands the lesson.",
+          "explanation": "바른 문장은 “The student opens the window after class. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student opens the window after class. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The student opens the window after class. As a result, the group understands the lesson.",
+            "The student opens the window after class. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The student opens the window after class. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q12",
+          "stageId": "EN-L10-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 12번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Our teacher opens the window after class. The activity builds a useful study routine.",
+            "routine study useful a builds activity The class. after window the opens teacher Our.",
+            "teacher opens the window after class. The activity builds a useful study routine Our.",
+            "subject"
+          ],
+          "correctAnswer": "Our teacher opens the window after class. The activity builds a useful study routine.",
+          "explanation": "바른 어순은 “Our teacher opens the window after class. The activity builds a useful study routine.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "생활 및 학습 지문",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher opens the window after class. The activity builds a useful study routine.",
+            "Our teacher opens the window after class. The activity builds a useful study routine"
+          ],
+          "exampleSentence": "Our teacher opens the window after class. The activity builds a useful study routine.",
+          "koreanMeaning": "생활 속 활동이 학습 습관으로 이어진다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q13",
+          "stageId": "EN-L10-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 13번: The young artist has been opening the window after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been opening the window after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q14",
+          "stageId": "EN-L10-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 14번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina has been studying English near the school for two hours.",
+            "The young artist has been opening the window during study time for two hours.",
+            "The soccer player has been opening the window after class for two hours.",
+            "The student has been finding the answer at home for two hours."
+          ],
+          "correctAnswer": "The soccer player has been opening the window after class for two hours.",
+          "explanation": "들은 문장은 “The soccer player has been opening the window after class for two hours.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "완료진행형",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player has been opening the window after class for two hours.",
+          "acceptedAnswers": [
+            "The soccer player has been opening the window after class for two hours."
+          ],
+          "exampleSentence": "The soccer player has been opening the window after class for two hours.",
+          "koreanMeaning": "The soccer player는 두 시간 동안 계속 행동하고 있다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q15",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 15번: “The new student opens the window every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "The new student opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q16",
+          "stageId": "EN-L10-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 16번: Mina ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already carried",
+            "has already found",
+            "has already studied",
+            "has already opened"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "Mina has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q17",
+          "stageId": "EN-L10-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 17번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom should carrie a blue bag after class.",
+          "explanation": "바른 문장은 “Tom should carrie a blue bag after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "조동사 심화",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom should carrie a blue bag after class.",
+          "acceptedAnswers": [
+            "Tom should carrie a blue bag after class.",
+            "Tom should carrie a blue bag after class"
+          ],
+          "exampleSentence": "Tom should carrie a blue bag after class.",
+          "koreanMeaning": "상황에 알맞은 조언을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q18",
+          "stageId": "EN-L10-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 18번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "blue bag is carried by My brother after class A.",
+            "subject",
+            "A blue bag is carried by My brother after class.",
+            "class after brother My by carried is bag blue A."
+          ],
+          "correctAnswer": "A blue bag is carried by My brother after class.",
+          "explanation": "바른 어순은 “A blue bag is carried by My brother after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A blue bag is carried by My brother after class.",
+            "A blue bag is carried by My brother after class"
+          ],
+          "exampleSentence": "A blue bag is carried by My brother after class.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q19",
+          "stageId": "EN-L10-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 19번: The student plans ___ a blue bag after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "to carrie",
+            "to read",
+            "to studie"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "The student plans to carrie a blue bag after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C15-S14-Q20",
+          "stageId": "EN-L10-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 심화 보스 테스트: 레벨 보스 · 20번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher enjoys carrying a blue bag after class.",
+            "Tom enjoys reading books in the library.",
+            "The soccer player enjoys studying English near the school.",
+            "The student enjoys carrying a blue bag during study time."
+          ],
+          "correctAnswer": "Our teacher enjoys carrying a blue bag after class.",
+          "explanation": "들은 문장은 “Our teacher enjoys carrying a blue bag after class.”입니다.",
+          "difficulty": 12,
+          "skill": "boss",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Our teacher enjoys carrying a blue bag after class.",
+          "acceptedAnswers": [
+            "Our teacher enjoys carrying a blue bag after class."
+          ],
+          "exampleSentence": "Our teacher enjoys carrying a blue bag after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    }
+  ]
+}

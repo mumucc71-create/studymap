@@ -1,0 +1,1278 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L01",
+  "courseId": "EN-L01-C11",
+  "stages": [
+    {
+      "stageId": "EN-L01-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S01-Q01",
+          "stageId": "EN-L01-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 1번: '수'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "EUS",
+            "UES",
+            "SU",
+            "SUE"
+          ],
+          "correctAnswer": "SUE",
+          "explanation": "'수'은 SUE로 씁니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "SUE",
+            "sue"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S01-Q02",
+          "stageId": "EN-L01-C11-S01",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 2번: '톰'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "OMT",
+            "TO",
+            "TOM",
+            "MOT"
+          ],
+          "correctAnswer": "TOM",
+          "explanation": "'톰'은 TOM로 씁니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "TOM",
+            "tom"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S01-Q03",
+          "stageId": "EN-L01-C11-S01",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 3번: '사과'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "APPL",
+            "APPLE",
+            "ELPPA",
+            "PPLEA"
+          ],
+          "correctAnswer": "APPLE",
+          "explanation": "'사과'은 APPLE로 씁니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "APPLE",
+            "apple"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S01-Q04",
+          "stageId": "EN-L01-C11-S01",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 4번: '책'의 철자 B_OK에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "O",
+          "explanation": "BOOK의 2번째 글자는 O입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S01-Q05",
+          "stageId": "EN-L01-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 5번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RIAHC",
+            "HAIRC",
+            "CHAI",
+            "CHAIR"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S01-Q06",
+          "stageId": "EN-L01-C11-S01",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 문자와 소리 발견 · 6번: '책상'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ESKD",
+            "DES",
+            "DESK",
+            "KSED"
+          ],
+          "correctAnswer": "DESK",
+          "explanation": "'책상'은 DESK로 씁니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "DESK",
+            "desk"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S02-Q01",
+          "stageId": "EN-L01-C11-S02",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 1번: '톰'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "MOT",
+            "OMT",
+            "TO",
+            "TOM"
+          ],
+          "correctAnswer": "TOM",
+          "explanation": "'톰'은 TOM로 씁니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "TOM",
+            "tom"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S02-Q02",
+          "stageId": "EN-L01-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 2번: '사과'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "PPLEA",
+            "APPL",
+            "APPLE",
+            "ELPPA"
+          ],
+          "correctAnswer": "APPLE",
+          "explanation": "'사과'은 APPLE로 씁니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "APPLE",
+            "apple"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S02-Q03",
+          "stageId": "EN-L01-C11-S02",
+          "type": "spelling",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 3번: '책'의 철자 B_OK에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "O",
+          "explanation": "BOOK의 2번째 글자는 O입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S02-Q04",
+          "stageId": "EN-L01-C11-S02",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 4번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "CHAIR",
+            "RIAHC",
+            "HAIRC",
+            "CHAI"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S02-Q05",
+          "stageId": "EN-L01-C11-S02",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 5번: '책상'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "KSED",
+            "ESKD",
+            "DES",
+            "DESK"
+          ],
+          "correctAnswer": "DESK",
+          "explanation": "'책상'은 DESK로 씁니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "DESK",
+            "desk"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S02-Q06",
+          "stageId": "EN-L01-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 핵심 글자·철자 · 6번: '지우개'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RASERE",
+            "ERASE",
+            "ERASER",
+            "RESARE"
+          ],
+          "correctAnswer": "ERASER",
+          "explanation": "'지우개'은 ERASER로 씁니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ERASER",
+            "eraser"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S03-Q01",
+          "stageId": "EN-L01-C11-S03",
+          "type": "listeningChoice",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 1번: '사과'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ELPPA",
+            "PPLEA",
+            "APPL",
+            "APPLE"
+          ],
+          "correctAnswer": "APPLE",
+          "explanation": "'사과'은 APPLE로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "APPLE",
+            "apple"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S03-Q02",
+          "stageId": "EN-L01-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 2번: '책'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "OOKB",
+            "BOO",
+            "BOOK",
+            "KOOB"
+          ],
+          "correctAnswer": "BOOK",
+          "explanation": "'책'은 BOOK로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "BOOK",
+            "book"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S03-Q03",
+          "stageId": "EN-L01-C11-S03",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 3번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "CHAI",
+            "CHAIR",
+            "RIAHC",
+            "HAIRC"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S03-Q04",
+          "stageId": "EN-L01-C11-S03",
+          "type": "listeningChoice",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 4번: '책상'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "DESK",
+            "KSED",
+            "ESKD",
+            "DES"
+          ],
+          "correctAnswer": "DESK",
+          "explanation": "'책상'은 DESK로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "DESK",
+            "desk"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S03-Q05",
+          "stageId": "EN-L01-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 5번: '지우개'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RESARE",
+            "RASERE",
+            "ERASE",
+            "ERASER"
+          ],
+          "correctAnswer": "ERASER",
+          "explanation": "'지우개'은 ERASER로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ERASER",
+            "eraser"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S03-Q06",
+          "stageId": "EN-L01-C11-S03",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 음가 듣고 구별하기 · 6번: '펜'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ENP",
+            "PE",
+            "PEN",
+            "NEP"
+          ],
+          "correctAnswer": "PEN",
+          "explanation": "'펜'은 PEN로 씁니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PEN",
+            "pen"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S04-Q01",
+          "stageId": "EN-L01-C11-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 1번: '책'의 철자 B_OK에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "O",
+          "explanation": "BOOK의 2번째 글자는 O입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S04-Q02",
+          "stageId": "EN-L01-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 2번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "HAIRC",
+            "CHAI",
+            "CHAIR",
+            "RIAHC"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S04-Q03",
+          "stageId": "EN-L01-C11-S04",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 3번: '책상'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "DES",
+            "DESK",
+            "KSED",
+            "ESKD"
+          ],
+          "correctAnswer": "DESK",
+          "explanation": "'책상'은 DESK로 씁니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "DESK",
+            "desk"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S04-Q04",
+          "stageId": "EN-L01-C11-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 4번: '지우개'의 철자 ER_SER에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A",
+          "explanation": "ERASER의 3번째 글자는 A입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S04-Q05",
+          "stageId": "EN-L01-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 5번: '펜'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "NEP",
+            "ENP",
+            "PE",
+            "PEN"
+          ],
+          "correctAnswer": "PEN",
+          "explanation": "'펜'은 PEN로 씁니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PEN",
+            "pen"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S04-Q06",
+          "stageId": "EN-L01-C11-S04",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 소리 내어 따라 읽기 · 6번: '연필'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ENCILP",
+            "PENCI",
+            "PENCIL",
+            "LICNEP"
+          ],
+          "correctAnswer": "PENCIL",
+          "explanation": "'연필'은 PENCIL로 씁니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PENCIL",
+            "pencil"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S05-Q01",
+          "stageId": "EN-L01-C11-S05",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 1번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RIAHC",
+            "HAIRC",
+            "CHAI",
+            "CHAIR"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S05-Q02",
+          "stageId": "EN-L01-C11-S05",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 2번: '책상'의 철자 DES_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "K",
+          "explanation": "DESK의 4번째 글자는 K입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "K",
+            "k"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S05-Q03",
+          "stageId": "EN-L01-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 3번: '지우개'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ERASE",
+            "ERASER",
+            "RESARE",
+            "RASERE"
+          ],
+          "correctAnswer": "ERASER",
+          "explanation": "'지우개'은 ERASER로 씁니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ERASER",
+            "eraser"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S05-Q04",
+          "stageId": "EN-L01-C11-S05",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 4번: '펜'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "PEN",
+            "NEP",
+            "ENP",
+            "PE"
+          ],
+          "correctAnswer": "PEN",
+          "explanation": "'펜'은 PEN로 씁니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PEN",
+            "pen"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S05-Q05",
+          "stageId": "EN-L01-C11-S05",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 5번: '연필'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "LICNEP",
+            "ENCILP",
+            "PENCI",
+            "PENCIL"
+          ],
+          "correctAnswer": "PENCIL",
+          "explanation": "'연필'은 PENCIL로 씁니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PENCIL",
+            "pencil"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S05-Q06",
+          "stageId": "EN-L01-C11-S05",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 문자 인식 연습 · 6번: '자'의 철자 R_LER에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "U",
+          "explanation": "RULER의 2번째 글자는 U입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S06-Q01",
+          "stageId": "EN-L01-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 1번: '책상'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "KSED",
+            "ESKD",
+            "DES",
+            "DESK"
+          ],
+          "correctAnswer": "DESK",
+          "explanation": "'책상'은 DESK로 씁니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "DESK",
+            "desk"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S06-Q02",
+          "stageId": "EN-L01-C11-S06",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 2번: '지우개'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RASERE",
+            "ERASE",
+            "ERASER",
+            "RESARE"
+          ],
+          "correctAnswer": "ERASER",
+          "explanation": "'지우개'은 ERASER로 씁니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ERASER",
+            "eraser"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S06-Q03",
+          "stageId": "EN-L01-C11-S06",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 3번: '펜'의 철자 _EN에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "P",
+          "explanation": "PEN의 1번째 글자는 P입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P",
+            "p"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S06-Q04",
+          "stageId": "EN-L01-C11-S06",
+          "type": "trueFalse",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 4번: '연필'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "PENCIL",
+            "LICNEP",
+            "ENCILP",
+            "PENCI"
+          ],
+          "correctAnswer": "PENCIL",
+          "explanation": "'연필'은 PENCIL로 씁니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PENCIL",
+            "pencil"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S06-Q05",
+          "stageId": "EN-L01-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 5번: '자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RELUR",
+            "ULERR",
+            "RULE",
+            "RULER"
+          ],
+          "correctAnswer": "RULER",
+          "explanation": "'자'은 RULER로 씁니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "RULER",
+            "ruler"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S06-Q06",
+          "stageId": "EN-L01-C11-S06",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 단어 읽기 적용 · 6번: '에이미'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "MYA",
+            "AM",
+            "AMY",
+            "YMA"
+          ],
+          "correctAnswer": "AMY",
+          "explanation": "'에이미'은 AMY로 씁니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "AMY",
+            "amy"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S07-Q01",
+          "stageId": "EN-L01-C11-S07",
+          "type": "spelling",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 1번: '지우개'의 철자 ER_SER에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A",
+          "explanation": "ERASER의 3번째 글자는 A입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S07-Q02",
+          "stageId": "EN-L01-C11-S07",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 2번: '펜'의 철자 _EN에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "P",
+          "explanation": "PEN의 1번째 글자는 P입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P",
+            "p"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S07-Q03",
+          "stageId": "EN-L01-C11-S07",
+          "type": "matching",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 3번: '연필'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "PENCI",
+            "PENCIL",
+            "LICNEP",
+            "ENCILP"
+          ],
+          "correctAnswer": "PENCIL",
+          "explanation": "'연필'은 PENCIL로 씁니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PENCIL",
+            "pencil"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S07-Q04",
+          "stageId": "EN-L01-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 4번: '자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RULER",
+            "RELUR",
+            "ULERR",
+            "RULE"
+          ],
+          "correctAnswer": "RULER",
+          "explanation": "'자'은 RULER로 씁니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "RULER",
+            "ruler"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S07-Q05",
+          "stageId": "EN-L01-C11-S07",
+          "type": "spelling",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 5번: '에이미'의 철자 _MY에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A",
+          "explanation": "AMY의 1번째 글자는 A입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S07-Q06",
+          "stageId": "EN-L01-C11-S07",
+          "type": "fillBlank",
+          "prompt": "이름과 간단한 철자: 철자와 받아쓰기 · 6번: '벤'의 철자 B_N에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "E",
+          "explanation": "BEN의 2번째 글자는 E입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L01-C11-S08-Q01",
+          "stageId": "EN-L01-C11-S08",
+          "type": "reviewMixed",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 1번: '펜'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "NEP",
+            "ENP",
+            "PE",
+            "PEN"
+          ],
+          "correctAnswer": "PEN",
+          "explanation": "'펜'은 PEN로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PEN",
+            "pen"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q02",
+          "stageId": "EN-L01-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 2번: '연필'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "ENCILP",
+            "PENCI",
+            "PENCIL",
+            "LICNEP"
+          ],
+          "correctAnswer": "PENCIL",
+          "explanation": "'연필'은 PENCIL로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "PENCIL",
+            "pencil"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q03",
+          "stageId": "EN-L01-C11-S08",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 3번: '자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "RULE",
+            "RULER",
+            "RELUR",
+            "ULERR"
+          ],
+          "correctAnswer": "RULER",
+          "explanation": "'자'은 RULER로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "RULER",
+            "ruler"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q04",
+          "stageId": "EN-L01-C11-S08",
+          "type": "listeningChoice",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 4번: '에이미'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "AMY",
+            "YMA",
+            "MYA",
+            "AM"
+          ],
+          "correctAnswer": "AMY",
+          "explanation": "'에이미'은 AMY로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "AMY",
+            "amy"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q05",
+          "stageId": "EN-L01-C11-S08",
+          "type": "spelling",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 5번: '벤'의 철자 B_N에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "E",
+          "explanation": "BEN의 2번째 글자는 E입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q06",
+          "stageId": "EN-L01-C11-S08",
+          "type": "reviewMixed",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 6번: '레오'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "EOL",
+            "LE",
+            "LEO",
+            "OEL"
+          ],
+          "correctAnswer": "LEO",
+          "explanation": "'레오'은 LEO로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "LEO",
+            "leo"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q07",
+          "stageId": "EN-L01-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 7번: '미아'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "MI",
+            "MIA",
+            "AIM",
+            "IAM"
+          ],
+          "correctAnswer": "MIA",
+          "explanation": "'미아'은 MIA로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "MIA",
+            "mia"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q08",
+          "stageId": "EN-L01-C11-S08",
+          "type": "ordering",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 8번: '수'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "SUE",
+            "EUS",
+            "UES",
+            "SU"
+          ],
+          "correctAnswer": "SUE",
+          "explanation": "'수'은 SUE로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "SUE",
+            "sue"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q09",
+          "stageId": "EN-L01-C11-S08",
+          "type": "listeningChoice",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 9번: '톰'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "MOT",
+            "OMT",
+            "TO",
+            "TOM"
+          ],
+          "correctAnswer": "TOM",
+          "explanation": "'톰'은 TOM로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "TOM",
+            "tom"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q10",
+          "stageId": "EN-L01-C11-S08",
+          "type": "spelling",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 10번: '사과'의 철자 APP_E에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "L",
+          "explanation": "APPLE의 4번째 글자는 L입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L",
+            "l"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q11",
+          "stageId": "EN-L01-C11-S08",
+          "type": "reviewMixed",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 11번: '책'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "BOO",
+            "BOOK",
+            "KOOB",
+            "OOKB"
+          ],
+          "correctAnswer": "BOOK",
+          "explanation": "'책'은 BOOK로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "BOOK",
+            "book"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C11-S08-Q12",
+          "stageId": "EN-L01-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "이름과 간단한 철자: 과정 평가 · 12번: '의자'의 철자로 알맞은 것을 고르세요.",
+          "choices": [
+            "CHAIR",
+            "RIAHC",
+            "HAIRC",
+            "CHAI"
+          ],
+          "correctAnswer": "CHAIR",
+          "explanation": "'의자'은 CHAIR로 씁니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "이름과 간단한 철자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "CHAIR",
+            "chair"
+          ]
+        }
+      ]
+    }
+  ]
+}

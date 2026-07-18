@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C06",
+  "stages": [
+    {
+      "stageId": "EN-L05-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S01-Q01",
+          "stageId": "EN-L05-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 1번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "Wash",
+            "Open"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S01-Q02",
+          "stageId": "EN-L05-C06-S01",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 2번: 핵심 표현이 ‘sit’이면 O, 아니면 X를 고르세요: Please sit down.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 sit이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S01-Q03",
+          "stageId": "EN-L05-C06-S01",
+          "type": "matching",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 3번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Wash",
+            "Let us",
+            "Open",
+            "sit"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S01-Q04",
+          "stageId": "EN-L05-C06-S01",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 4번: “Wash your hands.”의 뜻을 고르세요.",
+          "choices": [
+            "손을 씻어라.",
+            "문을 열어라.",
+            "앉으세요.",
+            "밖에서 놀자."
+          ],
+          "correctAnswer": "손을 씻어라.",
+          "explanation": "뜻은 ‘손을 씻어라.’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "손을 씻어라."
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S01-Q05",
+          "stageId": "EN-L05-C06-S01",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 5번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Let us",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S01-Q06",
+          "stageId": "EN-L05-C06-S01",
+          "type": "ordering",
+          "prompt": "명령문과 제안: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "the door Open.",
+            "is",
+            "Open the door.",
+            "door the Open."
+          ],
+          "correctAnswer": "Open the door.",
+          "explanation": "바른 어순은 “Open the door.”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open the door.",
+            "Open the door"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S02-Q01",
+          "stageId": "EN-L05-C06-S02",
+          "type": "matching",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 1번: ___ your hands. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Let us",
+            "Wash"
+          ],
+          "correctAnswer": "Wash",
+          "explanation": "명령문과 제안에 맞는 표현은 Wash입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Wash",
+            "wash"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S02-Q02",
+          "stageId": "EN-L05-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 2번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "read",
+            "Open"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S02-Q03",
+          "stageId": "EN-L05-C06-S02",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 3번: “Open the door.”의 뜻을 고르세요.",
+          "choices": [
+            "손을 씻어라.",
+            "문을 열어라.",
+            "앉으세요.",
+            "밖에서 놀자."
+          ],
+          "correctAnswer": "문을 열어라.",
+          "explanation": "뜻은 ‘문을 열어라.’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "문을 열어라."
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S02-Q04",
+          "stageId": "EN-L05-C06-S02",
+          "type": "fillBlank",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 4번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Open",
+            "Let us",
+            "Wash"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S02-Q05",
+          "stageId": "EN-L05-C06-S02",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 5번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Wash",
+            "Let us"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S02-Q06",
+          "stageId": "EN-L05-C06-S02",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘Wash’이면 O, 아니면 X를 고르세요: Wash your hands.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Wash이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S03-Q01",
+          "stageId": "EN-L05-C06-S03",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 1번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "Let us",
+            "Wash",
+            "sit"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S03-Q02",
+          "stageId": "EN-L05-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 2번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Wash",
+            "Let us",
+            "Open"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S03-Q03",
+          "stageId": "EN-L05-C06-S03",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 3번: 핵심 표현이 ‘Open’이면 O, 아니면 X를 고르세요: Wash your hands.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Wash이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S03-Q04",
+          "stageId": "EN-L05-C06-S03",
+          "type": "ordering",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Please read this book.",
+            "book this read Please.",
+            "read this book Please.",
+            "is"
+          ],
+          "correctAnswer": "Please read this book.",
+          "explanation": "바른 어순은 “Please read this book.”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Please read this book.",
+            "Please read this book"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S03-Q05",
+          "stageId": "EN-L05-C06-S03",
+          "type": "matching",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 5번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "Wash",
+            "Open"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S03-Q06",
+          "stageId": "EN-L05-C06-S03",
+          "type": "fillBlank",
+          "prompt": "명령문과 제안: 문장 구조 발견 · 6번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Wash",
+            "sit",
+            "Open"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S04-Q01",
+          "stageId": "EN-L05-C06-S04",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 1번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Let us",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S04-Q02",
+          "stageId": "EN-L05-C06-S04",
+          "type": "ordering",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "the door Open.",
+            "is",
+            "Open the door.",
+            "door the Open."
+          ],
+          "correctAnswer": "Open the door.",
+          "explanation": "바른 어순은 “Open the door.”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open the door.",
+            "Open the door"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S04-Q03",
+          "stageId": "EN-L05-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 3번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Wash",
+            "sit",
+            "Open",
+            "Let us"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S04-Q04",
+          "stageId": "EN-L05-C06-S04",
+          "type": "fillBlank",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 4번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Open",
+            "sit",
+            "Wash"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S04-Q05",
+          "stageId": "EN-L05-C06-S04",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 5번: 핵심 표현이 ‘Open’이면 O, 아니면 X를 고르세요: Wash your hands.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Wash이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S04-Q06",
+          "stageId": "EN-L05-C06-S04",
+          "type": "matching",
+          "prompt": "명령문과 제안: 짧은 문장 연습 · 6번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "read",
+            "Open"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S05-Q01",
+          "stageId": "EN-L05-C06-S05",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 1번: “Let us play outside.”의 뜻을 고르세요.",
+          "choices": [
+            "문을 열어라.",
+            "앉으세요.",
+            "손을 씻어라.",
+            "밖에서 놀자."
+          ],
+          "correctAnswer": "밖에서 놀자.",
+          "explanation": "뜻은 ‘밖에서 놀자.’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "밖에서 놀자."
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S05-Q02",
+          "stageId": "EN-L05-C06-S05",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 2번: ___ your hands. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "Wash",
+            "Open"
+          ],
+          "correctAnswer": "Wash",
+          "explanation": "명령문과 제안에 맞는 표현은 Wash입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Wash",
+            "wash"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S05-Q03",
+          "stageId": "EN-L05-C06-S05",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 3번: 핵심 표현이 ‘Open’이면 O, 아니면 X를 고르세요: Please read this book.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 read이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S05-Q04",
+          "stageId": "EN-L05-C06-S05",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 4번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Let us",
+            "Wash"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S05-Q05",
+          "stageId": "EN-L05-C06-S05",
+          "type": "matching",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 5번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "Let us",
+            "Wash",
+            "sit"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S05-Q06",
+          "stageId": "EN-L05-C06-S05",
+          "type": "ordering",
+          "prompt": "명령문과 제안: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "us play outside Let.",
+            "is",
+            "Let us play outside.",
+            "outside play us Let."
+          ],
+          "correctAnswer": "Let us play outside.",
+          "explanation": "바른 어순은 “Let us play outside.”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us play outside.",
+            "Let us play outside"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S06-Q01",
+          "stageId": "EN-L05-C06-S06",
+          "type": "listeningChoice",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Please sit down.",
+            "Let us play outside.",
+            "Wash your hands.",
+            "Open the door."
+          ],
+          "correctAnswer": "Open the door.",
+          "explanation": "들은 문장은 “Open the door.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Open the door.",
+          "acceptedAnswers": [
+            "Open the door."
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S06-Q02",
+          "stageId": "EN-L05-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 2번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Wash",
+            "sit",
+            "Open"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S06-Q03",
+          "stageId": "EN-L05-C06-S06",
+          "type": "listeningChoice",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Wash your hands.",
+            "Let us play outside.",
+            "Open the door.",
+            "Please sit down."
+          ],
+          "correctAnswer": "Let us play outside.",
+          "explanation": "들은 문장은 “Let us play outside.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Let us play outside.",
+          "acceptedAnswers": [
+            "Let us play outside."
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S06-Q04",
+          "stageId": "EN-L05-C06-S06",
+          "type": "dictation",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Wash your hands.",
+          "explanation": "바른 문장은 “Wash your hands.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Wash your hands.",
+          "acceptedAnswers": [
+            "Wash your hands.",
+            "Wash your hands"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S06-Q05",
+          "stageId": "EN-L05-C06-S06",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 5번: 핵심 표현이 ‘Open’이면 O, 아니면 X를 고르세요: Please read this book.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 read이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S06-Q06",
+          "stageId": "EN-L05-C06-S06",
+          "type": "matching",
+          "prompt": "명령문과 제안: 생활 대화 듣기 · 6번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Wash",
+            "Open",
+            "sit"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S07-Q01",
+          "stageId": "EN-L05-C06-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "명령문과 제안: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Wash your hands.",
+          "explanation": "“Wash your hands.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Wash your hands.",
+          "acceptedAnswers": [
+            "Wash your hands.",
+            "Wash your hands"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S07-Q02",
+          "stageId": "EN-L05-C06-S07",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 표현 말하기 · 2번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "read",
+            "Open"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S07-Q03",
+          "stageId": "EN-L05-C06-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "명령문과 제안: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Open the door.",
+          "explanation": "“Open the door.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Open the door.",
+          "acceptedAnswers": [
+            "Open the door.",
+            "Open the door"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S07-Q04",
+          "stageId": "EN-L05-C06-S07",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 표현 말하기 · 4번: “Please sit down.”의 뜻을 고르세요.",
+          "choices": [
+            "앉으세요.",
+            "문을 열어라.",
+            "밖에서 놀자.",
+            "손을 씻어라."
+          ],
+          "correctAnswer": "앉으세요.",
+          "explanation": "뜻은 ‘앉으세요.’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앉으세요."
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S07-Q05",
+          "stageId": "EN-L05-C06-S07",
+          "type": "matching",
+          "prompt": "명령문과 제안: 표현 말하기 · 5번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Wash",
+            "Let us"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S07-Q06",
+          "stageId": "EN-L05-C06-S07",
+          "type": "trueFalse",
+          "prompt": "명령문과 제안: 표현 말하기 · 6번: 핵심 표현이 ‘Wash’이면 O, 아니면 X를 고르세요: Wash your hands.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Wash이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S08-Q01",
+          "stageId": "EN-L05-C06-S08",
+          "type": "fillBlank",
+          "prompt": "명령문과 제안: 문장 쓰기 · 1번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "Let us",
+            "Wash",
+            "sit"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S08-Q02",
+          "stageId": "EN-L05-C06-S08",
+          "type": "dictation",
+          "prompt": "명령문과 제안: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Let us play outside.",
+          "explanation": "바른 문장은 “Let us play outside.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Let us play outside.",
+          "acceptedAnswers": [
+            "Let us play outside.",
+            "Let us play outside"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S08-Q03",
+          "stageId": "EN-L05-C06-S08",
+          "type": "ordering",
+          "prompt": "명령문과 제안: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "Wash your hands.",
+            "hands your Wash.",
+            "your hands Wash."
+          ],
+          "correctAnswer": "Wash your hands.",
+          "explanation": "바른 어순은 “Wash your hands.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Wash your hands.",
+            "Wash your hands"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S08-Q04",
+          "stageId": "EN-L05-C06-S08",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 문장 쓰기 · 4번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "read",
+            "Open",
+            "sit",
+            "Let us"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S08-Q05",
+          "stageId": "EN-L05-C06-S08",
+          "type": "fillBlank",
+          "prompt": "명령문과 제안: 문장 쓰기 · 5번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "Wash",
+            "Open"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S08-Q06",
+          "stageId": "EN-L05-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 문장 쓰기 · 6번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Wash",
+            "sit",
+            "Open"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C06-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C06-S09-Q01",
+          "stageId": "EN-L05-C06-S09",
+          "type": "reviewMixed",
+          "prompt": "명령문과 제안: 과정 평가 · 1번: Please ___ this book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Open",
+            "sit",
+            "Let us",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "명령문과 제안에 맞는 표현은 read입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "read"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q02",
+          "stageId": "EN-L05-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 과정 평가 · 2번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Wash",
+            "Open",
+            "sit"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q03",
+          "stageId": "EN-L05-C06-S09",
+          "type": "listeningChoice",
+          "prompt": "명령문과 제안: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Wash your hands.",
+            "Please sit down.",
+            "Open the door.",
+            "Let us play outside."
+          ],
+          "correctAnswer": "Please sit down.",
+          "explanation": "들은 문장은 “Please sit down.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Please sit down.",
+          "acceptedAnswers": [
+            "Please sit down."
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q04",
+          "stageId": "EN-L05-C06-S09",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 과정 평가 · 4번: ___ play outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Let us",
+            "Open",
+            "sit",
+            "Wash"
+          ],
+          "correctAnswer": "Let us",
+          "explanation": "명령문과 제안에 맞는 표현은 Let us입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Let us",
+            "let us"
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q05",
+          "stageId": "EN-L05-C06-S09",
+          "type": "dictation",
+          "prompt": "명령문과 제안: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Wash your hands.",
+          "explanation": "바른 문장은 “Wash your hands.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Wash your hands.",
+          "acceptedAnswers": [
+            "Wash your hands.",
+            "Wash your hands"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q06",
+          "stageId": "EN-L05-C06-S09",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 과정 평가 · 6번: “Please read this book.”의 뜻을 고르세요.",
+          "choices": [
+            "앉으세요.",
+            "밖에서 놀자.",
+            "이 책을 읽으세요.",
+            "문을 열어라."
+          ],
+          "correctAnswer": "이 책을 읽으세요.",
+          "explanation": "뜻은 ‘이 책을 읽으세요.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 책을 읽으세요."
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q07",
+          "stageId": "EN-L05-C06-S09",
+          "type": "reviewMixed",
+          "prompt": "명령문과 제안: 과정 평가 · 7번: ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Wash",
+            "Open",
+            "sit",
+            "Let us"
+          ],
+          "correctAnswer": "Open",
+          "explanation": "명령문과 제안에 맞는 표현은 Open입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Open",
+            "open"
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q08",
+          "stageId": "EN-L05-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "명령문과 제안: 과정 평가 · 8번: Please ___ down. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Open",
+            "Let us",
+            "Wash"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "명령문과 제안에 맞는 표현은 sit입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "sit"
+          ],
+          "exampleSentence": "Please sit down.",
+          "koreanMeaning": "앉으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q09",
+          "stageId": "EN-L05-C06-S09",
+          "type": "listeningChoice",
+          "prompt": "명령문과 제안: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Open the door.",
+            "Please sit down.",
+            "Wash your hands.",
+            "Let us play outside."
+          ],
+          "correctAnswer": "Let us play outside.",
+          "explanation": "들은 문장은 “Let us play outside.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Let us play outside.",
+          "acceptedAnswers": [
+            "Let us play outside."
+          ],
+          "exampleSentence": "Let us play outside.",
+          "koreanMeaning": "밖에서 놀자."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q10",
+          "stageId": "EN-L05-C06-S09",
+          "type": "sentenceCompletion",
+          "prompt": "명령문과 제안: 과정 평가 · 10번: ___ your hands. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "sit",
+            "Let us",
+            "Wash",
+            "Open"
+          ],
+          "correctAnswer": "Wash",
+          "explanation": "명령문과 제안에 맞는 표현은 Wash입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Wash",
+            "wash"
+          ],
+          "exampleSentence": "Wash your hands.",
+          "koreanMeaning": "손을 씻어라."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q11",
+          "stageId": "EN-L05-C06-S09",
+          "type": "dictation",
+          "prompt": "명령문과 제안: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Please read this book.",
+          "explanation": "바른 문장은 “Please read this book.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Please read this book.",
+          "acceptedAnswers": [
+            "Please read this book.",
+            "Please read this book"
+          ],
+          "exampleSentence": "Please read this book.",
+          "koreanMeaning": "이 책을 읽으세요."
+        },
+        {
+          "questionId": "EN-L05-C06-S09-Q12",
+          "stageId": "EN-L05-C06-S09",
+          "type": "sentenceMeaning",
+          "prompt": "명령문과 제안: 과정 평가 · 12번: “Open the door.”의 뜻을 고르세요.",
+          "choices": [
+            "문을 열어라.",
+            "앉으세요.",
+            "밖에서 놀자.",
+            "손을 씻어라."
+          ],
+          "correctAnswer": "문을 열어라.",
+          "explanation": "뜻은 ‘문을 열어라.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "명령문과 제안",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "명령문과 제안 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "문을 열어라."
+          ],
+          "exampleSentence": "Open the door.",
+          "koreanMeaning": "문을 열어라."
+        }
+      ]
+    }
+  ]
+}

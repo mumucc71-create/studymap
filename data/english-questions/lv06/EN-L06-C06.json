@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L06",
+  "courseId": "EN-L06-C06",
+  "stages": [
+    {
+      "stageId": "EN-L06-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S01-Q01",
+          "stageId": "EN-L06-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 1번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to travel",
+            "to read"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S01-Q02",
+          "stageId": "EN-L06-C06-S01",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 2번: 핵심 표현이 ‘to sing’이면 O, 아니면 X를 고르세요: She likes to sing.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 to sing이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S01-Q03",
+          "stageId": "EN-L06-C06-S01",
+          "type": "matching",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 3번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to travel",
+            "to study",
+            "to read",
+            "to sing"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S01-Q04",
+          "stageId": "EN-L06-C06-S01",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 4번: “We plan to travel.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 여행할 계획이다.",
+            "나는 읽고 싶다.",
+            "그녀는 노래하기를 좋아한다.",
+            "그는 공부할 필요가 있다."
+          ],
+          "correctAnswer": "우리는 여행할 계획이다.",
+          "explanation": "뜻은 ‘우리는 여행할 계획이다.’입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 여행할 계획이다."
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S01-Q05",
+          "stageId": "EN-L06-C06-S01",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 5번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to win"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S01-Q06",
+          "stageId": "EN-L06-C06-S01",
+          "type": "ordering",
+          "prompt": "to부정사 기초: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "want to read I.",
+            "is",
+            "I want to read.",
+            "read to want I."
+          ],
+          "correctAnswer": "I want to read.",
+          "explanation": "바른 어순은 “I want to read.”입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I want to read.",
+            "I want to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S02-Q01",
+          "stageId": "EN-L06-C06-S02",
+          "type": "matching",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 1번: We plan ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to travel"
+          ],
+          "correctAnswer": "to travel",
+          "explanation": "to부정사 기초에 맞는 표현은 to travel입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to travel",
+            "to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S02-Q02",
+          "stageId": "EN-L06-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 2번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to win",
+            "to read"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S02-Q03",
+          "stageId": "EN-L06-C06-S02",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 3번: “I want to read.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 여행할 계획이다.",
+            "나는 읽고 싶다.",
+            "그녀는 노래하기를 좋아한다.",
+            "그는 공부할 필요가 있다."
+          ],
+          "correctAnswer": "나는 읽고 싶다.",
+          "explanation": "뜻은 ‘나는 읽고 싶다.’입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 읽고 싶다."
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S02-Q04",
+          "stageId": "EN-L06-C06-S02",
+          "type": "fillBlank",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 4번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to read",
+            "to study",
+            "to travel"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S02-Q05",
+          "stageId": "EN-L06-C06-S02",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 5번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to travel",
+            "to study"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S02-Q06",
+          "stageId": "EN-L06-C06-S02",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘to travel’이면 O, 아니면 X를 고르세요: We plan to travel.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 to travel이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S03-Q01",
+          "stageId": "EN-L06-C06-S03",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 1번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to study",
+            "to travel",
+            "to sing"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S03-Q02",
+          "stageId": "EN-L06-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 2번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to travel",
+            "to study",
+            "to read"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S03-Q03",
+          "stageId": "EN-L06-C06-S03",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 3번: 핵심 표현이 ‘to read’이면 O, 아니면 X를 고르세요: We plan to travel.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to travel이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S03-Q04",
+          "stageId": "EN-L06-C06-S03",
+          "type": "ordering",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "They hope to win.",
+            "win to hope They.",
+            "hope to win They.",
+            "is"
+          ],
+          "correctAnswer": "They hope to win.",
+          "explanation": "바른 어순은 “They hope to win.”입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They hope to win.",
+            "They hope to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S03-Q05",
+          "stageId": "EN-L06-C06-S03",
+          "type": "matching",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 5번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to travel",
+            "to read"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S03-Q06",
+          "stageId": "EN-L06-C06-S03",
+          "type": "fillBlank",
+          "prompt": "to부정사 기초: 문장 구조 발견 · 6번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to travel",
+            "to sing",
+            "to read"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S04-Q01",
+          "stageId": "EN-L06-C06-S04",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 1번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to win"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S04-Q02",
+          "stageId": "EN-L06-C06-S04",
+          "type": "ordering",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "want to read I.",
+            "is",
+            "I want to read.",
+            "read to want I."
+          ],
+          "correctAnswer": "I want to read.",
+          "explanation": "바른 어순은 “I want to read.”입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I want to read.",
+            "I want to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S04-Q03",
+          "stageId": "EN-L06-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 3번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to travel",
+            "to sing",
+            "to read",
+            "to study"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S04-Q04",
+          "stageId": "EN-L06-C06-S04",
+          "type": "fillBlank",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 4번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to read",
+            "to sing",
+            "to travel"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S04-Q05",
+          "stageId": "EN-L06-C06-S04",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 5번: 핵심 표현이 ‘to read’이면 O, 아니면 X를 고르세요: We plan to travel.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to travel이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S04-Q06",
+          "stageId": "EN-L06-C06-S04",
+          "type": "matching",
+          "prompt": "to부정사 기초: 짧은 문장 연습 · 6번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to win",
+            "to read"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S05-Q01",
+          "stageId": "EN-L06-C06-S05",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 1번: “He needs to study.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 읽고 싶다.",
+            "그녀는 노래하기를 좋아한다.",
+            "우리는 여행할 계획이다.",
+            "그는 공부할 필요가 있다."
+          ],
+          "correctAnswer": "그는 공부할 필요가 있다.",
+          "explanation": "뜻은 ‘그는 공부할 필요가 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 공부할 필요가 있다."
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S05-Q02",
+          "stageId": "EN-L06-C06-S05",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 2번: We plan ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to travel",
+            "to read"
+          ],
+          "correctAnswer": "to travel",
+          "explanation": "to부정사 기초에 맞는 표현은 to travel입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to travel",
+            "to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S05-Q03",
+          "stageId": "EN-L06-C06-S05",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 3번: 핵심 표현이 ‘to read’이면 O, 아니면 X를 고르세요: They hope to win.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to win이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S05-Q04",
+          "stageId": "EN-L06-C06-S05",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 4번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to travel"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S05-Q05",
+          "stageId": "EN-L06-C06-S05",
+          "type": "matching",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 5번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to study",
+            "to travel",
+            "to sing"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S05-Q06",
+          "stageId": "EN-L06-C06-S05",
+          "type": "ordering",
+          "prompt": "to부정사 기초: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "needs to study He.",
+            "is",
+            "He needs to study.",
+            "study to needs He."
+          ],
+          "correctAnswer": "He needs to study.",
+          "explanation": "바른 어순은 “He needs to study.”입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He needs to study.",
+            "He needs to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S06-Q01",
+          "stageId": "EN-L06-C06-S06",
+          "type": "listeningChoice",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "She likes to sing.",
+            "He needs to study.",
+            "We plan to travel.",
+            "I want to read."
+          ],
+          "correctAnswer": "I want to read.",
+          "explanation": "들은 문장은 “I want to read.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I want to read.",
+          "acceptedAnswers": [
+            "I want to read."
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S06-Q02",
+          "stageId": "EN-L06-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 2번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to travel",
+            "to sing",
+            "to read"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S06-Q03",
+          "stageId": "EN-L06-C06-S06",
+          "type": "listeningChoice",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We plan to travel.",
+            "He needs to study.",
+            "I want to read.",
+            "She likes to sing."
+          ],
+          "correctAnswer": "He needs to study.",
+          "explanation": "들은 문장은 “He needs to study.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He needs to study.",
+          "acceptedAnswers": [
+            "He needs to study."
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S06-Q04",
+          "stageId": "EN-L06-C06-S06",
+          "type": "dictation",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We plan to travel.",
+          "explanation": "바른 문장은 “We plan to travel.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We plan to travel.",
+          "acceptedAnswers": [
+            "We plan to travel.",
+            "We plan to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S06-Q05",
+          "stageId": "EN-L06-C06-S06",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 5번: 핵심 표현이 ‘to read’이면 O, 아니면 X를 고르세요: They hope to win.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to win이므로 X가 정답입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S06-Q06",
+          "stageId": "EN-L06-C06-S06",
+          "type": "matching",
+          "prompt": "to부정사 기초: 생활 대화 듣기 · 6번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to travel",
+            "to read",
+            "to sing"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S07-Q01",
+          "stageId": "EN-L06-C06-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "to부정사 기초: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "We plan to travel.",
+          "explanation": "“We plan to travel.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "We plan to travel.",
+          "acceptedAnswers": [
+            "We plan to travel.",
+            "We plan to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S07-Q02",
+          "stageId": "EN-L06-C06-S07",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 표현 말하기 · 2번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to win",
+            "to read"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S07-Q03",
+          "stageId": "EN-L06-C06-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "to부정사 기초: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I want to read.",
+          "explanation": "“I want to read.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I want to read.",
+          "acceptedAnswers": [
+            "I want to read.",
+            "I want to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S07-Q04",
+          "stageId": "EN-L06-C06-S07",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 표현 말하기 · 4번: “She likes to sing.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 노래하기를 좋아한다.",
+            "나는 읽고 싶다.",
+            "그는 공부할 필요가 있다.",
+            "우리는 여행할 계획이다."
+          ],
+          "correctAnswer": "그녀는 노래하기를 좋아한다.",
+          "explanation": "뜻은 ‘그녀는 노래하기를 좋아한다.’입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 노래하기를 좋아한다."
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S07-Q05",
+          "stageId": "EN-L06-C06-S07",
+          "type": "matching",
+          "prompt": "to부정사 기초: 표현 말하기 · 5번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to travel",
+            "to study"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S07-Q06",
+          "stageId": "EN-L06-C06-S07",
+          "type": "trueFalse",
+          "prompt": "to부정사 기초: 표현 말하기 · 6번: 핵심 표현이 ‘to travel’이면 O, 아니면 X를 고르세요: We plan to travel.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 to travel이므로 O가 정답입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S08-Q01",
+          "stageId": "EN-L06-C06-S08",
+          "type": "fillBlank",
+          "prompt": "to부정사 기초: 문장 쓰기 · 1번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to study",
+            "to travel",
+            "to sing"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S08-Q02",
+          "stageId": "EN-L06-C06-S08",
+          "type": "dictation",
+          "prompt": "to부정사 기초: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He needs to study.",
+          "explanation": "바른 문장은 “He needs to study.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He needs to study.",
+          "acceptedAnswers": [
+            "He needs to study.",
+            "He needs to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S08-Q03",
+          "stageId": "EN-L06-C06-S08",
+          "type": "ordering",
+          "prompt": "to부정사 기초: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "We plan to travel.",
+            "travel to plan We.",
+            "plan to travel We."
+          ],
+          "correctAnswer": "We plan to travel.",
+          "explanation": "바른 어순은 “We plan to travel.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We plan to travel.",
+            "We plan to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S08-Q04",
+          "stageId": "EN-L06-C06-S08",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 문장 쓰기 · 4번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to win",
+            "to read",
+            "to sing",
+            "to study"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S08-Q05",
+          "stageId": "EN-L06-C06-S08",
+          "type": "fillBlank",
+          "prompt": "to부정사 기초: 문장 쓰기 · 5번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to travel",
+            "to read"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S08-Q06",
+          "stageId": "EN-L06-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 문장 쓰기 · 6번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to travel",
+            "to sing",
+            "to read"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C06-S09",
+      "questions": [
+        {
+          "questionId": "EN-L06-C06-S09-Q01",
+          "stageId": "EN-L06-C06-S09",
+          "type": "reviewMixed",
+          "prompt": "to부정사 기초: 과정 평가 · 1번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to win"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q02",
+          "stageId": "EN-L06-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 과정 평가 · 2번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to travel",
+            "to read",
+            "to sing"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q03",
+          "stageId": "EN-L06-C06-S09",
+          "type": "listeningChoice",
+          "prompt": "to부정사 기초: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We plan to travel.",
+            "She likes to sing.",
+            "I want to read.",
+            "He needs to study."
+          ],
+          "correctAnswer": "She likes to sing.",
+          "explanation": "들은 문장은 “She likes to sing.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She likes to sing.",
+          "acceptedAnswers": [
+            "She likes to sing."
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q04",
+          "stageId": "EN-L06-C06-S09",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 과정 평가 · 4번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to read",
+            "to sing",
+            "to travel"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q05",
+          "stageId": "EN-L06-C06-S09",
+          "type": "dictation",
+          "prompt": "to부정사 기초: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We plan to travel.",
+          "explanation": "바른 문장은 “We plan to travel.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We plan to travel.",
+          "acceptedAnswers": [
+            "We plan to travel.",
+            "We plan to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q06",
+          "stageId": "EN-L06-C06-S09",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 과정 평가 · 6번: “They hope to win.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 노래하기를 좋아한다.",
+            "그는 공부할 필요가 있다.",
+            "그들은 이기기를 바란다.",
+            "나는 읽고 싶다."
+          ],
+          "correctAnswer": "그들은 이기기를 바란다.",
+          "explanation": "뜻은 ‘그들은 이기기를 바란다.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 이기기를 바란다."
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q07",
+          "stageId": "EN-L06-C06-S09",
+          "type": "reviewMixed",
+          "prompt": "to부정사 기초: 과정 평가 · 7번: I want ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to travel",
+            "to read",
+            "to sing",
+            "to study"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "to부정사 기초에 맞는 표현은 to read입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q08",
+          "stageId": "EN-L06-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "to부정사 기초: 과정 평가 · 8번: She likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to read",
+            "to study",
+            "to travel"
+          ],
+          "correctAnswer": "to sing",
+          "explanation": "to부정사 기초에 맞는 표현은 to sing입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to sing",
+            "to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q09",
+          "stageId": "EN-L06-C06-S09",
+          "type": "listeningChoice",
+          "prompt": "to부정사 기초: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I want to read.",
+            "She likes to sing.",
+            "We plan to travel.",
+            "He needs to study."
+          ],
+          "correctAnswer": "He needs to study.",
+          "explanation": "들은 문장은 “He needs to study.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He needs to study.",
+          "acceptedAnswers": [
+            "He needs to study."
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q10",
+          "stageId": "EN-L06-C06-S09",
+          "type": "sentenceCompletion",
+          "prompt": "to부정사 기초: 과정 평가 · 10번: We plan ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to travel",
+            "to read"
+          ],
+          "correctAnswer": "to travel",
+          "explanation": "to부정사 기초에 맞는 표현은 to travel입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to travel",
+            "to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q11",
+          "stageId": "EN-L06-C06-S09",
+          "type": "dictation",
+          "prompt": "to부정사 기초: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They hope to win.",
+          "explanation": "바른 문장은 “They hope to win.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They hope to win.",
+          "acceptedAnswers": [
+            "They hope to win.",
+            "They hope to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C06-S09-Q12",
+          "stageId": "EN-L06-C06-S09",
+          "type": "sentenceMeaning",
+          "prompt": "to부정사 기초: 과정 평가 · 12번: “I want to read.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 읽고 싶다.",
+            "그녀는 노래하기를 좋아한다.",
+            "그는 공부할 필요가 있다.",
+            "우리는 여행할 계획이다."
+          ],
+          "correctAnswer": "나는 읽고 싶다.",
+          "explanation": "뜻은 ‘나는 읽고 싶다.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "to부정사 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 읽고 싶다."
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        }
+      ]
+    }
+  ]
+}

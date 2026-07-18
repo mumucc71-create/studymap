@@ -1,0 +1,1634 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C04",
+  "stages": [
+    {
+      "stageId": "EN-L03-C04-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S01-Q01",
+          "stageId": "EN-L03-C04-S01",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 1번: ‘머리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "leg",
+            "head"
+          ],
+          "correctAnswer": "head",
+          "explanation": "‘머리’은 영어로 head입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "head",
+            "HEAD"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C04-S01-Q02",
+          "stageId": "EN-L03-C04-S01",
+          "type": "sentenceMeaning",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 2번: “I have a hand.”에서 hand의 뜻을 고르세요.",
+          "choices": [
+            "팔",
+            "다리",
+            "손",
+            "머리"
+          ],
+          "correctAnswer": "손",
+          "explanation": "hand은 ‘손’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "손"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        },
+        {
+          "questionId": "EN-L03-C04-S01-Q03",
+          "stageId": "EN-L03-C04-S01",
+          "type": "trueFalse",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 3번: arm의 뜻이 ‘머리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "arm의 뜻은 ‘팔’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S01-Q04",
+          "stageId": "EN-L03-C04-S01",
+          "type": "matching",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 4번: leg과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "다리",
+            "머리",
+            "손",
+            "팔"
+          ],
+          "correctAnswer": "다리",
+          "explanation": "leg은 ‘다리’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "다리"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S01-Q05",
+          "stageId": "EN-L03-C04-S01",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 5번: This is my ___. 빈칸에 ‘눈’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "arm",
+            "eye"
+          ],
+          "correctAnswer": "eye",
+          "explanation": "문맥과 뜻에 맞는 단어는 eye입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eye",
+            "EYE"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S01-Q06",
+          "stageId": "EN-L03-C04-S01",
+          "type": "categorization",
+          "prompt": "몸과 건강: 핵심 표현 이해 · 6번: ear을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "신체",
+            "학교"
+          ],
+          "correctAnswer": "신체",
+          "explanation": "ear은 신체 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "신체"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S02-Q01",
+          "stageId": "EN-L03-C04-S02",
+          "type": "matching",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 1번: leg과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "머리",
+            "손",
+            "팔",
+            "다리"
+          ],
+          "correctAnswer": "다리",
+          "explanation": "leg은 ‘다리’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "다리"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S02-Q02",
+          "stageId": "EN-L03-C04-S02",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 2번: ‘눈’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "eye",
+            "head"
+          ],
+          "correctAnswer": "eye",
+          "explanation": "‘눈’은 영어로 eye입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eye",
+            "EYE"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S02-Q03",
+          "stageId": "EN-L03-C04-S02",
+          "type": "categorization",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 3번: ear을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "신체",
+            "색과 모양",
+            "음식과 음료"
+          ],
+          "correctAnswer": "신체",
+          "explanation": "ear은 신체 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "신체"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C04-S02-Q04",
+          "stageId": "EN-L03-C04-S02",
+          "type": "spelling",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 4번: no_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "nose의 빠진 글자는 s입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C04-S02-Q05",
+          "stageId": "EN-L03-C04-S02",
+          "type": "wordBuilding",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘입’을 만드세요.",
+          "choices": [
+            "htuom",
+            "outhm",
+            "mout",
+            "mouth"
+          ],
+          "correctAnswer": "mouth",
+          "explanation": "바른 철자는 mouth입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mouth",
+            "MOUTH"
+          ],
+          "koreanMeaning": "입",
+          "exampleSentence": "I have a mouth."
+        },
+        {
+          "questionId": "EN-L03-C04-S02-Q06",
+          "stageId": "EN-L03-C04-S02",
+          "type": "fillBlank",
+          "prompt": "몸과 건강: 생활 어휘 문맥 학습 · 6번: _oot에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "f",
+          "explanation": "foot의 빠진 글자는 f입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "f",
+            "F"
+          ],
+          "koreanMeaning": "발",
+          "exampleSentence": "This is my foot."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S03-Q01",
+          "stageId": "EN-L03-C04-S03",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 문장 구조 발견 · 1번: This is my ___. 빈칸에 ‘코’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "arm",
+            "nose"
+          ],
+          "correctAnswer": "nose",
+          "explanation": "문맥과 뜻에 맞는 단어는 nose입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nose",
+            "NOSE"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C04-S03-Q02",
+          "stageId": "EN-L03-C04-S03",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 문장 구조 발견 · 2번: ‘입’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "mouth",
+            "head"
+          ],
+          "correctAnswer": "mouth",
+          "explanation": "‘입’은 영어로 mouth입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mouth",
+            "MOUTH"
+          ],
+          "koreanMeaning": "입",
+          "exampleSentence": "I have a mouth."
+        },
+        {
+          "questionId": "EN-L03-C04-S03-Q03",
+          "stageId": "EN-L03-C04-S03",
+          "type": "trueFalse",
+          "prompt": "몸과 건강: 문장 구조 발견 · 3번: foot의 뜻이 ‘머리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "foot의 뜻은 ‘발’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "발",
+          "exampleSentence": "This is my foot."
+        },
+        {
+          "questionId": "EN-L03-C04-S03-Q04",
+          "stageId": "EN-L03-C04-S03",
+          "type": "ordering",
+          "prompt": "몸과 건강: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You are well.",
+            "well are You.",
+            "are well You."
+          ],
+          "correctAnswer": "You are well.",
+          "explanation": "바른 어순은 “You are well.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You are well.",
+            "You are well"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C04-S03-Q05",
+          "stageId": "EN-L03-C04-S03",
+          "type": "fillBlank",
+          "prompt": "몸과 건강: 문장 구조 발견 · 5번: _ead에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "head의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C04-S03-Q06",
+          "stageId": "EN-L03-C04-S03",
+          "type": "matching",
+          "prompt": "몸과 건강: 문장 구조 발견 · 6번: hand과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "팔",
+            "다리",
+            "손",
+            "머리"
+          ],
+          "correctAnswer": "손",
+          "explanation": "hand은 ‘손’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "손"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S04-Q01",
+          "stageId": "EN-L03-C04-S04",
+          "type": "wordBuilding",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘건강한’을 만드세요.",
+          "choices": [
+            "llew",
+            "ellw",
+            "wel",
+            "well"
+          ],
+          "correctAnswer": "well",
+          "explanation": "바른 철자는 well입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "well",
+            "WELL"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C04-S04-Q02",
+          "stageId": "EN-L03-C04-S04",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 2번: This is my ___. 빈칸에 ‘머리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "arm",
+            "leg",
+            "head",
+            "hand"
+          ],
+          "correctAnswer": "head",
+          "explanation": "문맥과 뜻에 맞는 단어는 head입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "head",
+            "HEAD"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C04-S04-Q03",
+          "stageId": "EN-L03-C04-S04",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 3번: ‘손’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "leg",
+            "hand",
+            "head",
+            "arm"
+          ],
+          "correctAnswer": "hand",
+          "explanation": "‘손’은 영어로 hand입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hand",
+            "HAND"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        },
+        {
+          "questionId": "EN-L03-C04-S04-Q04",
+          "stageId": "EN-L03-C04-S04",
+          "type": "categorization",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 4번: arm을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "신체",
+            "음식과 음료",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "신체",
+          "explanation": "arm은 신체 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "신체"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S04-Q05",
+          "stageId": "EN-L03-C04-S04",
+          "type": "ordering",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "leg a have I.",
+            "have a leg I.",
+            "I have a leg."
+          ],
+          "correctAnswer": "I have a leg.",
+          "explanation": "바른 어순은 “I have a leg.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a leg.",
+            "I have a leg"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S04-Q06",
+          "stageId": "EN-L03-C04-S04",
+          "type": "fillBlank",
+          "prompt": "몸과 건강: 짧은 문장 연습 · 6번: e_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "y",
+          "explanation": "eye의 빠진 글자는 y입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "y",
+            "Y"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S05-Q01",
+          "stageId": "EN-L03-C04-S05",
+          "type": "sentenceMeaning",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 1번: “This is my arm.”에서 arm의 뜻을 고르세요.",
+          "choices": [
+            "머리",
+            "손",
+            "다리",
+            "팔"
+          ],
+          "correctAnswer": "팔",
+          "explanation": "arm은 ‘팔’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "팔"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S05-Q02",
+          "stageId": "EN-L03-C04-S05",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 2번: ‘다리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "leg",
+            "head"
+          ],
+          "correctAnswer": "leg",
+          "explanation": "‘다리’은 영어로 leg입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "leg",
+            "LEG"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S05-Q03",
+          "stageId": "EN-L03-C04-S05",
+          "type": "trueFalse",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 3번: eye의 뜻이 ‘머리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "eye의 뜻은 ‘눈’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S05-Q04",
+          "stageId": "EN-L03-C04-S05",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 4번: I have an ___. 빈칸에 ‘귀’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "ear",
+            "head",
+            "hand",
+            "arm"
+          ],
+          "correctAnswer": "ear",
+          "explanation": "문맥과 뜻에 맞는 단어는 ear입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ear",
+            "EAR"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C04-S05-Q05",
+          "stageId": "EN-L03-C04-S05",
+          "type": "matching",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 5번: nose과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "머리",
+            "손",
+            "팔",
+            "코"
+          ],
+          "correctAnswer": "코",
+          "explanation": "nose은 ‘코’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "코"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C04-S05-Q06",
+          "stageId": "EN-L03-C04-S05",
+          "type": "ordering",
+          "prompt": "몸과 건강: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have a mouth I.",
+            "I have a mouth.",
+            "mouth a have I."
+          ],
+          "correctAnswer": "I have a mouth.",
+          "explanation": "바른 어순은 “I have a mouth.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a mouth.",
+            "I have a mouth"
+          ],
+          "koreanMeaning": "입",
+          "exampleSentence": "I have a mouth."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S06-Q01",
+          "stageId": "EN-L03-C04-S06",
+          "type": "listeningChoice",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "arm",
+            "ear"
+          ],
+          "correctAnswer": "ear",
+          "explanation": "음성의 핵심 단어는 ear입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "ear",
+          "acceptedAnswers": [
+            "ear"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C04-S06-Q02",
+          "stageId": "EN-L03-C04-S06",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 2번: ‘코’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "nose",
+            "head"
+          ],
+          "correctAnswer": "nose",
+          "explanation": "‘코’은 영어로 nose입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nose",
+            "NOSE"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C04-S06-Q03",
+          "stageId": "EN-L03-C04-S06",
+          "type": "listeningChoice",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "arm",
+            "mouth",
+            "head",
+            "hand"
+          ],
+          "correctAnswer": "mouth",
+          "explanation": "음성의 핵심 단어는 mouth입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "mouth",
+          "acceptedAnswers": [
+            "mouth"
+          ],
+          "koreanMeaning": "입",
+          "exampleSentence": "I have a mouth."
+        },
+        {
+          "questionId": "EN-L03-C04-S06-Q04",
+          "stageId": "EN-L03-C04-S06",
+          "type": "dictation",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "foot",
+          "explanation": "발은 영어로 foot입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "foot",
+          "acceptedAnswers": [
+            "foot",
+            "FOOT"
+          ],
+          "koreanMeaning": "발",
+          "exampleSentence": "This is my foot."
+        },
+        {
+          "questionId": "EN-L03-C04-S06-Q05",
+          "stageId": "EN-L03-C04-S06",
+          "type": "trueFalse",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 5번: well의 뜻이 ‘머리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "well의 뜻은 ‘건강한’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C04-S06-Q06",
+          "stageId": "EN-L03-C04-S06",
+          "type": "matching",
+          "prompt": "몸과 건강: 생활 대화 듣기 · 6번: head과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "팔",
+            "다리",
+            "머리",
+            "손"
+          ],
+          "correctAnswer": "머리",
+          "explanation": "head은 ‘머리’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "머리"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S07-Q01",
+          "stageId": "EN-L03-C04-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "몸과 건강: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my foot.",
+          "explanation": "This is my foot.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my foot.",
+          "acceptedAnswers": [
+            "This is my foot.",
+            "This is my foot"
+          ],
+          "koreanMeaning": "발",
+          "exampleSentence": "This is my foot."
+        },
+        {
+          "questionId": "EN-L03-C04-S07-Q02",
+          "stageId": "EN-L03-C04-S07",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 표현 말하기 · 2번: ‘건강한’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "well",
+            "head"
+          ],
+          "correctAnswer": "well",
+          "explanation": "‘건강한’은 영어로 well입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "well",
+            "WELL"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C04-S07-Q03",
+          "stageId": "EN-L03-C04-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "몸과 건강: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my head.",
+          "explanation": "This is my head.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my head.",
+          "acceptedAnswers": [
+            "This is my head.",
+            "This is my head"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C04-S07-Q04",
+          "stageId": "EN-L03-C04-S07",
+          "type": "sentenceMeaning",
+          "prompt": "몸과 건강: 표현 말하기 · 4번: “I have a hand.”에서 hand의 뜻을 고르세요.",
+          "choices": [
+            "손",
+            "머리",
+            "팔",
+            "다리"
+          ],
+          "correctAnswer": "손",
+          "explanation": "hand은 ‘손’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "손"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        },
+        {
+          "questionId": "EN-L03-C04-S07-Q05",
+          "stageId": "EN-L03-C04-S07",
+          "type": "matching",
+          "prompt": "몸과 건강: 표현 말하기 · 5번: arm과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "머리",
+            "손",
+            "다리",
+            "팔"
+          ],
+          "correctAnswer": "팔",
+          "explanation": "arm은 ‘팔’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "팔"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S07-Q06",
+          "stageId": "EN-L03-C04-S07",
+          "type": "trueFalse",
+          "prompt": "몸과 건강: 표현 말하기 · 6번: leg의 뜻이 ‘다리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "leg의 뜻은 ‘다리’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S08-Q01",
+          "stageId": "EN-L03-C04-S08",
+          "type": "spelling",
+          "prompt": "몸과 건강: 문장 쓰기 · 1번: h_nd에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "hand의 빠진 글자는 a입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        },
+        {
+          "questionId": "EN-L03-C04-S08-Q02",
+          "stageId": "EN-L03-C04-S08",
+          "type": "fillBlank",
+          "prompt": "몸과 건강: 문장 쓰기 · 2번: a_m에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "arm의 빠진 글자는 r입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S08-Q03",
+          "stageId": "EN-L03-C04-S08",
+          "type": "dictation",
+          "prompt": "몸과 건강: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "leg",
+          "explanation": "다리은 영어로 leg입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "leg",
+          "acceptedAnswers": [
+            "leg",
+            "LEG"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S08-Q04",
+          "stageId": "EN-L03-C04-S08",
+          "type": "wordBuilding",
+          "prompt": "몸과 건강: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘눈’을 만드세요.",
+          "choices": [
+            "eye",
+            "yee",
+            "ey"
+          ],
+          "correctAnswer": "eye",
+          "explanation": "바른 철자는 eye입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eye",
+            "EYE"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S08-Q05",
+          "stageId": "EN-L03-C04-S08",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 문장 쓰기 · 5번: I have an ___. 빈칸에 ‘귀’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "arm",
+            "ear"
+          ],
+          "correctAnswer": "ear",
+          "explanation": "문맥과 뜻에 맞는 단어는 ear입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ear",
+            "EAR"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C04-S08-Q06",
+          "stageId": "EN-L03-C04-S08",
+          "type": "ordering",
+          "prompt": "몸과 건강: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is my nose This.",
+            "This is my nose.",
+            "nose my is This."
+          ],
+          "correctAnswer": "This is my nose.",
+          "explanation": "바른 어순은 “This is my nose.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is my nose.",
+            "This is my nose"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C04-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C04-S09-Q01",
+          "stageId": "EN-L03-C04-S09",
+          "type": "reviewMixed",
+          "prompt": "몸과 건강: 과정 평가 · 1번: ‘눈’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "arm",
+            "eye"
+          ],
+          "correctAnswer": "eye",
+          "explanation": "‘눈’은 영어로 eye입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eye",
+            "EYE"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q02",
+          "stageId": "EN-L03-C04-S09",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 과정 평가 · 2번: ‘귀’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "ear",
+            "head"
+          ],
+          "correctAnswer": "ear",
+          "explanation": "‘귀’은 영어로 ear입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ear",
+            "EAR"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q03",
+          "stageId": "EN-L03-C04-S09",
+          "type": "listeningChoice",
+          "prompt": "몸과 건강: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "arm",
+            "nose",
+            "head",
+            "hand"
+          ],
+          "correctAnswer": "nose",
+          "explanation": "음성의 핵심 단어는 nose입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "nose",
+          "acceptedAnswers": [
+            "nose"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q04",
+          "stageId": "EN-L03-C04-S09",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 과정 평가 · 4번: I have a ___. 빈칸에 ‘입’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "mouth",
+            "head",
+            "hand",
+            "arm"
+          ],
+          "correctAnswer": "mouth",
+          "explanation": "문맥과 뜻에 맞는 단어는 mouth입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mouth",
+            "MOUTH"
+          ],
+          "koreanMeaning": "입",
+          "exampleSentence": "I have a mouth."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q05",
+          "stageId": "EN-L03-C04-S09",
+          "type": "dictation",
+          "prompt": "몸과 건강: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "foot",
+          "explanation": "발은 영어로 foot입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "foot",
+          "acceptedAnswers": [
+            "foot",
+            "FOOT"
+          ],
+          "koreanMeaning": "발",
+          "exampleSentence": "This is my foot."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q06",
+          "stageId": "EN-L03-C04-S09",
+          "type": "sentenceMeaning",
+          "prompt": "몸과 건강: 과정 평가 · 6번: “You are well.”에서 well의 뜻을 고르세요.",
+          "choices": [
+            "손",
+            "팔",
+            "건강한",
+            "머리"
+          ],
+          "correctAnswer": "건강한",
+          "explanation": "well은 ‘건강한’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "건강한"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q07",
+          "stageId": "EN-L03-C04-S09",
+          "type": "reviewMixed",
+          "prompt": "몸과 건강: 과정 평가 · 7번: ‘머리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "leg",
+            "head",
+            "hand",
+            "arm"
+          ],
+          "correctAnswer": "head",
+          "explanation": "‘머리’은 영어로 head입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "head",
+            "HEAD"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q08",
+          "stageId": "EN-L03-C04-S09",
+          "type": "multipleChoice",
+          "prompt": "몸과 건강: 과정 평가 · 8번: ‘손’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "head",
+            "arm",
+            "leg"
+          ],
+          "correctAnswer": "hand",
+          "explanation": "‘손’은 영어로 hand입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hand",
+            "HAND"
+          ],
+          "koreanMeaning": "손",
+          "exampleSentence": "I have a hand."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q09",
+          "stageId": "EN-L03-C04-S09",
+          "type": "listeningChoice",
+          "prompt": "몸과 건강: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "head",
+            "hand",
+            "leg",
+            "arm"
+          ],
+          "correctAnswer": "arm",
+          "explanation": "음성의 핵심 단어는 arm입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "arm",
+          "acceptedAnswers": [
+            "arm"
+          ],
+          "koreanMeaning": "팔",
+          "exampleSentence": "This is my arm."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q10",
+          "stageId": "EN-L03-C04-S09",
+          "type": "sentenceCompletion",
+          "prompt": "몸과 건강: 과정 평가 · 10번: I have a ___. 빈칸에 ‘다리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "hand",
+            "arm",
+            "leg",
+            "head"
+          ],
+          "correctAnswer": "leg",
+          "explanation": "문맥과 뜻에 맞는 단어는 leg입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "leg",
+            "LEG"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q11",
+          "stageId": "EN-L03-C04-S09",
+          "type": "dictation",
+          "prompt": "몸과 건강: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "eye",
+          "explanation": "눈은 영어로 eye입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "eye",
+          "acceptedAnswers": [
+            "eye",
+            "EYE"
+          ],
+          "koreanMeaning": "눈",
+          "exampleSentence": "This is my eye."
+        },
+        {
+          "questionId": "EN-L03-C04-S09-Q12",
+          "stageId": "EN-L03-C04-S09",
+          "type": "sentenceMeaning",
+          "prompt": "몸과 건강: 과정 평가 · 12번: “I have an ear.”에서 ear의 뜻을 고르세요.",
+          "choices": [
+            "귀",
+            "머리",
+            "손",
+            "팔"
+          ],
+          "correctAnswer": "귀",
+          "explanation": "ear은 ‘귀’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "몸과 건강 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "귀"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        }
+      ]
+    }
+  ]
+}

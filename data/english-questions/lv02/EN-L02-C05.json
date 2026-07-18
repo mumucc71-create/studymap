@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C05",
+  "stages": [
+    {
+      "stageId": "EN-L02-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S01-Q01",
+          "stageId": "EN-L02-C05-S01",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 문자와 소리 발견 · 1번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cup",
+            "fan",
+            "sad",
+            "sun"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "sun에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S01-Q02",
+          "stageId": "EN-L02-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 문자와 소리 발견 · 2번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "cup",
+            "sun"
+          ],
+          "correctAnswer": "cup",
+          "explanation": "cup에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cup",
+            "CUP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S01-Q03",
+          "stageId": "EN-L02-C05-S01",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 문자와 소리 발견 · 3번: bus에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "bus의 목표 규칙은 short-u이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S01-Q04",
+          "stageId": "EN-L02-C05-S01",
+          "type": "matching",
+          "prompt": "단모음 u: 문자와 소리 발견 · 4번: mud와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "run",
+            "fan",
+            "sad",
+            "cat"
+          ],
+          "correctAnswer": "run",
+          "explanation": "mud와 run에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "run",
+            "RUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S01-Q05",
+          "stageId": "EN-L02-C05-S01",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 문자와 소리 발견 · 5번: ru_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "run의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S01-Q06",
+          "stageId": "EN-L02-C05-S01",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 hug를 만드세요.",
+          "choices": [
+            "ugh",
+            "hu",
+            "hug",
+            "guh"
+          ],
+          "correctAnswer": "hug",
+          "explanation": "h + u + g를 순서대로 놓으면 hug입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hug",
+            "HUG"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S02-Q01",
+          "stageId": "EN-L02-C05-S02",
+          "type": "matching",
+          "prompt": "단모음 u: 핵심 글자·철자 · 1번: bus와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "cat",
+            "mud"
+          ],
+          "correctAnswer": "mud",
+          "explanation": "bus와 mud에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mud",
+            "MUD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S02-Q02",
+          "stageId": "EN-L02-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 핵심 글자·철자 · 2번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "mud",
+            "sun"
+          ],
+          "correctAnswer": "mud",
+          "explanation": "mud에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mud",
+            "MUD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S02-Q03",
+          "stageId": "EN-L02-C05-S02",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 run를 만드세요.",
+          "choices": [
+            "ru",
+            "run",
+            "nur",
+            "unr"
+          ],
+          "correctAnswer": "run",
+          "explanation": "r + u + n를 순서대로 놓으면 run입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "run",
+            "RUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S02-Q04",
+          "stageId": "EN-L02-C05-S02",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 핵심 글자·철자 · 4번: h_g에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "hug의 빠진 글자는 u입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S02-Q05",
+          "stageId": "EN-L02-C05-S02",
+          "type": "spelling",
+          "prompt": "단모음 u: 핵심 글자·철자 · 5번: nu_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "nut의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S02-Q06",
+          "stageId": "EN-L02-C05-S02",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 핵심 글자·철자 · 6번: tub에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "tub의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S03-Q01",
+          "stageId": "EN-L02-C05-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "run"
+          ],
+          "correctAnswer": "run",
+          "explanation": "음성은 run를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "run",
+          "acceptedAnswers": [
+            "run",
+            "RUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S03-Q02",
+          "stageId": "EN-L02-C05-S03",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 2번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "hug",
+            "sun"
+          ],
+          "correctAnswer": "hug",
+          "explanation": "hug에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hug",
+            "HUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S03-Q03",
+          "stageId": "EN-L02-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 3번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "nut",
+            "sun",
+            "fan"
+          ],
+          "correctAnswer": "nut",
+          "explanation": "nut에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nut",
+            "NUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S03-Q04",
+          "stageId": "EN-L02-C05-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "tub",
+            "sun",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "tub",
+          "explanation": "음성은 tub를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "tub",
+          "acceptedAnswers": [
+            "tub",
+            "TUB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S03-Q05",
+          "stageId": "EN-L02-C05-S03",
+          "type": "matching",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 5번: gum와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "cat",
+            "bug"
+          ],
+          "correctAnswer": "bug",
+          "explanation": "gum와 bug에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bug",
+            "BUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S03-Q06",
+          "stageId": "EN-L02-C05-S03",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 음가 듣고 구별하기 · 6번: bug에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "bug의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S04-Q01",
+          "stageId": "EN-L02-C05-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 1번: nut를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "nut",
+          "explanation": "nut에는 short u in a word 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "nut",
+          "acceptedAnswers": [
+            "nut",
+            "NUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S04-Q02",
+          "stageId": "EN-L02-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 2번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "tub",
+            "sun"
+          ],
+          "correctAnswer": "tub",
+          "explanation": "tub에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tub",
+            "TUB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S04-Q03",
+          "stageId": "EN-L02-C05-S04",
+          "type": "matching",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 3번: gum와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "bug",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "bug",
+          "explanation": "gum와 bug에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bug",
+            "BUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S04-Q04",
+          "stageId": "EN-L02-C05-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 4번: bug를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "bug",
+          "explanation": "bug에는 short u in a word 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "bug",
+          "acceptedAnswers": [
+            "bug",
+            "BUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S04-Q05",
+          "stageId": "EN-L02-C05-S04",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 5번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "cut"
+          ],
+          "correctAnswer": "cut",
+          "explanation": "cut에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cut",
+            "CUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S04-Q06",
+          "stageId": "EN-L02-C05-S04",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 소리 내어 따라 읽기 · 6번: fun에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "fun의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S05-Q01",
+          "stageId": "EN-L02-C05-S05",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 문자 인식 연습 · 1번: 글자를 바르게 배열해 gum를 만드세요.",
+          "choices": [
+            "mug",
+            "umg",
+            "gu",
+            "gum"
+          ],
+          "correctAnswer": "gum",
+          "explanation": "g + u + m를 순서대로 놓으면 gum입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gum",
+            "GUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S05-Q02",
+          "stageId": "EN-L02-C05-S05",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 문자 인식 연습 · 2번: bu_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "g",
+          "explanation": "bug의 빠진 글자는 g입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "g",
+            "G"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S05-Q03",
+          "stageId": "EN-L02-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 문자 인식 연습 · 3번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "cut",
+            "sun",
+            "fan"
+          ],
+          "correctAnswer": "cut",
+          "explanation": "cut에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cut",
+            "CUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S05-Q04",
+          "stageId": "EN-L02-C05-S05",
+          "type": "matching",
+          "prompt": "단모음 u: 문자 인식 연습 · 4번: fun와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "cat"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "fun와 sun에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S05-Q05",
+          "stageId": "EN-L02-C05-S05",
+          "type": "ordering",
+          "prompt": "단모음 u: 문자 인식 연습 · 5번: 글자를 바르게 배열해 sun를 만드세요.",
+          "choices": [
+            "nus",
+            "uns",
+            "su",
+            "sun"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "s + u + n를 순서대로 놓으면 sun입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S05-Q06",
+          "stageId": "EN-L02-C05-S05",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 문자 인식 연습 · 6번: cup에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "cup의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S06-Q01",
+          "stageId": "EN-L02-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 단어 읽기 적용 · 1번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "cut"
+          ],
+          "correctAnswer": "cut",
+          "explanation": "cut에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cut",
+            "CUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S06-Q02",
+          "stageId": "EN-L02-C05-S06",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 단어 읽기 적용 · 2번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "fun",
+            "sun"
+          ],
+          "correctAnswer": "fun",
+          "explanation": "fun에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fun",
+            "FUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S06-Q03",
+          "stageId": "EN-L02-C05-S06",
+          "type": "matching",
+          "prompt": "단모음 u: 단어 읽기 적용 · 3번: sun와 같은 short u in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "cup",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "cup",
+          "explanation": "sun와 cup에는 모두 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cup",
+            "CUP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S06-Q04",
+          "stageId": "EN-L02-C05-S06",
+          "type": "trueFalse",
+          "prompt": "단모음 u: 단어 읽기 적용 · 4번: cup에 short-u 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "cup의 목표 규칙은 short-u이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S06-Q05",
+          "stageId": "EN-L02-C05-S06",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 bus를 만드세요.",
+          "choices": [
+            "sub",
+            "usb",
+            "bu",
+            "bus"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "b + u + s를 순서대로 놓으면 bus입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S06-Q06",
+          "stageId": "EN-L02-C05-S06",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 단어 읽기 적용 · 6번: _ud에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "m",
+          "explanation": "mud의 빠진 글자는 m입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "m",
+            "M"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S07-Q01",
+          "stageId": "EN-L02-C05-S07",
+          "type": "spelling",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 1번: s_n에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "sun의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S07-Q02",
+          "stageId": "EN-L02-C05-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 2번: cu_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "cup의 빠진 글자는 p입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S07-Q03",
+          "stageId": "EN-L02-C05-S07",
+          "type": "dictation",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "bus",
+          "explanation": "bus의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bus",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S07-Q04",
+          "stageId": "EN-L02-C05-S07",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 mud를 만드세요.",
+          "choices": [
+            "mud",
+            "dum",
+            "udm",
+            "mu"
+          ],
+          "correctAnswer": "mud",
+          "explanation": "m + u + d를 순서대로 놓으면 mud입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mud",
+            "MUD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S07-Q05",
+          "stageId": "EN-L02-C05-S07",
+          "type": "spelling",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 5번: ru_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "run의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S07-Q06",
+          "stageId": "EN-L02-C05-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 u: 철자와 받아쓰기 · 6번: _ug에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "hug의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C05-S08-Q01",
+          "stageId": "EN-L02-C05-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 u: 과정 평가 · 1번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "bus"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "bus에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q02",
+          "stageId": "EN-L02-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 과정 평가 · 2번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "mud",
+            "sun"
+          ],
+          "correctAnswer": "mud",
+          "explanation": "mud에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mud",
+            "MUD"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q03",
+          "stageId": "EN-L02-C05-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 u: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "run",
+            "sun",
+            "fan"
+          ],
+          "correctAnswer": "run",
+          "explanation": "음성은 run를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "run",
+          "acceptedAnswers": [
+            "run",
+            "RUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q04",
+          "stageId": "EN-L02-C05-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 과정 평가 · 4번: 글자를 바르게 배열해 hug를 만드세요.",
+          "choices": [
+            "hug",
+            "guh",
+            "ugh",
+            "hu"
+          ],
+          "correctAnswer": "hug",
+          "explanation": "h + u + g를 순서대로 놓으면 hug입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hug",
+            "HUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q05",
+          "stageId": "EN-L02-C05-S08",
+          "type": "dictation",
+          "prompt": "단모음 u: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "nut",
+          "explanation": "nut의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "nut",
+          "acceptedAnswers": [
+            "nut",
+            "NUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q06",
+          "stageId": "EN-L02-C05-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 과정 평가 · 6번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "tub",
+            "sun"
+          ],
+          "correctAnswer": "tub",
+          "explanation": "tub에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tub",
+            "TUB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q07",
+          "stageId": "EN-L02-C05-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 u: 과정 평가 · 7번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "gum",
+            "sun",
+            "fan"
+          ],
+          "correctAnswer": "gum",
+          "explanation": "gum에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gum",
+            "GUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q08",
+          "stageId": "EN-L02-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 u: 과정 평가 · 8번: short-u 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bug",
+            "sun",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "bug",
+          "explanation": "bug에는 short-u 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bug",
+            "BUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q09",
+          "stageId": "EN-L02-C05-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 u: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sun",
+            "fan",
+            "sad",
+            "cut"
+          ],
+          "correctAnswer": "cut",
+          "explanation": "음성은 cut를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cut",
+          "acceptedAnswers": [
+            "cut",
+            "CUT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q10",
+          "stageId": "EN-L02-C05-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 u: 과정 평가 · 10번: 글자를 바르게 배열해 fun를 만드세요.",
+          "choices": [
+            "unf",
+            "fu",
+            "fun",
+            "nuf"
+          ],
+          "correctAnswer": "fun",
+          "explanation": "f + u + n를 순서대로 놓으면 fun입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fun",
+            "FUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q11",
+          "stageId": "EN-L02-C05-S08",
+          "type": "dictation",
+          "prompt": "단모음 u: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "sun",
+          "explanation": "sun의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sun",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C05-S08-Q12",
+          "stageId": "EN-L02-C05-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 u: 과정 평가 · 12번: short u in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cup",
+            "sun",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "cup",
+          "explanation": "cup에서 short u in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-u",
+          "targetSound": "short u in a word",
+          "sourceObjective": "단모음 u 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cup",
+            "CUP"
+          ]
+        }
+      ]
+    }
+  ]
+}

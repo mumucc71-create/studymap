@@ -1,0 +1,713 @@
+{
+  "schemaVersion": "1.0.0",
+  "subjectId": "english",
+  "diagnostic": {
+    "id": "EN-DIAGNOSTIC",
+    "purpose": "학년이 아닌 능력 기준 시작 레벨 추천",
+    "coverage": [
+      "EN-L01",
+      "EN-L02",
+      "EN-L03",
+      "EN-L04",
+      "EN-L05",
+      "EN-L06",
+      "EN-L07",
+      "EN-L08",
+      "EN-L09",
+      "EN-L10",
+      "EN-L11",
+      "EN-L12",
+      "EN-L13",
+      "EN-L14",
+      "EN-L15",
+      "EN-L16",
+      "EN-L17",
+      "EN-L18",
+      "EN-L19",
+      "EN-L20"
+    ],
+    "placementRule": "가장 높은 80% 이상 달성 레벨의 다음 레벨부터 시작"
+  },
+  "levels": [
+    {
+      "levelId": "EN-L01",
+      "diagnostic": {
+        "id": "EN-L01-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L01-CP05",
+          "afterCourseId": "EN-L01-C05"
+        },
+        {
+          "id": "EN-L01-CP10",
+          "afterCourseId": "EN-L01-C10"
+        },
+        {
+          "id": "EN-L01-REVIEW",
+          "afterCourseId": "EN-L01-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L01-BOSS",
+        "afterCourseId": "EN-L01-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L02"
+      }
+    },
+    {
+      "levelId": "EN-L02",
+      "diagnostic": {
+        "id": "EN-L02-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L02-CP05",
+          "afterCourseId": "EN-L02-C05"
+        },
+        {
+          "id": "EN-L02-CP10",
+          "afterCourseId": "EN-L02-C10"
+        },
+        {
+          "id": "EN-L02-REVIEW",
+          "afterCourseId": "EN-L02-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L02-BOSS",
+        "afterCourseId": "EN-L02-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L03"
+      }
+    },
+    {
+      "levelId": "EN-L03",
+      "diagnostic": {
+        "id": "EN-L03-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L03-CP05",
+          "afterCourseId": "EN-L03-C05"
+        },
+        {
+          "id": "EN-L03-CP10",
+          "afterCourseId": "EN-L03-C10"
+        },
+        {
+          "id": "EN-L03-REVIEW",
+          "afterCourseId": "EN-L03-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L03-BOSS",
+        "afterCourseId": "EN-L03-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L04"
+      }
+    },
+    {
+      "levelId": "EN-L04",
+      "diagnostic": {
+        "id": "EN-L04-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L04-CP05",
+          "afterCourseId": "EN-L04-C05"
+        },
+        {
+          "id": "EN-L04-CP10",
+          "afterCourseId": "EN-L04-C10"
+        },
+        {
+          "id": "EN-L04-REVIEW",
+          "afterCourseId": "EN-L04-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L04-BOSS",
+        "afterCourseId": "EN-L04-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L05"
+      }
+    },
+    {
+      "levelId": "EN-L05",
+      "diagnostic": {
+        "id": "EN-L05-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L05-CP05",
+          "afterCourseId": "EN-L05-C05"
+        },
+        {
+          "id": "EN-L05-CP10",
+          "afterCourseId": "EN-L05-C10"
+        },
+        {
+          "id": "EN-L05-REVIEW",
+          "afterCourseId": "EN-L05-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L05-BOSS",
+        "afterCourseId": "EN-L05-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L06"
+      }
+    },
+    {
+      "levelId": "EN-L06",
+      "diagnostic": {
+        "id": "EN-L06-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L06-CP05",
+          "afterCourseId": "EN-L06-C05"
+        },
+        {
+          "id": "EN-L06-CP10",
+          "afterCourseId": "EN-L06-C10"
+        },
+        {
+          "id": "EN-L06-REVIEW",
+          "afterCourseId": "EN-L06-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L06-BOSS",
+        "afterCourseId": "EN-L06-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L07"
+      }
+    },
+    {
+      "levelId": "EN-L07",
+      "diagnostic": {
+        "id": "EN-L07-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L07-CP05",
+          "afterCourseId": "EN-L07-C05"
+        },
+        {
+          "id": "EN-L07-CP10",
+          "afterCourseId": "EN-L07-C10"
+        },
+        {
+          "id": "EN-L07-REVIEW",
+          "afterCourseId": "EN-L07-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L07-BOSS",
+        "afterCourseId": "EN-L07-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L08"
+      }
+    },
+    {
+      "levelId": "EN-L08",
+      "diagnostic": {
+        "id": "EN-L08-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L08-CP05",
+          "afterCourseId": "EN-L08-C05"
+        },
+        {
+          "id": "EN-L08-CP10",
+          "afterCourseId": "EN-L08-C10"
+        },
+        {
+          "id": "EN-L08-REVIEW",
+          "afterCourseId": "EN-L08-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L08-BOSS",
+        "afterCourseId": "EN-L08-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L09"
+      }
+    },
+    {
+      "levelId": "EN-L09",
+      "diagnostic": {
+        "id": "EN-L09-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L09-CP05",
+          "afterCourseId": "EN-L09-C05"
+        },
+        {
+          "id": "EN-L09-CP10",
+          "afterCourseId": "EN-L09-C10"
+        },
+        {
+          "id": "EN-L09-REVIEW",
+          "afterCourseId": "EN-L09-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L09-BOSS",
+        "afterCourseId": "EN-L09-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L10"
+      }
+    },
+    {
+      "levelId": "EN-L10",
+      "diagnostic": {
+        "id": "EN-L10-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L10-CP05",
+          "afterCourseId": "EN-L10-C05"
+        },
+        {
+          "id": "EN-L10-CP10",
+          "afterCourseId": "EN-L10-C10"
+        },
+        {
+          "id": "EN-L10-REVIEW",
+          "afterCourseId": "EN-L10-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L10-BOSS",
+        "afterCourseId": "EN-L10-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L11"
+      }
+    },
+    {
+      "levelId": "EN-L11",
+      "diagnostic": {
+        "id": "EN-L11-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L11-CP05",
+          "afterCourseId": "EN-L11-C05"
+        },
+        {
+          "id": "EN-L11-CP10",
+          "afterCourseId": "EN-L11-C10"
+        },
+        {
+          "id": "EN-L11-REVIEW",
+          "afterCourseId": "EN-L11-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L11-BOSS",
+        "afterCourseId": "EN-L11-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L12"
+      }
+    },
+    {
+      "levelId": "EN-L12",
+      "diagnostic": {
+        "id": "EN-L12-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L12-CP05",
+          "afterCourseId": "EN-L12-C05"
+        },
+        {
+          "id": "EN-L12-CP10",
+          "afterCourseId": "EN-L12-C10"
+        },
+        {
+          "id": "EN-L12-REVIEW",
+          "afterCourseId": "EN-L12-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L12-BOSS",
+        "afterCourseId": "EN-L12-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L13"
+      }
+    },
+    {
+      "levelId": "EN-L13",
+      "diagnostic": {
+        "id": "EN-L13-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L13-CP05",
+          "afterCourseId": "EN-L13-C05"
+        },
+        {
+          "id": "EN-L13-CP10",
+          "afterCourseId": "EN-L13-C10"
+        },
+        {
+          "id": "EN-L13-REVIEW",
+          "afterCourseId": "EN-L13-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L13-BOSS",
+        "afterCourseId": "EN-L13-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L14"
+      }
+    },
+    {
+      "levelId": "EN-L14",
+      "diagnostic": {
+        "id": "EN-L14-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L14-CP05",
+          "afterCourseId": "EN-L14-C05"
+        },
+        {
+          "id": "EN-L14-CP10",
+          "afterCourseId": "EN-L14-C10"
+        },
+        {
+          "id": "EN-L14-REVIEW",
+          "afterCourseId": "EN-L14-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L14-BOSS",
+        "afterCourseId": "EN-L14-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L15"
+      }
+    },
+    {
+      "levelId": "EN-L15",
+      "diagnostic": {
+        "id": "EN-L15-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L15-CP05",
+          "afterCourseId": "EN-L15-C05"
+        },
+        {
+          "id": "EN-L15-CP10",
+          "afterCourseId": "EN-L15-C10"
+        },
+        {
+          "id": "EN-L15-REVIEW",
+          "afterCourseId": "EN-L15-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L15-BOSS",
+        "afterCourseId": "EN-L15-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L16"
+      }
+    },
+    {
+      "levelId": "EN-L16",
+      "diagnostic": {
+        "id": "EN-L16-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L16-CP05",
+          "afterCourseId": "EN-L16-C05"
+        },
+        {
+          "id": "EN-L16-CP10",
+          "afterCourseId": "EN-L16-C10"
+        },
+        {
+          "id": "EN-L16-REVIEW",
+          "afterCourseId": "EN-L16-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L16-BOSS",
+        "afterCourseId": "EN-L16-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L17"
+      }
+    },
+    {
+      "levelId": "EN-L17",
+      "diagnostic": {
+        "id": "EN-L17-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L17-CP05",
+          "afterCourseId": "EN-L17-C05"
+        },
+        {
+          "id": "EN-L17-CP10",
+          "afterCourseId": "EN-L17-C10"
+        },
+        {
+          "id": "EN-L17-REVIEW",
+          "afterCourseId": "EN-L17-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L17-BOSS",
+        "afterCourseId": "EN-L17-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L18"
+      }
+    },
+    {
+      "levelId": "EN-L18",
+      "diagnostic": {
+        "id": "EN-L18-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L18-CP05",
+          "afterCourseId": "EN-L18-C05"
+        },
+        {
+          "id": "EN-L18-CP10",
+          "afterCourseId": "EN-L18-C10"
+        },
+        {
+          "id": "EN-L18-REVIEW",
+          "afterCourseId": "EN-L18-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L18-BOSS",
+        "afterCourseId": "EN-L18-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L19"
+      }
+    },
+    {
+      "levelId": "EN-L19",
+      "diagnostic": {
+        "id": "EN-L19-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L19-CP05",
+          "afterCourseId": "EN-L19-C05"
+        },
+        {
+          "id": "EN-L19-CP10",
+          "afterCourseId": "EN-L19-C10"
+        },
+        {
+          "id": "EN-L19-REVIEW",
+          "afterCourseId": "EN-L19-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L19-BOSS",
+        "afterCourseId": "EN-L19-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": "EN-L20"
+      }
+    },
+    {
+      "levelId": "EN-L20",
+      "diagnostic": {
+        "id": "EN-L20-DIAG",
+        "questionPlan": {
+          "vocabulary": 2,
+          "grammar": 2,
+          "reading": 2,
+          "listening": 1,
+          "speakingOrWriting": 1
+        }
+      },
+      "midReviews": [
+        {
+          "id": "EN-L20-CP05",
+          "afterCourseId": "EN-L20-C05"
+        },
+        {
+          "id": "EN-L20-CP10",
+          "afterCourseId": "EN-L20-C10"
+        },
+        {
+          "id": "EN-L20-REVIEW",
+          "afterCourseId": "EN-L20-C14"
+        }
+      ],
+      "bossTest": {
+        "id": "EN-L20-BOSS",
+        "afterCourseId": "EN-L20-C15",
+        "passScore": 80,
+        "masteryRule": "핵심 영역별 70% 이상 및 총점 80% 이상",
+        "unlocks": null
+      }
+    }
+  ]
+}

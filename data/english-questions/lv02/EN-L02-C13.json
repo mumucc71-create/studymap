@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C13",
+  "stages": [
+    {
+      "stageId": "EN-L02-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S01-Q01",
+          "stageId": "EN-L02-C13-S01",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 1번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "napkin",
+            "bat",
+            "hen",
+            "sunset"
+          ],
+          "correctAnswer": "sunset",
+          "explanation": "sunset에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunset",
+            "SUNSET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S01-Q02",
+          "stageId": "EN-L02-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 2번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "napkin",
+            "sunset"
+          ],
+          "correctAnswer": "napkin",
+          "explanation": "napkin에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "napkin",
+            "NAPKIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S01-Q03",
+          "stageId": "EN-L02-C13-S01",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 3번: picnic에 short-a 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "picnic의 목표 규칙은 syllable-split이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S01-Q04",
+          "stageId": "EN-L02-C13-S01",
+          "type": "matching",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 4번: hotdog와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cupcake",
+            "bat",
+            "hen",
+            "cat"
+          ],
+          "correctAnswer": "cupcake",
+          "explanation": "hotdog와 cupcake에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cupcake",
+            "CUPCAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S01-Q05",
+          "stageId": "EN-L02-C13-S01",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 5번: cupca_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "k",
+          "explanation": "cupcake의 빠진 글자는 k입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "k",
+            "K"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S01-Q06",
+          "stageId": "EN-L02-C13-S01",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 rainbow를 만드세요.",
+          "choices": [
+            "ainbowr",
+            "rainbo",
+            "rainbow",
+            "wobniar"
+          ],
+          "correctAnswer": "rainbow",
+          "explanation": "r + a + i + n + b + o + w를 순서대로 놓으면 rainbow입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainbow",
+            "RAINBOW"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S02-Q01",
+          "stageId": "EN-L02-C13-S02",
+          "type": "matching",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 1번: picnic와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "cat",
+            "hotdog"
+          ],
+          "correctAnswer": "hotdog",
+          "explanation": "picnic와 hotdog에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hotdog",
+            "HOTDOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S02-Q02",
+          "stageId": "EN-L02-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 2번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "hotdog",
+            "sunset"
+          ],
+          "correctAnswer": "hotdog",
+          "explanation": "hotdog에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hotdog",
+            "HOTDOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S02-Q03",
+          "stageId": "EN-L02-C13-S02",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 cupcake를 만드세요.",
+          "choices": [
+            "cupcak",
+            "cupcake",
+            "ekacpuc",
+            "upcakec"
+          ],
+          "correctAnswer": "cupcake",
+          "explanation": "c + u + p + c + a + k + e를 순서대로 놓으면 cupcake입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cupcake",
+            "CUPCAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S02-Q04",
+          "stageId": "EN-L02-C13-S02",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 4번: rain_ow에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "b",
+          "explanation": "rainbow의 빠진 글자는 b입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "b",
+            "B"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S02-Q05",
+          "stageId": "EN-L02-C13-S02",
+          "type": "spelling",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 5번: bedro_m에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "bedroom의 빠진 글자는 o입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S02-Q06",
+          "stageId": "EN-L02-C13-S02",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 핵심 글자·철자 · 6번: farmer에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "farmer의 목표 규칙은 syllable-split이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S03-Q01",
+          "stageId": "EN-L02-C13-S03",
+          "type": "listeningChoice",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "man",
+            "leg",
+            "cupcake"
+          ],
+          "correctAnswer": "cupcake",
+          "explanation": "음성은 cupcake를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cupcake",
+          "acceptedAnswers": [
+            "cupcake",
+            "CUPCAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S03-Q02",
+          "stageId": "EN-L02-C13-S03",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 2번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "leg",
+            "rainbow",
+            "sunset"
+          ],
+          "correctAnswer": "rainbow",
+          "explanation": "rainbow에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainbow",
+            "RAINBOW"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S03-Q03",
+          "stageId": "EN-L02-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 3번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "leg",
+            "bedroom",
+            "sunset",
+            "man"
+          ],
+          "correctAnswer": "bedroom",
+          "explanation": "bedroom에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bedroom",
+            "BEDROOM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S03-Q04",
+          "stageId": "EN-L02-C13-S03",
+          "type": "listeningChoice",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "farmer",
+            "sunset",
+            "bat",
+            "hen"
+          ],
+          "correctAnswer": "farmer",
+          "explanation": "음성은 farmer를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "farmer",
+          "acceptedAnswers": [
+            "farmer",
+            "FARMER"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S03-Q05",
+          "stageId": "EN-L02-C13-S03",
+          "type": "matching",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 5번: rabbit와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "cat",
+            "basket"
+          ],
+          "correctAnswer": "basket",
+          "explanation": "rabbit와 basket에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "basket",
+            "BASKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S03-Q06",
+          "stageId": "EN-L02-C13-S03",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 음가 듣고 구별하기 · 6번: basket에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "basket의 목표 규칙은 syllable-split이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S04-Q01",
+          "stageId": "EN-L02-C13-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 1번: bedroom를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "bedroom",
+          "explanation": "bedroom에는 two spoken syllables 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "bedroom",
+          "acceptedAnswers": [
+            "bedroom",
+            "BEDROOM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S04-Q02",
+          "stageId": "EN-L02-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 2번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "farmer",
+            "sunset"
+          ],
+          "correctAnswer": "farmer",
+          "explanation": "farmer에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "farmer",
+            "FARMER"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S04-Q03",
+          "stageId": "EN-L02-C13-S04",
+          "type": "matching",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 3번: rabbit와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "basket",
+            "bat",
+            "hen"
+          ],
+          "correctAnswer": "basket",
+          "explanation": "rabbit와 basket에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "basket",
+            "BASKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S04-Q04",
+          "stageId": "EN-L02-C13-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 4번: basket를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "basket",
+          "explanation": "basket에는 two spoken syllables 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "basket",
+          "acceptedAnswers": [
+            "basket",
+            "BASKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S04-Q05",
+          "stageId": "EN-L02-C13-S04",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 5번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "bat",
+            "hen",
+            "helmet"
+          ],
+          "correctAnswer": "helmet",
+          "explanation": "helmet에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helmet",
+            "HELMET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S04-Q06",
+          "stageId": "EN-L02-C13-S04",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 소리 내어 따라 읽기 · 6번: market에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "market의 목표 규칙은 syllable-split이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S05-Q01",
+          "stageId": "EN-L02-C13-S05",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 문자 인식 연습 · 1번: 글자를 바르게 배열해 rabbit를 만드세요.",
+          "choices": [
+            "tibbar",
+            "abbitr",
+            "rabbi",
+            "rabbit"
+          ],
+          "correctAnswer": "rabbit",
+          "explanation": "r + a + b + b + i + t를 순서대로 놓으면 rabbit입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S05-Q02",
+          "stageId": "EN-L02-C13-S05",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 문자 인식 연습 · 2번: ba_ket에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "basket의 빠진 글자는 s입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S05-Q03",
+          "stageId": "EN-L02-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 문자 인식 연습 · 3번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "hen",
+            "helmet",
+            "sunset",
+            "bat"
+          ],
+          "correctAnswer": "helmet",
+          "explanation": "helmet에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helmet",
+            "HELMET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S05-Q04",
+          "stageId": "EN-L02-C13-S05",
+          "type": "matching",
+          "prompt": "음절 나누기: 문자 인식 연습 · 4번: market와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "bat",
+            "hen",
+            "cat"
+          ],
+          "correctAnswer": "sunset",
+          "explanation": "market와 sunset에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunset",
+            "SUNSET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S05-Q05",
+          "stageId": "EN-L02-C13-S05",
+          "type": "ordering",
+          "prompt": "음절 나누기: 문자 인식 연습 · 5번: 글자를 바르게 배열해 sunset를 만드세요.",
+          "choices": [
+            "tesnus",
+            "unsets",
+            "sunse",
+            "sunset"
+          ],
+          "correctAnswer": "sunset",
+          "explanation": "s + u + n + s + e + t를 순서대로 놓으면 sunset입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunset",
+            "SUNSET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S05-Q06",
+          "stageId": "EN-L02-C13-S05",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 문자 인식 연습 · 6번: napkin에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "napkin의 목표 규칙은 syllable-split이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S06-Q01",
+          "stageId": "EN-L02-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 1번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "bat",
+            "hen",
+            "helmet"
+          ],
+          "correctAnswer": "helmet",
+          "explanation": "helmet에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helmet",
+            "HELMET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S06-Q02",
+          "stageId": "EN-L02-C13-S06",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 2번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "market",
+            "sunset"
+          ],
+          "correctAnswer": "market",
+          "explanation": "market에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "market",
+            "MARKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S06-Q03",
+          "stageId": "EN-L02-C13-S06",
+          "type": "matching",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 3번: sunset와 같은 two spoken syllables 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "napkin",
+            "bat",
+            "hen"
+          ],
+          "correctAnswer": "napkin",
+          "explanation": "sunset와 napkin에는 모두 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "napkin",
+            "NAPKIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S06-Q04",
+          "stageId": "EN-L02-C13-S06",
+          "type": "trueFalse",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 4번: napkin에 syllable-split 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "napkin의 목표 규칙은 syllable-split이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S06-Q05",
+          "stageId": "EN-L02-C13-S06",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 picnic를 만드세요.",
+          "choices": [
+            "cincip",
+            "icnicp",
+            "picni",
+            "picnic"
+          ],
+          "correctAnswer": "picnic",
+          "explanation": "p + i + c + n + i + c를 순서대로 놓으면 picnic입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "picnic",
+            "PICNIC"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S06-Q06",
+          "stageId": "EN-L02-C13-S06",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 단어 읽기 적용 · 6번: _otdog에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "hotdog의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S07-Q01",
+          "stageId": "EN-L02-C13-S07",
+          "type": "spelling",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 1번: s_nset에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "sunset의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S07-Q02",
+          "stageId": "EN-L02-C13-S07",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 2번: na_kin에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "napkin의 빠진 글자는 p입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S07-Q03",
+          "stageId": "EN-L02-C13-S07",
+          "type": "dictation",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "picnic",
+          "explanation": "picnic의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "picnic",
+          "acceptedAnswers": [
+            "picnic",
+            "PICNIC"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S07-Q04",
+          "stageId": "EN-L02-C13-S07",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 hotdog를 만드세요.",
+          "choices": [
+            "hotdog",
+            "godtoh",
+            "otdogh",
+            "hotdo"
+          ],
+          "correctAnswer": "hotdog",
+          "explanation": "h + o + t + d + o + g를 순서대로 놓으면 hotdog입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hotdog",
+            "HOTDOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S07-Q05",
+          "stageId": "EN-L02-C13-S07",
+          "type": "spelling",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 5번: cupca_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "k",
+          "explanation": "cupcake의 빠진 글자는 k입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "k",
+            "K"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S07-Q06",
+          "stageId": "EN-L02-C13-S07",
+          "type": "fillBlank",
+          "prompt": "음절 나누기: 철자와 받아쓰기 · 6번: rainbo_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "w",
+          "explanation": "rainbow의 빠진 글자는 w입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "w",
+            "W"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C13-S08-Q01",
+          "stageId": "EN-L02-C13-S08",
+          "type": "reviewMixed",
+          "prompt": "음절 나누기: 과정 평가 · 1번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "bat",
+            "hen",
+            "picnic"
+          ],
+          "correctAnswer": "picnic",
+          "explanation": "picnic에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "picnic",
+            "PICNIC"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q02",
+          "stageId": "EN-L02-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 과정 평가 · 2번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "hotdog",
+            "sunset"
+          ],
+          "correctAnswer": "hotdog",
+          "explanation": "hotdog에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hotdog",
+            "HOTDOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q03",
+          "stageId": "EN-L02-C13-S08",
+          "type": "listeningChoice",
+          "prompt": "음절 나누기: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "leg",
+            "cupcake",
+            "sunset",
+            "man"
+          ],
+          "correctAnswer": "cupcake",
+          "explanation": "음성은 cupcake를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cupcake",
+          "acceptedAnswers": [
+            "cupcake",
+            "CUPCAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q04",
+          "stageId": "EN-L02-C13-S08",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 과정 평가 · 4번: 글자를 바르게 배열해 rainbow를 만드세요.",
+          "choices": [
+            "rainbow",
+            "wobniar",
+            "ainbowr",
+            "rainbo"
+          ],
+          "correctAnswer": "rainbow",
+          "explanation": "r + a + i + n + b + o + w를 순서대로 놓으면 rainbow입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainbow",
+            "RAINBOW"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q05",
+          "stageId": "EN-L02-C13-S08",
+          "type": "dictation",
+          "prompt": "음절 나누기: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "bedroom",
+          "explanation": "bedroom의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bedroom",
+          "acceptedAnswers": [
+            "bedroom",
+            "BEDROOM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q06",
+          "stageId": "EN-L02-C13-S08",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 과정 평가 · 6번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "bat",
+            "hen",
+            "farmer",
+            "sunset"
+          ],
+          "correctAnswer": "farmer",
+          "explanation": "farmer에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "farmer",
+            "FARMER"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q07",
+          "stageId": "EN-L02-C13-S08",
+          "type": "reviewMixed",
+          "prompt": "음절 나누기: 과정 평가 · 7번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "hen",
+            "rabbit",
+            "sunset",
+            "bat"
+          ],
+          "correctAnswer": "rabbit",
+          "explanation": "rabbit에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q08",
+          "stageId": "EN-L02-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "음절 나누기: 과정 평가 · 8번: syllable-split 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "basket",
+            "sunset",
+            "bat",
+            "hen"
+          ],
+          "correctAnswer": "basket",
+          "explanation": "basket에는 syllable-split 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "basket",
+            "BASKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q09",
+          "stageId": "EN-L02-C13-S08",
+          "type": "listeningChoice",
+          "prompt": "음절 나누기: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sunset",
+            "bat",
+            "hen",
+            "helmet"
+          ],
+          "correctAnswer": "helmet",
+          "explanation": "음성은 helmet를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "helmet",
+          "acceptedAnswers": [
+            "helmet",
+            "HELMET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q10",
+          "stageId": "EN-L02-C13-S08",
+          "type": "wordBuilding",
+          "prompt": "음절 나누기: 과정 평가 · 10번: 글자를 바르게 배열해 market를 만드세요.",
+          "choices": [
+            "arketm",
+            "marke",
+            "market",
+            "tekram"
+          ],
+          "correctAnswer": "market",
+          "explanation": "m + a + r + k + e + t를 순서대로 놓으면 market입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "market",
+            "MARKET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q11",
+          "stageId": "EN-L02-C13-S08",
+          "type": "dictation",
+          "prompt": "음절 나누기: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "sunset",
+          "explanation": "sunset의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sunset",
+          "acceptedAnswers": [
+            "sunset",
+            "SUNSET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C13-S08-Q12",
+          "stageId": "EN-L02-C13-S08",
+          "type": "soundDiscrimination",
+          "prompt": "음절 나누기: 과정 평가 · 12번: two spoken syllables이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "napkin",
+            "sunset",
+            "bat",
+            "hen"
+          ],
+          "correctAnswer": "napkin",
+          "explanation": "napkin에서 two spoken syllables을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "syllable-split",
+          "targetSound": "two spoken syllables",
+          "sourceObjective": "음절 나누기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "napkin",
+            "NAPKIN"
+          ]
+        }
+      ]
+    }
+  ]
+}

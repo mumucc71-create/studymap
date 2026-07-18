@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L04",
+  "courseId": "EN-L04-C07",
+  "stages": [
+    {
+      "stageId": "EN-L04-C07-S01",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S01-Q01",
+          "stageId": "EN-L04-C07-S01",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 1번: ___ I need a pen? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S01-Q02",
+          "stageId": "EN-L04-C07-S01",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 2번: “Do you like music?”의 핵심 문법 표현이 ‘Do’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Do이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S01-Q03",
+          "stageId": "EN-L04-C07-S01",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 3번: ___ we have time? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Does",
+            "Is"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S01-Q04",
+          "stageId": "EN-L04-C07-S01",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 4번: “Do they play soccer?”의 뜻을 고르세요.",
+          "choices": [
+            "그들은 축구를 하니?",
+            "내게 펜이 필요하니?",
+            "너는 음악을 좋아하니?",
+            "우리에게 시간이 있니?"
+          ],
+          "correctAnswer": "그들은 축구를 하니?",
+          "explanation": "문장의 뜻은 ‘그들은 축구를 하니?’입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 축구를 하니?"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S01-Q05",
+          "stageId": "EN-L04-C07-S01",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 5번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Are",
+            "Does"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S01-Q06",
+          "stageId": "EN-L04-C07-S01",
+          "type": "ordering",
+          "prompt": "일반동사 의문문: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "she like cats Does?",
+            "Does she like cats?",
+            "cats like she Does?"
+          ],
+          "correctAnswer": "Does she like cats?",
+          "explanation": "바른 어순은 “Does she like cats?”입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does she like cats?",
+            "Does she like cats"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S02",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S02-Q01",
+          "stageId": "EN-L04-C07-S02",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 1번: ___ they play soccer? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S02-Q02",
+          "stageId": "EN-L04-C07-S02",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 2번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S02-Q03",
+          "stageId": "EN-L04-C07-S02",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 3번: “Does she like cats?”의 뜻을 고르세요.",
+          "choices": [
+            "우리에게 시간이 있니?",
+            "그녀는 고양이를 좋아하니?",
+            "내게 펜이 필요하니?",
+            "너는 음악을 좋아하니?"
+          ],
+          "correctAnswer": "그녀는 고양이를 좋아하니?",
+          "explanation": "문장의 뜻은 ‘그녀는 고양이를 좋아하니?’입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 고양이를 좋아하니?"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S02-Q04",
+          "stageId": "EN-L04-C07-S02",
+          "type": "fillBlank",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 4번: ___ Tom walk home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Do",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S02-Q05",
+          "stageId": "EN-L04-C07-S02",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 5번: ___ I need a pen? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S02-Q06",
+          "stageId": "EN-L04-C07-S02",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 생활 어휘 문맥 학습 · 6번: “Do you like music?”의 핵심 문법 표현이 ‘Do’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Do이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S03",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S03-Q01",
+          "stageId": "EN-L04-C07-S03",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 1번: ___ Tom walk home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Are",
+            "Does"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S03-Q02",
+          "stageId": "EN-L04-C07-S03",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 2번: ___ I need a pen? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Do",
+            "Does"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S03-Q03",
+          "stageId": "EN-L04-C07-S03",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 3번: “Do you like music?”의 핵심 문법 표현이 ‘Does’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Do이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S03-Q04",
+          "stageId": "EN-L04-C07-S03",
+          "type": "ordering",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Do we have time?",
+            "time have we Do?",
+            "we have time Do?"
+          ],
+          "correctAnswer": "Do we have time?",
+          "explanation": "바른 어순은 “Do we have time?”입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do we have time?",
+            "Do we have time"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S03-Q05",
+          "stageId": "EN-L04-C07-S03",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 5번: ___ they play soccer? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S03-Q06",
+          "stageId": "EN-L04-C07-S03",
+          "type": "fillBlank",
+          "prompt": "일반동사 의문문: 문장 구조 발견 · 6번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S04",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S04-Q01",
+          "stageId": "EN-L04-C07-S04",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 1번: ___ we have time? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S04-Q02",
+          "stageId": "EN-L04-C07-S04",
+          "type": "ordering",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "they play soccer Do?",
+            "Do they play soccer?",
+            "soccer play they Do?"
+          ],
+          "correctAnswer": "Do they play soccer?",
+          "explanation": "바른 어순은 “Do they play soccer?”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do they play soccer?",
+            "Do they play soccer"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S04-Q03",
+          "stageId": "EN-L04-C07-S04",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 3번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S04-Q04",
+          "stageId": "EN-L04-C07-S04",
+          "type": "fillBlank",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 4번: ___ she like cats? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Do",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S04-Q05",
+          "stageId": "EN-L04-C07-S04",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 5번: “Does Tom walk home?”의 핵심 문법 표현이 ‘Do’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Does이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S04-Q06",
+          "stageId": "EN-L04-C07-S04",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 짧은 문장 연습 · 6번: ___ I need a pen? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Do",
+            "Does"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S05",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S05-Q01",
+          "stageId": "EN-L04-C07-S05",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 1번: “Does she like cats?”의 뜻을 고르세요.",
+          "choices": [
+            "내게 펜이 필요하니?",
+            "너는 음악을 좋아하니?",
+            "우리에게 시간이 있니?",
+            "그녀는 고양이를 좋아하니?"
+          ],
+          "correctAnswer": "그녀는 고양이를 좋아하니?",
+          "explanation": "문장의 뜻은 ‘그녀는 고양이를 좋아하니?’입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 고양이를 좋아하니?"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S05-Q02",
+          "stageId": "EN-L04-C07-S05",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 2번: ___ Tom walk home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S05-Q03",
+          "stageId": "EN-L04-C07-S05",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 3번: “Do I need a pen?”의 핵심 문법 표현이 ‘Does’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Do이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S05-Q04",
+          "stageId": "EN-L04-C07-S05",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 4번: ___ you like music? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Does",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S05-Q05",
+          "stageId": "EN-L04-C07-S05",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 5번: ___ we have time? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S05-Q06",
+          "stageId": "EN-L04-C07-S05",
+          "type": "ordering",
+          "prompt": "일반동사 의문문: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "they play soccer Do?",
+            "Do they play soccer?",
+            "soccer play they Do?"
+          ],
+          "correctAnswer": "Do they play soccer?",
+          "explanation": "바른 어순은 “Do they play soccer?”입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do they play soccer?",
+            "Do they play soccer"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S06",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S06-Q01",
+          "stageId": "EN-L04-C07-S06",
+          "type": "listeningChoice",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Do I need a pen?",
+            "Do we have time?",
+            "Do they play soccer?",
+            "Do you like music?"
+          ],
+          "correctAnswer": "Do you like music?",
+          "explanation": "들은 문장은 “Do you like music?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Do you like music?",
+          "acceptedAnswers": [
+            "Do you like music?"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S06-Q02",
+          "stageId": "EN-L04-C07-S06",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 2번: ___ we have time? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Do",
+            "Does"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S06-Q03",
+          "stageId": "EN-L04-C07-S06",
+          "type": "listeningChoice",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Do we have time?",
+            "Do they play soccer?",
+            "Do I need a pen?",
+            "Do you like music?"
+          ],
+          "correctAnswer": "Do they play soccer?",
+          "explanation": "들은 문장은 “Do they play soccer?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Do they play soccer?",
+          "acceptedAnswers": [
+            "Do they play soccer?"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S06-Q04",
+          "stageId": "EN-L04-C07-S06",
+          "type": "dictation",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Does he read books?",
+          "explanation": "바른 문장은 “Does he read books?”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Does he read books?",
+          "acceptedAnswers": [
+            "Does he read books?",
+            "Does he read books"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S06-Q05",
+          "stageId": "EN-L04-C07-S06",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 5번: “Does she like cats?”의 핵심 문법 표현이 ‘Do’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Does이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S06-Q06",
+          "stageId": "EN-L04-C07-S06",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 생활 대화 듣기 · 6번: ___ Tom walk home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S07",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S07-Q01",
+          "stageId": "EN-L04-C07-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "일반동사 의문문: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Does he read books?",
+          "explanation": "“Does he read books?”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Does he read books?",
+          "acceptedAnswers": [
+            "Does he read books?",
+            "Does he read books"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S07-Q02",
+          "stageId": "EN-L04-C07-S07",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 표현 말하기 · 2번: ___ she like cats? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S07-Q03",
+          "stageId": "EN-L04-C07-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "일반동사 의문문: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Does Tom walk home?",
+          "explanation": "“Does Tom walk home?”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Does Tom walk home?",
+          "acceptedAnswers": [
+            "Does Tom walk home?",
+            "Does Tom walk home"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S07-Q04",
+          "stageId": "EN-L04-C07-S07",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 표현 말하기 · 4번: “Do I need a pen?”의 뜻을 고르세요.",
+          "choices": [
+            "내게 펜이 필요하니?",
+            "너는 음악을 좋아하니?",
+            "우리에게 시간이 있니?",
+            "그들은 축구를 하니?"
+          ],
+          "correctAnswer": "내게 펜이 필요하니?",
+          "explanation": "문장의 뜻은 ‘내게 펜이 필요하니?’입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내게 펜이 필요하니?"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S07-Q05",
+          "stageId": "EN-L04-C07-S07",
+          "type": "matching",
+          "prompt": "일반동사 의문문: 표현 말하기 · 5번: ___ you like music? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S07-Q06",
+          "stageId": "EN-L04-C07-S07",
+          "type": "trueFalse",
+          "prompt": "일반동사 의문문: 표현 말하기 · 6번: “Do we have time?”의 핵심 문법 표현이 ‘Do’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Do이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S08",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S08-Q01",
+          "stageId": "EN-L04-C07-S08",
+          "type": "fillBlank",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 1번: ___ I need a pen? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S08-Q02",
+          "stageId": "EN-L04-C07-S08",
+          "type": "dictation",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Do you like music?",
+          "explanation": "바른 문장은 “Do you like music?”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Do you like music?",
+          "acceptedAnswers": [
+            "Do you like music?",
+            "Do you like music"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S08-Q03",
+          "stageId": "EN-L04-C07-S08",
+          "type": "ordering",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Do we have time?",
+            "time have we Do?",
+            "we have time Do?"
+          ],
+          "correctAnswer": "Do we have time?",
+          "explanation": "바른 어순은 “Do we have time?”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do we have time?",
+            "Do we have time"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S08-Q04",
+          "stageId": "EN-L04-C07-S08",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 4번: ___ they play soccer? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Does",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S08-Q05",
+          "stageId": "EN-L04-C07-S08",
+          "type": "fillBlank",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 5번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Is",
+            "Are",
+            "Does"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S08-Q06",
+          "stageId": "EN-L04-C07-S08",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 문장 쓰기 · 6번: ___ she like cats? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C07-S09",
+      "questions": [
+        {
+          "questionId": "EN-L04-C07-S09-Q01",
+          "stageId": "EN-L04-C07-S09",
+          "type": "reviewMixed",
+          "prompt": "일반동사 의문문: 과정 평가 · 1번: ___ they play soccer? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Is",
+            "Are",
+            "Do"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q02",
+          "stageId": "EN-L04-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 과정 평가 · 2번: ___ he read books? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q03",
+          "stageId": "EN-L04-C07-S09",
+          "type": "listeningChoice",
+          "prompt": "일반동사 의문문: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Do we have time?",
+            "Does she like cats?",
+            "Do I need a pen?",
+            "Do you like music?"
+          ],
+          "correctAnswer": "Does she like cats?",
+          "explanation": "들은 문장은 “Does she like cats?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Does she like cats?",
+          "acceptedAnswers": [
+            "Does she like cats?"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q04",
+          "stageId": "EN-L04-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 과정 평가 · 4번: ___ Tom walk home? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Does",
+            "Do",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q05",
+          "stageId": "EN-L04-C07-S09",
+          "type": "dictation",
+          "prompt": "일반동사 의문문: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Do I need a pen?",
+          "explanation": "바른 문장은 “Do I need a pen?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Do I need a pen?",
+          "acceptedAnswers": [
+            "Do I need a pen?",
+            "Do I need a pen"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q06",
+          "stageId": "EN-L04-C07-S09",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 과정 평가 · 6번: “Do you like music?”의 뜻을 고르세요.",
+          "choices": [
+            "우리에게 시간이 있니?",
+            "그들은 축구를 하니?",
+            "너는 음악을 좋아하니?",
+            "내게 펜이 필요하니?"
+          ],
+          "correctAnswer": "너는 음악을 좋아하니?",
+          "explanation": "문장의 뜻은 ‘너는 음악을 좋아하니?’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 음악을 좋아하니?"
+          ],
+          "exampleSentence": "Do you like music?",
+          "koreanMeaning": "너는 음악을 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q07",
+          "stageId": "EN-L04-C07-S09",
+          "type": "reviewMixed",
+          "prompt": "일반동사 의문문: 과정 평가 · 7번: ___ we have time? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Are",
+            "Do",
+            "Does",
+            "Is"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do we have time?",
+          "koreanMeaning": "우리에게 시간이 있니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q08",
+          "stageId": "EN-L04-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "일반동사 의문문: 과정 평가 · 8번: ___ they play soccer? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do",
+            "Does",
+            "Is",
+            "Are"
+          ],
+          "correctAnswer": "Do",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Do입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do",
+            "do"
+          ],
+          "exampleSentence": "Do they play soccer?",
+          "koreanMeaning": "그들은 축구를 하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q09",
+          "stageId": "EN-L04-C07-S09",
+          "type": "listeningChoice",
+          "prompt": "일반동사 의문문: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Do I need a pen?",
+            "Do you like music?",
+            "Do we have time?",
+            "Does he read books?"
+          ],
+          "correctAnswer": "Does he read books?",
+          "explanation": "들은 문장은 “Does he read books?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Does he read books?",
+          "acceptedAnswers": [
+            "Does he read books?"
+          ],
+          "exampleSentence": "Does he read books?",
+          "koreanMeaning": "그는 책을 읽니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q10",
+          "stageId": "EN-L04-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "일반동사 의문문: 과정 평가 · 10번: ___ she like cats? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Is",
+            "Are",
+            "Does",
+            "Do"
+          ],
+          "correctAnswer": "Does",
+          "explanation": "일반동사 의문문 규칙에 맞는 표현은 Does입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Does",
+            "does"
+          ],
+          "exampleSentence": "Does she like cats?",
+          "koreanMeaning": "그녀는 고양이를 좋아하니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q11",
+          "stageId": "EN-L04-C07-S09",
+          "type": "dictation",
+          "prompt": "일반동사 의문문: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Does Tom walk home?",
+          "explanation": "바른 문장은 “Does Tom walk home?”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Does Tom walk home?",
+          "acceptedAnswers": [
+            "Does Tom walk home?",
+            "Does Tom walk home"
+          ],
+          "exampleSentence": "Does Tom walk home?",
+          "koreanMeaning": "Tom은 집까지 걷니?"
+        },
+        {
+          "questionId": "EN-L04-C07-S09-Q12",
+          "stageId": "EN-L04-C07-S09",
+          "type": "sentenceMeaning",
+          "prompt": "일반동사 의문문: 과정 평가 · 12번: “Do I need a pen?”의 뜻을 고르세요.",
+          "choices": [
+            "내게 펜이 필요하니?",
+            "너는 음악을 좋아하니?",
+            "우리에게 시간이 있니?",
+            "그들은 축구를 하니?"
+          ],
+          "correctAnswer": "내게 펜이 필요하니?",
+          "explanation": "문장의 뜻은 ‘내게 펜이 필요하니?’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "일반동사 의문문",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "일반동사 의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내게 펜이 필요하니?"
+          ],
+          "exampleSentence": "Do I need a pen?",
+          "koreanMeaning": "내게 펜이 필요하니?"
+        }
+      ]
+    }
+  ]
+}

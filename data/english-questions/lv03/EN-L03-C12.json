@@ -1,0 +1,1634 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C12",
+  "stages": [
+    {
+      "stageId": "EN-L03-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S01-Q01",
+          "stageId": "EN-L03-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 핵심 표현 이해 · 1번: ‘일어나다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "study",
+            "wake"
+          ],
+          "correctAnswer": "wake",
+          "explanation": "‘일어나다’은 영어로 wake입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wake",
+            "WAKE"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C12-S01-Q02",
+          "stageId": "EN-L03-C12-S01",
+          "type": "sentenceMeaning",
+          "prompt": "하루 일과: 핵심 표현 이해 · 2번: “I wash in the morning.”에서 wash의 뜻을 고르세요.",
+          "choices": [
+            "먹다",
+            "공부하다",
+            "씻다",
+            "일어나다"
+          ],
+          "correctAnswer": "씻다",
+          "explanation": "wash은 ‘씻다’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "씻다"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S01-Q03",
+          "stageId": "EN-L03-C12-S01",
+          "type": "trueFalse",
+          "prompt": "하루 일과: 핵심 표현 이해 · 3번: eat의 뜻이 ‘일어나다’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "eat의 뜻은 ‘먹다’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S01-Q04",
+          "stageId": "EN-L03-C12-S01",
+          "type": "matching",
+          "prompt": "하루 일과: 핵심 표현 이해 · 4번: study과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "공부하다",
+            "일어나다",
+            "씻다",
+            "먹다"
+          ],
+          "correctAnswer": "공부하다",
+          "explanation": "study은 ‘공부하다’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "공부하다"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S01-Q05",
+          "stageId": "EN-L03-C12-S01",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 핵심 표현 이해 · 5번: I ___. 빈칸에 ‘놀다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "eat",
+            "play"
+          ],
+          "correctAnswer": "play",
+          "explanation": "문맥과 뜻에 맞는 단어는 play입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "play",
+            "PLAY"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S01-Q06",
+          "stageId": "EN-L03-C12-S01",
+          "type": "categorization",
+          "prompt": "하루 일과: 핵심 표현 이해 · 6번: read을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "동물과 자연",
+            "하루 일과",
+            "집"
+          ],
+          "correctAnswer": "하루 일과",
+          "explanation": "read은 하루 일과 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "하루 일과"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S02-Q01",
+          "stageId": "EN-L03-C12-S02",
+          "type": "matching",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 1번: study과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "일어나다",
+            "씻다",
+            "먹다",
+            "공부하다"
+          ],
+          "correctAnswer": "공부하다",
+          "explanation": "study은 ‘공부하다’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "공부하다"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S02-Q02",
+          "stageId": "EN-L03-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 2번: ‘놀다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "play",
+            "wake"
+          ],
+          "correctAnswer": "play",
+          "explanation": "‘놀다’은 영어로 play입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "play",
+            "PLAY"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S02-Q03",
+          "stageId": "EN-L03-C12-S02",
+          "type": "categorization",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 3번: read을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "하루 일과",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "하루 일과",
+          "explanation": "read은 하루 일과 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "하루 일과"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S02-Q04",
+          "stageId": "EN-L03-C12-S02",
+          "type": "spelling",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 4번: wa_k에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "l",
+          "explanation": "walk의 빠진 글자는 l입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "l",
+            "L"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C12-S02-Q05",
+          "stageId": "EN-L03-C12-S02",
+          "type": "wordBuilding",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘자다’을 만드세요.",
+          "choices": [
+            "peels",
+            "leeps",
+            "slee",
+            "sleep"
+          ],
+          "correctAnswer": "sleep",
+          "explanation": "바른 철자는 sleep입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sleep",
+            "SLEEP"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S02-Q06",
+          "stageId": "EN-L03-C12-S02",
+          "type": "fillBlank",
+          "prompt": "하루 일과: 생활 어휘 문맥 학습 · 6번: m_rning에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "morning의 빠진 글자는 o입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ],
+          "koreanMeaning": "아침",
+          "exampleSentence": "It is morning."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S03-Q01",
+          "stageId": "EN-L03-C12-S03",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 문장 구조 발견 · 1번: I ___. 빈칸에 ‘걷다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "eat",
+            "walk"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "문맥과 뜻에 맞는 단어는 walk입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "walk",
+            "WALK"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C12-S03-Q02",
+          "stageId": "EN-L03-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 문장 구조 발견 · 2번: ‘자다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "sleep",
+            "wake"
+          ],
+          "correctAnswer": "sleep",
+          "explanation": "‘자다’은 영어로 sleep입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sleep",
+            "SLEEP"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S03-Q03",
+          "stageId": "EN-L03-C12-S03",
+          "type": "trueFalse",
+          "prompt": "하루 일과: 문장 구조 발견 · 3번: morning의 뜻이 ‘일어나다’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "morning의 뜻은 ‘아침’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "아침",
+          "exampleSentence": "It is morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S03-Q04",
+          "stageId": "EN-L03-C12-S03",
+          "type": "ordering",
+          "prompt": "하루 일과: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I study at night.",
+            "night at study I.",
+            "study at night I."
+          ],
+          "correctAnswer": "I study at night.",
+          "explanation": "바른 어순은 “I study at night.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I study at night.",
+            "I study at night"
+          ],
+          "koreanMeaning": "밤",
+          "exampleSentence": "I study at night."
+        },
+        {
+          "questionId": "EN-L03-C12-S03-Q05",
+          "stageId": "EN-L03-C12-S03",
+          "type": "fillBlank",
+          "prompt": "하루 일과: 문장 구조 발견 · 5번: _ake에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "w",
+          "explanation": "wake의 빠진 글자는 w입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "w",
+            "W"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C12-S03-Q06",
+          "stageId": "EN-L03-C12-S03",
+          "type": "matching",
+          "prompt": "하루 일과: 문장 구조 발견 · 6번: wash과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "먹다",
+            "공부하다",
+            "씻다",
+            "일어나다"
+          ],
+          "correctAnswer": "씻다",
+          "explanation": "wash은 ‘씻다’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "씻다"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S04-Q01",
+          "stageId": "EN-L03-C12-S04",
+          "type": "wordBuilding",
+          "prompt": "하루 일과: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘밤’을 만드세요.",
+          "choices": [
+            "thgin",
+            "ightn",
+            "nigh",
+            "night"
+          ],
+          "correctAnswer": "night",
+          "explanation": "바른 철자는 night입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "night",
+            "NIGHT"
+          ],
+          "koreanMeaning": "밤",
+          "exampleSentence": "I study at night."
+        },
+        {
+          "questionId": "EN-L03-C12-S04-Q02",
+          "stageId": "EN-L03-C12-S04",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 짧은 문장 연습 · 2번: I ___. 빈칸에 ‘일어나다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "eat",
+            "study",
+            "wake",
+            "wash"
+          ],
+          "correctAnswer": "wake",
+          "explanation": "문맥과 뜻에 맞는 단어는 wake입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wake",
+            "WAKE"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C12-S04-Q03",
+          "stageId": "EN-L03-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 짧은 문장 연습 · 3번: ‘씻다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "study",
+            "wash",
+            "wake",
+            "eat"
+          ],
+          "correctAnswer": "wash",
+          "explanation": "‘씻다’은 영어로 wash입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wash",
+            "WASH"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S04-Q04",
+          "stageId": "EN-L03-C12-S04",
+          "type": "categorization",
+          "prompt": "하루 일과: 짧은 문장 연습 · 4번: eat을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "하루 일과",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "하루 일과",
+          "explanation": "eat은 하루 일과 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "하루 일과"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S04-Q05",
+          "stageId": "EN-L03-C12-S04",
+          "type": "ordering",
+          "prompt": "하루 일과: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "morning the in study I.",
+            "study in the morning I.",
+            "I study in the morning."
+          ],
+          "correctAnswer": "I study in the morning.",
+          "explanation": "바른 어순은 “I study in the morning.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I study in the morning.",
+            "I study in the morning"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S04-Q06",
+          "stageId": "EN-L03-C12-S04",
+          "type": "fillBlank",
+          "prompt": "하루 일과: 짧은 문장 연습 · 6번: pl_y에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "play의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S05-Q01",
+          "stageId": "EN-L03-C12-S05",
+          "type": "sentenceMeaning",
+          "prompt": "하루 일과: 짧은 글 읽기 · 1번: “I eat.”에서 eat의 뜻을 고르세요.",
+          "choices": [
+            "일어나다",
+            "씻다",
+            "공부하다",
+            "먹다"
+          ],
+          "correctAnswer": "먹다",
+          "explanation": "eat은 ‘먹다’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "먹다"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S05-Q02",
+          "stageId": "EN-L03-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 짧은 글 읽기 · 2번: ‘공부하다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "study",
+            "wake"
+          ],
+          "correctAnswer": "study",
+          "explanation": "‘공부하다’은 영어로 study입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "study",
+            "STUDY"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S05-Q03",
+          "stageId": "EN-L03-C12-S05",
+          "type": "trueFalse",
+          "prompt": "하루 일과: 짧은 글 읽기 · 3번: play의 뜻이 ‘일어나다’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "play의 뜻은 ‘놀다’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S05-Q04",
+          "stageId": "EN-L03-C12-S05",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 짧은 글 읽기 · 4번: I ___ in the morning. 빈칸에 ‘읽다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "read",
+            "wake",
+            "wash",
+            "eat"
+          ],
+          "correctAnswer": "read",
+          "explanation": "문맥과 뜻에 맞는 단어는 read입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "READ"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S05-Q05",
+          "stageId": "EN-L03-C12-S05",
+          "type": "matching",
+          "prompt": "하루 일과: 짧은 글 읽기 · 5번: walk과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "일어나다",
+            "씻다",
+            "먹다",
+            "걷다"
+          ],
+          "correctAnswer": "걷다",
+          "explanation": "walk은 ‘걷다’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "걷다"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C12-S05-Q06",
+          "stageId": "EN-L03-C12-S05",
+          "type": "ordering",
+          "prompt": "하루 일과: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "sleep in the morning I.",
+            "I sleep in the morning.",
+            "morning the in sleep I."
+          ],
+          "correctAnswer": "I sleep in the morning.",
+          "explanation": "바른 어순은 “I sleep in the morning.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I sleep in the morning.",
+            "I sleep in the morning"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S06-Q01",
+          "stageId": "EN-L03-C12-S06",
+          "type": "listeningChoice",
+          "prompt": "하루 일과: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "eat",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "음성의 핵심 단어는 read입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "read",
+          "acceptedAnswers": [
+            "read"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S06-Q02",
+          "stageId": "EN-L03-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 생활 대화 듣기 · 2번: ‘걷다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "walk",
+            "wake"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "‘걷다’은 영어로 walk입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "walk",
+            "WALK"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C12-S06-Q03",
+          "stageId": "EN-L03-C12-S06",
+          "type": "listeningChoice",
+          "prompt": "하루 일과: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "eat",
+            "sleep",
+            "wake",
+            "wash"
+          ],
+          "correctAnswer": "sleep",
+          "explanation": "음성의 핵심 단어는 sleep입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sleep",
+          "acceptedAnswers": [
+            "sleep"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S06-Q04",
+          "stageId": "EN-L03-C12-S06",
+          "type": "dictation",
+          "prompt": "하루 일과: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "morning",
+          "explanation": "아침은 영어로 morning입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "morning",
+          "acceptedAnswers": [
+            "morning",
+            "MORNING"
+          ],
+          "koreanMeaning": "아침",
+          "exampleSentence": "It is morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S06-Q05",
+          "stageId": "EN-L03-C12-S06",
+          "type": "trueFalse",
+          "prompt": "하루 일과: 생활 대화 듣기 · 5번: night의 뜻이 ‘일어나다’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "night의 뜻은 ‘밤’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "밤",
+          "exampleSentence": "I study at night."
+        },
+        {
+          "questionId": "EN-L03-C12-S06-Q06",
+          "stageId": "EN-L03-C12-S06",
+          "type": "matching",
+          "prompt": "하루 일과: 생활 대화 듣기 · 6번: wake과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "먹다",
+            "공부하다",
+            "일어나다",
+            "씻다"
+          ],
+          "correctAnswer": "일어나다",
+          "explanation": "wake은 ‘일어나다’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "일어나다"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S07-Q01",
+          "stageId": "EN-L03-C12-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "하루 일과: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It is morning.",
+          "explanation": "It is morning.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It is morning.",
+          "acceptedAnswers": [
+            "It is morning.",
+            "It is morning"
+          ],
+          "koreanMeaning": "아침",
+          "exampleSentence": "It is morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S07-Q02",
+          "stageId": "EN-L03-C12-S07",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 표현 말하기 · 2번: ‘밤’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "night",
+            "wake"
+          ],
+          "correctAnswer": "night",
+          "explanation": "‘밤’은 영어로 night입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "night",
+            "NIGHT"
+          ],
+          "koreanMeaning": "밤",
+          "exampleSentence": "I study at night."
+        },
+        {
+          "questionId": "EN-L03-C12-S07-Q03",
+          "stageId": "EN-L03-C12-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "하루 일과: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I wake.",
+          "explanation": "I wake.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I wake.",
+          "acceptedAnswers": [
+            "I wake.",
+            "I wake"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C12-S07-Q04",
+          "stageId": "EN-L03-C12-S07",
+          "type": "sentenceMeaning",
+          "prompt": "하루 일과: 표현 말하기 · 4번: “I wash in the morning.”에서 wash의 뜻을 고르세요.",
+          "choices": [
+            "씻다",
+            "일어나다",
+            "먹다",
+            "공부하다"
+          ],
+          "correctAnswer": "씻다",
+          "explanation": "wash은 ‘씻다’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "씻다"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S07-Q05",
+          "stageId": "EN-L03-C12-S07",
+          "type": "matching",
+          "prompt": "하루 일과: 표현 말하기 · 5번: eat과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "일어나다",
+            "씻다",
+            "공부하다",
+            "먹다"
+          ],
+          "correctAnswer": "먹다",
+          "explanation": "eat은 ‘먹다’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "먹다"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S07-Q06",
+          "stageId": "EN-L03-C12-S07",
+          "type": "trueFalse",
+          "prompt": "하루 일과: 표현 말하기 · 6번: study의 뜻이 ‘공부하다’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "study의 뜻은 ‘공부하다’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S08-Q01",
+          "stageId": "EN-L03-C12-S08",
+          "type": "spelling",
+          "prompt": "하루 일과: 문장 쓰기 · 1번: w_sh에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "wash의 빠진 글자는 a입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S08-Q02",
+          "stageId": "EN-L03-C12-S08",
+          "type": "fillBlank",
+          "prompt": "하루 일과: 문장 쓰기 · 2번: e_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "eat의 빠진 글자는 a입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S08-Q03",
+          "stageId": "EN-L03-C12-S08",
+          "type": "dictation",
+          "prompt": "하루 일과: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "study",
+          "explanation": "공부하다은 영어로 study입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "study",
+          "acceptedAnswers": [
+            "study",
+            "STUDY"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S08-Q04",
+          "stageId": "EN-L03-C12-S08",
+          "type": "wordBuilding",
+          "prompt": "하루 일과: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘놀다’을 만드세요.",
+          "choices": [
+            "play",
+            "yalp",
+            "layp",
+            "pla"
+          ],
+          "correctAnswer": "play",
+          "explanation": "바른 철자는 play입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "play",
+            "PLAY"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S08-Q05",
+          "stageId": "EN-L03-C12-S08",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 문장 쓰기 · 5번: I ___ in the morning. 빈칸에 ‘읽다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "eat",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "문맥과 뜻에 맞는 단어는 read입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "READ"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S08-Q06",
+          "stageId": "EN-L03-C12-S08",
+          "type": "ordering",
+          "prompt": "하루 일과: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I walk.",
+            "walk I."
+          ],
+          "correctAnswer": "I walk.",
+          "explanation": "바른 어순은 “I walk.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I walk.",
+            "I walk"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C12-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C12-S09-Q01",
+          "stageId": "EN-L03-C12-S09",
+          "type": "reviewMixed",
+          "prompt": "하루 일과: 과정 평가 · 1번: ‘놀다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "eat",
+            "play"
+          ],
+          "correctAnswer": "play",
+          "explanation": "‘놀다’은 영어로 play입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "play",
+            "PLAY"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q02",
+          "stageId": "EN-L03-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 과정 평가 · 2번: ‘읽다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "read",
+            "wake"
+          ],
+          "correctAnswer": "read",
+          "explanation": "‘읽다’은 영어로 read입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "READ"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q03",
+          "stageId": "EN-L03-C12-S09",
+          "type": "listeningChoice",
+          "prompt": "하루 일과: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "eat",
+            "walk",
+            "wake",
+            "wash"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "음성의 핵심 단어는 walk입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "walk",
+          "acceptedAnswers": [
+            "walk"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q04",
+          "stageId": "EN-L03-C12-S09",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 과정 평가 · 4번: I ___ in the morning. 빈칸에 ‘자다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "sleep",
+            "wake",
+            "wash",
+            "eat"
+          ],
+          "correctAnswer": "sleep",
+          "explanation": "문맥과 뜻에 맞는 단어는 sleep입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sleep",
+            "SLEEP"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q05",
+          "stageId": "EN-L03-C12-S09",
+          "type": "dictation",
+          "prompt": "하루 일과: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "morning",
+          "explanation": "아침은 영어로 morning입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "morning",
+          "acceptedAnswers": [
+            "morning",
+            "MORNING"
+          ],
+          "koreanMeaning": "아침",
+          "exampleSentence": "It is morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q06",
+          "stageId": "EN-L03-C12-S09",
+          "type": "sentenceMeaning",
+          "prompt": "하루 일과: 과정 평가 · 6번: “I study at night.”에서 night의 뜻을 고르세요.",
+          "choices": [
+            "씻다",
+            "먹다",
+            "밤",
+            "일어나다"
+          ],
+          "correctAnswer": "밤",
+          "explanation": "night은 ‘밤’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "밤"
+          ],
+          "koreanMeaning": "밤",
+          "exampleSentence": "I study at night."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q07",
+          "stageId": "EN-L03-C12-S09",
+          "type": "reviewMixed",
+          "prompt": "하루 일과: 과정 평가 · 7번: ‘일어나다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "study",
+            "wake",
+            "wash",
+            "eat"
+          ],
+          "correctAnswer": "wake",
+          "explanation": "‘일어나다’은 영어로 wake입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wake",
+            "WAKE"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q08",
+          "stageId": "EN-L03-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "하루 일과: 과정 평가 · 8번: ‘씻다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "wake",
+            "eat",
+            "study"
+          ],
+          "correctAnswer": "wash",
+          "explanation": "‘씻다’은 영어로 wash입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wash",
+            "WASH"
+          ],
+          "koreanMeaning": "씻다",
+          "exampleSentence": "I wash in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q09",
+          "stageId": "EN-L03-C12-S09",
+          "type": "listeningChoice",
+          "prompt": "하루 일과: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "wake",
+            "wash",
+            "study",
+            "eat"
+          ],
+          "correctAnswer": "eat",
+          "explanation": "음성의 핵심 단어는 eat입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "eat",
+          "acceptedAnswers": [
+            "eat"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q10",
+          "stageId": "EN-L03-C12-S09",
+          "type": "sentenceCompletion",
+          "prompt": "하루 일과: 과정 평가 · 10번: I ___ in the morning. 빈칸에 ‘공부하다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "study",
+            "wake"
+          ],
+          "correctAnswer": "study",
+          "explanation": "문맥과 뜻에 맞는 단어는 study입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "study",
+            "STUDY"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q11",
+          "stageId": "EN-L03-C12-S09",
+          "type": "dictation",
+          "prompt": "하루 일과: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "play",
+          "explanation": "놀다은 영어로 play입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "play",
+          "acceptedAnswers": [
+            "play",
+            "PLAY"
+          ],
+          "koreanMeaning": "놀다",
+          "exampleSentence": "I play."
+        },
+        {
+          "questionId": "EN-L03-C12-S09-Q12",
+          "stageId": "EN-L03-C12-S09",
+          "type": "sentenceMeaning",
+          "prompt": "하루 일과: 과정 평가 · 12번: “I read in the morning.”에서 read의 뜻을 고르세요.",
+          "choices": [
+            "읽다",
+            "일어나다",
+            "씻다",
+            "먹다"
+          ],
+          "correctAnswer": "읽다",
+          "explanation": "read은 ‘읽다’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "하루 일과 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "읽다"
+          ],
+          "koreanMeaning": "읽다",
+          "exampleSentence": "I read in the morning."
+        }
+      ]
+    }
+  ]
+}

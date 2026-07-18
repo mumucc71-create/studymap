@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C11",
+  "stages": [
+    {
+      "stageId": "EN-L10-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S01-Q01",
+          "stageId": "EN-L10-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 1번: The young artist reads books during study time. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist reads books during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S01-Q02",
+          "stageId": "EN-L10-C11-S01",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 2번: 핵심 구조가 ‘As a result’이면 O, 아니면 X를 고르세요: The soccer player reads books during study time. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player reads books during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S01-Q03",
+          "stageId": "EN-L10-C11-S01",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 3번: The new student reads books during study time. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "As a result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The new student reads books during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S01-Q04",
+          "stageId": "EN-L10-C11-S01",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 4번: “Mina writes short notes during study time. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "두 문장의 논리적 결과를 파악한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "Mina writes short notes during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S01-Q05",
+          "stageId": "EN-L10-C11-S01",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 5번: Tom writes short notes during study time. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom writes short notes during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S01-Q06",
+          "stageId": "EN-L10-C11-S01",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother writes short notes during study time. As a result, the group understands the lesson My.",
+            "subject",
+            "My brother writes short notes during study time. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As time. study during notes short writes brother My."
+          ],
+          "correctAnswer": "My brother writes short notes during study time. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “My brother writes short notes during study time. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother writes short notes during study time. As a result, the group understands the lesson.",
+            "My brother writes short notes during study time. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "My brother writes short notes during study time. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S02-Q01",
+          "stageId": "EN-L10-C11-S02",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 1번: Tom carries a blue bag on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S02-Q02",
+          "stageId": "EN-L10-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 2번: My brother carries a blue bag on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S02-Q03",
+          "stageId": "EN-L10-C11-S02",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 3번: “The student carries a blue bag on Saturday morning. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "두 문장의 논리적 결과를 파악한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "The student carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S02-Q04",
+          "stageId": "EN-L10-C11-S02",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 4번: Our teacher carries a blue bag on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S02-Q05",
+          "stageId": "EN-L10-C11-S02",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 5번: The young artist carries a blue bag on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S02-Q06",
+          "stageId": "EN-L10-C11-S02",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘As a result’이면 O, 아니면 X를 고르세요: The soccer player carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S03-Q01",
+          "stageId": "EN-L10-C11-S03",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 1번: The young artist writes short notes at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist writes short notes at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S03-Q02",
+          "stageId": "EN-L10-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 2번: The soccer player writes short notes at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player writes short notes at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S03-Q03",
+          "stageId": "EN-L10-C11-S03",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student writes short notes at home. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student writes short notes at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S03-Q04",
+          "stageId": "EN-L10-C11-S03",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina studies English at home. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As home. at English studies Mina.",
+            "studies English at home. As a result, the group understands the lesson Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina studies English at home. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “Mina studies English at home. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina studies English at home. As a result, the group understands the lesson.",
+            "Mina studies English at home. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "Mina studies English at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S03-Q05",
+          "stageId": "EN-L10-C11-S03",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 5번: Tom studies English at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom studies English at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S03-Q06",
+          "stageId": "EN-L10-C11-S03",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 문법 구조 분석 · 6번: My brother studies English at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother studies English at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S04-Q01",
+          "stageId": "EN-L10-C11-S04",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 1번: Tom makes a simple plan in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S04-Q02",
+          "stageId": "EN-L10-C11-S04",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother makes a simple plan in the library. As a result, the group understands the lesson My.",
+            "subject",
+            "My brother makes a simple plan in the library. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As library. the in plan simple a makes brother My."
+          ],
+          "correctAnswer": "My brother makes a simple plan in the library. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “My brother makes a simple plan in the library. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother makes a simple plan in the library. As a result, the group understands the lesson.",
+            "My brother makes a simple plan in the library. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "My brother makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S04-Q03",
+          "stageId": "EN-L10-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 3번: The student makes a simple plan in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "As a result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The student makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S04-Q04",
+          "stageId": "EN-L10-C11-S04",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 4번: Our teacher makes a simple plan in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Our teacher makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S04-Q05",
+          "stageId": "EN-L10-C11-S04",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist makes a simple plan in the library. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S04-Q06",
+          "stageId": "EN-L10-C11-S04",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 문장 분석 연습 · 6번: The soccer player makes a simple plan in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S05-Q01",
+          "stageId": "EN-L10-C11-S05",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 1번: “The young artist studies English before lunch. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "The young artist studies English before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S05-Q02",
+          "stageId": "EN-L10-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 2번: The soccer player studies English before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player studies English before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S05-Q03",
+          "stageId": "EN-L10-C11-S05",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student studies English before lunch. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student studies English before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S05-Q04",
+          "stageId": "EN-L10-C11-S05",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 4번: Mina plays soccer before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Mina plays soccer before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S05-Q05",
+          "stageId": "EN-L10-C11-S05",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 5번: Tom plays soccer before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom plays soccer before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S05-Q06",
+          "stageId": "EN-L10-C11-S05",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plays soccer before lunch. As a result, the group understands the lesson My.",
+            "subject",
+            "My brother plays soccer before lunch. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As lunch. before soccer plays brother My."
+          ],
+          "correctAnswer": "My brother plays soccer before lunch. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “My brother plays soccer before lunch. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plays soccer before lunch. As a result, the group understands the lesson.",
+            "My brother plays soccer before lunch. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "My brother plays soccer before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S06-Q01",
+          "stageId": "EN-L10-C11-S06",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 1번: “Tom finds the answer at the community center. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "Tom finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S06-Q02",
+          "stageId": "EN-L10-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 2번: My brother finds the answer at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S06-Q03",
+          "stageId": "EN-L10-C11-S06",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student finds the answer at the community center. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S06-Q04",
+          "stageId": "EN-L10-C11-S06",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 4번: Our teacher finds the answer at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Our teacher finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S06-Q05",
+          "stageId": "EN-L10-C11-S06",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 5번: The young artist finds the answer at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S06-Q06",
+          "stageId": "EN-L10-C11-S06",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player finds the answer at the community center. As a result, the group understands the lesson The.",
+            "subject",
+            "The soccer player finds the answer at the community center. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As center. community the at answer the finds player soccer The."
+          ],
+          "correctAnswer": "The soccer player finds the answer at the community center. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “The soccer player finds the answer at the community center. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player finds the answer at the community center. As a result, the group understands the lesson.",
+            "The soccer player finds the answer at the community center. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The soccer player finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S07-Q01",
+          "stageId": "EN-L10-C11-S07",
+          "type": "listeningChoice",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother makes a simple plan at the community center. As a result, the group understands the lesson.",
+            "The new student reads books before lunch. As a result, the group understands the lesson.",
+            "Our teacher plays soccer in the library. As a result, the group understands the lesson.",
+            "The young artist plays soccer on Saturday morning. As a result, the group understands the lesson."
+          ],
+          "correctAnswer": "The young artist plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "explanation": "들은 문장은 “The young artist plays soccer on Saturday morning. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The young artist plays soccer on Saturday morning. As a result, the group understands the lesson."
+          ],
+          "exampleSentence": "The young artist plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S07-Q02",
+          "stageId": "EN-L10-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 2번: The soccer player plays soccer on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S07-Q03",
+          "stageId": "EN-L10-C11-S07",
+          "type": "listeningChoice",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player plays soccer in the library. As a result, the group understands the lesson.",
+            "The new student plays soccer on Saturday morning. As a result, the group understands the lesson.",
+            "Our teacher makes a simple plan at the community center. As a result, the group understands the lesson.",
+            "Tom writes short notes before lunch. As a result, the group understands the lesson."
+          ],
+          "correctAnswer": "The new student plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "explanation": "들은 문장은 “The new student plays soccer on Saturday morning. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The new student plays soccer on Saturday morning. As a result, the group understands the lesson."
+          ],
+          "exampleSentence": "The new student plays soccer on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S07-Q04",
+          "stageId": "EN-L10-C11-S07",
+          "type": "dictation",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "explanation": "바른 문장은 “Mina opens the window on Saturday morning. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "Mina opens the window on Saturday morning. As a result, the group understands the lesson.",
+            "Mina opens the window on Saturday morning. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "Mina opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S07-Q05",
+          "stageId": "EN-L10-C11-S07",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S07-Q06",
+          "stageId": "EN-L10-C11-S07",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 핵심 정보 듣기 · 6번: My brother opens the window on Saturday morning. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother opens the window on Saturday morning. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S08-Q01",
+          "stageId": "EN-L10-C11-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom reads books at home. As a result, the group understands the lesson.",
+          "explanation": "“Tom reads books at home. As a result, the group understands the lesson.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom reads books at home. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "Tom reads books at home. As a result, the group understands the lesson.",
+            "Tom reads books at home. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "Tom reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S08-Q02",
+          "stageId": "EN-L10-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 2번: My brother reads books at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S08-Q03",
+          "stageId": "EN-L10-C11-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student reads books at home. As a result, the group understands the lesson.",
+          "explanation": "“The student reads books at home. As a result, the group understands the lesson.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student reads books at home. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The student reads books at home. As a result, the group understands the lesson.",
+            "The student reads books at home. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The student reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S08-Q04",
+          "stageId": "EN-L10-C11-S08",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 4번: “Our teacher reads books at home. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "두 문장의 논리적 결과를 파악한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "Our teacher reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S08-Q05",
+          "stageId": "EN-L10-C11-S08",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 5번: The young artist reads books at home. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S08-Q06",
+          "stageId": "EN-L10-C11-S08",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 근거 설명하기 · 6번: 핵심 구조가 ‘As a result’이면 O, 아니면 X를 고르세요: The soccer player reads books at home. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player reads books at home. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S09-Q01",
+          "stageId": "EN-L10-C11-S09",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 1번: The young artist opens the window in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist opens the window in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S09-Q02",
+          "stageId": "EN-L10-C11-S09",
+          "type": "dictation",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player opens the window in the library. As a result, the group understands the lesson.",
+          "explanation": "바른 문장은 “The soccer player opens the window in the library. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player opens the window in the library. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The soccer player opens the window in the library. As a result, the group understands the lesson.",
+            "The soccer player opens the window in the library. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The soccer player opens the window in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S09-Q03",
+          "stageId": "EN-L10-C11-S09",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student opens the window in the library. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As library. the in window the opens student new The.",
+            "new student opens the window in the library. As a result, the group understands the lesson The."
+          ],
+          "correctAnswer": "The new student opens the window in the library. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “The new student opens the window in the library. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student opens the window in the library. As a result, the group understands the lesson.",
+            "The new student opens the window in the library. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The new student opens the window in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S09-Q04",
+          "stageId": "EN-L10-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 4번: Mina carries a blue bag in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Mina carries a blue bag in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S09-Q05",
+          "stageId": "EN-L10-C11-S09",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 5번: Tom carries a blue bag in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom carries a blue bag in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S09-Q06",
+          "stageId": "EN-L10-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 논리 문장 쓰기 · 6번: My brother carries a blue bag in the library. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "My brother carries a blue bag in the library. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S10-Q01",
+          "stageId": "EN-L10-C11-S10",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 1번: Tom writes short notes before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Tom writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S10-Q02",
+          "stageId": "EN-L10-C11-S10",
+          "type": "ordering",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother writes short notes before lunch. As a result, the group understands the lesson My.",
+            "subject",
+            "My brother writes short notes before lunch. As a result, the group understands the lesson.",
+            "lesson the understands group the result, a As lunch. before notes short writes brother My."
+          ],
+          "correctAnswer": "My brother writes short notes before lunch. As a result, the group understands the lesson.",
+          "explanation": "바른 어순은 “My brother writes short notes before lunch. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother writes short notes before lunch. As a result, the group understands the lesson.",
+            "My brother writes short notes before lunch. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "My brother writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S10-Q03",
+          "stageId": "EN-L10-C11-S10",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 3번: The student writes short notes before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "As a result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The student writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S10-Q04",
+          "stageId": "EN-L10-C11-S10",
+          "type": "fillBlank",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 4번: Our teacher writes short notes before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Our teacher writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S10-Q05",
+          "stageId": "EN-L10-C11-S10",
+          "type": "trueFalse",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist writes short notes before lunch. As a result, the group understands the lesson.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S10-Q06",
+          "stageId": "EN-L10-C11-S10",
+          "type": "matching",
+          "prompt": "추상 어휘 문맥 추론: 혼합 문제 적용 · 6번: The soccer player writes short notes before lunch. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player writes short notes before lunch. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C11-S11",
+      "questions": [
+        {
+          "questionId": "EN-L10-C11-S11-Q01",
+          "stageId": "EN-L10-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 1번: The young artist carries a blue bag at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "As a result"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The young artist carries a blue bag at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q02",
+          "stageId": "EN-L10-C11-S11",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 2번: The soccer player carries a blue bag at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q03",
+          "stageId": "EN-L10-C11-S11",
+          "type": "listeningChoice",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player carries a blue bag near the school. As a result, the group understands the lesson.",
+            "The new student carries a blue bag at the community center. As a result, the group understands the lesson.",
+            "Our teacher reads books before lunch. As a result, the group understands the lesson.",
+            "Tom plays soccer in the library. As a result, the group understands the lesson."
+          ],
+          "correctAnswer": "The new student carries a blue bag at the community center. As a result, the group understands the lesson.",
+          "explanation": "들은 문장은 “The new student carries a blue bag at the community center. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student carries a blue bag at the community center. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The new student carries a blue bag at the community center. As a result, the group understands the lesson."
+          ],
+          "exampleSentence": "The new student carries a blue bag at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q04",
+          "stageId": "EN-L10-C11-S11",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 4번: Mina makes a simple plan at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Mina makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q05",
+          "stageId": "EN-L10-C11-S11",
+          "type": "dictation",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "explanation": "바른 문장은 “Tom makes a simple plan at the community center. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "Tom makes a simple plan at the community center. As a result, the group understands the lesson.",
+            "Tom makes a simple plan at the community center. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "Tom makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q06",
+          "stageId": "EN-L10-C11-S11",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 6번: “My brother makes a simple plan at the community center. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "두 문장의 논리적 결과를 파악한다.",
+            "subject"
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "My brother makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q07",
+          "stageId": "EN-L10-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 7번: The student makes a simple plan at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "As a result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The student makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q08",
+          "stageId": "EN-L10-C11-S11",
+          "type": "multipleChoice",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 8번: Our teacher makes a simple plan at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "As a result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "Our teacher makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q09",
+          "stageId": "EN-L10-C11-S11",
+          "type": "listeningChoice",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother writes short notes before lunch. As a result, the group understands the lesson.",
+            "The new student plays soccer in the library. As a result, the group understands the lesson.",
+            "Our teacher makes a simple plan near the school. As a result, the group understands the lesson.",
+            "The young artist makes a simple plan at the community center. As a result, the group understands the lesson."
+          ],
+          "correctAnswer": "The young artist makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "explanation": "들은 문장은 “The young artist makes a simple plan at the community center. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The young artist makes a simple plan at the community center. As a result, the group understands the lesson."
+          ],
+          "exampleSentence": "The young artist makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q10",
+          "stageId": "EN-L10-C11-S11",
+          "type": "sentenceCompletion",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 10번: The soccer player makes a simple plan at the community center. ___, the group understands the lesson. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "As a result",
+            "subject"
+          ],
+          "correctAnswer": "As a result",
+          "explanation": "문단 독해 문맥에 맞는 답은 As a result입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "As a result",
+            "as a result"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q11",
+          "stageId": "EN-L10-C11-S11",
+          "type": "dictation",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The new student makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "explanation": "바른 문장은 “The new student makes a simple plan at the community center. As a result, the group understands the lesson.”입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "acceptedAnswers": [
+            "The new student makes a simple plan at the community center. As a result, the group understands the lesson.",
+            "The new student makes a simple plan at the community center. As a result, the group understands the lesson"
+          ],
+          "exampleSentence": "The new student makes a simple plan at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        },
+        {
+          "questionId": "EN-L10-C11-S11-Q12",
+          "stageId": "EN-L10-C11-S11",
+          "type": "sentenceMeaning",
+          "prompt": "추상 어휘 문맥 추론: 과정 평가 · 12번: “Mina finds the answer at the community center. As a result, the group understands the lesson.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "두 문장의 논리적 결과를 파악한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "두 문장의 논리적 결과를 파악한다.",
+          "explanation": "핵심 의미는 ‘두 문장의 논리적 결과를 파악한다.’입니다.",
+          "difficulty": 12,
+          "skill": "checkpoint",
+          "grammarFocus": "문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "추상 어휘 문맥 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "두 문장의 논리적 결과를 파악한다."
+          ],
+          "exampleSentence": "Mina finds the answer at the community center. As a result, the group understands the lesson.",
+          "koreanMeaning": "두 문장의 논리적 결과를 파악한다."
+        }
+      ]
+    }
+  ]
+}

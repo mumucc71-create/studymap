@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C01",
+  "stages": [
+    {
+      "stageId": "EN-L03-C01-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S01-Q01",
+          "stageId": "EN-L03-C01-S01",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 1번: ‘엄마’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "brother",
+            "mother"
+          ],
+          "correctAnswer": "mother",
+          "explanation": "‘엄마’은 영어로 mother입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mother",
+            "MOTHER"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C01-S01-Q02",
+          "stageId": "EN-L03-C01-S01",
+          "type": "sentenceMeaning",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 2번: “I see my father.”에서 father의 뜻을 고르세요.",
+          "choices": [
+            "여자 형제",
+            "남자 형제",
+            "아빠",
+            "엄마"
+          ],
+          "correctAnswer": "아빠",
+          "explanation": "father은 ‘아빠’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아빠"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        },
+        {
+          "questionId": "EN-L03-C01-S01-Q03",
+          "stageId": "EN-L03-C01-S01",
+          "type": "trueFalse",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 3번: sister의 뜻이 ‘엄마’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "sister의 뜻은 ‘여자 형제’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S01-Q04",
+          "stageId": "EN-L03-C01-S01",
+          "type": "matching",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 4번: brother과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "남자 형제",
+            "엄마",
+            "아빠",
+            "여자 형제"
+          ],
+          "correctAnswer": "남자 형제",
+          "explanation": "brother은 ‘남자 형제’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "남자 형제"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S01-Q05",
+          "stageId": "EN-L03-C01-S01",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 5번: This is my ___. 빈칸에 ‘아기’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "baby"
+          ],
+          "correctAnswer": "baby",
+          "explanation": "문맥과 뜻에 맞는 단어는 baby입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baby",
+            "BABY"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S01-Q06",
+          "stageId": "EN-L03-C01-S01",
+          "type": "categorization",
+          "prompt": "가족과 사람: 핵심 표현 이해 · 6번: friend을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "사람",
+            "학교"
+          ],
+          "correctAnswer": "사람",
+          "explanation": "friend은 사람 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "사람"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S02-Q01",
+          "stageId": "EN-L03-C01-S02",
+          "type": "matching",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 1번: brother과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "엄마",
+            "아빠",
+            "여자 형제",
+            "남자 형제"
+          ],
+          "correctAnswer": "남자 형제",
+          "explanation": "brother은 ‘남자 형제’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "남자 형제"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S02-Q02",
+          "stageId": "EN-L03-C01-S02",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 2번: ‘아기’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "baby",
+            "mother"
+          ],
+          "correctAnswer": "baby",
+          "explanation": "‘아기’은 영어로 baby입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baby",
+            "BABY"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S02-Q03",
+          "stageId": "EN-L03-C01-S02",
+          "type": "categorization",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 3번: friend을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "사람",
+            "신체",
+            "음식과 음료"
+          ],
+          "correctAnswer": "사람",
+          "explanation": "friend은 사람 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "사람"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C01-S02-Q04",
+          "stageId": "EN-L03-C01-S02",
+          "type": "spelling",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 4번: teache_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "teacher의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C01-S02-Q05",
+          "stageId": "EN-L03-C01-S02",
+          "type": "wordBuilding",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘소녀’을 만드세요.",
+          "choices": [
+            "lrig",
+            "irlg",
+            "gir",
+            "girl"
+          ],
+          "correctAnswer": "girl",
+          "explanation": "바른 철자는 girl입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "girl",
+            "GIRL"
+          ],
+          "koreanMeaning": "소녀",
+          "exampleSentence": "This is a girl."
+        },
+        {
+          "questionId": "EN-L03-C01-S02-Q06",
+          "stageId": "EN-L03-C01-S02",
+          "type": "fillBlank",
+          "prompt": "가족과 사람: 생활 어휘 문맥 학습 · 6번: bo_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "y",
+          "explanation": "boy의 빠진 글자는 y입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "y",
+            "Y"
+          ],
+          "koreanMeaning": "소년",
+          "exampleSentence": "I see a boy."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S03-Q01",
+          "stageId": "EN-L03-C01-S03",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 문장 구조 발견 · 1번: This is my ___. 빈칸에 ‘선생님’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "teacher"
+          ],
+          "correctAnswer": "teacher",
+          "explanation": "문맥과 뜻에 맞는 단어는 teacher입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "teacher",
+            "TEACHER"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C01-S03-Q02",
+          "stageId": "EN-L03-C01-S03",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 문장 구조 발견 · 2번: ‘소녀’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "girl",
+            "mother"
+          ],
+          "correctAnswer": "girl",
+          "explanation": "‘소녀’은 영어로 girl입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "girl",
+            "GIRL"
+          ],
+          "koreanMeaning": "소녀",
+          "exampleSentence": "This is a girl."
+        },
+        {
+          "questionId": "EN-L03-C01-S03-Q03",
+          "stageId": "EN-L03-C01-S03",
+          "type": "trueFalse",
+          "prompt": "가족과 사람: 문장 구조 발견 · 3번: boy의 뜻이 ‘엄마’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "boy의 뜻은 ‘소년’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "소년",
+          "exampleSentence": "I see a boy."
+        },
+        {
+          "questionId": "EN-L03-C01-S03-Q04",
+          "stageId": "EN-L03-C01-S03",
+          "type": "ordering",
+          "prompt": "가족과 사람: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I see my family.",
+            "family my see I.",
+            "see my family I."
+          ],
+          "correctAnswer": "I see my family.",
+          "explanation": "바른 어순은 “I see my family.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see my family.",
+            "I see my family"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C01-S03-Q05",
+          "stageId": "EN-L03-C01-S03",
+          "type": "fillBlank",
+          "prompt": "가족과 사람: 문장 구조 발견 · 5번: mo_her에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "mother의 빠진 글자는 t입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C01-S03-Q06",
+          "stageId": "EN-L03-C01-S03",
+          "type": "matching",
+          "prompt": "가족과 사람: 문장 구조 발견 · 6번: father과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "여자 형제",
+            "남자 형제",
+            "아빠",
+            "엄마"
+          ],
+          "correctAnswer": "아빠",
+          "explanation": "father은 ‘아빠’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아빠"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S04-Q01",
+          "stageId": "EN-L03-C01-S04",
+          "type": "wordBuilding",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘가족’을 만드세요.",
+          "choices": [
+            "ylimaf",
+            "amilyf",
+            "famil",
+            "family"
+          ],
+          "correctAnswer": "family",
+          "explanation": "바른 철자는 family입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "family",
+            "FAMILY"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C01-S04-Q02",
+          "stageId": "EN-L03-C01-S04",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 2번: This is my ___. 빈칸에 ‘엄마’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "sister",
+            "brother",
+            "mother",
+            "father"
+          ],
+          "correctAnswer": "mother",
+          "explanation": "문맥과 뜻에 맞는 단어는 mother입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mother",
+            "MOTHER"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C01-S04-Q03",
+          "stageId": "EN-L03-C01-S04",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 3번: ‘아빠’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "brother",
+            "father",
+            "mother",
+            "sister"
+          ],
+          "correctAnswer": "father",
+          "explanation": "‘아빠’은 영어로 father입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "father",
+            "FATHER"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        },
+        {
+          "questionId": "EN-L03-C01-S04-Q04",
+          "stageId": "EN-L03-C01-S04",
+          "type": "categorization",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 4번: sister을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "사람",
+            "음식과 음료",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "사람",
+          "explanation": "sister은 사람 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "사람"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S04-Q05",
+          "stageId": "EN-L03-C01-S04",
+          "type": "ordering",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother my see I.",
+            "see my brother I.",
+            "I see my brother."
+          ],
+          "correctAnswer": "I see my brother.",
+          "explanation": "바른 어순은 “I see my brother.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see my brother.",
+            "I see my brother"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S04-Q06",
+          "stageId": "EN-L03-C01-S04",
+          "type": "fillBlank",
+          "prompt": "가족과 사람: 짧은 문장 연습 · 6번: ba_y에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "b",
+          "explanation": "baby의 빠진 글자는 b입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "b",
+            "B"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S05-Q01",
+          "stageId": "EN-L03-C01-S05",
+          "type": "sentenceMeaning",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 1번: “This is my sister.”에서 sister의 뜻을 고르세요.",
+          "choices": [
+            "엄마",
+            "아빠",
+            "남자 형제",
+            "여자 형제"
+          ],
+          "correctAnswer": "여자 형제",
+          "explanation": "sister은 ‘여자 형제’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "여자 형제"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S05-Q02",
+          "stageId": "EN-L03-C01-S05",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 2번: ‘남자 형제’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "brother",
+            "mother"
+          ],
+          "correctAnswer": "brother",
+          "explanation": "‘남자 형제’은 영어로 brother입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "brother",
+            "BROTHER"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S05-Q03",
+          "stageId": "EN-L03-C01-S05",
+          "type": "trueFalse",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 3번: baby의 뜻이 ‘엄마’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "baby의 뜻은 ‘아기’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S05-Q04",
+          "stageId": "EN-L03-C01-S05",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 4번: I see my ___. 빈칸에 ‘친구’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "friend",
+            "mother",
+            "father",
+            "sister"
+          ],
+          "correctAnswer": "friend",
+          "explanation": "문맥과 뜻에 맞는 단어는 friend입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "friend",
+            "FRIEND"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C01-S05-Q05",
+          "stageId": "EN-L03-C01-S05",
+          "type": "matching",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 5번: teacher과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "엄마",
+            "아빠",
+            "여자 형제",
+            "선생님"
+          ],
+          "correctAnswer": "선생님",
+          "explanation": "teacher은 ‘선생님’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "선생님"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C01-S05-Q06",
+          "stageId": "EN-L03-C01-S05",
+          "type": "ordering",
+          "prompt": "가족과 사람: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is a girl This.",
+            "This is a girl.",
+            "girl a is This."
+          ],
+          "correctAnswer": "This is a girl.",
+          "explanation": "바른 어순은 “This is a girl.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is a girl.",
+            "This is a girl"
+          ],
+          "koreanMeaning": "소녀",
+          "exampleSentence": "This is a girl."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S06-Q01",
+          "stageId": "EN-L03-C01-S06",
+          "type": "listeningChoice",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "friend"
+          ],
+          "correctAnswer": "friend",
+          "explanation": "음성의 핵심 단어는 friend입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "friend",
+          "acceptedAnswers": [
+            "friend"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C01-S06-Q02",
+          "stageId": "EN-L03-C01-S06",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 2번: ‘선생님’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "teacher",
+            "mother"
+          ],
+          "correctAnswer": "teacher",
+          "explanation": "‘선생님’은 영어로 teacher입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "teacher",
+            "TEACHER"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C01-S06-Q03",
+          "stageId": "EN-L03-C01-S06",
+          "type": "listeningChoice",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "sister",
+            "girl",
+            "mother",
+            "father"
+          ],
+          "correctAnswer": "girl",
+          "explanation": "음성의 핵심 단어는 girl입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "girl",
+          "acceptedAnswers": [
+            "girl"
+          ],
+          "koreanMeaning": "소녀",
+          "exampleSentence": "This is a girl."
+        },
+        {
+          "questionId": "EN-L03-C01-S06-Q04",
+          "stageId": "EN-L03-C01-S06",
+          "type": "dictation",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "boy",
+          "explanation": "소년은 영어로 boy입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "boy",
+          "acceptedAnswers": [
+            "boy",
+            "BOY"
+          ],
+          "koreanMeaning": "소년",
+          "exampleSentence": "I see a boy."
+        },
+        {
+          "questionId": "EN-L03-C01-S06-Q05",
+          "stageId": "EN-L03-C01-S06",
+          "type": "trueFalse",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 5번: family의 뜻이 ‘엄마’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "family의 뜻은 ‘가족’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C01-S06-Q06",
+          "stageId": "EN-L03-C01-S06",
+          "type": "matching",
+          "prompt": "가족과 사람: 생활 대화 듣기 · 6번: mother과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "여자 형제",
+            "남자 형제",
+            "엄마",
+            "아빠"
+          ],
+          "correctAnswer": "엄마",
+          "explanation": "mother은 ‘엄마’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "엄마"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S07-Q01",
+          "stageId": "EN-L03-C01-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "가족과 사람: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I see a boy.",
+          "explanation": "I see a boy.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I see a boy.",
+          "acceptedAnswers": [
+            "I see a boy.",
+            "I see a boy"
+          ],
+          "koreanMeaning": "소년",
+          "exampleSentence": "I see a boy."
+        },
+        {
+          "questionId": "EN-L03-C01-S07-Q02",
+          "stageId": "EN-L03-C01-S07",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 표현 말하기 · 2번: ‘가족’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "family",
+            "mother"
+          ],
+          "correctAnswer": "family",
+          "explanation": "‘가족’은 영어로 family입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "family",
+            "FAMILY"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C01-S07-Q03",
+          "stageId": "EN-L03-C01-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "가족과 사람: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my mother.",
+          "explanation": "This is my mother.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my mother.",
+          "acceptedAnswers": [
+            "This is my mother.",
+            "This is my mother"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C01-S07-Q04",
+          "stageId": "EN-L03-C01-S07",
+          "type": "sentenceMeaning",
+          "prompt": "가족과 사람: 표현 말하기 · 4번: “I see my father.”에서 father의 뜻을 고르세요.",
+          "choices": [
+            "아빠",
+            "엄마",
+            "여자 형제",
+            "남자 형제"
+          ],
+          "correctAnswer": "아빠",
+          "explanation": "father은 ‘아빠’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아빠"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        },
+        {
+          "questionId": "EN-L03-C01-S07-Q05",
+          "stageId": "EN-L03-C01-S07",
+          "type": "matching",
+          "prompt": "가족과 사람: 표현 말하기 · 5번: sister과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "엄마",
+            "아빠",
+            "남자 형제",
+            "여자 형제"
+          ],
+          "correctAnswer": "여자 형제",
+          "explanation": "sister은 ‘여자 형제’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "여자 형제"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S07-Q06",
+          "stageId": "EN-L03-C01-S07",
+          "type": "trueFalse",
+          "prompt": "가족과 사람: 표현 말하기 · 6번: brother의 뜻이 ‘남자 형제’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "brother의 뜻은 ‘남자 형제’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S08-Q01",
+          "stageId": "EN-L03-C01-S08",
+          "type": "spelling",
+          "prompt": "가족과 사람: 문장 쓰기 · 1번: fat_er에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "father의 빠진 글자는 h입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        },
+        {
+          "questionId": "EN-L03-C01-S08-Q02",
+          "stageId": "EN-L03-C01-S08",
+          "type": "fillBlank",
+          "prompt": "가족과 사람: 문장 쓰기 · 2번: sist_r에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "sister의 빠진 글자는 e입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S08-Q03",
+          "stageId": "EN-L03-C01-S08",
+          "type": "dictation",
+          "prompt": "가족과 사람: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "brother",
+          "explanation": "남자 형제은 영어로 brother입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "brother",
+          "acceptedAnswers": [
+            "brother",
+            "BROTHER"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S08-Q04",
+          "stageId": "EN-L03-C01-S08",
+          "type": "wordBuilding",
+          "prompt": "가족과 사람: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘아기’을 만드세요.",
+          "choices": [
+            "baby",
+            "ybab",
+            "abyb",
+            "bab"
+          ],
+          "correctAnswer": "baby",
+          "explanation": "바른 철자는 baby입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baby",
+            "BABY"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S08-Q05",
+          "stageId": "EN-L03-C01-S08",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 문장 쓰기 · 5번: I see my ___. 빈칸에 ‘친구’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "friend"
+          ],
+          "correctAnswer": "friend",
+          "explanation": "문맥과 뜻에 맞는 단어는 friend입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "friend",
+            "FRIEND"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C01-S08-Q06",
+          "stageId": "EN-L03-C01-S08",
+          "type": "ordering",
+          "prompt": "가족과 사람: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is my teacher This.",
+            "This is my teacher.",
+            "teacher my is This."
+          ],
+          "correctAnswer": "This is my teacher.",
+          "explanation": "바른 어순은 “This is my teacher.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is my teacher.",
+            "This is my teacher"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C01-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C01-S09-Q01",
+          "stageId": "EN-L03-C01-S09",
+          "type": "reviewMixed",
+          "prompt": "가족과 사람: 과정 평가 · 1번: ‘아기’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "baby"
+          ],
+          "correctAnswer": "baby",
+          "explanation": "‘아기’은 영어로 baby입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baby",
+            "BABY"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q02",
+          "stageId": "EN-L03-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 과정 평가 · 2번: ‘친구’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "friend",
+            "mother"
+          ],
+          "correctAnswer": "friend",
+          "explanation": "‘친구’은 영어로 friend입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "friend",
+            "FRIEND"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q03",
+          "stageId": "EN-L03-C01-S09",
+          "type": "listeningChoice",
+          "prompt": "가족과 사람: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "sister",
+            "teacher",
+            "mother",
+            "father"
+          ],
+          "correctAnswer": "teacher",
+          "explanation": "음성의 핵심 단어는 teacher입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "teacher",
+          "acceptedAnswers": [
+            "teacher"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q04",
+          "stageId": "EN-L03-C01-S09",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 과정 평가 · 4번: This is a ___. 빈칸에 ‘소녀’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "girl",
+            "mother",
+            "father",
+            "sister"
+          ],
+          "correctAnswer": "girl",
+          "explanation": "문맥과 뜻에 맞는 단어는 girl입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "girl",
+            "GIRL"
+          ],
+          "koreanMeaning": "소녀",
+          "exampleSentence": "This is a girl."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q05",
+          "stageId": "EN-L03-C01-S09",
+          "type": "dictation",
+          "prompt": "가족과 사람: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "boy",
+          "explanation": "소년은 영어로 boy입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "boy",
+          "acceptedAnswers": [
+            "boy",
+            "BOY"
+          ],
+          "koreanMeaning": "소년",
+          "exampleSentence": "I see a boy."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q06",
+          "stageId": "EN-L03-C01-S09",
+          "type": "sentenceMeaning",
+          "prompt": "가족과 사람: 과정 평가 · 6번: “I see my family.”에서 family의 뜻을 고르세요.",
+          "choices": [
+            "아빠",
+            "여자 형제",
+            "가족",
+            "엄마"
+          ],
+          "correctAnswer": "가족",
+          "explanation": "family은 ‘가족’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "가족"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q07",
+          "stageId": "EN-L03-C01-S09",
+          "type": "reviewMixed",
+          "prompt": "가족과 사람: 과정 평가 · 7번: ‘엄마’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "brother",
+            "mother",
+            "father",
+            "sister"
+          ],
+          "correctAnswer": "mother",
+          "explanation": "‘엄마’은 영어로 mother입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mother",
+            "MOTHER"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q08",
+          "stageId": "EN-L03-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "가족과 사람: 과정 평가 · 8번: ‘아빠’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "mother",
+            "sister",
+            "brother"
+          ],
+          "correctAnswer": "father",
+          "explanation": "‘아빠’은 영어로 father입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "father",
+            "FATHER"
+          ],
+          "koreanMeaning": "아빠",
+          "exampleSentence": "I see my father."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q09",
+          "stageId": "EN-L03-C01-S09",
+          "type": "listeningChoice",
+          "prompt": "가족과 사람: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "brother",
+            "sister"
+          ],
+          "correctAnswer": "sister",
+          "explanation": "음성의 핵심 단어는 sister입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sister",
+          "acceptedAnswers": [
+            "sister"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q10",
+          "stageId": "EN-L03-C01-S09",
+          "type": "sentenceCompletion",
+          "prompt": "가족과 사람: 과정 평가 · 10번: I see my ___. 빈칸에 ‘남자 형제’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "brother",
+            "mother"
+          ],
+          "correctAnswer": "brother",
+          "explanation": "문맥과 뜻에 맞는 단어는 brother입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "brother",
+            "BROTHER"
+          ],
+          "koreanMeaning": "남자 형제",
+          "exampleSentence": "I see my brother."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q11",
+          "stageId": "EN-L03-C01-S09",
+          "type": "dictation",
+          "prompt": "가족과 사람: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "baby",
+          "explanation": "아기은 영어로 baby입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "baby",
+          "acceptedAnswers": [
+            "baby",
+            "BABY"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C01-S09-Q12",
+          "stageId": "EN-L03-C01-S09",
+          "type": "sentenceMeaning",
+          "prompt": "가족과 사람: 과정 평가 · 12번: “I see my friend.”에서 friend의 뜻을 고르세요.",
+          "choices": [
+            "친구",
+            "엄마",
+            "아빠",
+            "여자 형제"
+          ],
+          "correctAnswer": "친구",
+          "explanation": "friend은 ‘친구’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "가족과 사람 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "친구"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        }
+      ]
+    }
+  ]
+}

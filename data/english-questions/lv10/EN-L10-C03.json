@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C03",
+  "stages": [
+    {
+      "stageId": "EN-L10-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S01-Q01",
+          "stageId": "EN-L10-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 1번: The young artist ___ books this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already played",
+            "has already carried",
+            "subject",
+            "has already read"
+          ],
+          "correctAnswer": "has already read",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already read입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already read",
+            "has already read"
+          ],
+          "exampleSentence": "The young artist has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S01-Q02",
+          "stageId": "EN-L10-C03-S01",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 2번: 핵심 구조가 ‘has already read’이면 O, 아니면 X를 고르세요: The soccer player has already read books this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 has already read입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S01-Q03",
+          "stageId": "EN-L10-C03-S01",
+          "type": "matching",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 3번: The new student ___ books this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "has already read",
+            "has already played",
+            "has already made"
+          ],
+          "correctAnswer": "has already read",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already read입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already read",
+            "has already read"
+          ],
+          "exampleSentence": "The new student has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S01-Q04",
+          "stageId": "EN-L10-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 4번: “Mina has already written short notes this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "Mina has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S01-Q05",
+          "stageId": "EN-L10-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 5번: Tom ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already played",
+            "has already made",
+            "subject",
+            "has already written"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "Tom has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S01-Q06",
+          "stageId": "EN-L10-C03-S01",
+          "type": "ordering",
+          "prompt": "복합 수동태: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has already written short notes this week My.",
+            "subject",
+            "My brother has already written short notes this week.",
+            "week this notes short written already has brother My."
+          ],
+          "correctAnswer": "My brother has already written short notes this week.",
+          "explanation": "바른 어순은 “My brother has already written short notes this week.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has already written short notes this week.",
+            "My brother has already written short notes this week"
+          ],
+          "exampleSentence": "My brother has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S02-Q01",
+          "stageId": "EN-L10-C03-S02",
+          "type": "matching",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 1번: Tom ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "has already studied",
+            "subject",
+            "has already carried"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "Tom has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S02-Q02",
+          "stageId": "EN-L10-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 2번: My brother ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already studied",
+            "subject",
+            "has already carried",
+            "has already found"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "My brother has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S02-Q03",
+          "stageId": "EN-L10-C03-S02",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 3번: “The student has already carried a blue bag this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "The student has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S02-Q04",
+          "stageId": "EN-L10-C03-S02",
+          "type": "fillBlank",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 4번: Our teacher ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already carried",
+            "has already read",
+            "has already studied",
+            "subject"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "Our teacher has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S02-Q05",
+          "stageId": "EN-L10-C03-S02",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 5번: The young artist ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already read",
+            "has already studied",
+            "subject",
+            "has already carried"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "The young artist has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S02-Q06",
+          "stageId": "EN-L10-C03-S02",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘has already carried’이면 O, 아니면 X를 고르세요: The soccer player has already carried a blue bag this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 has already carried입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S03-Q01",
+          "stageId": "EN-L10-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 문법 구조 분석 · 1번: The young artist ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already opened",
+            "has already made",
+            "subject",
+            "has already written"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "The young artist has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S03-Q02",
+          "stageId": "EN-L10-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 문법 구조 분석 · 2번: The soccer player ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "subject",
+            "has already written",
+            "has already opened"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "The soccer player has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S03-Q03",
+          "stageId": "EN-L10-C03-S03",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 문법 구조 분석 · 3번: 핵심 구조가 ‘has already opened’이면 O, 아니면 X를 고르세요: The new student has already written short notes this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 has already written입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S03-Q04",
+          "stageId": "EN-L10-C03-S03",
+          "type": "ordering",
+          "prompt": "복합 수동태: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina has already studied English this week.",
+            "week this English studied already has Mina.",
+            "has already studied English this week Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina has already studied English this week.",
+          "explanation": "바른 어순은 “Mina has already studied English this week.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina has already studied English this week.",
+            "Mina has already studied English this week"
+          ],
+          "exampleSentence": "Mina has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S03-Q05",
+          "stageId": "EN-L10-C03-S03",
+          "type": "matching",
+          "prompt": "복합 수동태: 문법 구조 분석 · 5번: Tom ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already opened",
+            "has already found",
+            "subject",
+            "has already studied"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "Tom has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S03-Q06",
+          "stageId": "EN-L10-C03-S03",
+          "type": "fillBlank",
+          "prompt": "복합 수동태: 문법 구조 분석 · 6번: My brother ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "subject",
+            "has already studied",
+            "has already opened"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "My brother has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S04-Q01",
+          "stageId": "EN-L10-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 문장 분석 연습 · 1번: Tom ___ a simple plan this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already read",
+            "has already played",
+            "subject",
+            "has already made"
+          ],
+          "correctAnswer": "has already made",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already made",
+            "has already made"
+          ],
+          "exampleSentence": "Tom has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S04-Q02",
+          "stageId": "EN-L10-C03-S04",
+          "type": "ordering",
+          "prompt": "복합 수동태: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has already made a simple plan this week My.",
+            "subject",
+            "My brother has already made a simple plan this week.",
+            "week this plan simple a made already has brother My."
+          ],
+          "correctAnswer": "My brother has already made a simple plan this week.",
+          "explanation": "바른 어순은 “My brother has already made a simple plan this week.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has already made a simple plan this week.",
+            "My brother has already made a simple plan this week"
+          ],
+          "exampleSentence": "My brother has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S04-Q03",
+          "stageId": "EN-L10-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 문장 분석 연습 · 3번: The student ___ a simple plan this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "has already made",
+            "has already written",
+            "has already played"
+          ],
+          "correctAnswer": "has already made",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already made",
+            "has already made"
+          ],
+          "exampleSentence": "The student has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S04-Q04",
+          "stageId": "EN-L10-C03-S04",
+          "type": "fillBlank",
+          "prompt": "복합 수동태: 문장 분석 연습 · 4번: Our teacher ___ a simple plan this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already made",
+            "has already written",
+            "has already played",
+            "subject"
+          ],
+          "correctAnswer": "has already made",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already made",
+            "has already made"
+          ],
+          "exampleSentence": "Our teacher has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S04-Q05",
+          "stageId": "EN-L10-C03-S04",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 문장 분석 연습 · 5번: 핵심 구조가 ‘has already written’이면 O, 아니면 X를 고르세요: The young artist has already made a simple plan this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S04-Q06",
+          "stageId": "EN-L10-C03-S04",
+          "type": "matching",
+          "prompt": "복합 수동태: 문장 분석 연습 · 6번: The soccer player ___ a simple plan this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already opened",
+            "subject",
+            "has already made",
+            "has already written"
+          ],
+          "correctAnswer": "has already made",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already made입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already made",
+            "has already made"
+          ],
+          "exampleSentence": "The soccer player has already made a simple plan this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S05-Q01",
+          "stageId": "EN-L10-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 문단 구조 적용 · 1번: “The young artist has already studied English this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "The young artist has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S05-Q02",
+          "stageId": "EN-L10-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 문단 구조 적용 · 2번: The soccer player ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already read",
+            "subject",
+            "has already studied",
+            "has already carried"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "The soccer player has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S05-Q03",
+          "stageId": "EN-L10-C03-S05",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 문단 구조 적용 · 3번: 핵심 구조가 ‘has already carried’이면 O, 아니면 X를 고르세요: The new student has already studied English this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 has already studied입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S05-Q04",
+          "stageId": "EN-L10-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 문단 구조 적용 · 4번: Mina ___ soccer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already played",
+            "has already carried",
+            "has already read",
+            "has already studied"
+          ],
+          "correctAnswer": "has already played",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already played입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already played",
+            "has already played"
+          ],
+          "exampleSentence": "Mina has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S05-Q05",
+          "stageId": "EN-L10-C03-S05",
+          "type": "matching",
+          "prompt": "복합 수동태: 문단 구조 적용 · 5번: Tom ___ soccer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already carried",
+            "has already read",
+            "subject",
+            "has already played"
+          ],
+          "correctAnswer": "has already played",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already played입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already played",
+            "has already played"
+          ],
+          "exampleSentence": "Tom has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S05-Q06",
+          "stageId": "EN-L10-C03-S05",
+          "type": "ordering",
+          "prompt": "복합 수동태: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has already played soccer this week My.",
+            "subject",
+            "My brother has already played soccer this week.",
+            "week this soccer played already has brother My."
+          ],
+          "correctAnswer": "My brother has already played soccer this week.",
+          "explanation": "바른 어순은 “My brother has already played soccer this week.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has already played soccer this week.",
+            "My brother has already played soccer this week"
+          ],
+          "exampleSentence": "My brother has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S06-Q01",
+          "stageId": "EN-L10-C03-S06",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 구문독해 적용 · 1번: “Tom has already found the answer this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "Tom has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S06-Q02",
+          "stageId": "EN-L10-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 구문독해 적용 · 2번: My brother ___ the answer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already opened",
+            "subject",
+            "has already found",
+            "has already written"
+          ],
+          "correctAnswer": "has already found",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already found입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already found",
+            "has already found"
+          ],
+          "exampleSentence": "My brother has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S06-Q03",
+          "stageId": "EN-L10-C03-S06",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 구문독해 적용 · 3번: 핵심 구조가 ‘has already studied’이면 O, 아니면 X를 고르세요: The student has already found the answer this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 has already found입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S06-Q04",
+          "stageId": "EN-L10-C03-S06",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 구문독해 적용 · 4번: Our teacher ___ the answer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "has already studied",
+            "has already opened",
+            "subject"
+          ],
+          "correctAnswer": "has already found",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already found입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already found",
+            "has already found"
+          ],
+          "exampleSentence": "Our teacher has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S06-Q05",
+          "stageId": "EN-L10-C03-S06",
+          "type": "matching",
+          "prompt": "복합 수동태: 구문독해 적용 · 5번: The young artist ___ the answer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already studied",
+            "has already opened",
+            "subject",
+            "has already found"
+          ],
+          "correctAnswer": "has already found",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already found입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already found",
+            "has already found"
+          ],
+          "exampleSentence": "The young artist has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S06-Q06",
+          "stageId": "EN-L10-C03-S06",
+          "type": "ordering",
+          "prompt": "복합 수동태: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player has already found the answer this week The.",
+            "subject",
+            "The soccer player has already found the answer this week.",
+            "week this answer the found already has player soccer The."
+          ],
+          "correctAnswer": "The soccer player has already found the answer this week.",
+          "explanation": "바른 어순은 “The soccer player has already found the answer this week.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player has already found the answer this week.",
+            "The soccer player has already found the answer this week"
+          ],
+          "exampleSentence": "The soccer player has already found the answer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S07-Q01",
+          "stageId": "EN-L10-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother has already made a simple plan this week.",
+            "The new student has already read books this week.",
+            "Our teacher has already played soccer this week.",
+            "The young artist has already played soccer this week."
+          ],
+          "correctAnswer": "The young artist has already played soccer this week.",
+          "explanation": "들은 문장은 “The young artist has already played soccer this week.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist has already played soccer this week.",
+          "acceptedAnswers": [
+            "The young artist has already played soccer this week."
+          ],
+          "exampleSentence": "The young artist has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S07-Q02",
+          "stageId": "EN-L10-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 2번: The soccer player ___ soccer this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already written",
+            "subject",
+            "has already played",
+            "has already made"
+          ],
+          "correctAnswer": "has already played",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already played입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already played",
+            "has already played"
+          ],
+          "exampleSentence": "The soccer player has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S07-Q03",
+          "stageId": "EN-L10-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player has already played soccer this week.",
+            "The new student has already played soccer this week.",
+            "Our teacher has already made a simple plan this week.",
+            "Tom has already written short notes this week."
+          ],
+          "correctAnswer": "The new student has already played soccer this week.",
+          "explanation": "들은 문장은 “The new student has already played soccer this week.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student has already played soccer this week.",
+          "acceptedAnswers": [
+            "The new student has already played soccer this week."
+          ],
+          "exampleSentence": "The new student has already played soccer this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S07-Q04",
+          "stageId": "EN-L10-C03-S07",
+          "type": "dictation",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina has already opened the window this week.",
+          "explanation": "바른 문장은 “Mina has already opened the window this week.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina has already opened the window this week.",
+          "acceptedAnswers": [
+            "Mina has already opened the window this week.",
+            "Mina has already opened the window this week"
+          ],
+          "exampleSentence": "Mina has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S07-Q05",
+          "stageId": "EN-L10-C03-S07",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘has already made’이면 O, 아니면 X를 고르세요: Tom has already opened the window this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 has already opened입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S07-Q06",
+          "stageId": "EN-L10-C03-S07",
+          "type": "matching",
+          "prompt": "복합 수동태: 핵심 정보 듣기 · 6번: My brother ___ the window this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already written",
+            "subject",
+            "has already opened",
+            "has already made"
+          ],
+          "correctAnswer": "has already opened",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already opened입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already opened",
+            "has already opened"
+          ],
+          "exampleSentence": "My brother has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S08-Q01",
+          "stageId": "EN-L10-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "복합 수동태: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has already read books this week.",
+          "explanation": "“Tom has already read books this week.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has already read books this week.",
+          "acceptedAnswers": [
+            "Tom has already read books this week.",
+            "Tom has already read books this week"
+          ],
+          "exampleSentence": "Tom has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S08-Q02",
+          "stageId": "EN-L10-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 근거 설명하기 · 2번: My brother ___ books this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already carried",
+            "subject",
+            "has already read",
+            "has already studied"
+          ],
+          "correctAnswer": "has already read",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already read입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already read",
+            "has already read"
+          ],
+          "exampleSentence": "My brother has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S08-Q03",
+          "stageId": "EN-L10-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "복합 수동태: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student has already read books this week.",
+          "explanation": "“The student has already read books this week.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student has already read books this week.",
+          "acceptedAnswers": [
+            "The student has already read books this week.",
+            "The student has already read books this week"
+          ],
+          "exampleSentence": "The student has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S08-Q04",
+          "stageId": "EN-L10-C03-S08",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 근거 설명하기 · 4번: “Our teacher has already read books this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "Our teacher has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S08-Q05",
+          "stageId": "EN-L10-C03-S08",
+          "type": "matching",
+          "prompt": "복합 수동태: 근거 설명하기 · 5번: The young artist ___ books this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already played",
+            "has already carried",
+            "subject",
+            "has already read"
+          ],
+          "correctAnswer": "has already read",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already read입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already read",
+            "has already read"
+          ],
+          "exampleSentence": "The young artist has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S08-Q06",
+          "stageId": "EN-L10-C03-S08",
+          "type": "trueFalse",
+          "prompt": "복합 수동태: 근거 설명하기 · 6번: 핵심 구조가 ‘has already read’이면 O, 아니면 X를 고르세요: The soccer player has already read books this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 has already read입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has already read books this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S09-Q01",
+          "stageId": "EN-L10-C03-S09",
+          "type": "fillBlank",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 1번: The young artist ___ the window this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "has already written",
+            "subject",
+            "has already opened"
+          ],
+          "correctAnswer": "has already opened",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already opened입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already opened",
+            "has already opened"
+          ],
+          "exampleSentence": "The young artist has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S09-Q02",
+          "stageId": "EN-L10-C03-S09",
+          "type": "dictation",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player has already opened the window this week.",
+          "explanation": "바른 문장은 “The soccer player has already opened the window this week.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player has already opened the window this week.",
+          "acceptedAnswers": [
+            "The soccer player has already opened the window this week.",
+            "The soccer player has already opened the window this week"
+          ],
+          "exampleSentence": "The soccer player has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S09-Q03",
+          "stageId": "EN-L10-C03-S09",
+          "type": "ordering",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student has already opened the window this week.",
+            "week this window the opened already has student new The.",
+            "new student has already opened the window this week The."
+          ],
+          "correctAnswer": "The new student has already opened the window this week.",
+          "explanation": "바른 어순은 “The new student has already opened the window this week.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student has already opened the window this week.",
+            "The new student has already opened the window this week"
+          ],
+          "exampleSentence": "The new student has already opened the window this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S09-Q04",
+          "stageId": "EN-L10-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 4번: Mina ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already carried",
+            "has already found",
+            "has already studied",
+            "has already opened"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "Mina has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S09-Q05",
+          "stageId": "EN-L10-C03-S09",
+          "type": "fillBlank",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 5번: Tom ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "has already studied",
+            "subject",
+            "has already carried"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "Tom has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S09-Q06",
+          "stageId": "EN-L10-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 논리 문장 쓰기 · 6번: My brother ___ a blue bag this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already studied",
+            "subject",
+            "has already carried",
+            "has already found"
+          ],
+          "correctAnswer": "has already carried",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already carried입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already carried",
+            "has already carried"
+          ],
+          "exampleSentence": "My brother has already carried a blue bag this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C03-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C03-S10-Q01",
+          "stageId": "EN-L10-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "복합 수동태: 과정 평가 · 1번: Tom ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already played",
+            "has already made",
+            "subject",
+            "has already written"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "Tom has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q02",
+          "stageId": "EN-L10-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 과정 평가 · 2번: My brother ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already made",
+            "subject",
+            "has already written",
+            "has already played"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "My brother has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q03",
+          "stageId": "EN-L10-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "복합 수동태: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother has already written short notes this week.",
+            "The student has already written short notes this week.",
+            "Mina has already opened the window this week.",
+            "The young artist has already made a simple plan this week."
+          ],
+          "correctAnswer": "The student has already written short notes this week.",
+          "explanation": "들은 문장은 “The student has already written short notes this week.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student has already written short notes this week.",
+          "acceptedAnswers": [
+            "The student has already written short notes this week."
+          ],
+          "exampleSentence": "The student has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q04",
+          "stageId": "EN-L10-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 과정 평가 · 4번: Our teacher ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already written",
+            "has already opened",
+            "has already made",
+            "subject"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "Our teacher has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q05",
+          "stageId": "EN-L10-C03-S10",
+          "type": "dictation",
+          "prompt": "복합 수동태: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist has already written short notes this week.",
+          "explanation": "바른 문장은 “The young artist has already written short notes this week.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist has already written short notes this week.",
+          "acceptedAnswers": [
+            "The young artist has already written short notes this week.",
+            "The young artist has already written short notes this week"
+          ],
+          "exampleSentence": "The young artist has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q06",
+          "stageId": "EN-L10-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 과정 평가 · 6번: “The soccer player has already written short notes this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "The soccer player has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q07",
+          "stageId": "EN-L10-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "복합 수동태: 과정 평가 · 7번: The new student ___ short notes this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "has already written",
+            "has already opened",
+            "has already found"
+          ],
+          "correctAnswer": "has already written",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already written입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already written",
+            "has already written"
+          ],
+          "exampleSentence": "The new student has already written short notes this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q08",
+          "stageId": "EN-L10-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "복합 수동태: 과정 평가 · 8번: Mina ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already studied",
+            "has already opened",
+            "has already found",
+            "has already written"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "Mina has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q09",
+          "stageId": "EN-L10-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "복합 수동태: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player has already opened the window this week.",
+            "The student has already found the answer this week.",
+            "Mina has already studied English this week.",
+            "Tom has already studied English this week."
+          ],
+          "correctAnswer": "Tom has already studied English this week.",
+          "explanation": "들은 문장은 “Tom has already studied English this week.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has already studied English this week.",
+          "acceptedAnswers": [
+            "Tom has already studied English this week."
+          ],
+          "exampleSentence": "Tom has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q10",
+          "stageId": "EN-L10-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "복합 수동태: 과정 평가 · 10번: My brother ___ English this week. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "has already found",
+            "subject",
+            "has already studied",
+            "has already opened"
+          ],
+          "correctAnswer": "has already studied",
+          "explanation": "시제 문맥 문맥에 맞는 답은 has already studied입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has already studied",
+            "has already studied"
+          ],
+          "exampleSentence": "My brother has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q11",
+          "stageId": "EN-L10-C03-S10",
+          "type": "dictation",
+          "prompt": "복합 수동태: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student has already studied English this week.",
+          "explanation": "바른 문장은 “The student has already studied English this week.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student has already studied English this week.",
+          "acceptedAnswers": [
+            "The student has already studied English this week.",
+            "The student has already studied English this week"
+          ],
+          "exampleSentence": "The student has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C03-S10-Q12",
+          "stageId": "EN-L10-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "복합 수동태: 과정 평가 · 12번: “Our teacher has already studied English this week.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "끝나지 않은 이번 주 안의 완료를 나타낸다.",
+          "explanation": "핵심 의미는 ‘끝나지 않은 이번 주 안의 완료를 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 문맥",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "복합 수동태 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝나지 않은 이번 주 안의 완료를 나타낸다."
+          ],
+          "exampleSentence": "Our teacher has already studied English this week.",
+          "koreanMeaning": "끝나지 않은 이번 주 안의 완료를 나타낸다."
+        }
+      ]
+    }
+  ]
+}

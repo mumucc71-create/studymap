@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C13",
+  "stages": [
+    {
+      "stageId": "EN-L09-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S01-Q01",
+          "stageId": "EN-L09-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 1번: The young artist opens the window during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist opens the window during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S01-Q02",
+          "stageId": "EN-L09-C13-S01",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 2번: 핵심 구조가 ‘the daily task is complete’이면 O, 아니면 X를 고르세요: The soccer player opens the window during study time, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player opens the window during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S01-Q03",
+          "stageId": "EN-L09-C13-S01",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 3번: The new student opens the window during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the daily task is complete",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The new student opens the window during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S01-Q04",
+          "stageId": "EN-L09-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 4번: “Mina carries a blue bag during study time, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Mina carries a blue bag during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S01-Q05",
+          "stageId": "EN-L09-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 5번: Tom carries a blue bag during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom carries a blue bag during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S01-Q06",
+          "stageId": "EN-L09-C13-S01",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carries a blue bag during study time, so the daily task is complete My.",
+            "subject",
+            "My brother carries a blue bag during study time, so the daily task is complete.",
+            "complete is task daily the so time, study during bag blue a carries brother My."
+          ],
+          "correctAnswer": "My brother carries a blue bag during study time, so the daily task is complete.",
+          "explanation": "바른 어순은 “My brother carries a blue bag during study time, so the daily task is complete.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carries a blue bag during study time, so the daily task is complete.",
+            "My brother carries a blue bag during study time, so the daily task is complete"
+          ],
+          "exampleSentence": "My brother carries a blue bag during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S02-Q01",
+          "stageId": "EN-L09-C13-S02",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 1번: Tom writes short notes near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S02-Q02",
+          "stageId": "EN-L09-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 2번: My brother writes short notes near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S02-Q03",
+          "stageId": "EN-L09-C13-S02",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 3번: “The student writes short notes near the school, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "The student writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S02-Q04",
+          "stageId": "EN-L09-C13-S02",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 4번: Our teacher writes short notes near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Our teacher writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S02-Q05",
+          "stageId": "EN-L09-C13-S02",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 5번: The young artist writes short notes near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S02-Q06",
+          "stageId": "EN-L09-C13-S02",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘the daily task is complete’이면 O, 아니면 X를 고르세요: The soccer player writes short notes near the school, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player writes short notes near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S03-Q01",
+          "stageId": "EN-L09-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 1번: The young artist carries a blue bag at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist carries a blue bag at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S03-Q02",
+          "stageId": "EN-L09-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 2번: The soccer player carries a blue bag at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S03-Q03",
+          "stageId": "EN-L09-C13-S03",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student carries a blue bag at home, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student carries a blue bag at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S03-Q04",
+          "stageId": "EN-L09-C13-S03",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina makes a simple plan at home, so the daily task is complete.",
+            "complete is task daily the so home, at plan simple a makes Mina.",
+            "makes a simple plan at home, so the daily task is complete Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina makes a simple plan at home, so the daily task is complete.",
+          "explanation": "바른 어순은 “Mina makes a simple plan at home, so the daily task is complete.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina makes a simple plan at home, so the daily task is complete.",
+            "Mina makes a simple plan at home, so the daily task is complete"
+          ],
+          "exampleSentence": "Mina makes a simple plan at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S03-Q05",
+          "stageId": "EN-L09-C13-S03",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 5번: Tom makes a simple plan at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom makes a simple plan at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S03-Q06",
+          "stageId": "EN-L09-C13-S03",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 문법 구조 분석 · 6번: My brother makes a simple plan at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother makes a simple plan at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S04-Q01",
+          "stageId": "EN-L09-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 1번: Tom studies English after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S04-Q02",
+          "stageId": "EN-L09-C13-S04",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother studies English after class, so the daily task is complete My.",
+            "subject",
+            "My brother studies English after class, so the daily task is complete.",
+            "complete is task daily the so class, after English studies brother My."
+          ],
+          "correctAnswer": "My brother studies English after class, so the daily task is complete.",
+          "explanation": "바른 어순은 “My brother studies English after class, so the daily task is complete.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother studies English after class, so the daily task is complete.",
+            "My brother studies English after class, so the daily task is complete"
+          ],
+          "exampleSentence": "My brother studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S04-Q03",
+          "stageId": "EN-L09-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 3번: The student studies English after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the daily task is complete",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The student studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S04-Q04",
+          "stageId": "EN-L09-C13-S04",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 4번: Our teacher studies English after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Our teacher studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S04-Q05",
+          "stageId": "EN-L09-C13-S04",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist studies English after class, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S04-Q06",
+          "stageId": "EN-L09-C13-S04",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 문장 분석 연습 · 6번: The soccer player studies English after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player studies English after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S05-Q01",
+          "stageId": "EN-L09-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 1번: “The young artist makes a simple plan before lunch, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "The young artist makes a simple plan before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S05-Q02",
+          "stageId": "EN-L09-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 2번: The soccer player makes a simple plan before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S05-Q03",
+          "stageId": "EN-L09-C13-S05",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student makes a simple plan before lunch, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student makes a simple plan before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S05-Q04",
+          "stageId": "EN-L09-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 4번: Mina finds the answer before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Mina finds the answer before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S05-Q05",
+          "stageId": "EN-L09-C13-S05",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 5번: Tom finds the answer before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom finds the answer before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S05-Q06",
+          "stageId": "EN-L09-C13-S05",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother finds the answer before lunch, so the daily task is complete My.",
+            "subject",
+            "My brother finds the answer before lunch, so the daily task is complete.",
+            "complete is task daily the so lunch, before answer the finds brother My."
+          ],
+          "correctAnswer": "My brother finds the answer before lunch, so the daily task is complete.",
+          "explanation": "바른 어순은 “My brother finds the answer before lunch, so the daily task is complete.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother finds the answer before lunch, so the daily task is complete.",
+            "My brother finds the answer before lunch, so the daily task is complete"
+          ],
+          "exampleSentence": "My brother finds the answer before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S06-Q01",
+          "stageId": "EN-L09-C13-S06",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 1번: “Tom plays soccer during study time, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Tom plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S06-Q02",
+          "stageId": "EN-L09-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 2번: My brother plays soccer during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S06-Q03",
+          "stageId": "EN-L09-C13-S06",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student plays soccer during study time, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S06-Q04",
+          "stageId": "EN-L09-C13-S06",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 4번: Our teacher plays soccer during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Our teacher plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S06-Q05",
+          "stageId": "EN-L09-C13-S06",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 5번: The young artist plays soccer during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S06-Q06",
+          "stageId": "EN-L09-C13-S06",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player plays soccer during study time, so the daily task is complete The.",
+            "subject",
+            "The soccer player plays soccer during study time, so the daily task is complete.",
+            "complete is task daily the so time, study during soccer plays player soccer The."
+          ],
+          "correctAnswer": "The soccer player plays soccer during study time, so the daily task is complete.",
+          "explanation": "바른 어순은 “The soccer player plays soccer during study time, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player plays soccer during study time, so the daily task is complete.",
+            "The soccer player plays soccer during study time, so the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S07-Q01",
+          "stageId": "EN-L09-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother studies English during study time, so the daily task is complete.",
+            "The new student opens the window before lunch, so the daily task is complete.",
+            "Our teacher finds the answer in the library, so the daily task is complete.",
+            "The young artist finds the answer on Saturday morning, so the daily task is complete."
+          ],
+          "correctAnswer": "The young artist finds the answer on Saturday morning, so the daily task is complete.",
+          "explanation": "들은 문장은 “The young artist finds the answer on Saturday morning, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist finds the answer on Saturday morning, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The young artist finds the answer on Saturday morning, so the daily task is complete."
+          ],
+          "exampleSentence": "The young artist finds the answer on Saturday morning, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S07-Q02",
+          "stageId": "EN-L09-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 2번: The soccer player finds the answer on Saturday morning, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player finds the answer on Saturday morning, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S07-Q03",
+          "stageId": "EN-L09-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player finds the answer in the library, so the daily task is complete.",
+            "The new student finds the answer on Saturday morning, so the daily task is complete.",
+            "Our teacher studies English during study time, so the daily task is complete.",
+            "Tom carries a blue bag before lunch, so the daily task is complete."
+          ],
+          "correctAnswer": "The new student finds the answer on Saturday morning, so the daily task is complete.",
+          "explanation": "들은 문장은 “The new student finds the answer on Saturday morning, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student finds the answer on Saturday morning, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The new student finds the answer on Saturday morning, so the daily task is complete."
+          ],
+          "exampleSentence": "The new student finds the answer on Saturday morning, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S07-Q04",
+          "stageId": "EN-L09-C13-S07",
+          "type": "dictation",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina reads books near the school, so the daily task is complete.",
+          "explanation": "바른 문장은 “Mina reads books near the school, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina reads books near the school, so the daily task is complete.",
+          "acceptedAnswers": [
+            "Mina reads books near the school, so the daily task is complete.",
+            "Mina reads books near the school, so the daily task is complete"
+          ],
+          "exampleSentence": "Mina reads books near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S07-Q05",
+          "stageId": "EN-L09-C13-S07",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom reads books near the school, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom reads books near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S07-Q06",
+          "stageId": "EN-L09-C13-S07",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 핵심 정보 듣기 · 6번: My brother reads books near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother reads books near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S08-Q01",
+          "stageId": "EN-L09-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom opens the window at home, so the daily task is complete.",
+          "explanation": "“Tom opens the window at home, so the daily task is complete.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom opens the window at home, so the daily task is complete.",
+          "acceptedAnswers": [
+            "Tom opens the window at home, so the daily task is complete.",
+            "Tom opens the window at home, so the daily task is complete"
+          ],
+          "exampleSentence": "Tom opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S08-Q02",
+          "stageId": "EN-L09-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 2번: My brother opens the window at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S08-Q03",
+          "stageId": "EN-L09-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student opens the window at home, so the daily task is complete.",
+          "explanation": "“The student opens the window at home, so the daily task is complete.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student opens the window at home, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The student opens the window at home, so the daily task is complete.",
+            "The student opens the window at home, so the daily task is complete"
+          ],
+          "exampleSentence": "The student opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S08-Q04",
+          "stageId": "EN-L09-C13-S08",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 4번: “Our teacher opens the window at home, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Our teacher opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S08-Q05",
+          "stageId": "EN-L09-C13-S08",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 5번: The young artist opens the window at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S08-Q06",
+          "stageId": "EN-L09-C13-S08",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 근거 설명하기 · 6번: 핵심 구조가 ‘the daily task is complete’이면 O, 아니면 X를 고르세요: The soccer player opens the window at home, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player opens the window at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S09-Q01",
+          "stageId": "EN-L09-C13-S09",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 1번: The young artist reads books after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist reads books after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S09-Q02",
+          "stageId": "EN-L09-C13-S09",
+          "type": "dictation",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player reads books after class, so the daily task is complete.",
+          "explanation": "바른 문장은 “The soccer player reads books after class, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player reads books after class, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The soccer player reads books after class, so the daily task is complete.",
+            "The soccer player reads books after class, so the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player reads books after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S09-Q03",
+          "stageId": "EN-L09-C13-S09",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student reads books after class, so the daily task is complete.",
+            "complete is task daily the so class, after books reads student new The.",
+            "new student reads books after class, so the daily task is complete The."
+          ],
+          "correctAnswer": "The new student reads books after class, so the daily task is complete.",
+          "explanation": "바른 어순은 “The new student reads books after class, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student reads books after class, so the daily task is complete.",
+            "The new student reads books after class, so the daily task is complete"
+          ],
+          "exampleSentence": "The new student reads books after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S09-Q04",
+          "stageId": "EN-L09-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 4번: Mina writes short notes after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Mina writes short notes after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S09-Q05",
+          "stageId": "EN-L09-C13-S09",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 5번: Tom writes short notes after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom writes short notes after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S09-Q06",
+          "stageId": "EN-L09-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 논리 문장 쓰기 · 6번: My brother writes short notes after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother writes short notes after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S10-Q01",
+          "stageId": "EN-L09-C13-S10",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 1번: Tom carries a blue bag before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S10-Q02",
+          "stageId": "EN-L09-C13-S10",
+          "type": "ordering",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carries a blue bag before lunch, so the daily task is complete My.",
+            "subject",
+            "My brother carries a blue bag before lunch, so the daily task is complete.",
+            "complete is task daily the so lunch, before bag blue a carries brother My."
+          ],
+          "correctAnswer": "My brother carries a blue bag before lunch, so the daily task is complete.",
+          "explanation": "바른 어순은 “My brother carries a blue bag before lunch, so the daily task is complete.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carries a blue bag before lunch, so the daily task is complete.",
+            "My brother carries a blue bag before lunch, so the daily task is complete"
+          ],
+          "exampleSentence": "My brother carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S10-Q03",
+          "stageId": "EN-L09-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 3번: The student carries a blue bag before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the daily task is complete",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The student carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S10-Q04",
+          "stageId": "EN-L09-C13-S10",
+          "type": "fillBlank",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 4번: Our teacher carries a blue bag before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S10-Q05",
+          "stageId": "EN-L09-C13-S10",
+          "type": "trueFalse",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist carries a blue bag before lunch, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S10-Q06",
+          "stageId": "EN-L09-C13-S10",
+          "type": "matching",
+          "prompt": "주제와 요약문 찾기: 혼합 문제 적용 · 6번: The soccer player carries a blue bag before lunch, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag before lunch, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C13-S11",
+      "questions": [
+        {
+          "questionId": "EN-L09-C13-S11-Q01",
+          "stageId": "EN-L09-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 1번: The young artist writes short notes during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist writes short notes during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q02",
+          "stageId": "EN-L09-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 2번: The soccer player writes short notes during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player writes short notes during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q03",
+          "stageId": "EN-L09-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player writes short notes at home, so the daily task is complete.",
+            "The new student writes short notes during study time, so the daily task is complete.",
+            "Our teacher opens the window before lunch, so the daily task is complete.",
+            "Tom finds the answer in the library, so the daily task is complete."
+          ],
+          "correctAnswer": "The new student writes short notes during study time, so the daily task is complete.",
+          "explanation": "들은 문장은 “The new student writes short notes during study time, so the daily task is complete.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student writes short notes during study time, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The new student writes short notes during study time, so the daily task is complete."
+          ],
+          "exampleSentence": "The new student writes short notes during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q04",
+          "stageId": "EN-L09-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 4번: Mina studies English during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Mina studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q05",
+          "stageId": "EN-L09-C13-S11",
+          "type": "dictation",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom studies English during study time, so the daily task is complete.",
+          "explanation": "바른 문장은 “Tom studies English during study time, so the daily task is complete.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom studies English during study time, so the daily task is complete.",
+          "acceptedAnswers": [
+            "Tom studies English during study time, so the daily task is complete.",
+            "Tom studies English during study time, so the daily task is complete"
+          ],
+          "exampleSentence": "Tom studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q06",
+          "stageId": "EN-L09-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 6번: “My brother studies English during study time, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "My brother studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q07",
+          "stageId": "EN-L09-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 7번: The student studies English during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the daily task is complete",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The student studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q08",
+          "stageId": "EN-L09-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 8번: Our teacher studies English during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the daily task is complete",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Our teacher studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q09",
+          "stageId": "EN-L09-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother carries a blue bag before lunch, so the daily task is complete.",
+            "The new student finds the answer in the library, so the daily task is complete.",
+            "Our teacher studies English at home, so the daily task is complete.",
+            "The young artist studies English during study time, so the daily task is complete."
+          ],
+          "correctAnswer": "The young artist studies English during study time, so the daily task is complete.",
+          "explanation": "들은 문장은 “The young artist studies English during study time, so the daily task is complete.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist studies English during study time, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The young artist studies English during study time, so the daily task is complete."
+          ],
+          "exampleSentence": "The young artist studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q10",
+          "stageId": "EN-L09-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 10번: The soccer player studies English during study time, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The soccer player studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q11",
+          "stageId": "EN-L09-C13-S11",
+          "type": "dictation",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The new student studies English during study time, so the daily task is complete.",
+          "explanation": "바른 문장은 “The new student studies English during study time, so the daily task is complete.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student studies English during study time, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The new student studies English during study time, so the daily task is complete.",
+            "The new student studies English during study time, so the daily task is complete"
+          ],
+          "exampleSentence": "The new student studies English during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C13-S11-Q12",
+          "stageId": "EN-L09-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "주제와 요약문 찾기: 과정 평가 · 12번: “Mina plays soccer during study time, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "주제와 요약문 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Mina plays soccer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C05",
+  "stages": [
+    {
+      "stageId": "EN-L09-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S01-Q01",
+          "stageId": "EN-L09-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 1번: The young artist gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "a friend short notes",
+            "subject",
+            "a friend the window"
+          ],
+          "correctAnswer": "a friend the window",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the window입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the window",
+            "a friend the window"
+          ],
+          "exampleSentence": "The young artist gives a friend the window before lunch.",
+          "koreanMeaning": "The young artist는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S01-Q02",
+          "stageId": "EN-L09-C05-S01",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 2번: 핵심 구조가 ‘a friend the window’이면 O, 아니면 X를 고르세요: The soccer player gives a friend the window before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a friend the window입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player gives a friend the window before lunch.",
+          "koreanMeaning": "The soccer player는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S01-Q03",
+          "stageId": "EN-L09-C05-S01",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 3번: The new student gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "a friend the window",
+            "a friend the answer",
+            "a friend English"
+          ],
+          "correctAnswer": "a friend the window",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the window입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the window",
+            "a friend the window"
+          ],
+          "exampleSentence": "The new student gives a friend the window before lunch.",
+          "koreanMeaning": "The new student는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S01-Q04",
+          "stageId": "EN-L09-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 4번: “Mina gives a friend a blue bag before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina는 친구에게 a blue bag을 준다.",
+            "The young artist는 친구에게 the answer을 준다.",
+            "My brother는 친구에게 English을 준다.",
+            "The new student는 친구에게 the window을 준다."
+          ],
+          "correctAnswer": "Mina는 친구에게 a blue bag을 준다.",
+          "explanation": "핵심 의미는 ‘Mina는 친구에게 a blue bag을 준다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 친구에게 a blue bag을 준다."
+          ],
+          "exampleSentence": "Mina gives a friend a blue bag before lunch.",
+          "koreanMeaning": "Mina는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S01-Q05",
+          "stageId": "EN-L09-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 5번: Tom gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "a friend English",
+            "subject",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "Tom gives a friend a blue bag before lunch.",
+          "koreanMeaning": "Tom는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S01-Q06",
+          "stageId": "EN-L09-C05-S01",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother gives a friend a blue bag before lunch My.",
+            "subject",
+            "My brother gives a friend a blue bag before lunch.",
+            "lunch before bag blue a friend a gives brother My."
+          ],
+          "correctAnswer": "My brother gives a friend a blue bag before lunch.",
+          "explanation": "바른 어순은 “My brother gives a friend a blue bag before lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother gives a friend a blue bag before lunch.",
+            "My brother gives a friend a blue bag before lunch"
+          ],
+          "exampleSentence": "My brother gives a friend a blue bag before lunch.",
+          "koreanMeaning": "My brother는 친구에게 a blue bag을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S02-Q01",
+          "stageId": "EN-L09-C05-S02",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 1번: Tom gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "Tom gives a friend short notes during study time.",
+          "koreanMeaning": "Tom는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S02-Q02",
+          "stageId": "EN-L09-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 2번: My brother gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "My brother gives a friend short notes during study time.",
+          "koreanMeaning": "My brother는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S02-Q03",
+          "stageId": "EN-L09-C05-S02",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 3번: “The student gives a friend short notes during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother는 친구에게 short notes을 준다.",
+            "The student는 친구에게 short notes을 준다.",
+            "Mina는 친구에게 the window을 준다.",
+            "The young artist는 친구에게 a simple plan을 준다."
+          ],
+          "correctAnswer": "The student는 친구에게 short notes을 준다.",
+          "explanation": "핵심 의미는 ‘The student는 친구에게 short notes을 준다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The student는 친구에게 short notes을 준다."
+          ],
+          "exampleSentence": "The student gives a friend short notes during study time.",
+          "koreanMeaning": "The student는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S02-Q04",
+          "stageId": "EN-L09-C05-S02",
+          "type": "fillBlank",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 4번: Our teacher gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend short notes",
+            "a friend the window",
+            "a friend a simple plan",
+            "subject"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "Our teacher gives a friend short notes during study time.",
+          "koreanMeaning": "Our teacher는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S02-Q05",
+          "stageId": "EN-L09-C05-S02",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 5번: The young artist gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the window",
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "The young artist gives a friend short notes during study time.",
+          "koreanMeaning": "The young artist는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S02-Q06",
+          "stageId": "EN-L09-C05-S02",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘a friend short notes’이면 O, 아니면 X를 고르세요: The soccer player gives a friend short notes during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player gives a friend short notes during study time.",
+          "koreanMeaning": "The soccer player는 친구에게 short notes을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S03-Q01",
+          "stageId": "EN-L09-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 1번: The young artist gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend books",
+            "a friend English",
+            "subject",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "The young artist gives a friend a blue bag on Saturday morning.",
+          "koreanMeaning": "The young artist는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S03-Q02",
+          "stageId": "EN-L09-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 2번: The soccer player gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "subject",
+            "a friend a blue bag",
+            "a friend books"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "The soccer player gives a friend a blue bag on Saturday morning.",
+          "koreanMeaning": "The soccer player는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S03-Q03",
+          "stageId": "EN-L09-C05-S03",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 3번: 핵심 구조가 ‘a friend books’이면 O, 아니면 X를 고르세요: The new student gives a friend a blue bag on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a friend a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student gives a friend a blue bag on Saturday morning.",
+          "koreanMeaning": "The new student는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S03-Q04",
+          "stageId": "EN-L09-C05-S03",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina gives a friend a simple plan on Saturday morning.",
+            "morning Saturday on plan simple a friend a gives Mina.",
+            "gives a friend a simple plan on Saturday morning Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina gives a friend a simple plan on Saturday morning.",
+          "explanation": "바른 어순은 “Mina gives a friend a simple plan on Saturday morning.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina gives a friend a simple plan on Saturday morning.",
+            "Mina gives a friend a simple plan on Saturday morning"
+          ],
+          "exampleSentence": "Mina gives a friend a simple plan on Saturday morning.",
+          "koreanMeaning": "Mina는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S03-Q05",
+          "stageId": "EN-L09-C05-S03",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 5번: Tom gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend books",
+            "a friend soccer",
+            "subject",
+            "a friend a simple plan"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "Tom gives a friend a simple plan on Saturday morning.",
+          "koreanMeaning": "Tom는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S03-Q06",
+          "stageId": "EN-L09-C05-S03",
+          "type": "fillBlank",
+          "prompt": "부정사 의미상 주어: 문법 구조 분석 · 6번: My brother gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "subject",
+            "a friend a simple plan",
+            "a friend books"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "My brother gives a friend a simple plan on Saturday morning.",
+          "koreanMeaning": "My brother는 친구에게 a simple plan을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S04-Q01",
+          "stageId": "EN-L09-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 1번: Tom gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the window",
+            "a friend the answer",
+            "subject",
+            "a friend English"
+          ],
+          "correctAnswer": "a friend English",
+          "explanation": "4형식 문맥에 맞는 답은 a friend English입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend English",
+            "a friend english"
+          ],
+          "exampleSentence": "Tom gives a friend English at home.",
+          "koreanMeaning": "Tom는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S04-Q02",
+          "stageId": "EN-L09-C05-S04",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother gives a friend English at home My.",
+            "subject",
+            "My brother gives a friend English at home.",
+            "home at English friend a gives brother My."
+          ],
+          "correctAnswer": "My brother gives a friend English at home.",
+          "explanation": "바른 어순은 “My brother gives a friend English at home.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother gives a friend English at home.",
+            "My brother gives a friend English at home"
+          ],
+          "exampleSentence": "My brother gives a friend English at home.",
+          "koreanMeaning": "My brother는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S04-Q03",
+          "stageId": "EN-L09-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 3번: The student gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "a friend English",
+            "a friend a blue bag",
+            "a friend the answer"
+          ],
+          "correctAnswer": "a friend English",
+          "explanation": "4형식 문맥에 맞는 답은 a friend English입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend English",
+            "a friend english"
+          ],
+          "exampleSentence": "The student gives a friend English at home.",
+          "koreanMeaning": "The student는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S04-Q04",
+          "stageId": "EN-L09-C05-S04",
+          "type": "fillBlank",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 4번: Our teacher gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend English",
+            "a friend a blue bag",
+            "a friend the answer",
+            "subject"
+          ],
+          "correctAnswer": "a friend English",
+          "explanation": "4형식 문맥에 맞는 답은 a friend English입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend English",
+            "a friend english"
+          ],
+          "exampleSentence": "Our teacher gives a friend English at home.",
+          "koreanMeaning": "Our teacher는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S04-Q05",
+          "stageId": "EN-L09-C05-S04",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 5번: 핵심 구조가 ‘a friend a blue bag’이면 O, 아니면 X를 고르세요: The young artist gives a friend English at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a friend English입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist gives a friend English at home.",
+          "koreanMeaning": "The young artist는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S04-Q06",
+          "stageId": "EN-L09-C05-S04",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 문장 분석 연습 · 6번: The soccer player gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend books",
+            "subject",
+            "a friend English",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend English",
+          "explanation": "4형식 문맥에 맞는 답은 a friend English입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend English",
+            "a friend english"
+          ],
+          "exampleSentence": "The soccer player gives a friend English at home.",
+          "koreanMeaning": "The soccer player는 친구에게 English을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S05-Q01",
+          "stageId": "EN-L09-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 1번: “The young artist gives a friend a simple plan in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother는 친구에게 short notes을 준다.",
+            "The new student는 친구에게 soccer을 준다.",
+            "Our teacher는 친구에게 a simple plan을 준다.",
+            "The young artist는 친구에게 a simple plan을 준다."
+          ],
+          "correctAnswer": "The young artist는 친구에게 a simple plan을 준다.",
+          "explanation": "핵심 의미는 ‘The young artist는 친구에게 a simple plan을 준다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist는 친구에게 a simple plan을 준다."
+          ],
+          "exampleSentence": "The young artist gives a friend a simple plan in the library.",
+          "koreanMeaning": "The young artist는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S05-Q02",
+          "stageId": "EN-L09-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 2번: The soccer player gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the window",
+            "subject",
+            "a friend a simple plan",
+            "a friend short notes"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "The soccer player gives a friend a simple plan in the library.",
+          "koreanMeaning": "The soccer player는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S05-Q03",
+          "stageId": "EN-L09-C05-S05",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 3번: 핵심 구조가 ‘a friend short notes’이면 O, 아니면 X를 고르세요: The new student gives a friend a simple plan in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a friend a simple plan입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student gives a friend a simple plan in the library.",
+          "koreanMeaning": "The new student는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S05-Q04",
+          "stageId": "EN-L09-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 4번: Mina gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "a friend short notes",
+            "a friend the window",
+            "a friend a simple plan"
+          ],
+          "correctAnswer": "a friend the answer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the answer입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the answer",
+            "a friend the answer"
+          ],
+          "exampleSentence": "Mina gives a friend the answer in the library.",
+          "koreanMeaning": "Mina는 친구에게 the answer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S05-Q05",
+          "stageId": "EN-L09-C05-S05",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 5번: Tom gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend short notes",
+            "a friend the window",
+            "subject",
+            "a friend the answer"
+          ],
+          "correctAnswer": "a friend the answer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the answer입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the answer",
+            "a friend the answer"
+          ],
+          "exampleSentence": "Tom gives a friend the answer in the library.",
+          "koreanMeaning": "Tom는 친구에게 the answer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S05-Q06",
+          "stageId": "EN-L09-C05-S05",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother gives a friend the answer in the library My.",
+            "subject",
+            "My brother gives a friend the answer in the library.",
+            "library the in answer the friend a gives brother My."
+          ],
+          "correctAnswer": "My brother gives a friend the answer in the library.",
+          "explanation": "바른 어순은 “My brother gives a friend the answer in the library.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother gives a friend the answer in the library.",
+            "My brother gives a friend the answer in the library"
+          ],
+          "exampleSentence": "My brother gives a friend the answer in the library.",
+          "koreanMeaning": "My brother는 친구에게 the answer을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S06-Q01",
+          "stageId": "EN-L09-C05-S06",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 1번: “Tom gives a friend soccer before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "The soccer player는 친구에게 a blue bag을 준다.",
+            "The student는 친구에게 books을 준다.",
+            "Mina는 친구에게 soccer을 준다.",
+            "Tom는 친구에게 soccer을 준다."
+          ],
+          "correctAnswer": "Tom는 친구에게 soccer을 준다.",
+          "explanation": "핵심 의미는 ‘Tom는 친구에게 soccer을 준다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 친구에게 soccer을 준다."
+          ],
+          "exampleSentence": "Tom gives a friend soccer before lunch.",
+          "koreanMeaning": "Tom는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S06-Q02",
+          "stageId": "EN-L09-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 2번: My brother gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend books",
+            "subject",
+            "a friend soccer",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend soccer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend soccer입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend soccer",
+            "a friend soccer"
+          ],
+          "exampleSentence": "My brother gives a friend soccer before lunch.",
+          "koreanMeaning": "My brother는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S06-Q03",
+          "stageId": "EN-L09-C05-S06",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 3번: 핵심 구조가 ‘a friend a simple plan’이면 O, 아니면 X를 고르세요: The student gives a friend soccer before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a friend soccer입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student gives a friend soccer before lunch.",
+          "koreanMeaning": "The student는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S06-Q04",
+          "stageId": "EN-L09-C05-S06",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 4번: Our teacher gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "a friend a simple plan",
+            "a friend books",
+            "subject"
+          ],
+          "correctAnswer": "a friend soccer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend soccer입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend soccer",
+            "a friend soccer"
+          ],
+          "exampleSentence": "Our teacher gives a friend soccer before lunch.",
+          "koreanMeaning": "Our teacher는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S06-Q05",
+          "stageId": "EN-L09-C05-S06",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 5번: The young artist gives ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a simple plan",
+            "a friend books",
+            "subject",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend soccer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend soccer입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend soccer",
+            "a friend soccer"
+          ],
+          "exampleSentence": "The young artist gives a friend soccer before lunch.",
+          "koreanMeaning": "The young artist는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S06-Q06",
+          "stageId": "EN-L09-C05-S06",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player gives a friend soccer before lunch The.",
+            "subject",
+            "The soccer player gives a friend soccer before lunch.",
+            "lunch before soccer friend a gives player soccer The."
+          ],
+          "correctAnswer": "The soccer player gives a friend soccer before lunch.",
+          "explanation": "바른 어순은 “The soccer player gives a friend soccer before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player gives a friend soccer before lunch.",
+            "The soccer player gives a friend soccer before lunch"
+          ],
+          "exampleSentence": "The soccer player gives a friend soccer before lunch.",
+          "koreanMeaning": "The soccer player는 친구에게 soccer을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S07-Q01",
+          "stageId": "EN-L09-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother gives a friend English before lunch.",
+            "The new student gives a friend the window in the library.",
+            "Our teacher gives a friend the answer near the school.",
+            "The young artist gives a friend the answer at the community center."
+          ],
+          "correctAnswer": "The young artist gives a friend the answer at the community center.",
+          "explanation": "들은 문장은 “The young artist gives a friend the answer at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist gives a friend the answer at the community center.",
+          "acceptedAnswers": [
+            "The young artist gives a friend the answer at the community center."
+          ],
+          "exampleSentence": "The young artist gives a friend the answer at the community center.",
+          "koreanMeaning": "The young artist는 친구에게 the answer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S07-Q02",
+          "stageId": "EN-L09-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 2번: The soccer player gives ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a blue bag",
+            "subject",
+            "a friend the answer",
+            "a friend English"
+          ],
+          "correctAnswer": "a friend the answer",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the answer입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the answer",
+            "a friend the answer"
+          ],
+          "exampleSentence": "The soccer player gives a friend the answer at the community center.",
+          "koreanMeaning": "The soccer player는 친구에게 the answer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S07-Q03",
+          "stageId": "EN-L09-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player gives a friend the answer near the school.",
+            "The new student gives a friend the answer at the community center.",
+            "Our teacher gives a friend English before lunch.",
+            "Tom gives a friend a blue bag in the library."
+          ],
+          "correctAnswer": "The new student gives a friend the answer at the community center.",
+          "explanation": "들은 문장은 “The new student gives a friend the answer at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student gives a friend the answer at the community center.",
+          "acceptedAnswers": [
+            "The new student gives a friend the answer at the community center."
+          ],
+          "exampleSentence": "The new student gives a friend the answer at the community center.",
+          "koreanMeaning": "The new student는 친구에게 the answer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S07-Q04",
+          "stageId": "EN-L09-C05-S07",
+          "type": "dictation",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina gives a friend books during study time.",
+          "explanation": "바른 문장은 “Mina gives a friend books during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina gives a friend books during study time.",
+          "acceptedAnswers": [
+            "Mina gives a friend books during study time.",
+            "Mina gives a friend books during study time"
+          ],
+          "exampleSentence": "Mina gives a friend books during study time.",
+          "koreanMeaning": "Mina는 친구에게 books을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S07-Q05",
+          "stageId": "EN-L09-C05-S07",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘a friend English’이면 O, 아니면 X를 고르세요: Tom gives a friend books during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a friend books입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom gives a friend books during study time.",
+          "koreanMeaning": "Tom는 친구에게 books을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S07-Q06",
+          "stageId": "EN-L09-C05-S07",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 핵심 정보 듣기 · 6번: My brother gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a blue bag",
+            "subject",
+            "a friend books",
+            "a friend English"
+          ],
+          "correctAnswer": "a friend books",
+          "explanation": "4형식 문맥에 맞는 답은 a friend books입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend books",
+            "a friend books"
+          ],
+          "exampleSentence": "My brother gives a friend books during study time.",
+          "koreanMeaning": "My brother는 친구에게 books을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S08-Q01",
+          "stageId": "EN-L09-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom gives a friend the window on Saturday morning.",
+          "explanation": "“Tom gives a friend the window on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom gives a friend the window on Saturday morning.",
+          "acceptedAnswers": [
+            "Tom gives a friend the window on Saturday morning.",
+            "Tom gives a friend the window on Saturday morning"
+          ],
+          "exampleSentence": "Tom gives a friend the window on Saturday morning.",
+          "koreanMeaning": "Tom는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S08-Q02",
+          "stageId": "EN-L09-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 2번: My brother gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend short notes",
+            "subject",
+            "a friend the window",
+            "a friend a simple plan"
+          ],
+          "correctAnswer": "a friend the window",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the window입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the window",
+            "a friend the window"
+          ],
+          "exampleSentence": "My brother gives a friend the window on Saturday morning.",
+          "koreanMeaning": "My brother는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S08-Q03",
+          "stageId": "EN-L09-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student gives a friend the window on Saturday morning.",
+          "explanation": "“The student gives a friend the window on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student gives a friend the window on Saturday morning.",
+          "acceptedAnswers": [
+            "The student gives a friend the window on Saturday morning.",
+            "The student gives a friend the window on Saturday morning"
+          ],
+          "exampleSentence": "The student gives a friend the window on Saturday morning.",
+          "koreanMeaning": "The student는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S08-Q04",
+          "stageId": "EN-L09-C05-S08",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 4번: “Our teacher gives a friend the window on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher는 친구에게 the window을 준다.",
+            "Tom는 친구에게 the answer을 준다.",
+            "The soccer player는 친구에게 short notes을 준다.",
+            "The student는 친구에게 the window을 준다."
+          ],
+          "correctAnswer": "Our teacher는 친구에게 the window을 준다.",
+          "explanation": "핵심 의미는 ‘Our teacher는 친구에게 the window을 준다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher는 친구에게 the window을 준다."
+          ],
+          "exampleSentence": "Our teacher gives a friend the window on Saturday morning.",
+          "koreanMeaning": "Our teacher는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S08-Q05",
+          "stageId": "EN-L09-C05-S08",
+          "type": "matching",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 5번: The young artist gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "a friend short notes",
+            "subject",
+            "a friend the window"
+          ],
+          "correctAnswer": "a friend the window",
+          "explanation": "4형식 문맥에 맞는 답은 a friend the window입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend the window",
+            "a friend the window"
+          ],
+          "exampleSentence": "The young artist gives a friend the window on Saturday morning.",
+          "koreanMeaning": "The young artist는 친구에게 the window을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S08-Q06",
+          "stageId": "EN-L09-C05-S08",
+          "type": "trueFalse",
+          "prompt": "부정사 의미상 주어: 근거 설명하기 · 6번: 핵심 구조가 ‘a friend the window’이면 O, 아니면 X를 고르세요: The soccer player gives a friend the window on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a friend the window입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player gives a friend the window on Saturday morning.",
+          "koreanMeaning": "The soccer player는 친구에게 the window을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S09-Q01",
+          "stageId": "EN-L09-C05-S09",
+          "type": "fillBlank",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 1번: The young artist gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "a friend a blue bag",
+            "subject",
+            "a friend books"
+          ],
+          "correctAnswer": "a friend books",
+          "explanation": "4형식 문맥에 맞는 답은 a friend books입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend books",
+            "a friend books"
+          ],
+          "exampleSentence": "The young artist gives a friend books at home.",
+          "koreanMeaning": "The young artist는 친구에게 books을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S09-Q02",
+          "stageId": "EN-L09-C05-S09",
+          "type": "dictation",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player gives a friend books at home.",
+          "explanation": "바른 문장은 “The soccer player gives a friend books at home.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player gives a friend books at home.",
+          "acceptedAnswers": [
+            "The soccer player gives a friend books at home.",
+            "The soccer player gives a friend books at home"
+          ],
+          "exampleSentence": "The soccer player gives a friend books at home.",
+          "koreanMeaning": "The soccer player는 친구에게 books을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S09-Q03",
+          "stageId": "EN-L09-C05-S09",
+          "type": "ordering",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student gives a friend books at home.",
+            "home at books friend a gives student new The.",
+            "new student gives a friend books at home The."
+          ],
+          "correctAnswer": "The new student gives a friend books at home.",
+          "explanation": "바른 어순은 “The new student gives a friend books at home.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student gives a friend books at home.",
+            "The new student gives a friend books at home"
+          ],
+          "exampleSentence": "The new student gives a friend books at home.",
+          "koreanMeaning": "The new student는 친구에게 books을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S09-Q04",
+          "stageId": "EN-L09-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 4번: Mina gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend short notes",
+            "a friend soccer",
+            "a friend a simple plan",
+            "a friend books"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "Mina gives a friend short notes at home.",
+          "koreanMeaning": "Mina는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S09-Q05",
+          "stageId": "EN-L09-C05-S09",
+          "type": "fillBlank",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 5번: Tom gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "Tom gives a friend short notes at home.",
+          "koreanMeaning": "Tom는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S09-Q06",
+          "stageId": "EN-L09-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 논리 문장 쓰기 · 6번: My brother gives ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "My brother gives a friend short notes at home.",
+          "koreanMeaning": "My brother는 친구에게 short notes을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C05-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C05-S10-Q01",
+          "stageId": "EN-L09-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 1번: Tom gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "a friend English",
+            "subject",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "Tom gives a friend a blue bag in the library.",
+          "koreanMeaning": "Tom는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q02",
+          "stageId": "EN-L09-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 2번: My brother gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend English",
+            "subject",
+            "a friend a blue bag",
+            "a friend the answer"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "My brother gives a friend a blue bag in the library.",
+          "koreanMeaning": "My brother는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q03",
+          "stageId": "EN-L09-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother gives a friend a blue bag at the community center.",
+            "The student gives a friend a blue bag in the library.",
+            "Mina gives a friend books at home.",
+            "The young artist gives a friend English on Saturday morning."
+          ],
+          "correctAnswer": "The student gives a friend a blue bag in the library.",
+          "explanation": "들은 문장은 “The student gives a friend a blue bag in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student gives a friend a blue bag in the library.",
+          "acceptedAnswers": [
+            "The student gives a friend a blue bag in the library."
+          ],
+          "exampleSentence": "The student gives a friend a blue bag in the library.",
+          "koreanMeaning": "The student는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q04",
+          "stageId": "EN-L09-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 4번: Our teacher gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a blue bag",
+            "a friend books",
+            "a friend English",
+            "subject"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "Our teacher gives a friend a blue bag in the library.",
+          "koreanMeaning": "Our teacher는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q05",
+          "stageId": "EN-L09-C05-S10",
+          "type": "dictation",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist gives a friend a blue bag in the library.",
+          "explanation": "바른 문장은 “The young artist gives a friend a blue bag in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist gives a friend a blue bag in the library.",
+          "acceptedAnswers": [
+            "The young artist gives a friend a blue bag in the library.",
+            "The young artist gives a friend a blue bag in the library"
+          ],
+          "exampleSentence": "The young artist gives a friend a blue bag in the library.",
+          "koreanMeaning": "The young artist는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q06",
+          "stageId": "EN-L09-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 6번: “The soccer player gives a friend a blue bag in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina는 친구에게 soccer을 준다.",
+            "The young artist는 친구에게 a blue bag을 준다.",
+            "The soccer player는 친구에게 a blue bag을 준다.",
+            "The student는 친구에게 books을 준다."
+          ],
+          "correctAnswer": "The soccer player는 친구에게 a blue bag을 준다.",
+          "explanation": "핵심 의미는 ‘The soccer player는 친구에게 a blue bag을 준다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player는 친구에게 a blue bag을 준다."
+          ],
+          "exampleSentence": "The soccer player gives a friend a blue bag in the library.",
+          "koreanMeaning": "The soccer player는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q07",
+          "stageId": "EN-L09-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 7번: The new student gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "a friend a blue bag",
+            "a friend books",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "The new student gives a friend a blue bag in the library.",
+          "koreanMeaning": "The new student는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q08",
+          "stageId": "EN-L09-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 8번: Mina gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a simple plan",
+            "a friend books",
+            "a friend soccer",
+            "a friend a blue bag"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "Mina gives a friend a simple plan in the library.",
+          "koreanMeaning": "Mina는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q09",
+          "stageId": "EN-L09-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player gives a friend books at home.",
+            "The student gives a friend soccer on Saturday morning.",
+            "Mina gives a friend a simple plan at the community center.",
+            "Tom gives a friend a simple plan in the library."
+          ],
+          "correctAnswer": "Tom gives a friend a simple plan in the library.",
+          "explanation": "들은 문장은 “Tom gives a friend a simple plan in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom gives a friend a simple plan in the library.",
+          "acceptedAnswers": [
+            "Tom gives a friend a simple plan in the library."
+          ],
+          "exampleSentence": "Tom gives a friend a simple plan in the library.",
+          "koreanMeaning": "Tom는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q10",
+          "stageId": "EN-L09-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 10번: My brother gives ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "subject",
+            "a friend a simple plan",
+            "a friend books"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "My brother gives a friend a simple plan in the library.",
+          "koreanMeaning": "My brother는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q11",
+          "stageId": "EN-L09-C05-S10",
+          "type": "dictation",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student gives a friend a simple plan in the library.",
+          "explanation": "바른 문장은 “The student gives a friend a simple plan in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student gives a friend a simple plan in the library.",
+          "acceptedAnswers": [
+            "The student gives a friend a simple plan in the library.",
+            "The student gives a friend a simple plan in the library"
+          ],
+          "exampleSentence": "The student gives a friend a simple plan in the library.",
+          "koreanMeaning": "The student는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C05-S10-Q12",
+          "stageId": "EN-L09-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "부정사 의미상 주어: 과정 평가 · 12번: “Our teacher gives a friend a simple plan in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher는 친구에게 a simple plan을 준다.",
+            "Tom는 친구에게 short notes을 준다.",
+            "The soccer player는 친구에게 soccer을 준다.",
+            "The student는 친구에게 a simple plan을 준다."
+          ],
+          "correctAnswer": "Our teacher는 친구에게 a simple plan을 준다.",
+          "explanation": "핵심 의미는 ‘Our teacher는 친구에게 a simple plan을 준다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "부정사 의미상 주어 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher는 친구에게 a simple plan을 준다."
+          ],
+          "exampleSentence": "Our teacher gives a friend a simple plan in the library.",
+          "koreanMeaning": "Our teacher는 친구에게 a simple plan을 준다."
+        }
+      ]
+    }
+  ]
+}

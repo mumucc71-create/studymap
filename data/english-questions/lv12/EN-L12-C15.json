@@ -1,0 +1,3274 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C15",
+  "stages": [
+    {
+      "stageId": "EN-L12-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S01-Q01",
+          "stageId": "EN-L12-C15-S01",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in a recent class discussion.",
+          "choices": [
+            "was confirmed",
+            "to join",
+            "where",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S01-Q02",
+          "stageId": "EN-L12-C15-S01",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in a recent class discussion.",
+          "choices": [
+            "which",
+            "because",
+            "is examining",
+            "To understand"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S01-Q03",
+          "stageId": "EN-L12-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The teacher asked us to compare the texts. This structure is examined in a recent class discussion.",
+          "choices": [
+            "her",
+            "to compare",
+            "where",
+            "while"
+          ],
+          "correctAnswer": "to compare",
+          "explanation": "문장 구조상 to compare이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to compare",
+            "to compare"
+          ],
+          "exampleSentence": "The teacher asked us to compare the texts. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 to compare이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S01-Q04",
+          "stageId": "EN-L12-C15-S01",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The student who led the team spoke clearly. This structure is examined during the science project.",
+          "choices": [
+            "who",
+            "After",
+            "their",
+            "highly"
+          ],
+          "correctAnswer": "who",
+          "explanation": "문장 구조상 who이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "who",
+            "who"
+          ],
+          "exampleSentence": "The student who led the team spoke clearly. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 who이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S01-Q05",
+          "stageId": "EN-L12-C15-S01",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The class waited until the teacher arrived. This structure is examined during the science project.",
+          "choices": [
+            "its",
+            "gradually",
+            "more complex",
+            "until"
+          ],
+          "correctAnswer": "until",
+          "explanation": "문장 구조상 until이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "until",
+            "until"
+          ],
+          "exampleSentence": "The class waited until the teacher arrived. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 until이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S01-Q06",
+          "stageId": "EN-L12-C15-S01",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "both behavior and language",
+            "This",
+            "careful"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S02-Q01",
+          "stageId": "EN-L12-C15-S02",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer emphasizes one practical solution. This structure is examined during the community meeting.",
+          "choices": [
+            "rapid growth of online learning platforms",
+            "briefly mentions",
+            "causes, effects, and solutions",
+            "emphasizes"
+          ],
+          "correctAnswer": "emphasizes",
+          "explanation": "문장 구조상 emphasizes이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emphasizes",
+            "emphasizes"
+          ],
+          "exampleSentence": "The writer emphasizes one practical solution. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 emphasizes이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S02-Q02",
+          "stageId": "EN-L12-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The increasing demand for clean energy changes public policy. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "belongs",
+            "increasing demand for clean energy",
+            "nearly completed"
+          ],
+          "correctAnswer": "increasing demand for clean energy",
+          "explanation": "문장 구조상 increasing demand for clean energy이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increasing demand for clean energy",
+            "increasing demand for clean energy"
+          ],
+          "exampleSentence": "The increasing demand for clean energy changes public policy. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 increasing demand for clean energy이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S02-Q03",
+          "stageId": "EN-L12-C15-S02",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "in detail",
+            "to distinguish",
+            "has"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S02-Q04",
+          "stageId": "EN-L12-C15-S02",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "is",
+            "are tested",
+            "Reading"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S02-Q05",
+          "stageId": "EN-L12-C15-S02",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined during the community meeting.",
+          "choices": [
+            "was confirmed",
+            "to join",
+            "where",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S02-Q06",
+          "stageId": "EN-L12-C15-S02",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined during the community meeting.",
+          "choices": [
+            "which",
+            "because",
+            "is examining",
+            "To understand"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S03-Q01",
+          "stageId": "EN-L12-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined during the science project.",
+          "choices": [
+            "quickly",
+            "as carefully as",
+            "practical, affordable, and effective",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S03-Q02",
+          "stageId": "EN-L12-C15-S03",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students made an accurate prediction. This structure is examined during the science project.",
+          "choices": [
+            "explains the cause and predicts the effect",
+            "unnecessary detail",
+            "accurate",
+            "twice as large as"
+          ],
+          "correctAnswer": "accurate",
+          "explanation": "문장 구조상 accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accurate",
+            "accurate"
+          ],
+          "exampleSentence": "Students made an accurate prediction. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S03-Q03",
+          "stageId": "EN-L12-C15-S03",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined during the science project.",
+          "choices": [
+            "long-term effects of daily exercise",
+            "the easiest",
+            "easy to use and simple to explain",
+            "main idea"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S03-Q04",
+          "stageId": "EN-L12-C15-S03",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team collected, organized, and analyzed the data. This structure is examined in the environmental report.",
+          "choices": [
+            "collected, organized, and analyzed",
+            "final result",
+            "social impact of technology",
+            "the following noun"
+          ],
+          "correctAnswer": "collected, organized, and analyzed",
+          "explanation": "문장 구조상 collected, organized, and analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "collected, organized, and analyzed",
+            "collected, organized, and analyzed"
+          ],
+          "exampleSentence": "The team collected, organized, and analyzed the data. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 collected, organized, and analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S03-Q05",
+          "stageId": "EN-L12-C15-S03",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer emphasizes one practical solution. This structure is examined in the environmental report.",
+          "choices": [
+            "rapid growth of online learning platforms",
+            "briefly mentions",
+            "causes, effects, and solutions",
+            "emphasizes"
+          ],
+          "correctAnswer": "emphasizes",
+          "explanation": "문장 구조상 emphasizes이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emphasizes",
+            "emphasizes"
+          ],
+          "exampleSentence": "The writer emphasizes one practical solution. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 emphasizes이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S03-Q06",
+          "stageId": "EN-L12-C15-S03",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The increasing demand for clean energy changes public policy. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "belongs",
+            "increasing demand for clean energy",
+            "nearly completed"
+          ],
+          "correctAnswer": "increasing demand for clean energy",
+          "explanation": "문장 구조상 increasing demand for clean energy이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "increasing demand for clean energy",
+            "increasing demand for clean energy"
+          ],
+          "exampleSentence": "The increasing demand for clean energy changes public policy. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 increasing demand for clean energy이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S04-Q01",
+          "stageId": "EN-L12-C15-S04",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined in the school research paper.",
+          "choices": [
+            "to revise",
+            "when",
+            "In addition to",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S04-Q02",
+          "stageId": "EN-L12-C15-S04",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The students enjoyed discussing the issue. This structure is examined in the school research paper.",
+          "choices": [
+            "Although",
+            "These",
+            "discussing",
+            "that"
+          ],
+          "correctAnswer": "discussing",
+          "explanation": "문장 구조상 discussing이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "discussing",
+            "discussing"
+          ],
+          "exampleSentence": "The students enjoyed discussing the issue. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 discussing이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S04-Q03",
+          "stageId": "EN-L12-C15-S04",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Monday is the day when the survey starts. This structure is examined in the school research paper.",
+          "choices": [
+            "effectively",
+            "when",
+            "Because of",
+            "their"
+          ],
+          "correctAnswer": "when",
+          "explanation": "문장 구조상 when이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "when",
+            "when"
+          ],
+          "exampleSentence": "Monday is the day when the survey starts. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 when이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S04-Q04",
+          "stageId": "EN-L12-C15-S04",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite the delay, the report was finished. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "Those",
+            "surprisingly",
+            "the most accurate"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite the delay, the report was finished. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S04-Q05",
+          "stageId": "EN-L12-C15-S04",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in the school research paper.",
+          "choices": [
+            "quickly",
+            "as carefully as",
+            "practical, affordable, and effective",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S04-Q06",
+          "stageId": "EN-L12-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students made an accurate prediction. This structure is examined in the school research paper.",
+          "choices": [
+            "explains the cause and predicts the effect",
+            "unnecessary detail",
+            "accurate",
+            "twice as large as"
+          ],
+          "correctAnswer": "accurate",
+          "explanation": "문장 구조상 accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "accurate",
+            "accurate"
+          ],
+          "exampleSentence": "Students made an accurate prediction. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 accurate이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S05-Q01",
+          "stageId": "EN-L12-C15-S05",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. A new method for analyzing language improves accuracy. This structure is examined in the environmental report.",
+          "choices": [
+            "during the morning session",
+            "that",
+            "show",
+            "new method for analyzing language"
+          ],
+          "correctAnswer": "new method for analyzing language",
+          "explanation": "문장 구조상 new method for analyzing language이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "new method for analyzing language",
+            "new method for analyzing language"
+          ],
+          "exampleSentence": "A new method for analyzing language improves accuracy. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 new method for analyzing language이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S05-Q02",
+          "stageId": "EN-L12-C15-S05",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "will review",
+            "mainly explains",
+            "more practical"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S05-Q03",
+          "stageId": "EN-L12-C15-S05",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in the environmental report.",
+          "choices": [
+            "wasting",
+            "their",
+            "work",
+            "have discussed"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S05-Q04",
+          "stageId": "EN-L12-C15-S05",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "is",
+            "explains",
+            "writing",
+            "who"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S05-Q05",
+          "stageId": "EN-L12-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "to revise",
+            "when",
+            "In addition to",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S05-Q06",
+          "stageId": "EN-L12-C15-S05",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The students enjoyed discussing the issue. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Although",
+            "These",
+            "discussing",
+            "that"
+          ],
+          "correctAnswer": "discussing",
+          "explanation": "문장 구조상 discussing이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "discussing",
+            "discussing"
+          ],
+          "exampleSentence": "The students enjoyed discussing the issue. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 discussing이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S06-Q01",
+          "stageId": "EN-L12-C15-S06",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The careful analysis revealed a pattern. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "both behavior and language",
+            "clear contrast",
+            "careful"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "문장 구조상 careful이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "The careful analysis revealed a pattern. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 careful이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S06-Q02",
+          "stageId": "EN-L12-C15-S06",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "is clear",
+            "main purpose of the community project",
+            "less difficult",
+            "to read and to write"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S06-Q03",
+          "stageId": "EN-L12-C15-S06",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina enjoys reading and discussing articles. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "reading and discussing",
+            "central claim",
+            "careful review of the available evidence"
+          ],
+          "correctAnswer": "reading and discussing",
+          "explanation": "문장 구조상 reading and discussing이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reading and discussing",
+            "reading and discussing"
+          ],
+          "exampleSentence": "Mina enjoys reading and discussing articles. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 reading and discussing이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S06-Q04",
+          "stageId": "EN-L12-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This short form keeps the original meaning. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "original meaning",
+            "important results from the survey",
+            "carefully examined",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "original meaning",
+          "explanation": "문장 구조상 original meaning이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "original meaning",
+            "original meaning"
+          ],
+          "exampleSentence": "This short form keeps the original meaning. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 original meaning이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S06-Q05",
+          "stageId": "EN-L12-C15-S06",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. A new method for analyzing language improves accuracy. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "that",
+            "show",
+            "new method for analyzing language"
+          ],
+          "correctAnswer": "new method for analyzing language",
+          "explanation": "문장 구조상 new method for analyzing language이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "new method for analyzing language",
+            "new method for analyzing language"
+          ],
+          "exampleSentence": "A new method for analyzing language improves accuracy. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 new method for analyzing language이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S06-Q06",
+          "stageId": "EN-L12-C15-S06",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "affect",
+            "will review",
+            "mainly explains",
+            "more practical"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S07-Q01",
+          "stageId": "EN-L12-C15-S07",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. To understand the result takes time. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "which",
+            "because",
+            "This",
+            "To understand"
+          ],
+          "correctAnswer": "To understand",
+          "explanation": "문장 구조상 To understand이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "To understand",
+            "to understand"
+          ],
+          "exampleSentence": "To understand the result takes time. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 To understand이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S07-Q02",
+          "stageId": "EN-L12-C15-S07",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. We visited the room where the samples are stored. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "significant",
+            "where",
+            "while"
+          ],
+          "correctAnswer": "where",
+          "explanation": "문장 구조상 where이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "where",
+            "where"
+          ],
+          "exampleSentence": "We visited the room where the samples are stored. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 where이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S07-Q03",
+          "stageId": "EN-L12-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. After the meeting, students revised the plan. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "After",
+            "their",
+            "highly"
+          ],
+          "correctAnswer": "After",
+          "explanation": "문장 구조상 After이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "After",
+            "after"
+          ],
+          "exampleSentence": "After the meeting, students revised the plan. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 After이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S07-Q04",
+          "stageId": "EN-L12-C15-S07",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "gradually",
+            "more complex",
+            "reduce waste and protect resources"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S07-Q05",
+          "stageId": "EN-L12-C15-S07",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The careful analysis revealed a pattern. This structure is examined in a study about human behavior.",
+          "choices": [
+            "more reliable",
+            "both behavior and language",
+            "clear contrast",
+            "careful"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "문장 구조상 careful이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "The careful analysis revealed a pattern. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 careful이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S07-Q06",
+          "stageId": "EN-L12-C15-S07",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined in a study about human behavior.",
+          "choices": [
+            "is clear",
+            "main purpose of the community project",
+            "less difficult",
+            "to read and to write"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S08-Q01",
+          "stageId": "EN-L12-C15-S08",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "provides",
+            "belongs",
+            "is examining",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S08-Q02",
+          "stageId": "EN-L12-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "completed",
+            "to compare",
+            "to distinguish",
+            "has"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Students need to distinguish fact from opinion. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S08-Q03",
+          "stageId": "EN-L12-C15-S08",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "who",
+            "is",
+            "are tested",
+            "Reading"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Neither answer is correct. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S08-Q04",
+          "stageId": "EN-L12-C15-S08",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "was confirmed",
+            "to join",
+            "where",
+            "until"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The result was confirmed last week. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S08-Q05",
+          "stageId": "EN-L12-C15-S08",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "which",
+            "because",
+            "This",
+            "To understand"
+          ],
+          "correctAnswer": "To understand",
+          "explanation": "문장 구조상 To understand이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "To understand the result takes time. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "To understand",
+            "to understand"
+          ],
+          "exampleSentence": "To understand the result takes time. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 To understand이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S08-Q06",
+          "stageId": "EN-L12-C15-S08",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "her",
+            "significant",
+            "where",
+            "while"
+          ],
+          "correctAnswer": "where",
+          "explanation": "문장 구조상 where이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We visited the room where the samples are stored. This structure is examined in a recent class discussion.",
+          "acceptedAnswers": [
+            "where",
+            "where"
+          ],
+          "exampleSentence": "We visited the room where the samples are stored. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 where이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S09-Q01",
+          "stageId": "EN-L12-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in a study about human behavior.",
+          "choices": [
+            "explains the cause and predicts the effect",
+            "unnecessary detail",
+            "increasing demand for clean energy",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S09-Q02",
+          "stageId": "EN-L12-C15-S09",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The method is easy to use and simple to explain. This structure is examined in a study about human behavior.",
+          "choices": [
+            "long-term effects of daily exercise",
+            "in detail",
+            "easy to use and simple to explain",
+            "main idea"
+          ],
+          "correctAnswer": "easy to use and simple to explain",
+          "explanation": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easy to use and simple to explain",
+            "easy to use and simple to explain"
+          ],
+          "exampleSentence": "The method is easy to use and simple to explain. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S09-Q03",
+          "stageId": "EN-L12-C15-S09",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The statement focuses on the final result. This structure is examined in a study about human behavior.",
+          "choices": [
+            "Despite",
+            "final result",
+            "social impact of technology",
+            "the following noun"
+          ],
+          "correctAnswer": "final result",
+          "explanation": "문장 구조상 final result이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "final result",
+            "final result"
+          ],
+          "exampleSentence": "The statement focuses on the final result. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 final result이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S09-Q04",
+          "stageId": "EN-L12-C15-S09",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The rapid growth of online learning platforms affects study habits. This structure is examined during the community meeting.",
+          "choices": [
+            "rapid growth of online learning platforms",
+            "briefly mentions",
+            "causes, effects, and solutions",
+            "is"
+          ],
+          "correctAnswer": "rapid growth of online learning platforms",
+          "explanation": "문장 구조상 rapid growth of online learning platforms이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rapid growth of online learning platforms",
+            "rapid growth of online learning platforms"
+          ],
+          "exampleSentence": "The rapid growth of online learning platforms affects study habits. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 rapid growth of online learning platforms이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S09-Q05",
+          "stageId": "EN-L12-C15-S09",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "belongs",
+            "is examining",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S09-Q06",
+          "stageId": "EN-L12-C15-S09",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "to compare",
+            "to distinguish",
+            "has"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S10-Q01",
+          "stageId": "EN-L12-C15-S10",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The book that explains the theory is useful. This structure is examined during the science project.",
+          "choices": [
+            "Although",
+            "These",
+            "accurate",
+            "that"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The book that explains the theory is useful. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S10-Q02",
+          "stageId": "EN-L12-C15-S10",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Because of the rain, the event moved indoors. This structure is examined during the science project.",
+          "choices": [
+            "effectively",
+            "the easiest",
+            "Because of",
+            "their"
+          ],
+          "correctAnswer": "Because of",
+          "explanation": "문장 구조상 Because of이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Because of",
+            "because of"
+          ],
+          "exampleSentence": "Because of the rain, the event moved indoors. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 Because of이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S10-Q03",
+          "stageId": "EN-L12-C15-S10",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined during the science project.",
+          "choices": [
+            "collected, organized, and analyzed",
+            "Those",
+            "surprisingly",
+            "the most accurate"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S10-Q04",
+          "stageId": "EN-L12-C15-S10",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team responded quickly. This structure is examined during the science project.",
+          "choices": [
+            "quickly",
+            "as carefully as",
+            "practical, affordable, and effective",
+            "emphasizes"
+          ],
+          "correctAnswer": "quickly",
+          "explanation": "문장 구조상 quickly이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quickly",
+            "quickly"
+          ],
+          "exampleSentence": "The team responded quickly. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 quickly이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S10-Q05",
+          "stageId": "EN-L12-C15-S10",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined during the science project.",
+          "choices": [
+            "explains the cause and predicts the effect",
+            "unnecessary detail",
+            "increasing demand for clean energy",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S10-Q06",
+          "stageId": "EN-L12-C15-S10",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The method is easy to use and simple to explain. This structure is examined during the science project.",
+          "choices": [
+            "long-term effects of daily exercise",
+            "in detail",
+            "easy to use and simple to explain",
+            "main idea"
+          ],
+          "correctAnswer": "easy to use and simple to explain",
+          "explanation": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easy to use and simple to explain",
+            "easy to use and simple to explain"
+          ],
+          "exampleSentence": "The method is easy to use and simple to explain. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S11-Q01",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "will review",
+            "discussing",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q02",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the community meeting.",
+          "choices": [
+            "wasting",
+            "when",
+            "work",
+            "have discussed"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q03",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "explains",
+            "writing",
+            "who"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q04",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The class decided to revise the plan. This structure is examined in the school research paper.",
+          "choices": [
+            "to revise",
+            "when",
+            "In addition to",
+            "its"
+          ],
+          "correctAnswer": "to revise",
+          "explanation": "문장 구조상 to revise이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to revise",
+            "to revise"
+          ],
+          "exampleSentence": "The class decided to revise the plan. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 to revise이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q05",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The book that explains the theory is useful. This structure is examined in the school research paper.",
+          "choices": [
+            "Although",
+            "These",
+            "accurate",
+            "that"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The book that explains the theory is useful. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q06",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Because of the rain, the event moved indoors. This structure is examined in the school research paper.",
+          "choices": [
+            "effectively",
+            "the easiest",
+            "Because of",
+            "their"
+          ],
+          "correctAnswer": "Because of",
+          "explanation": "문장 구조상 Because of이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Because of",
+            "because of"
+          ],
+          "exampleSentence": "Because of the rain, the event moved indoors. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 Because of이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q07",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined in the school research paper.",
+          "choices": [
+            "collected, organized, and analyzed",
+            "Those",
+            "surprisingly",
+            "the most accurate"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q08",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The team responded quickly. This structure is examined in the school research paper.",
+          "choices": [
+            "quickly",
+            "as carefully as",
+            "practical, affordable, and effective",
+            "emphasizes"
+          ],
+          "correctAnswer": "quickly",
+          "explanation": "문장 구조상 quickly이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quickly",
+            "quickly"
+          ],
+          "exampleSentence": "The team responded quickly. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 quickly이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q09",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 9번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in the school research paper.",
+          "choices": [
+            "explains the cause and predicts the effect",
+            "unnecessary detail",
+            "increasing demand for clean energy",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S11-Q10",
+          "stageId": "EN-L12-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 누적 어휘·구문 복습 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The method is easy to use and simple to explain. This structure is examined in the school research paper.",
+          "choices": [
+            "long-term effects of daily exercise",
+            "in detail",
+            "easy to use and simple to explain",
+            "main idea"
+          ],
+          "correctAnswer": "easy to use and simple to explain",
+          "explanation": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easy to use and simple to explain",
+            "easy to use and simple to explain"
+          ],
+          "exampleSentence": "The method is easy to use and simple to explain. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 easy to use and simple to explain이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S12-Q01",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students learn to read and to write clearly. This structure is examined in the environmental report.",
+          "choices": [
+            "is clear",
+            "main purpose of the community project",
+            "mainly explains",
+            "to read and to write"
+          ],
+          "correctAnswer": "to read and to write",
+          "explanation": "문장 구조상 to read and to write이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read and to write",
+            "to read and to write"
+          ],
+          "exampleSentence": "Students learn to read and to write clearly. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 to read and to write이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q02",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Only the central claim needs attention here. This structure is examined in the environmental report.",
+          "choices": [
+            "only the recent results",
+            "their",
+            "central claim",
+            "careful review of the available evidence"
+          ],
+          "correctAnswer": "central claim",
+          "explanation": "문장 구조상 central claim이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "central claim",
+            "central claim"
+          ],
+          "exampleSentence": "Only the central claim needs attention here. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 central claim이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q03",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Several important results from the survey require explanation. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "important results from the survey",
+            "carefully examined",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "important results from the survey",
+          "explanation": "문장 구조상 important results from the survey이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "important results from the survey",
+            "important results from the survey"
+          ],
+          "exampleSentence": "Several important results from the survey require explanation. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 important results from the survey이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q04",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined in the environmental report.",
+          "choices": [
+            "during the morning session",
+            "that",
+            "show",
+            "has revealed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q05",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "will review",
+            "discussing",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q06",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in the environmental report.",
+          "choices": [
+            "wasting",
+            "when",
+            "work",
+            "have discussed"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q07",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "explains",
+            "writing",
+            "who"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q08",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The class decided to revise the plan. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "to revise",
+            "when",
+            "In addition to",
+            "its"
+          ],
+          "correctAnswer": "to revise",
+          "explanation": "문장 구조상 to revise이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to revise",
+            "to revise"
+          ],
+          "exampleSentence": "The class decided to revise the plan. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 to revise이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q09",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The book that explains the theory is useful. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Although",
+            "These",
+            "accurate",
+            "that"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The book that explains the theory is useful. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q10",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. Because of the rain, the event moved indoors. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "effectively",
+            "the easiest",
+            "Because of",
+            "their"
+          ],
+          "correctAnswer": "Because of",
+          "explanation": "문장 구조상 Because of이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Because of",
+            "because of"
+          ],
+          "exampleSentence": "Because of the rain, the event moved indoors. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 Because of이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q11",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "collected, organized, and analyzed",
+            "Those",
+            "surprisingly",
+            "the most accurate"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S12-Q12",
+          "stageId": "EN-L12-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "수능 어법 보스 테스트: 시간 제한 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The team responded quickly. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "quickly",
+            "as carefully as",
+            "practical, affordable, and effective",
+            "emphasizes"
+          ],
+          "correctAnswer": "quickly",
+          "explanation": "문장 구조상 quickly이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quickly",
+            "quickly"
+          ],
+          "exampleSentence": "The team responded quickly. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 quickly이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S13-Q01",
+          "stageId": "EN-L12-C15-S13",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The team worked while the data was loading. This structure is examined in the school research paper.",
+          "choices": [
+            "her",
+            "significant",
+            "less difficult",
+            "while"
+          ],
+          "correctAnswer": "while",
+          "explanation": "문장 구조상 while이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "while",
+            "while"
+          ],
+          "exampleSentence": "The team worked while the data was loading. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 while이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S13-Q02",
+          "stageId": "EN-L12-C15-S13",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in the school research paper.",
+          "choices": [
+            "better",
+            "reading and discussing",
+            "their",
+            "highly"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S13-Q03",
+          "stageId": "EN-L12-C15-S13",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The number increased gradually. This structure is examined in the school research paper.",
+          "choices": [
+            "original meaning",
+            "gradually",
+            "more complex",
+            "reduce waste and protect resources"
+          ],
+          "correctAnswer": "gradually",
+          "explanation": "문장 구조상 gradually이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gradually",
+            "gradually"
+          ],
+          "exampleSentence": "The number increased gradually. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 gradually이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S13-Q04",
+          "stageId": "EN-L12-C15-S13",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "both behavior and language",
+            "clear contrast",
+            "new method for analyzing language"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S13-Q05",
+          "stageId": "EN-L12-C15-S13",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Students learn to read and to write clearly. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "is clear",
+            "main purpose of the community project",
+            "mainly explains",
+            "to read and to write"
+          ],
+          "correctAnswer": "to read and to write",
+          "explanation": "문장 구조상 to read and to write이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read and to write",
+            "to read and to write"
+          ],
+          "exampleSentence": "Students learn to read and to write clearly. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 to read and to write이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S13-Q06",
+          "stageId": "EN-L12-C15-S13",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 고난도 지문 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Only the central claim needs attention here. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "their",
+            "central claim",
+            "careful review of the available evidence"
+          ],
+          "correctAnswer": "central claim",
+          "explanation": "문장 구조상 central claim이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "reading",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 고난도 지문 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "central claim",
+            "central claim"
+          ],
+          "exampleSentence": "Only the central claim needs attention here. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 central claim이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S14",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S14-Q01",
+          "stageId": "EN-L12-C15-S14",
+          "type": "passageGrammar",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "to compare",
+            "where",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S14-Q02",
+          "stageId": "EN-L12-C15-S14",
+          "type": "multipleChoice",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "who",
+            "After",
+            "are tested",
+            "Reading"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S14-Q03",
+          "stageId": "EN-L12-C15-S14",
+          "type": "ordering",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina hopes to join the project. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "to join",
+            "where",
+            "until"
+          ],
+          "correctAnswer": "to join",
+          "explanation": "문장 구조상 to join이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to join",
+            "to join"
+          ],
+          "exampleSentence": "Mina hopes to join the project. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 to join이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S14-Q04",
+          "stageId": "EN-L12-C15-S14",
+          "type": "grammarChoice",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The evidence which supports the claim is strong. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "which",
+            "because",
+            "This",
+            "careful"
+          ],
+          "correctAnswer": "which",
+          "explanation": "문장 구조상 which이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "which",
+            "which"
+          ],
+          "exampleSentence": "The evidence which supports the claim is strong. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 which이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S14-Q05",
+          "stageId": "EN-L12-C15-S14",
+          "type": "grammarError",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team worked while the data was loading. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "significant",
+            "less difficult",
+            "while"
+          ],
+          "correctAnswer": "while",
+          "explanation": "문장 구조상 while이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "while",
+            "while"
+          ],
+          "exampleSentence": "The team worked while the data was loading. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 while이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S14-Q06",
+          "stageId": "EN-L12-C15-S14",
+          "type": "sentenceTransformation",
+          "prompt": "수능 어법 보스 테스트: 실전 세트 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "reading and discussing",
+            "their",
+            "highly"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 실전 세트 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C15-S15",
+      "questions": [
+        {
+          "questionId": "EN-L12-C15-S15-Q01",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The main idea appears at the beginning. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "long-term effects of daily exercise",
+            "in detail",
+            "to distinguish",
+            "main idea"
+          ],
+          "correctAnswer": "main idea",
+          "explanation": "문장 구조상 main idea이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "main idea",
+            "main idea"
+          ],
+          "exampleSentence": "The main idea appears at the beginning. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 main idea이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q02",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The social impact of technology concerns many researchers. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "Despite",
+            "is",
+            "social impact of technology",
+            "the following noun"
+          ],
+          "correctAnswer": "social impact of technology",
+          "explanation": "문장 구조상 social impact of technology이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "social impact of technology",
+            "social impact of technology"
+          ],
+          "exampleSentence": "The social impact of technology concerns many researchers. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 social impact of technology이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q03",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "briefly mentions",
+            "causes, effects, and solutions",
+            "is"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q04",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined in a recent class discussion.",
+          "choices": [
+            "provides",
+            "belongs",
+            "is examining",
+            "To understand"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q05",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined in a recent class discussion.",
+          "choices": [
+            "completed",
+            "to compare",
+            "where",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q06",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined in a recent class discussion.",
+          "choices": [
+            "who",
+            "After",
+            "are tested",
+            "Reading"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q07",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Mina hopes to join the project. This structure is examined in a recent class discussion.",
+          "choices": [
+            "its",
+            "to join",
+            "where",
+            "until"
+          ],
+          "correctAnswer": "to join",
+          "explanation": "문장 구조상 to join이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to join",
+            "to join"
+          ],
+          "exampleSentence": "Mina hopes to join the project. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 to join이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q08",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The evidence which supports the claim is strong. This structure is examined in a recent class discussion.",
+          "choices": [
+            "which",
+            "because",
+            "This",
+            "careful"
+          ],
+          "correctAnswer": "which",
+          "explanation": "문장 구조상 which이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "관계사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "which",
+            "which"
+          ],
+          "exampleSentence": "The evidence which supports the claim is strong. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 which이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q09",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The team worked while the data was loading. This structure is examined in a recent class discussion.",
+          "choices": [
+            "her",
+            "significant",
+            "less difficult",
+            "while"
+          ],
+          "correctAnswer": "while",
+          "explanation": "문장 구조상 while이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "접속사와 전치사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "while",
+            "while"
+          ],
+          "exampleSentence": "The team worked while the data was loading. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 while이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q10",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 10번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "reading and discussing",
+            "their",
+            "highly"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q11",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The number increased gradually. This structure is examined in a recent class discussion.",
+          "choices": [
+            "original meaning",
+            "gradually",
+            "more complex",
+            "reduce waste and protect resources"
+          ],
+          "correctAnswer": "gradually",
+          "explanation": "문장 구조상 gradually이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "형용사와 부사 구별",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "gradually",
+            "gradually"
+          ],
+          "exampleSentence": "The number increased gradually. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 gradually이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q12",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 12번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "both behavior and language",
+            "clear contrast",
+            "new method for analyzing language"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q13",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 13번: 문맥에 가장 알맞은 표현을 고르세요. Students learn to read and to write clearly. This structure is examined during the science project.",
+          "choices": [
+            "is clear",
+            "main purpose of the community project",
+            "mainly explains",
+            "to read and to write"
+          ],
+          "correctAnswer": "to read and to write",
+          "explanation": "문장 구조상 to read and to write이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "병렬과 등위 구조",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read and to write",
+            "to read and to write"
+          ],
+          "exampleSentence": "Students learn to read and to write clearly. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 to read and to write이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q14",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 14번: 문맥에 가장 알맞은 표현을 고르세요. Only the central claim needs attention here. This structure is examined during the science project.",
+          "choices": [
+            "only the recent results",
+            "their",
+            "central claim",
+            "careful review of the available evidence"
+          ],
+          "correctAnswer": "central claim",
+          "explanation": "문장 구조상 central claim이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "도치 강조 생략 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "central claim",
+            "central claim"
+          ],
+          "exampleSentence": "Only the central claim needs attention here. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 central claim이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q15",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 15번: 문맥에 가장 알맞은 표현을 고르세요. Several important results from the survey require explanation. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "important results from the survey",
+            "carefully examined",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "important results from the survey",
+          "explanation": "문장 구조상 important results from the survey이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "긴 명사구 분석",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "important results from the survey",
+            "important results from the survey"
+          ],
+          "exampleSentence": "Several important results from the survey require explanation. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 important results from the survey이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q16",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 16번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined during the science project.",
+          "choices": [
+            "during the morning session",
+            "that",
+            "show",
+            "has revealed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q17",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 17번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "will review",
+            "discussing",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q18",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 18번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the science project.",
+          "choices": [
+            "wasting",
+            "when",
+            "work",
+            "have discussed"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q19",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 19번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "explains",
+            "writing",
+            "who"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C15-S15-Q20",
+          "stageId": "EN-L12-C15-S15",
+          "type": "bossMixed",
+          "prompt": "수능 어법 보스 테스트: 레벨 보스 · 20번: 문맥에 가장 알맞은 표현을 고르세요. The class decided to revise the plan. This structure is examined in the environmental report.",
+          "choices": [
+            "to revise",
+            "when",
+            "In addition to",
+            "its"
+          ],
+          "correctAnswer": "to revise",
+          "explanation": "문장 구조상 to revise이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "boss",
+          "grammarFocus": "준동사 선택",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수능 어법 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to revise",
+            "to revise"
+          ],
+          "exampleSentence": "The class decided to revise the plan. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 to revise이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

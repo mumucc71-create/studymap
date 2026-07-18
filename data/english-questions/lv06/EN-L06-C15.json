@@ -1,0 +1,2829 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L06",
+  "courseId": "EN-L06-C15",
+  "stages": [
+    {
+      "stageId": "EN-L06-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S01-Q01",
+          "stageId": "EN-L06-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 1번: I ___ at seven. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "was cooking",
+            "was sleeping",
+            "were playing",
+            "was reading"
+          ],
+          "correctAnswer": "was reading",
+          "explanation": "과거진행형에 맞는 표현은 was reading입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was reading",
+            "was reading"
+          ],
+          "exampleSentence": "I was reading at seven.",
+          "koreanMeaning": "나는 일곱 시에 읽고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S01-Q02",
+          "stageId": "EN-L06-C15-S01",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 2번: 핵심 표현이 ‘is going to’이면 O, 아니면 X를 고르세요: She is going to cook.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 is going to이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She is going to cook.",
+          "koreanMeaning": "그녀는 요리할 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S01-Q03",
+          "stageId": "EN-L06-C15-S01",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 3번: She ___ go now. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "has to",
+            "must",
+            "have to"
+          ],
+          "correctAnswer": "has to",
+          "explanation": "must와 have to에 맞는 표현은 has to입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has to",
+            "has to"
+          ],
+          "exampleSentence": "She has to go now.",
+          "koreanMeaning": "그녀는 지금 가야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S01-Q04",
+          "stageId": "EN-L06-C15-S01",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 4번: “We should help them.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 그들을 도와야 한다.",
+            "너는 쉬는 것이 좋다.",
+            "그는 물을 마시는 것이 좋다.",
+            "그녀는 의사를 만나는 것이 좋다."
+          ],
+          "correctAnswer": "우리는 그들을 도와야 한다.",
+          "explanation": "뜻은 ‘우리는 그들을 도와야 한다.’입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 그들을 도와야 한다."
+          ],
+          "exampleSentence": "We should help them.",
+          "koreanMeaning": "우리는 그들을 도와야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S01-Q05",
+          "stageId": "EN-L06-C15-S01",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 5번: This is ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the tallest",
+            "the biggest",
+            "the fastest",
+            "the easiest"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "최상급 기초에 맞는 표현은 the easiest입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "This is the easiest book.",
+          "koreanMeaning": "이것은 가장 쉬운 책이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S01-Q06",
+          "stageId": "EN-L06-C15-S01",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "want to read I.",
+            "is",
+            "I want to read.",
+            "read to want I."
+          ],
+          "correctAnswer": "I want to read.",
+          "explanation": "바른 어순은 “I want to read.”입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I want to read.",
+            "I want to read"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S02-Q01",
+          "stageId": "EN-L06-C15-S02",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 1번: We plan ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to read",
+            "to sing",
+            "to study",
+            "to travel"
+          ],
+          "correctAnswer": "to travel",
+          "explanation": "to부정사 기초에 맞는 표현은 to travel입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to travel",
+            "to travel"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S02-Q02",
+          "stageId": "EN-L06-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 2번: They like ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "singing",
+            "swimming",
+            "drawing",
+            "reading"
+          ],
+          "correctAnswer": "drawing",
+          "explanation": "동명사 기초에 맞는 표현은 drawing입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drawing",
+            "drawing"
+          ],
+          "exampleSentence": "They like drawing.",
+          "koreanMeaning": "그들은 그림 그리기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S02-Q03",
+          "stageId": "EN-L06-C15-S02",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 3번: “Wash your hands before eating.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 방과 후에 논다.",
+            "먹기 전에 손을 씻어라.",
+            "나는 저녁 식사 후 공부한다.",
+            "그녀는 자기 전에 읽는다."
+          ],
+          "correctAnswer": "먹기 전에 손을 씻어라.",
+          "explanation": "뜻은 ‘먹기 전에 손을 씻어라.’입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "먹기 전에 손을 씻어라."
+          ],
+          "exampleSentence": "Wash your hands before eating.",
+          "koreanMeaning": "먹기 전에 손을 씻어라."
+        },
+        {
+          "questionId": "EN-L06-C15-S02-Q04",
+          "stageId": "EN-L06-C15-S02",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 4번: He is the boy ___ runs fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "who",
+            "is",
+            "are",
+            "did"
+          ],
+          "correctAnswer": "who",
+          "explanation": "관계대명사 who 기초에 맞는 표현은 who입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "who",
+            "who"
+          ],
+          "exampleSentence": "He is the boy who runs fast.",
+          "koreanMeaning": "그는 빨리 달리는 소년이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S02-Q05",
+          "stageId": "EN-L06-C15-S02",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 5번: ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Dogs are good pets",
+            "Exercise keeps us healthy",
+            "Water is important",
+            "Books help us learn"
+          ],
+          "correctAnswer": "Books help us learn",
+          "explanation": "문단의 중심문장에 맞는 표현은 Books help us learn입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Books help us learn",
+            "books help us learn"
+          ],
+          "exampleSentence": "Books help us learn.",
+          "koreanMeaning": "책은 학습을 돕는다."
+        },
+        {
+          "questionId": "EN-L06-C15-S02-Q06",
+          "stageId": "EN-L06-C15-S02",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘After that’이면 O, 아니면 X를 고르세요: After that I went outside.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 After that이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S03-Q01",
+          "stageId": "EN-L06-C15-S03",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 1번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Then",
+            "After that",
+            "Next"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S03-Q02",
+          "stageId": "EN-L06-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 2번: Tom lives near the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "red",
+            "three",
+            "park",
+            "eight"
+          ],
+          "correctAnswer": "park",
+          "explanation": "세부 정보 듣기에 맞는 표현은 park입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "park"
+          ],
+          "exampleSentence": "Tom lives near the park.",
+          "koreanMeaning": "Tom은 공원 근처에 산다."
+        },
+        {
+          "questionId": "EN-L06-C15-S03-Q03",
+          "stageId": "EN-L06-C15-S03",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 3번: 핵심 표현이 ‘close’이면 O, 아니면 X를 고르세요: The game starts at three.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 three이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S03-Q04",
+          "stageId": "EN-L06-C15-S03",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "They were studying together.",
+            "together studying were They.",
+            "were studying together They.",
+            "is"
+          ],
+          "correctAnswer": "They were studying together.",
+          "explanation": "바른 어순은 “They were studying together.”입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They were studying together.",
+            "They were studying together"
+          ],
+          "exampleSentence": "They were studying together.",
+          "koreanMeaning": "그들은 함께 공부하고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S03-Q05",
+          "stageId": "EN-L06-C15-S03",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 5번: I ___ study. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is going to",
+            "are going to",
+            "is",
+            "am going to"
+          ],
+          "correctAnswer": "am going to",
+          "explanation": "be going to 계획에 맞는 표현은 am going to입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am going to",
+            "am going to"
+          ],
+          "exampleSentence": "I am going to study.",
+          "koreanMeaning": "나는 공부할 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S03-Q06",
+          "stageId": "EN-L06-C15-S03",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 문장 구조 발견 · 6번: I ___ study. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has to",
+            "is",
+            "have to",
+            "must"
+          ],
+          "correctAnswer": "have to",
+          "explanation": "must와 have to에 맞는 표현은 have to입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have to",
+            "have to"
+          ],
+          "exampleSentence": "I have to study.",
+          "koreanMeaning": "나는 공부해야 한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S04-Q01",
+          "stageId": "EN-L06-C15-S04",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 1번: They ___ wait. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "must",
+            "has to",
+            "is",
+            "have to"
+          ],
+          "correctAnswer": "have to",
+          "explanation": "must와 have to에 맞는 표현은 have to입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have to",
+            "have to"
+          ],
+          "exampleSentence": "They have to wait.",
+          "koreanMeaning": "그들은 기다려야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S04-Q02",
+          "stageId": "EN-L06-C15-S04",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "should rest You.",
+            "is",
+            "You should rest.",
+            "rest should You."
+          ],
+          "correctAnswer": "You should rest.",
+          "explanation": "바른 어순은 “You should rest.”입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You should rest.",
+            "You should rest"
+          ],
+          "exampleSentence": "You should rest.",
+          "koreanMeaning": "너는 쉬는 것이 좋다."
+        },
+        {
+          "questionId": "EN-L06-C15-S04-Q03",
+          "stageId": "EN-L06-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 3번: This is ___ box. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the coldest",
+            "the biggest",
+            "the tallest",
+            "the fastest"
+          ],
+          "correctAnswer": "the biggest",
+          "explanation": "최상급 기초에 맞는 표현은 the biggest입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the biggest",
+            "the biggest"
+          ],
+          "exampleSentence": "This is the biggest box.",
+          "koreanMeaning": "이것은 가장 큰 상자다."
+        },
+        {
+          "questionId": "EN-L06-C15-S04-Q04",
+          "stageId": "EN-L06-C15-S04",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 4번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to read",
+            "to sing",
+            "to travel"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C15-S04-Q05",
+          "stageId": "EN-L06-C15-S04",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 5번: 핵심 표현이 ‘reading’이면 O, 아니면 X를 고르세요: We enjoy playing games.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 playing이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We enjoy playing games.",
+          "koreanMeaning": "우리는 게임하기를 즐긴다."
+        },
+        {
+          "questionId": "EN-L06-C15-S04-Q06",
+          "stageId": "EN-L06-C15-S04",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 짧은 문장 연습 · 6번: He rests ___ running. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "after",
+            "before"
+          ],
+          "correctAnswer": "after",
+          "explanation": "접속사 before after에 맞는 표현은 after입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after",
+            "after"
+          ],
+          "exampleSentence": "He rests after running.",
+          "koreanMeaning": "그는 달린 후에 쉰다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S05-Q01",
+          "stageId": "EN-L06-C15-S05",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 1번: “She reads before bed.”의 뜻을 고르세요.",
+          "choices": [
+            "먹기 전에 손을 씻어라.",
+            "나는 저녁 식사 후 공부한다.",
+            "우리는 방과 후에 논다.",
+            "그녀는 자기 전에 읽는다."
+          ],
+          "correctAnswer": "그녀는 자기 전에 읽는다.",
+          "explanation": "뜻은 ‘그녀는 자기 전에 읽는다.’입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 자기 전에 읽는다."
+          ],
+          "exampleSentence": "She reads before bed.",
+          "koreanMeaning": "그녀는 자기 전에 읽는다."
+        },
+        {
+          "questionId": "EN-L06-C15-S05-Q02",
+          "stageId": "EN-L06-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 2번: This is the friend ___ helped me. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "did",
+            "who",
+            "is"
+          ],
+          "correctAnswer": "who",
+          "explanation": "관계대명사 who 기초에 맞는 표현은 who입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "who",
+            "who"
+          ],
+          "exampleSentence": "This is the friend who helped me.",
+          "koreanMeaning": "이 사람이 나를 도운 친구다."
+        },
+        {
+          "questionId": "EN-L06-C15-S05-Q03",
+          "stageId": "EN-L06-C15-S05",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 3번: 핵심 표현이 ‘Dogs are good pets’이면 O, 아니면 X를 고르세요: School is a place to learn.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 School is a place to learn이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "School is a place to learn.",
+          "koreanMeaning": "학교는 배우는 장소다."
+        },
+        {
+          "questionId": "EN-L06-C15-S05-Q04",
+          "stageId": "EN-L06-C15-S05",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 4번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C15-S05-Q05",
+          "stageId": "EN-L06-C15-S05",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 5번: Mina has a ___ bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "eight",
+            "park",
+            "three",
+            "red"
+          ],
+          "correctAnswer": "red",
+          "explanation": "세부 정보 듣기에 맞는 표현은 red입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "red",
+            "red"
+          ],
+          "exampleSentence": "Mina has a red bag.",
+          "koreanMeaning": "Mina는 빨간 가방이 있다."
+        },
+        {
+          "questionId": "EN-L06-C15-S05-Q06",
+          "stageId": "EN-L06-C15-S05",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "your book tomorrow Bring.",
+            "is",
+            "Bring your book tomorrow.",
+            "tomorrow book your Bring."
+          ],
+          "correctAnswer": "Bring your book tomorrow.",
+          "explanation": "바른 어순은 “Bring your book tomorrow.”입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Bring your book tomorrow.",
+            "Bring your book tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S06-Q01",
+          "stageId": "EN-L06-C15-S06",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Meet me at the library.",
+            "Bring your book tomorrow.",
+            "The game starts at three.",
+            "Please close the door."
+          ],
+          "correctAnswer": "Please close the door.",
+          "explanation": "들은 문장은 “Please close the door.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Please close the door.",
+          "acceptedAnswers": [
+            "Please close the door."
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C15-S06-Q02",
+          "stageId": "EN-L06-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 2번: She ___ dinner. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "was sleeping",
+            "were playing",
+            "was cooking",
+            "was reading"
+          ],
+          "correctAnswer": "was cooking",
+          "explanation": "과거진행형에 맞는 표현은 was cooking입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was cooking",
+            "was cooking"
+          ],
+          "exampleSentence": "She was cooking dinner.",
+          "koreanMeaning": "그녀는 저녁을 요리하고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S06-Q03",
+          "stageId": "EN-L06-C15-S06",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We are going to travel.",
+            "He is going to run.",
+            "I am going to study.",
+            "She is going to cook."
+          ],
+          "correctAnswer": "He is going to run.",
+          "explanation": "들은 문장은 “He is going to run.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He is going to run.",
+          "acceptedAnswers": [
+            "He is going to run."
+          ],
+          "exampleSentence": "He is going to run.",
+          "koreanMeaning": "그는 달릴 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S06-Q04",
+          "stageId": "EN-L06-C15-S06",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We must be quiet.",
+          "explanation": "바른 문장은 “We must be quiet.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We must be quiet.",
+          "acceptedAnswers": [
+            "We must be quiet.",
+            "We must be quiet"
+          ],
+          "exampleSentence": "We must be quiet.",
+          "koreanMeaning": "우리는 조용히 해야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S06-Q05",
+          "stageId": "EN-L06-C15-S06",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 5번: 핵심 표현이 ‘not’이면 O, 아니면 X를 고르세요: They should study more.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 should이므로 X가 정답입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They should study more.",
+          "koreanMeaning": "그들은 더 공부하는 것이 좋다."
+        },
+        {
+          "questionId": "EN-L06-C15-S06-Q06",
+          "stageId": "EN-L06-C15-S06",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 생활 대화 듣기 · 6번: Tom is ___ boy. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the fastest",
+            "the coldest",
+            "the tallest",
+            "the biggest"
+          ],
+          "correctAnswer": "the tallest",
+          "explanation": "최상급 기초에 맞는 표현은 the tallest입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the tallest",
+            "the tallest"
+          ],
+          "exampleSentence": "Tom is the tallest boy.",
+          "koreanMeaning": "Tom은 가장 키가 큰 소년이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S07-Q01",
+          "stageId": "EN-L06-C15-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Today is the coldest day.",
+          "explanation": "“Today is the coldest day.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Today is the coldest day.",
+          "acceptedAnswers": [
+            "Today is the coldest day.",
+            "Today is the coldest day"
+          ],
+          "exampleSentence": "Today is the coldest day.",
+          "koreanMeaning": "오늘은 가장 추운 날이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S07-Q02",
+          "stageId": "EN-L06-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 2번: They hope ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to sing",
+            "to study",
+            "to win",
+            "to read"
+          ],
+          "correctAnswer": "to win",
+          "explanation": "to부정사 기초에 맞는 표현은 to win입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to win",
+            "to win"
+          ],
+          "exampleSentence": "They hope to win.",
+          "koreanMeaning": "그들은 이기기를 바란다."
+        },
+        {
+          "questionId": "EN-L06-C15-S07-Q03",
+          "stageId": "EN-L06-C15-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like reading.",
+          "explanation": "“I like reading.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like reading.",
+          "acceptedAnswers": [
+            "I like reading.",
+            "I like reading"
+          ],
+          "exampleSentence": "I like reading.",
+          "koreanMeaning": "나는 읽기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S07-Q04",
+          "stageId": "EN-L06-C15-S07",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 4번: “I study after dinner.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 저녁 식사 후 공부한다.",
+            "먹기 전에 손을 씻어라.",
+            "그녀는 자기 전에 읽는다.",
+            "우리는 방과 후에 논다."
+          ],
+          "correctAnswer": "나는 저녁 식사 후 공부한다.",
+          "explanation": "뜻은 ‘나는 저녁 식사 후 공부한다.’입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 저녁 식사 후 공부한다."
+          ],
+          "exampleSentence": "I study after dinner.",
+          "koreanMeaning": "나는 저녁 식사 후 공부한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S07-Q05",
+          "stageId": "EN-L06-C15-S07",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 5번: I know a teacher ___ smiles. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "did",
+            "who"
+          ],
+          "correctAnswer": "who",
+          "explanation": "관계대명사 who 기초에 맞는 표현은 who입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "who",
+            "who"
+          ],
+          "exampleSentence": "I know a teacher who smiles.",
+          "koreanMeaning": "나는 웃는 선생님을 안다."
+        },
+        {
+          "questionId": "EN-L06-C15-S07-Q06",
+          "stageId": "EN-L06-C15-S07",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 표현 말하기 · 6번: 핵심 표현이 ‘Water is important’이면 O, 아니면 X를 고르세요: Water is important.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Water is important이므로 O가 정답입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Water is important.",
+          "koreanMeaning": "물은 중요하다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S08-Q01",
+          "stageId": "EN-L06-C15-S08",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 1번: ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Dogs are good pets",
+            "Books help us learn",
+            "Water is important",
+            "Exercise keeps us healthy"
+          ],
+          "correctAnswer": "Exercise keeps us healthy",
+          "explanation": "문단의 중심문장에 맞는 표현은 Exercise keeps us healthy입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Exercise keeps us healthy",
+            "exercise keeps us healthy"
+          ],
+          "exampleSentence": "Exercise keeps us healthy.",
+          "koreanMeaning": "운동은 우리를 건강하게 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S08-Q02",
+          "stageId": "EN-L06-C15-S08",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Then I ate breakfast.",
+          "explanation": "바른 문장은 “Then I ate breakfast.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Then I ate breakfast.",
+          "acceptedAnswers": [
+            "Then I ate breakfast.",
+            "Then I ate breakfast"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S08-Q03",
+          "stageId": "EN-L06-C15-S08",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "We need three pencils.",
+            "pencils three need We.",
+            "need three pencils We."
+          ],
+          "correctAnswer": "We need three pencils.",
+          "explanation": "바른 어순은 “We need three pencils.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We need three pencils.",
+            "We need three pencils"
+          ],
+          "exampleSentence": "We need three pencils.",
+          "koreanMeaning": "우리는 연필 세 자루가 필요하다."
+        },
+        {
+          "questionId": "EN-L06-C15-S08-Q04",
+          "stageId": "EN-L06-C15-S08",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 4번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do not run",
+            "close",
+            "library",
+            "tomorrow"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C15-S08-Q05",
+          "stageId": "EN-L06-C15-S08",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 5번: I ___ at seven. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "was cooking",
+            "was sleeping",
+            "were playing",
+            "was reading"
+          ],
+          "correctAnswer": "was reading",
+          "explanation": "과거진행형에 맞는 표현은 was reading입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was reading",
+            "was reading"
+          ],
+          "exampleSentence": "I was reading at seven.",
+          "koreanMeaning": "나는 일곱 시에 읽고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S08-Q06",
+          "stageId": "EN-L06-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 문장 쓰기 · 6번: She ___ cook. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are going to",
+            "is",
+            "is going to",
+            "am going to"
+          ],
+          "correctAnswer": "is going to",
+          "explanation": "be going to 계획에 맞는 표현은 is going to입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is going to",
+            "is going to"
+          ],
+          "exampleSentence": "She is going to cook.",
+          "koreanMeaning": "그녀는 요리할 예정이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S09-Q01",
+          "stageId": "EN-L06-C15-S09",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 1번: They ___ play. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am going to",
+            "is going to",
+            "is",
+            "are going to"
+          ],
+          "correctAnswer": "are going to",
+          "explanation": "be going to 계획에 맞는 표현은 are going to입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are going to",
+            "are going to"
+          ],
+          "exampleSentence": "They are going to play.",
+          "koreanMeaning": "그들은 놀 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S09-Q02",
+          "stageId": "EN-L06-C15-S09",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "must stop here You.",
+            "is",
+            "You must stop here.",
+            "here stop must You."
+          ],
+          "correctAnswer": "You must stop here.",
+          "explanation": "바른 어순은 “You must stop here.”입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You must stop here.",
+            "You must stop here"
+          ],
+          "exampleSentence": "You must stop here.",
+          "koreanMeaning": "너는 여기서 멈춰야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S09-Q03",
+          "stageId": "EN-L06-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 3번: He ___ drink water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "did",
+            "should",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "should",
+          "explanation": "should와 조언에 맞는 표현은 should입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "should",
+            "should"
+          ],
+          "exampleSentence": "He should drink water.",
+          "koreanMeaning": "그는 물을 마시는 것이 좋다."
+        },
+        {
+          "questionId": "EN-L06-C15-S09-Q04",
+          "stageId": "EN-L06-C15-S09",
+          "type": "fillBlank",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 4번: June is ___ runner. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the fastest",
+            "the tallest",
+            "the biggest",
+            "the coldest"
+          ],
+          "correctAnswer": "the fastest",
+          "explanation": "최상급 기초에 맞는 표현은 the fastest입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the fastest",
+            "the fastest"
+          ],
+          "exampleSentence": "June is the fastest runner.",
+          "koreanMeaning": "June은 가장 빠른 달리기 선수다."
+        },
+        {
+          "questionId": "EN-L06-C15-S09-Q05",
+          "stageId": "EN-L06-C15-S09",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 5번: 핵심 표현이 ‘to read’이면 O, 아니면 X를 고르세요: We plan to travel.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to travel이므로 X가 정답입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We plan to travel.",
+          "koreanMeaning": "우리는 여행할 계획이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S09-Q06",
+          "stageId": "EN-L06-C15-S09",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 네 기능 혼합 연습 · 6번: They like ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "singing",
+            "swimming",
+            "drawing",
+            "reading"
+          ],
+          "correctAnswer": "drawing",
+          "explanation": "동명사 기초에 맞는 표현은 drawing입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drawing",
+            "drawing"
+          ],
+          "exampleSentence": "They like drawing.",
+          "koreanMeaning": "그들은 그림 그리기를 좋아한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S10-Q01",
+          "stageId": "EN-L06-C15-S10",
+          "type": "reviewMixed",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 1번: He likes ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reading",
+            "singing",
+            "playing",
+            "swimming"
+          ],
+          "correctAnswer": "swimming",
+          "explanation": "동명사 기초에 맞는 표현은 swimming입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swimming",
+            "swimming"
+          ],
+          "exampleSentence": "He likes swimming.",
+          "koreanMeaning": "그는 수영하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q02",
+          "stageId": "EN-L06-C15-S10",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I study after dinner.",
+            "She reads before bed.",
+            "We play after school.",
+            "Wash your hands before eating."
+          ],
+          "correctAnswer": "We play after school.",
+          "explanation": "들은 문장은 “We play after school.”입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We play after school.",
+          "acceptedAnswers": [
+            "We play after school."
+          ],
+          "exampleSentence": "We play after school.",
+          "koreanMeaning": "우리는 방과 후에 논다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q03",
+          "stageId": "EN-L06-C15-S10",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 3번: “Tom is the student who reads.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 웃는 선생님을 안다.",
+            "Tom은 책을 읽는 학생이다.",
+            "그녀는 노래하는 소녀다.",
+            "그는 빨리 달리는 소년이다."
+          ],
+          "correctAnswer": "Tom은 책을 읽는 학생이다.",
+          "explanation": "뜻은 ‘Tom은 책을 읽는 학생이다.’입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom은 책을 읽는 학생이다."
+          ],
+          "exampleSentence": "Tom is the student who reads.",
+          "koreanMeaning": "Tom은 책을 읽는 학생이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q04",
+          "stageId": "EN-L06-C15-S10",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 4번: ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Dogs are good pets",
+            "Exercise keeps us healthy",
+            "Books help us learn",
+            "Water is important"
+          ],
+          "correctAnswer": "Dogs are good pets",
+          "explanation": "문단의 중심문장에 맞는 표현은 Dogs are good pets입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Dogs are good pets",
+            "dogs are good pets"
+          ],
+          "exampleSentence": "Dogs are good pets.",
+          "koreanMeaning": "개는 좋은 반려동물이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q05",
+          "stageId": "EN-L06-C15-S10",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Next I washed my face.",
+          "explanation": "바른 문장은 “Next I washed my face.”입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Next I washed my face.",
+          "acceptedAnswers": [
+            "Next I washed my face.",
+            "Next I washed my face"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q06",
+          "stageId": "EN-L06-C15-S10",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "lives near the park Tom.",
+            "is",
+            "Tom lives near the park.",
+            "park the near lives Tom."
+          ],
+          "correctAnswer": "Tom lives near the park.",
+          "explanation": "바른 어순은 “Tom lives near the park.”입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom lives near the park.",
+            "Tom lives near the park"
+          ],
+          "exampleSentence": "Tom lives near the park.",
+          "koreanMeaning": "Tom은 공원 근처에 산다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q07",
+          "stageId": "EN-L06-C15-S10",
+          "type": "reviewMixed",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 7번: The game starts at ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "close",
+            "library"
+          ],
+          "correctAnswer": "three",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 three입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "three",
+            "three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q08",
+          "stageId": "EN-L06-C15-S10",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "They were studying together.",
+            "I was reading at seven.",
+            "She was cooking dinner.",
+            "He was sleeping then."
+          ],
+          "correctAnswer": "They were studying together.",
+          "explanation": "들은 문장은 “They were studying together.”입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They were studying together.",
+          "acceptedAnswers": [
+            "They were studying together."
+          ],
+          "exampleSentence": "They were studying together.",
+          "koreanMeaning": "그들은 함께 공부하고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q09",
+          "stageId": "EN-L06-C15-S10",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 9번: “I am going to study.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 요리할 예정이다.",
+            "그는 달릴 예정이다.",
+            "우리는 여행할 예정이다.",
+            "나는 공부할 예정이다."
+          ],
+          "correctAnswer": "나는 공부할 예정이다.",
+          "explanation": "뜻은 ‘나는 공부할 예정이다.’입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 공부할 예정이다."
+          ],
+          "exampleSentence": "I am going to study.",
+          "koreanMeaning": "나는 공부할 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S10-Q10",
+          "stageId": "EN-L06-C15-S10",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 누적 복습 · 10번: I ___ study. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has to",
+            "is",
+            "have to",
+            "must"
+          ],
+          "correctAnswer": "have to",
+          "explanation": "must와 have to에 맞는 표현은 have to입니다.",
+          "difficulty": 7,
+          "skill": "review",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have to",
+            "have to"
+          ],
+          "exampleSentence": "I have to study.",
+          "koreanMeaning": "나는 공부해야 한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S11-Q01",
+          "stageId": "EN-L06-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 1번: The bus comes at ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "red",
+            "park",
+            "three",
+            "eight"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "세부 정보 듣기에 맞는 표현은 eight입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eight",
+            "eight"
+          ],
+          "exampleSentence": "The bus comes at eight.",
+          "koreanMeaning": "버스는 여덟 시에 온다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q02",
+          "stageId": "EN-L06-C15-S11",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 2번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "library",
+            "close"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q03",
+          "stageId": "EN-L06-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We were playing outside.",
+            "He was sleeping then.",
+            "I was reading at seven.",
+            "She was cooking dinner."
+          ],
+          "correctAnswer": "He was sleeping then.",
+          "explanation": "들은 문장은 “He was sleeping then.”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He was sleeping then.",
+          "acceptedAnswers": [
+            "He was sleeping then."
+          ],
+          "exampleSentence": "He was sleeping then.",
+          "koreanMeaning": "그는 그때 자고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q04",
+          "stageId": "EN-L06-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 4번: We ___ travel. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are going to",
+            "am going to",
+            "is going to",
+            "is"
+          ],
+          "correctAnswer": "are going to",
+          "explanation": "be going to 계획에 맞는 표현은 are going to입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are going to",
+            "are going to"
+          ],
+          "exampleSentence": "We are going to travel.",
+          "koreanMeaning": "우리는 여행할 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q05",
+          "stageId": "EN-L06-C15-S11",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have to wait.",
+          "explanation": "바른 문장은 “They have to wait.”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have to wait.",
+          "acceptedAnswers": [
+            "They have to wait.",
+            "They have to wait"
+          ],
+          "exampleSentence": "They have to wait.",
+          "koreanMeaning": "그들은 기다려야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q06",
+          "stageId": "EN-L06-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 6번: “You should rest.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 의사를 만나는 것이 좋다.",
+            "우리는 그들을 도와야 한다.",
+            "너는 쉬는 것이 좋다.",
+            "그는 물을 마시는 것이 좋다."
+          ],
+          "correctAnswer": "너는 쉬는 것이 좋다.",
+          "explanation": "뜻은 ‘너는 쉬는 것이 좋다.’입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 쉬는 것이 좋다."
+          ],
+          "exampleSentence": "You should rest.",
+          "koreanMeaning": "너는 쉬는 것이 좋다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q07",
+          "stageId": "EN-L06-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 7번: This is ___ box. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the coldest",
+            "the biggest",
+            "the tallest",
+            "the fastest"
+          ],
+          "correctAnswer": "the biggest",
+          "explanation": "최상급 기초에 맞는 표현은 the biggest입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the biggest",
+            "the biggest"
+          ],
+          "exampleSentence": "This is the biggest box.",
+          "koreanMeaning": "이것은 가장 큰 상자다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q08",
+          "stageId": "EN-L06-C15-S11",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 8번: He needs ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "to study",
+            "to read",
+            "to sing",
+            "to travel"
+          ],
+          "correctAnswer": "to study",
+          "explanation": "to부정사 기초에 맞는 표현은 to study입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to study",
+            "to study"
+          ],
+          "exampleSentence": "He needs to study.",
+          "koreanMeaning": "그는 공부할 필요가 있다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q09",
+          "stageId": "EN-L06-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I like reading.",
+            "She enjoys singing.",
+            "He likes swimming.",
+            "We enjoy playing games."
+          ],
+          "correctAnswer": "We enjoy playing games.",
+          "explanation": "들은 문장은 “We enjoy playing games.”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We enjoy playing games.",
+          "acceptedAnswers": [
+            "We enjoy playing games."
+          ],
+          "exampleSentence": "We enjoy playing games.",
+          "koreanMeaning": "우리는 게임하기를 즐긴다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q10",
+          "stageId": "EN-L06-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 10번: He rests ___ running. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "after",
+            "before"
+          ],
+          "correctAnswer": "after",
+          "explanation": "접속사 before after에 맞는 표현은 after입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after",
+            "after"
+          ],
+          "exampleSentence": "He rests after running.",
+          "koreanMeaning": "그는 달린 후에 쉰다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q11",
+          "stageId": "EN-L06-C15-S11",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "She is the girl who sings.",
+          "explanation": "바른 문장은 “She is the girl who sings.”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She is the girl who sings.",
+          "acceptedAnswers": [
+            "She is the girl who sings.",
+            "She is the girl who sings"
+          ],
+          "exampleSentence": "She is the girl who sings.",
+          "koreanMeaning": "그녀는 노래하는 소녀다."
+        },
+        {
+          "questionId": "EN-L06-C15-S11-Q12",
+          "stageId": "EN-L06-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 과정 성취 확인 · 12번: “Exercise keeps us healthy.”의 뜻을 고르세요.",
+          "choices": [
+            "운동은 우리를 건강하게 한다.",
+            "개는 좋은 반려동물이다.",
+            "책은 학습을 돕는다.",
+            "물은 중요하다."
+          ],
+          "correctAnswer": "운동은 우리를 건강하게 한다.",
+          "explanation": "뜻은 ‘운동은 우리를 건강하게 한다.’입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "운동은 우리를 건강하게 한다."
+          ],
+          "exampleSentence": "Exercise keeps us healthy.",
+          "koreanMeaning": "운동은 우리를 건강하게 한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S12-Q01",
+          "stageId": "EN-L06-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 1번: “We should help them.”의 뜻을 고르세요.",
+          "choices": [
+            "너는 쉬는 것이 좋다.",
+            "그는 물을 마시는 것이 좋다.",
+            "그녀는 의사를 만나는 것이 좋다.",
+            "우리는 그들을 도와야 한다."
+          ],
+          "correctAnswer": "우리는 그들을 도와야 한다.",
+          "explanation": "뜻은 ‘우리는 그들을 도와야 한다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 그들을 도와야 한다."
+          ],
+          "exampleSentence": "We should help them.",
+          "koreanMeaning": "우리는 그들을 도와야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S12-Q02",
+          "stageId": "EN-L06-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 2번: This is ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the biggest",
+            "the fastest",
+            "the easiest",
+            "the tallest"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "최상급 기초에 맞는 표현은 the easiest입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "This is the easiest book.",
+          "koreanMeaning": "이것은 가장 쉬운 책이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S12-Q03",
+          "stageId": "EN-L06-C15-S12",
+          "type": "trueFalse",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 3번: 핵심 표현이 ‘to sing’이면 O, 아니면 X를 고르세요: I want to read.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 to read이므로 X가 정답입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I want to read.",
+          "koreanMeaning": "나는 읽고 싶다."
+        },
+        {
+          "questionId": "EN-L06-C15-S12-Q04",
+          "stageId": "EN-L06-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 4번: She enjoys ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "singing",
+            "reading",
+            "swimming",
+            "playing"
+          ],
+          "correctAnswer": "singing",
+          "explanation": "동명사 기초에 맞는 표현은 singing입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "singing",
+            "singing"
+          ],
+          "exampleSentence": "She enjoys singing.",
+          "koreanMeaning": "그녀는 노래하기를 즐긴다."
+        },
+        {
+          "questionId": "EN-L06-C15-S12-Q05",
+          "stageId": "EN-L06-C15-S12",
+          "type": "matching",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 5번: She reads ___ bed. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "after",
+            "is",
+            "are",
+            "before"
+          ],
+          "correctAnswer": "before",
+          "explanation": "접속사 before after에 맞는 표현은 before입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before",
+            "before"
+          ],
+          "exampleSentence": "She reads before bed.",
+          "koreanMeaning": "그녀는 자기 전에 읽는다."
+        },
+        {
+          "questionId": "EN-L06-C15-S12-Q06",
+          "stageId": "EN-L06-C15-S12",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 문단 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is the friend who helped me This.",
+            "is",
+            "This is the friend who helped me.",
+            "me helped who friend the is This."
+          ],
+          "correctAnswer": "This is the friend who helped me.",
+          "explanation": "바른 어순은 “This is the friend who helped me.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 문단 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is the friend who helped me.",
+            "This is the friend who helped me"
+          ],
+          "exampleSentence": "This is the friend who helped me.",
+          "koreanMeaning": "이 사람이 나를 도운 친구다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L06-C15-S13-Q01",
+          "stageId": "EN-L06-C15-S13",
+          "type": "bossMixed",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 1번: He is the boy ___ runs fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "did",
+            "who"
+          ],
+          "correctAnswer": "who",
+          "explanation": "관계대명사 who 기초에 맞는 표현은 who입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "who",
+            "who"
+          ],
+          "exampleSentence": "He is the boy who runs fast.",
+          "koreanMeaning": "그는 빨리 달리는 소년이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q02",
+          "stageId": "EN-L06-C15-S13",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Exercise keeps us healthy.",
+            "Water is important.",
+            "Books help us learn.",
+            "Dogs are good pets."
+          ],
+          "correctAnswer": "Books help us learn.",
+          "explanation": "들은 문장은 “Books help us learn.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Books help us learn.",
+          "acceptedAnswers": [
+            "Books help us learn."
+          ],
+          "exampleSentence": "Books help us learn.",
+          "koreanMeaning": "책은 학습을 돕는다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q03",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 3번: “After that I went outside.”의 뜻을 고르세요.",
+          "choices": [
+            "그 후 나는 아침을 먹었다.",
+            "그 다음 나는 밖으로 나갔다.",
+            "먼저 나는 일어났다.",
+            "다음으로 나는 얼굴을 씻었다."
+          ],
+          "correctAnswer": "그 다음 나는 밖으로 나갔다.",
+          "explanation": "뜻은 ‘그 다음 나는 밖으로 나갔다.’입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그 다음 나는 밖으로 나갔다."
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q04",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 4번: The class is in room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "two",
+            "eight",
+            "red",
+            "park"
+          ],
+          "correctAnswer": "two",
+          "explanation": "세부 정보 듣기에 맞는 표현은 two입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "two",
+            "two"
+          ],
+          "exampleSentence": "The class is in room two.",
+          "koreanMeaning": "수업은 2번 방에서 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q05",
+          "stageId": "EN-L06-C15-S13",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Please close the door.",
+          "explanation": "바른 문장은 “Please close the door.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Please close the door.",
+          "acceptedAnswers": [
+            "Please close the door.",
+            "Please close the door"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q06",
+          "stageId": "EN-L06-C15-S13",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "was cooking dinner She.",
+            "is",
+            "She was cooking dinner.",
+            "dinner cooking was She."
+          ],
+          "correctAnswer": "She was cooking dinner.",
+          "explanation": "바른 어순은 “She was cooking dinner.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She was cooking dinner.",
+            "She was cooking dinner"
+          ],
+          "exampleSentence": "She was cooking dinner.",
+          "koreanMeaning": "그녀는 저녁을 요리하고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q07",
+          "stageId": "EN-L06-C15-S13",
+          "type": "bossMixed",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 7번: He ___ run. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "is going to",
+            "am going to",
+            "are going to"
+          ],
+          "correctAnswer": "is going to",
+          "explanation": "be going to 계획에 맞는 표현은 is going to입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is going to",
+            "is going to"
+          ],
+          "exampleSentence": "He is going to run.",
+          "koreanMeaning": "그는 달릴 예정이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q08",
+          "stageId": "EN-L06-C15-S13",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We must be quiet.",
+            "You must stop here.",
+            "I have to study.",
+            "She has to go now."
+          ],
+          "correctAnswer": "We must be quiet.",
+          "explanation": "들은 문장은 “We must be quiet.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "must와 have to",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We must be quiet.",
+          "acceptedAnswers": [
+            "We must be quiet."
+          ],
+          "exampleSentence": "We must be quiet.",
+          "koreanMeaning": "우리는 조용히 해야 한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q09",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 9번: “They should study more.”의 뜻을 고르세요.",
+          "choices": [
+            "너는 쉬는 것이 좋다.",
+            "그는 물을 마시는 것이 좋다.",
+            "그녀는 의사를 만나는 것이 좋다.",
+            "그들은 더 공부하는 것이 좋다."
+          ],
+          "correctAnswer": "그들은 더 공부하는 것이 좋다.",
+          "explanation": "뜻은 ‘그들은 더 공부하는 것이 좋다.’입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "should와 조언",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 더 공부하는 것이 좋다."
+          ],
+          "exampleSentence": "They should study more.",
+          "koreanMeaning": "그들은 더 공부하는 것이 좋다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q10",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 10번: Tom is ___ boy. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "the fastest",
+            "the coldest",
+            "the tallest",
+            "the biggest"
+          ],
+          "correctAnswer": "the tallest",
+          "explanation": "최상급 기초에 맞는 표현은 the tallest입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "최상급 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the tallest",
+            "the tallest"
+          ],
+          "exampleSentence": "Tom is the tallest boy.",
+          "koreanMeaning": "Tom은 가장 키가 큰 소년이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q11",
+          "stageId": "EN-L06-C15-S13",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "She likes to sing.",
+          "explanation": "바른 문장은 “She likes to sing.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "to부정사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She likes to sing.",
+          "acceptedAnswers": [
+            "She likes to sing.",
+            "She likes to sing"
+          ],
+          "exampleSentence": "She likes to sing.",
+          "koreanMeaning": "그녀는 노래하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q12",
+          "stageId": "EN-L06-C15-S13",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 12번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "He likes swimming.",
+            "swimming likes He.",
+            "likes swimming He.",
+            "is"
+          ],
+          "correctAnswer": "He likes swimming.",
+          "explanation": "바른 어순은 “He likes swimming.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He likes swimming.",
+            "He likes swimming"
+          ],
+          "exampleSentence": "He likes swimming.",
+          "koreanMeaning": "그는 수영하기를 좋아한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q13",
+          "stageId": "EN-L06-C15-S13",
+          "type": "bossMixed",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 13번: We play ___ school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "before",
+            "is",
+            "are",
+            "after"
+          ],
+          "correctAnswer": "after",
+          "explanation": "접속사 before after에 맞는 표현은 after입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "접속사 before after",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after",
+            "after"
+          ],
+          "exampleSentence": "We play after school.",
+          "koreanMeaning": "우리는 방과 후에 논다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q14",
+          "stageId": "EN-L06-C15-S13",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 14번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He is the boy who runs fast.",
+            "I know a teacher who smiles.",
+            "Tom is the student who reads.",
+            "She is the girl who sings."
+          ],
+          "correctAnswer": "Tom is the student who reads.",
+          "explanation": "들은 문장은 “Tom is the student who reads.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "관계대명사 who 기초",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom is the student who reads.",
+          "acceptedAnswers": [
+            "Tom is the student who reads."
+          ],
+          "exampleSentence": "Tom is the student who reads.",
+          "koreanMeaning": "Tom은 책을 읽는 학생이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q15",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 15번: “Dogs are good pets.”의 뜻을 고르세요.",
+          "choices": [
+            "물은 중요하다.",
+            "개는 좋은 반려동물이다.",
+            "운동은 우리를 건강하게 한다.",
+            "책은 학습을 돕는다."
+          ],
+          "correctAnswer": "개는 좋은 반려동물이다.",
+          "explanation": "뜻은 ‘개는 좋은 반려동물이다.’입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "문단의 중심문장",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개는 좋은 반려동물이다."
+          ],
+          "exampleSentence": "Dogs are good pets.",
+          "koreanMeaning": "개는 좋은 반려동물이다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q16",
+          "stageId": "EN-L06-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 16번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "First",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q17",
+          "stageId": "EN-L06-C15-S13",
+          "type": "dictation",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 17번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom lives near the park.",
+          "explanation": "바른 문장은 “Tom lives near the park.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "세부 정보 듣기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom lives near the park.",
+          "acceptedAnswers": [
+            "Tom lives near the park.",
+            "Tom lives near the park"
+          ],
+          "exampleSentence": "Tom lives near the park.",
+          "koreanMeaning": "Tom은 공원 근처에 산다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q18",
+          "stageId": "EN-L06-C15-S13",
+          "type": "ordering",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 18번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "game starts at three The.",
+            "is",
+            "The game starts at three.",
+            "three at starts game The."
+          ],
+          "correctAnswer": "The game starts at three.",
+          "explanation": "바른 어순은 “The game starts at three.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The game starts at three.",
+            "The game starts at three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q19",
+          "stageId": "EN-L06-C15-S13",
+          "type": "bossMixed",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 19번: They ___ together. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "was sleeping",
+            "were studying",
+            "was reading",
+            "was cooking"
+          ],
+          "correctAnswer": "were studying",
+          "explanation": "과거진행형에 맞는 표현은 were studying입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "과거진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were studying",
+            "were studying"
+          ],
+          "exampleSentence": "They were studying together.",
+          "koreanMeaning": "그들은 함께 공부하고 있었다."
+        },
+        {
+          "questionId": "EN-L06-C15-S13-Q20",
+          "stageId": "EN-L06-C15-S13",
+          "type": "listeningChoice",
+          "prompt": "초등 심화 보스 테스트: 레벨 보스 · 20번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I am going to study.",
+            "She is going to cook.",
+            "He is going to run.",
+            "We are going to travel."
+          ],
+          "correctAnswer": "I am going to study.",
+          "explanation": "들은 문장은 “I am going to study.”입니다.",
+          "difficulty": 8,
+          "skill": "boss",
+          "grammarFocus": "be going to 계획",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "초등 심화 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I am going to study.",
+          "acceptedAnswers": [
+            "I am going to study."
+          ],
+          "exampleSentence": "I am going to study.",
+          "koreanMeaning": "나는 공부할 예정이다."
+        }
+      ]
+    }
+  ]
+}

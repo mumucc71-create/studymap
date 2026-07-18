@@ -1,0 +1,2363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L11",
+  "courseId": "EN-L11-C13",
+  "stages": [
+    {
+      "stageId": "EN-L11-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S01-Q01",
+          "stageId": "EN-L11-C13-S01",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in a study about human behavior to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in a study about human behavior to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S01-Q02",
+          "stageId": "EN-L11-C13-S01",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in a study about human behavior to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in a study about human behavior to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S01-Q03",
+          "stageId": "EN-L11-C13-S01",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” in a study about human behavior to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” in a study about human behavior to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S01-Q04",
+          "stageId": "EN-L11-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” during the community meeting to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” during the community meeting to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S01-Q05",
+          "stageId": "EN-L11-C13-S01",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” during the community meeting to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” during the community meeting to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S01-Q06",
+          "stageId": "EN-L11-C13-S01",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S02-Q01",
+          "stageId": "EN-L11-C13-S02",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” during the science project to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” during the science project to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S02-Q02",
+          "stageId": "EN-L11-C13-S02",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” during the science project to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” during the science project to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S02-Q03",
+          "stageId": "EN-L11-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” during the science project to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” during the science project to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S02-Q04",
+          "stageId": "EN-L11-C13-S02",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” during the science project to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” during the science project to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S02-Q05",
+          "stageId": "EN-L11-C13-S02",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S02-Q06",
+          "stageId": "EN-L11-C13-S02",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” during the science project to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” during the science project to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S03-Q01",
+          "stageId": "EN-L11-C13-S03",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S03-Q02",
+          "stageId": "EN-L11-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” during the community meeting to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” during the community meeting to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S03-Q03",
+          "stageId": "EN-L11-C13-S03",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” during the community meeting to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” during the community meeting to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S03-Q04",
+          "stageId": "EN-L11-C13-S03",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” in the school research paper to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” in the school research paper to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S03-Q05",
+          "stageId": "EN-L11-C13-S03",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” in the school research paper to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in the school research paper to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S03-Q06",
+          "stageId": "EN-L11-C13-S03",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” in the school research paper to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in the school research paper to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S04-Q01",
+          "stageId": "EN-L11-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” in the environmental report to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in the environmental report to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S04-Q02",
+          "stageId": "EN-L11-C13-S04",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” in the environmental report to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in the environmental report to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S04-Q03",
+          "stageId": "EN-L11-C13-S04",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” in the environmental report to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” in the environmental report to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S04-Q04",
+          "stageId": "EN-L11-C13-S04",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” in the environmental report to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” in the environmental report to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S04-Q05",
+          "stageId": "EN-L11-C13-S04",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S04-Q06",
+          "stageId": "EN-L11-C13-S04",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in the environmental report to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in the environmental report to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S05-Q01",
+          "stageId": "EN-L11-C13-S05",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in the school research paper to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in the school research paper to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S05-Q02",
+          "stageId": "EN-L11-C13-S05",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in the school research paper to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in the school research paper to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S05-Q03",
+          "stageId": "EN-L11-C13-S05",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” in the school research paper to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” in the school research paper to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S05-Q04",
+          "stageId": "EN-L11-C13-S05",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” while analyzing the new evidence to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” while analyzing the new evidence to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S05-Q05",
+          "stageId": "EN-L11-C13-S05",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” while analyzing the new evidence to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” while analyzing the new evidence to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S05-Q06",
+          "stageId": "EN-L11-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” while analyzing the new evidence to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” while analyzing the new evidence to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S06-Q01",
+          "stageId": "EN-L11-C13-S06",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” while reviewing the social survey to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” while reviewing the social survey to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S06-Q02",
+          "stageId": "EN-L11-C13-S06",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” while reviewing the social survey to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” while reviewing the social survey to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S06-Q03",
+          "stageId": "EN-L11-C13-S06",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” while reviewing the social survey to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” while reviewing the social survey to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S06-Q04",
+          "stageId": "EN-L11-C13-S06",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” while reviewing the social survey to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” while reviewing the social survey to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S06-Q05",
+          "stageId": "EN-L11-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” while reviewing the social survey to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” while reviewing the social survey to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S06-Q06",
+          "stageId": "EN-L11-C13-S06",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” while reviewing the social survey to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” while reviewing the social survey to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S07-Q01",
+          "stageId": "EN-L11-C13-S07",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” while analyzing the new evidence to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” while analyzing the new evidence to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S07-Q02",
+          "stageId": "EN-L11-C13-S07",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” while analyzing the new evidence to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” while analyzing the new evidence to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S07-Q03",
+          "stageId": "EN-L11-C13-S07",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” while analyzing the new evidence to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” while analyzing the new evidence to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S07-Q04",
+          "stageId": "EN-L11-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” in a recent class discussion to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” in a recent class discussion to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S07-Q05",
+          "stageId": "EN-L11-C13-S07",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” in a recent class discussion to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in a recent class discussion to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S07-Q06",
+          "stageId": "EN-L11-C13-S07",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” in a recent class discussion to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in a recent class discussion to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S08-Q01",
+          "stageId": "EN-L11-C13-S08",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “imply” in a study about human behavior to express the idea of 암시하다.",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in a study about human behavior to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S08-Q02",
+          "stageId": "EN-L11-C13-S08",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “emerge” in a study about human behavior to express the idea of 나타나다.",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in a study about human behavior to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S08-Q03",
+          "stageId": "EN-L11-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “sustain” in a study about human behavior to express the idea of 지속하다.",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” in a study about human behavior to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S08-Q04",
+          "stageId": "EN-L11-C13-S08",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “consume” in a study about human behavior to express the idea of 소비하다.",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” in a study about human behavior to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S08-Q05",
+          "stageId": "EN-L11-C13-S08",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “motivate” in a study about human behavior to express the idea of 동기를 부여하다.",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in a study about human behavior to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S08-Q06",
+          "stageId": "EN-L11-C13-S08",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “preserve” in a study about human behavior to express the idea of 보존하다.",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in a study about human behavior to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S09-Q01",
+          "stageId": "EN-L11-C13-S09",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in a recent class discussion to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in a recent class discussion to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S09-Q02",
+          "stageId": "EN-L11-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in a recent class discussion to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in a recent class discussion to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S09-Q03",
+          "stageId": "EN-L11-C13-S09",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” in a recent class discussion to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” in a recent class discussion to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S09-Q04",
+          "stageId": "EN-L11-C13-S09",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” during the science project to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” during the science project to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S09-Q05",
+          "stageId": "EN-L11-C13-S09",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” during the science project to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” during the science project to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S09-Q06",
+          "stageId": "EN-L11-C13-S09",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” during the science project to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” during the science project to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S10-Q01",
+          "stageId": "EN-L11-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” during the community meeting to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” during the community meeting to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S10-Q02",
+          "stageId": "EN-L11-C13-S10",
+          "type": "vocabularyInContext",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” during the community meeting to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S10-Q03",
+          "stageId": "EN-L11-C13-S10",
+          "type": "derivation",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” during the community meeting to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” during the community meeting to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S10-Q04",
+          "stageId": "EN-L11-C13-S10",
+          "type": "synonymAntonym",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” during the community meeting to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” during the community meeting to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S10-Q05",
+          "stageId": "EN-L11-C13-S10",
+          "type": "collocation",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the community meeting to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S10-Q06",
+          "stageId": "EN-L11-C13-S10",
+          "type": "phrasalVerb",
+          "prompt": "문맥 빈칸 어휘: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” during the community meeting to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” during the community meeting to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S11",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S11-Q01",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” during the science project to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q02",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” during the science project to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” during the science project to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q03",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” during the science project to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” during the science project to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q04",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” in the environmental report to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” in the environmental report to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q05",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” in the environmental report to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in the environmental report to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q06",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” in the environmental report to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in the environmental report to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q07",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” in the environmental report to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” in the environmental report to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q08",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” in the environmental report to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” in the environmental report to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q09",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in the environmental report to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S11-Q10",
+          "stageId": "EN-L11-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 누적 어휘·구문 복습 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in the environmental report to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in the environmental report to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C13-S12",
+      "questions": [
+        {
+          "questionId": "EN-L11-C13-S12-Q01",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” in the school research paper to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” in the school research paper to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q02",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” in the school research paper to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” in the school research paper to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q03",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” in the school research paper to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” in the school research paper to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q04",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” in the school research paper to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” in the school research paper to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q05",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “motivate” in the school research paper to express the idea of 동기를 부여하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "motivate"
+          ],
+          "correctAnswer": "motivate",
+          "explanation": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "motivate",
+            "motivate"
+          ],
+          "exampleSentence": "The writer uses “motivate” in the school research paper to express the idea of 동기를 부여하다.",
+          "koreanMeaning": "문맥에서 motivate은 ‘동기를 부여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q06",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “preserve” in the school research paper to express the idea of 보존하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "preserve",
+          "explanation": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "preserve",
+            "preserve"
+          ],
+          "exampleSentence": "The writer uses “preserve” in the school research paper to express the idea of 보존하다.",
+          "koreanMeaning": "문맥에서 preserve은 ‘보존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q07",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “evaluate” in the school research paper to express the idea of 평가하다.",
+          "choices": [
+            "consume",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "evaluate",
+          "explanation": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "evaluate",
+            "evaluate"
+          ],
+          "exampleSentence": "The writer uses “evaluate” in the school research paper to express the idea of 평가하다.",
+          "koreanMeaning": "문맥에서 evaluate은 ‘평가하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q08",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “infer” while analyzing the new evidence to express the idea of 추론하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "motivate"
+          ],
+          "correctAnswer": "infer",
+          "explanation": "문맥에서 infer은 ‘추론하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "infer",
+            "infer"
+          ],
+          "exampleSentence": "The writer uses “infer” while analyzing the new evidence to express the idea of 추론하다.",
+          "koreanMeaning": "문맥에서 infer은 ‘추론하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q09",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “imply” while analyzing the new evidence to express the idea of 암시하다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "preserve",
+            "imply"
+          ],
+          "correctAnswer": "imply",
+          "explanation": "문맥에서 imply은 ‘암시하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "imply",
+            "imply"
+          ],
+          "exampleSentence": "The writer uses “imply” while analyzing the new evidence to express the idea of 암시하다.",
+          "koreanMeaning": "문맥에서 imply은 ‘암시하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q10",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “emerge” while analyzing the new evidence to express the idea of 나타나다.",
+          "choices": [
+            "infer",
+            "evaluate",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "emerge",
+          "explanation": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "emerge",
+            "emerge"
+          ],
+          "exampleSentence": "The writer uses “emerge” while analyzing the new evidence to express the idea of 나타나다.",
+          "koreanMeaning": "문맥에서 emerge은 ‘나타나다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q11",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “sustain” while analyzing the new evidence to express the idea of 지속하다.",
+          "choices": [
+            "infer",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "sustain",
+          "explanation": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sustain",
+            "sustain"
+          ],
+          "exampleSentence": "The writer uses “sustain” while analyzing the new evidence to express the idea of 지속하다.",
+          "koreanMeaning": "문맥에서 sustain은 ‘지속하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C13-S12-Q12",
+          "stageId": "EN-L11-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "문맥 빈칸 어휘: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “consume” while analyzing the new evidence to express the idea of 소비하다.",
+          "choices": [
+            "consume",
+            "sustain",
+            "emerge",
+            "imply"
+          ],
+          "correctAnswer": "consume",
+          "explanation": "문맥에서 consume은 ‘소비하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "문맥 빈칸 어휘",
+          "vocabularyTopic": "문맥 빈칸 어휘",
+          "sourceObjective": "문맥 빈칸 어휘 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "consume",
+            "consume"
+          ],
+          "exampleSentence": "The writer uses “consume” while analyzing the new evidence to express the idea of 소비하다.",
+          "koreanMeaning": "문맥에서 consume은 ‘소비하다’이라는 뜻이다."
+        }
+      ]
+    }
+  ]
+}

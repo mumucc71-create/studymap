@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C02",
+  "stages": [
+    {
+      "stageId": "EN-L12-C02-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S01-Q01",
+          "stageId": "EN-L12-C02-S01",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined in the school research paper.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S01-Q02",
+          "stageId": "EN-L12-C02-S01",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in the school research paper.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S01-Q03",
+          "stageId": "EN-L12-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined in the school research paper.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S01-Q04",
+          "stageId": "EN-L12-C02-S01",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S01-Q05",
+          "stageId": "EN-L12-C02-S01",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S01-Q06",
+          "stageId": "EN-L12-C02-S01",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S02-Q01",
+          "stageId": "EN-L12-C02-S02",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S02-Q02",
+          "stageId": "EN-L12-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S02-Q03",
+          "stageId": "EN-L12-C02-S02",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Researchers will review the data tomorrow. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S02-Q04",
+          "stageId": "EN-L12-C02-S02",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The result was confirmed last week. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S02-Q05",
+          "stageId": "EN-L12-C02-S02",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S02-Q06",
+          "stageId": "EN-L12-C02-S02",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S03-Q01",
+          "stageId": "EN-L12-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S03-Q02",
+          "stageId": "EN-L12-C02-S03",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S03-Q03",
+          "stageId": "EN-L12-C02-S03",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S03-Q04",
+          "stageId": "EN-L12-C02-S03",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined in a recent class discussion.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S03-Q05",
+          "stageId": "EN-L12-C02-S03",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined in a recent class discussion.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S03-Q06",
+          "stageId": "EN-L12-C02-S03",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined in a recent class discussion.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S04-Q01",
+          "stageId": "EN-L12-C02-S04",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S04-Q02",
+          "stageId": "EN-L12-C02-S04",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S04-Q03",
+          "stageId": "EN-L12-C02-S04",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Researchers will review the data tomorrow. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S04-Q04",
+          "stageId": "EN-L12-C02-S04",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The result was confirmed last week. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S04-Q05",
+          "stageId": "EN-L12-C02-S04",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S04-Q06",
+          "stageId": "EN-L12-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S05-Q01",
+          "stageId": "EN-L12-C02-S05",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined in a recent class discussion.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S05-Q02",
+          "stageId": "EN-L12-C02-S05",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in a recent class discussion.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S05-Q03",
+          "stageId": "EN-L12-C02-S05",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined in a recent class discussion.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S05-Q04",
+          "stageId": "EN-L12-C02-S05",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined during the science project.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S05-Q05",
+          "stageId": "EN-L12-C02-S05",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined during the science project.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S05-Q06",
+          "stageId": "EN-L12-C02-S05",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined during the science project.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S06-Q01",
+          "stageId": "EN-L12-C02-S06",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S06-Q02",
+          "stageId": "EN-L12-C02-S06",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S06-Q03",
+          "stageId": "EN-L12-C02-S06",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Researchers will review the data tomorrow. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S06-Q04",
+          "stageId": "EN-L12-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The result was confirmed last week. This structure is examined during the community meeting.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S06-Q05",
+          "stageId": "EN-L12-C02-S06",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined during the community meeting.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S06-Q06",
+          "stageId": "EN-L12-C02-S06",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined during the community meeting.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S07-Q01",
+          "stageId": "EN-L12-C02-S07",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined during the science project.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S07-Q02",
+          "stageId": "EN-L12-C02-S07",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined during the science project.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S07-Q03",
+          "stageId": "EN-L12-C02-S07",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined during the science project.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S07-Q04",
+          "stageId": "EN-L12-C02-S07",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined in the environmental report.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S07-Q05",
+          "stageId": "EN-L12-C02-S07",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined in the environmental report.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S07-Q06",
+          "stageId": "EN-L12-C02-S07",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined in the environmental report.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S08-Q01",
+          "stageId": "EN-L12-C02-S08",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The report has revealed a new trend. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S08-Q02",
+          "stageId": "EN-L12-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The samples are tested in the lab. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S08-Q03",
+          "stageId": "EN-L12-C02-S08",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Researchers will review the data tomorrow. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S08-Q04",
+          "stageId": "EN-L12-C02-S08",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The result was confirmed last week. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S08-Q05",
+          "stageId": "EN-L12-C02-S08",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Students have discussed the issue. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S08-Q06",
+          "stageId": "EN-L12-C02-S08",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The class is examining the evidence. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S09-Q01",
+          "stageId": "EN-L12-C02-S09",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined in the environmental report.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S09-Q02",
+          "stageId": "EN-L12-C02-S09",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in the environmental report.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S09-Q03",
+          "stageId": "EN-L12-C02-S09",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined in the environmental report.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S09-Q04",
+          "stageId": "EN-L12-C02-S09",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S09-Q05",
+          "stageId": "EN-L12-C02-S09",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S09-Q06",
+          "stageId": "EN-L12-C02-S09",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S10-Q01",
+          "stageId": "EN-L12-C02-S10",
+          "type": "ordering",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S10-Q02",
+          "stageId": "EN-L12-C02-S10",
+          "type": "grammarChoice",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S10-Q03",
+          "stageId": "EN-L12-C02-S10",
+          "type": "grammarError",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Researchers will review the data tomorrow. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S10-Q04",
+          "stageId": "EN-L12-C02-S10",
+          "type": "sentenceTransformation",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The result was confirmed last week. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S10-Q05",
+          "stageId": "EN-L12-C02-S10",
+          "type": "passageGrammar",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S10-Q06",
+          "stageId": "EN-L12-C02-S10",
+          "type": "multipleChoice",
+          "prompt": "시제와 태 어법: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C02-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C02-S11-Q01",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q02",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q03",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q04",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q05",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The report has revealed a new trend. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "has revealed"
+          ],
+          "correctAnswer": "has revealed",
+          "explanation": "문장 구조상 has revealed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has revealed",
+            "has revealed"
+          ],
+          "exampleSentence": "The report has revealed a new trend. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 has revealed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q06",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The samples are tested in the lab. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "explains",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "are tested",
+          "explanation": "문장 구조상 are tested이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are tested",
+            "are tested"
+          ],
+          "exampleSentence": "The samples are tested in the lab. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 are tested이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q07",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Researchers will review the data tomorrow. This structure is examined in a study about human behavior.",
+          "choices": [
+            "completed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "will review",
+          "explanation": "문장 구조상 will review이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "will review",
+            "will review"
+          ],
+          "exampleSentence": "Researchers will review the data tomorrow. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 will review이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q08",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The result was confirmed last week. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "has revealed"
+          ],
+          "correctAnswer": "was confirmed",
+          "explanation": "문장 구조상 was confirmed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "was confirmed",
+            "was confirmed"
+          ],
+          "exampleSentence": "The result was confirmed last week. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 was confirmed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q09",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. Students have discussed the issue. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "are tested",
+            "have discussed"
+          ],
+          "correctAnswer": "have discussed",
+          "explanation": "문장 구조상 have discussed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have discussed",
+            "have discussed"
+          ],
+          "exampleSentence": "Students have discussed the issue. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 have discussed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q10",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The class is examining the evidence. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "will review",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "is examining",
+          "explanation": "문장 구조상 is examining이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is examining",
+            "is examining"
+          ],
+          "exampleSentence": "The class is examining the evidence. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 is examining이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q11",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The article explains the change. This structure is examined in a study about human behavior.",
+          "choices": [
+            "was confirmed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "explains",
+          "explanation": "문장 구조상 explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "explains",
+            "explains"
+          ],
+          "exampleSentence": "The article explains the change. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C02-S11-Q12",
+          "stageId": "EN-L12-C02-S11",
+          "type": "reviewMixed",
+          "prompt": "시제와 태 어법: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The team completed the survey yesterday. This structure is examined during the community meeting.",
+          "choices": [
+            "completed",
+            "explains",
+            "is examining",
+            "have discussed"
+          ],
+          "correctAnswer": "completed",
+          "explanation": "문장 구조상 completed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "시제와 태 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "시제와 태 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "completed",
+            "completed"
+          ],
+          "exampleSentence": "The team completed the survey yesterday. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 completed이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

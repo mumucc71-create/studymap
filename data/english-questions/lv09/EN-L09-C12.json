@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C12",
+  "stages": [
+    {
+      "stageId": "EN-L09-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S01-Q01",
+          "stageId": "EN-L09-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 1번: The young artist carefully studies English in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / carries / a blue bag",
+            "The new student / finds / the answer",
+            "Our teacher / studies / English",
+            "The young artist / studies / English"
+          ],
+          "correctAnswer": "The young artist / studies / English",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / studies / English입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / studies / English",
+            "the young artist / studies / english"
+          ],
+          "exampleSentence": "The young artist carefully studies English in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S01-Q02",
+          "stageId": "EN-L09-C12-S01",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 2번: 핵심 구조가 ‘The soccer player / studies / English’이면 O, 아니면 X를 고르세요: The soccer player carefully studies English in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 The soccer player / studies / English입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carefully studies English in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S01-Q03",
+          "stageId": "EN-L09-C12-S01",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 3번: The new student carefully studies English in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / studies / English",
+            "The new student / studies / English",
+            "Our teacher / carries / a blue bag",
+            "Tom / reads / books"
+          ],
+          "correctAnswer": "The new student / studies / English",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The new student / studies / English입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student / studies / English",
+            "the new student / studies / english"
+          ],
+          "exampleSentence": "The new student carefully studies English in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S01-Q04",
+          "stageId": "EN-L09-C12-S01",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 4번: “Mina carefully plays soccer in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "Mina carefully plays soccer in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S01-Q05",
+          "stageId": "EN-L09-C12-S01",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 5번: Tom carefully plays soccer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / carries / a blue bag",
+            "The student / reads / books",
+            "Mina / plays / soccer",
+            "Tom / plays / soccer"
+          ],
+          "correctAnswer": "Tom / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / plays / soccer입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / plays / soccer",
+            "tom / plays / soccer"
+          ],
+          "exampleSentence": "Tom carefully plays soccer in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S01-Q06",
+          "stageId": "EN-L09-C12-S01",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carefully plays soccer in the library My.",
+            "subject",
+            "My brother carefully plays soccer in the library.",
+            "library the in soccer plays carefully brother My."
+          ],
+          "correctAnswer": "My brother carefully plays soccer in the library.",
+          "explanation": "바른 어순은 “My brother carefully plays soccer in the library.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carefully plays soccer in the library.",
+            "My brother carefully plays soccer in the library"
+          ],
+          "exampleSentence": "My brother carefully plays soccer in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S02-Q01",
+          "stageId": "EN-L09-C12-S02",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 1번: Tom carefully finds the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / writes / short notes",
+            "The student / opens / the window",
+            "Mina / finds / the answer",
+            "Tom / finds / the answer"
+          ],
+          "correctAnswer": "Tom / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / finds / the answer입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / finds / the answer",
+            "tom / finds / the answer"
+          ],
+          "exampleSentence": "Tom carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S02-Q02",
+          "stageId": "EN-L09-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 2번: My brother carefully finds the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / opens / the window",
+            "Tom / finds / the answer",
+            "My brother / finds / the answer",
+            "The new student / writes / short notes"
+          ],
+          "correctAnswer": "My brother / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / finds / the answer입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / finds / the answer",
+            "my brother / finds / the answer"
+          ],
+          "exampleSentence": "My brother carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S02-Q03",
+          "stageId": "EN-L09-C12-S02",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 3번: “The student carefully finds the answer after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "주어, 동사, 목적어 단위로 끊어 읽는다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "The student carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S02-Q04",
+          "stageId": "EN-L09-C12-S02",
+          "type": "fillBlank",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 4번: Our teacher carefully finds the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / finds / the answer",
+            "Tom / studies / English",
+            "The soccer player / opens / the window",
+            "The student / finds / the answer"
+          ],
+          "correctAnswer": "Our teacher / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Our teacher / finds / the answer입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher / finds / the answer",
+            "our teacher / finds / the answer"
+          ],
+          "exampleSentence": "Our teacher carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S02-Q05",
+          "stageId": "EN-L09-C12-S02",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 5번: The young artist carefully finds the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / studies / English",
+            "The new student / opens / the window",
+            "Our teacher / finds / the answer",
+            "The young artist / finds / the answer"
+          ],
+          "correctAnswer": "The young artist / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / finds / the answer입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / finds / the answer",
+            "the young artist / finds / the answer"
+          ],
+          "exampleSentence": "The young artist carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S02-Q06",
+          "stageId": "EN-L09-C12-S02",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘The soccer player / finds / the answer’이면 O, 아니면 X를 고르세요: The soccer player carefully finds the answer after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 The soccer player / finds / the answer입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carefully finds the answer after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S03-Q01",
+          "stageId": "EN-L09-C12-S03",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 1번: The young artist carefully plays soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / makes / a simple plan",
+            "The new student / reads / books",
+            "Our teacher / plays / soccer",
+            "The young artist / plays / soccer"
+          ],
+          "correctAnswer": "The young artist / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / plays / soccer입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / plays / soccer",
+            "the young artist / plays / soccer"
+          ],
+          "exampleSentence": "The young artist carefully plays soccer at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S03-Q02",
+          "stageId": "EN-L09-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 2번: The soccer player carefully plays soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / writes / short notes",
+            "The young artist / plays / soccer",
+            "The soccer player / plays / soccer",
+            "The student / makes / a simple plan"
+          ],
+          "correctAnswer": "The soccer player / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / plays / soccer입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / plays / soccer",
+            "the soccer player / plays / soccer"
+          ],
+          "exampleSentence": "The soccer player carefully plays soccer at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S03-Q03",
+          "stageId": "EN-L09-C12-S03",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 3번: 핵심 구조가 ‘Our teacher / makes / a simple plan’이면 O, 아니면 X를 고르세요: The new student carefully plays soccer at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 The new student / plays / soccer입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student carefully plays soccer at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S03-Q04",
+          "stageId": "EN-L09-C12-S03",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina carefully opens the window at the community center.",
+            "center community the at window the opens carefully Mina.",
+            "carefully opens the window at the community center Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina carefully opens the window at the community center.",
+          "explanation": "바른 어순은 “Mina carefully opens the window at the community center.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina carefully opens the window at the community center.",
+            "Mina carefully opens the window at the community center"
+          ],
+          "exampleSentence": "Mina carefully opens the window at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S03-Q05",
+          "stageId": "EN-L09-C12-S03",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 5번: Tom carefully opens the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / makes / a simple plan",
+            "The student / writes / short notes",
+            "Mina / opens / the window",
+            "Tom / opens / the window"
+          ],
+          "correctAnswer": "Tom / opens / the window",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / opens / the window입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / opens / the window",
+            "tom / opens / the window"
+          ],
+          "exampleSentence": "Tom carefully opens the window at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S03-Q06",
+          "stageId": "EN-L09-C12-S03",
+          "type": "fillBlank",
+          "prompt": "긴 문장 끊어 읽기: 문법 구조 분석 · 6번: My brother carefully opens the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / writes / short notes",
+            "Tom / opens / the window",
+            "My brother / opens / the window",
+            "The new student / makes / a simple plan"
+          ],
+          "correctAnswer": "My brother / opens / the window",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / opens / the window입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / opens / the window",
+            "my brother / opens / the window"
+          ],
+          "exampleSentence": "My brother carefully opens the window at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S04-Q01",
+          "stageId": "EN-L09-C12-S04",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 1번: Tom carefully reads books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / studies / English",
+            "The student / carries / a blue bag",
+            "Mina / reads / books",
+            "Tom / reads / books"
+          ],
+          "correctAnswer": "Tom / reads / books",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / reads / books입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / reads / books",
+            "tom / reads / books"
+          ],
+          "exampleSentence": "Tom carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S04-Q02",
+          "stageId": "EN-L09-C12-S04",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carefully reads books on Saturday morning My.",
+            "subject",
+            "My brother carefully reads books on Saturday morning.",
+            "morning Saturday on books reads carefully brother My."
+          ],
+          "correctAnswer": "My brother carefully reads books on Saturday morning.",
+          "explanation": "바른 어순은 “My brother carefully reads books on Saturday morning.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carefully reads books on Saturday morning.",
+            "My brother carefully reads books on Saturday morning"
+          ],
+          "exampleSentence": "My brother carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S04-Q03",
+          "stageId": "EN-L09-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 3번: The student carefully reads books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / reads / books",
+            "The student / reads / books",
+            "Mina / plays / soccer",
+            "The young artist / carries / a blue bag"
+          ],
+          "correctAnswer": "The student / reads / books",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The student / reads / books입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The student / reads / books",
+            "the student / reads / books"
+          ],
+          "exampleSentence": "The student carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S04-Q04",
+          "stageId": "EN-L09-C12-S04",
+          "type": "fillBlank",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 4번: Our teacher carefully reads books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / reads / books",
+            "Tom / plays / soccer",
+            "The soccer player / carries / a blue bag",
+            "The student / reads / books"
+          ],
+          "correctAnswer": "Our teacher / reads / books",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Our teacher / reads / books입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher / reads / books",
+            "our teacher / reads / books"
+          ],
+          "exampleSentence": "Our teacher carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S04-Q05",
+          "stageId": "EN-L09-C12-S04",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 5번: 핵심 구조가 ‘My brother / plays / soccer’이면 O, 아니면 X를 고르세요: The young artist carefully reads books on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 The young artist / reads / books입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S04-Q06",
+          "stageId": "EN-L09-C12-S04",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 문장 분석 연습 · 6번: The soccer player carefully reads books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / makes / a simple plan",
+            "The young artist / reads / books",
+            "The soccer player / reads / books",
+            "The student / plays / soccer"
+          ],
+          "correctAnswer": "The soccer player / reads / books",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / reads / books입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / reads / books",
+            "the soccer player / reads / books"
+          ],
+          "exampleSentence": "The soccer player carefully reads books on Saturday morning.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S05-Q01",
+          "stageId": "EN-L09-C12-S05",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 1번: “The young artist carefully opens the window near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "The young artist carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S05-Q02",
+          "stageId": "EN-L09-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 2번: The soccer player carefully opens the window near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / studies / English",
+            "The young artist / opens / the window",
+            "The soccer player / opens / the window",
+            "The student / finds / the answer"
+          ],
+          "correctAnswer": "The soccer player / opens / the window",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / opens / the window입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / opens / the window",
+            "the soccer player / opens / the window"
+          ],
+          "exampleSentence": "The soccer player carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S05-Q03",
+          "stageId": "EN-L09-C12-S05",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 3번: 핵심 구조가 ‘Our teacher / finds / the answer’이면 O, 아니면 X를 고르세요: The new student carefully opens the window near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 The new student / opens / the window입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S05-Q04",
+          "stageId": "EN-L09-C12-S05",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 4번: Mina carefully carries a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / carries / a blue bag",
+            "The young artist / finds / the answer",
+            "My brother / studies / English",
+            "The new student / opens / the window"
+          ],
+          "correctAnswer": "Mina / carries / a blue bag",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Mina / carries / a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina / carries / a blue bag",
+            "mina / carries / a blue bag"
+          ],
+          "exampleSentence": "Mina carefully carries a blue bag near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S05-Q05",
+          "stageId": "EN-L09-C12-S05",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 5번: Tom carefully carries a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / finds / the answer",
+            "The student / studies / English",
+            "Mina / carries / a blue bag",
+            "Tom / carries / a blue bag"
+          ],
+          "correctAnswer": "Tom / carries / a blue bag",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / carries / a blue bag입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / carries / a blue bag",
+            "tom / carries / a blue bag"
+          ],
+          "exampleSentence": "Tom carefully carries a blue bag near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S05-Q06",
+          "stageId": "EN-L09-C12-S05",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carefully carries a blue bag near the school My.",
+            "subject",
+            "My brother carefully carries a blue bag near the school.",
+            "school the near bag blue a carries carefully brother My."
+          ],
+          "correctAnswer": "My brother carefully carries a blue bag near the school.",
+          "explanation": "바른 어순은 “My brother carefully carries a blue bag near the school.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carefully carries a blue bag near the school.",
+            "My brother carefully carries a blue bag near the school"
+          ],
+          "exampleSentence": "My brother carefully carries a blue bag near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S06-Q01",
+          "stageId": "EN-L09-C12-S06",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 1번: “Tom carefully writes short notes in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "Tom carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S06-Q02",
+          "stageId": "EN-L09-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 2번: My brother carefully writes short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / makes / a simple plan",
+            "Tom / writes / short notes",
+            "My brother / writes / short notes",
+            "The new student / plays / soccer"
+          ],
+          "correctAnswer": "My brother / writes / short notes",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / writes / short notes입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / writes / short notes",
+            "my brother / writes / short notes"
+          ],
+          "exampleSentence": "My brother carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S06-Q03",
+          "stageId": "EN-L09-C12-S06",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 3번: 핵심 구조가 ‘Mina / opens / the window’이면 O, 아니면 X를 고르세요: The student carefully writes short notes in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 The student / writes / short notes입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S06-Q04",
+          "stageId": "EN-L09-C12-S06",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 4번: Our teacher carefully writes short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / writes / short notes",
+            "Tom / opens / the window",
+            "The soccer player / makes / a simple plan",
+            "The student / writes / short notes"
+          ],
+          "correctAnswer": "Our teacher / writes / short notes",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Our teacher / writes / short notes입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher / writes / short notes",
+            "our teacher / writes / short notes"
+          ],
+          "exampleSentence": "Our teacher carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S06-Q05",
+          "stageId": "EN-L09-C12-S06",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 5번: The young artist carefully writes short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / opens / the window",
+            "The new student / makes / a simple plan",
+            "Our teacher / writes / short notes",
+            "The young artist / writes / short notes"
+          ],
+          "correctAnswer": "The young artist / writes / short notes",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / writes / short notes입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / writes / short notes",
+            "the young artist / writes / short notes"
+          ],
+          "exampleSentence": "The young artist carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S06-Q06",
+          "stageId": "EN-L09-C12-S06",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player carefully writes short notes in the library The.",
+            "subject",
+            "The soccer player carefully writes short notes in the library.",
+            "library the in notes short writes carefully player soccer The."
+          ],
+          "correctAnswer": "The soccer player carefully writes short notes in the library.",
+          "explanation": "바른 어순은 “The soccer player carefully writes short notes in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player carefully writes short notes in the library.",
+            "The soccer player carefully writes short notes in the library"
+          ],
+          "exampleSentence": "The soccer player carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S07-Q01",
+          "stageId": "EN-L09-C12-S07",
+          "type": "listeningChoice",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother carefully reads books in the library.",
+            "The new student carefully studies English near the school.",
+            "Our teacher carefully carries a blue bag during study time.",
+            "The young artist carefully carries a blue bag after class."
+          ],
+          "correctAnswer": "The young artist carefully carries a blue bag after class.",
+          "explanation": "들은 문장은 “The young artist carefully carries a blue bag after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist carefully carries a blue bag after class.",
+          "acceptedAnswers": [
+            "The young artist carefully carries a blue bag after class."
+          ],
+          "exampleSentence": "The young artist carefully carries a blue bag after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S07-Q02",
+          "stageId": "EN-L09-C12-S07",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 2번: The soccer player carefully carries a blue bag after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / plays / soccer",
+            "The young artist / carries / a blue bag",
+            "The soccer player / carries / a blue bag",
+            "The student / reads / books"
+          ],
+          "correctAnswer": "The soccer player / carries / a blue bag",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / carries / a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / carries / a blue bag",
+            "the soccer player / carries / a blue bag"
+          ],
+          "exampleSentence": "The soccer player carefully carries a blue bag after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S07-Q03",
+          "stageId": "EN-L09-C12-S07",
+          "type": "listeningChoice",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player carefully carries a blue bag during study time.",
+            "The new student carefully carries a blue bag after class.",
+            "Our teacher carefully reads books in the library.",
+            "Tom carefully plays soccer near the school."
+          ],
+          "correctAnswer": "The new student carefully carries a blue bag after class.",
+          "explanation": "들은 문장은 “The new student carefully carries a blue bag after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student carefully carries a blue bag after class.",
+          "acceptedAnswers": [
+            "The new student carefully carries a blue bag after class."
+          ],
+          "exampleSentence": "The new student carefully carries a blue bag after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S07-Q04",
+          "stageId": "EN-L09-C12-S07",
+          "type": "dictation",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina carefully makes a simple plan after class.",
+          "explanation": "바른 문장은 “Mina carefully makes a simple plan after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina carefully makes a simple plan after class.",
+          "acceptedAnswers": [
+            "Mina carefully makes a simple plan after class.",
+            "Mina carefully makes a simple plan after class"
+          ],
+          "exampleSentence": "Mina carefully makes a simple plan after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S07-Q05",
+          "stageId": "EN-L09-C12-S07",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘The soccer player / reads / books’이면 O, 아니면 X를 고르세요: Tom carefully makes a simple plan after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 Tom / makes / a simple plan입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom carefully makes a simple plan after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S07-Q06",
+          "stageId": "EN-L09-C12-S07",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 핵심 정보 듣기 · 6번: My brother carefully makes a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / plays / soccer",
+            "Tom / makes / a simple plan",
+            "My brother / makes / a simple plan",
+            "The new student / reads / books"
+          ],
+          "correctAnswer": "My brother / makes / a simple plan",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / makes / a simple plan입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / makes / a simple plan",
+            "my brother / makes / a simple plan"
+          ],
+          "exampleSentence": "My brother carefully makes a simple plan after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S08-Q01",
+          "stageId": "EN-L09-C12-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom carefully studies English at the community center.",
+          "explanation": "“Tom carefully studies English at the community center.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom carefully studies English at the community center.",
+          "acceptedAnswers": [
+            "Tom carefully studies English at the community center.",
+            "Tom carefully studies English at the community center"
+          ],
+          "exampleSentence": "Tom carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S08-Q02",
+          "stageId": "EN-L09-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 2번: My brother carefully studies English at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / finds / the answer",
+            "Tom / studies / English",
+            "My brother / studies / English",
+            "The new student / opens / the window"
+          ],
+          "correctAnswer": "My brother / studies / English",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / studies / English입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / studies / English",
+            "my brother / studies / english"
+          ],
+          "exampleSentence": "My brother carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S08-Q03",
+          "stageId": "EN-L09-C12-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student carefully studies English at the community center.",
+          "explanation": "“The student carefully studies English at the community center.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student carefully studies English at the community center.",
+          "acceptedAnswers": [
+            "The student carefully studies English at the community center.",
+            "The student carefully studies English at the community center"
+          ],
+          "exampleSentence": "The student carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S08-Q04",
+          "stageId": "EN-L09-C12-S08",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 4번: “Our teacher carefully studies English at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "Our teacher carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S08-Q05",
+          "stageId": "EN-L09-C12-S08",
+          "type": "matching",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 5번: The young artist carefully studies English at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / carries / a blue bag",
+            "The new student / finds / the answer",
+            "Our teacher / studies / English",
+            "The young artist / studies / English"
+          ],
+          "correctAnswer": "The young artist / studies / English",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / studies / English입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / studies / English",
+            "the young artist / studies / english"
+          ],
+          "exampleSentence": "The young artist carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S08-Q06",
+          "stageId": "EN-L09-C12-S08",
+          "type": "trueFalse",
+          "prompt": "긴 문장 끊어 읽기: 근거 설명하기 · 6번: 핵심 구조가 ‘The soccer player / studies / English’이면 O, 아니면 X를 고르세요: The soccer player carefully studies English at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 The soccer player / studies / English입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carefully studies English at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S09-Q01",
+          "stageId": "EN-L09-C12-S09",
+          "type": "fillBlank",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 1번: The young artist carefully makes a simple plan during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / writes / short notes",
+            "The new student / plays / soccer",
+            "Our teacher / makes / a simple plan",
+            "The young artist / makes / a simple plan"
+          ],
+          "correctAnswer": "The young artist / makes / a simple plan",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / makes / a simple plan입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / makes / a simple plan",
+            "the young artist / makes / a simple plan"
+          ],
+          "exampleSentence": "The young artist carefully makes a simple plan during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S09-Q02",
+          "stageId": "EN-L09-C12-S09",
+          "type": "dictation",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player carefully makes a simple plan during study time.",
+          "explanation": "바른 문장은 “The soccer player carefully makes a simple plan during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player carefully makes a simple plan during study time.",
+          "acceptedAnswers": [
+            "The soccer player carefully makes a simple plan during study time.",
+            "The soccer player carefully makes a simple plan during study time"
+          ],
+          "exampleSentence": "The soccer player carefully makes a simple plan during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S09-Q03",
+          "stageId": "EN-L09-C12-S09",
+          "type": "ordering",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student carefully makes a simple plan during study time.",
+            "time study during plan simple a makes carefully student new The.",
+            "new student carefully makes a simple plan during study time The."
+          ],
+          "correctAnswer": "The new student carefully makes a simple plan during study time.",
+          "explanation": "바른 어순은 “The new student carefully makes a simple plan during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student carefully makes a simple plan during study time.",
+            "The new student carefully makes a simple plan during study time"
+          ],
+          "exampleSentence": "The new student carefully makes a simple plan during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S09-Q04",
+          "stageId": "EN-L09-C12-S09",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 4번: Mina carefully finds the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / finds / the answer",
+            "The young artist / writes / short notes",
+            "My brother / opens / the window",
+            "The new student / makes / a simple plan"
+          ],
+          "correctAnswer": "Mina / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Mina / finds / the answer입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina / finds / the answer",
+            "mina / finds / the answer"
+          ],
+          "exampleSentence": "Mina carefully finds the answer during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S09-Q05",
+          "stageId": "EN-L09-C12-S09",
+          "type": "fillBlank",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 5번: Tom carefully finds the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / writes / short notes",
+            "The student / opens / the window",
+            "Mina / finds / the answer",
+            "Tom / finds / the answer"
+          ],
+          "correctAnswer": "Tom / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / finds / the answer입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / finds / the answer",
+            "tom / finds / the answer"
+          ],
+          "exampleSentence": "Tom carefully finds the answer during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S09-Q06",
+          "stageId": "EN-L09-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 논리 문장 쓰기 · 6번: My brother carefully finds the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / opens / the window",
+            "Tom / finds / the answer",
+            "My brother / finds / the answer",
+            "The new student / writes / short notes"
+          ],
+          "correctAnswer": "My brother / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / finds / the answer입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / finds / the answer",
+            "my brother / finds / the answer"
+          ],
+          "exampleSentence": "My brother carefully finds the answer during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C12-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C12-S10-Q01",
+          "stageId": "EN-L09-C12-S10",
+          "type": "reviewMixed",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 1번: Tom carefully plays soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / carries / a blue bag",
+            "The student / reads / books",
+            "Mina / plays / soccer",
+            "Tom / plays / soccer"
+          ],
+          "correctAnswer": "Tom / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / plays / soccer입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / plays / soccer",
+            "tom / plays / soccer"
+          ],
+          "exampleSentence": "Tom carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q02",
+          "stageId": "EN-L09-C12-S10",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 2번: My brother carefully plays soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / reads / books",
+            "Tom / plays / soccer",
+            "My brother / plays / soccer",
+            "The new student / carries / a blue bag"
+          ],
+          "correctAnswer": "My brother / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / plays / soccer입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / plays / soccer",
+            "my brother / plays / soccer"
+          ],
+          "exampleSentence": "My brother carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q03",
+          "stageId": "EN-L09-C12-S10",
+          "type": "listeningChoice",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother carefully plays soccer after class.",
+            "The student carefully plays soccer near the school.",
+            "Mina carefully makes a simple plan during study time.",
+            "The young artist carefully reads books at the community center."
+          ],
+          "correctAnswer": "The student carefully plays soccer near the school.",
+          "explanation": "들은 문장은 “The student carefully plays soccer near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student carefully plays soccer near the school.",
+          "acceptedAnswers": [
+            "The student carefully plays soccer near the school."
+          ],
+          "exampleSentence": "The student carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q04",
+          "stageId": "EN-L09-C12-S10",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 4번: Our teacher carefully plays soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / plays / soccer",
+            "Tom / makes / a simple plan",
+            "The soccer player / reads / books",
+            "The student / plays / soccer"
+          ],
+          "correctAnswer": "Our teacher / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Our teacher / plays / soccer입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher / plays / soccer",
+            "our teacher / plays / soccer"
+          ],
+          "exampleSentence": "Our teacher carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q05",
+          "stageId": "EN-L09-C12-S10",
+          "type": "dictation",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist carefully plays soccer near the school.",
+          "explanation": "바른 문장은 “The young artist carefully plays soccer near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist carefully plays soccer near the school.",
+          "acceptedAnswers": [
+            "The young artist carefully plays soccer near the school.",
+            "The young artist carefully plays soccer near the school"
+          ],
+          "exampleSentence": "The young artist carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q06",
+          "stageId": "EN-L09-C12-S10",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 6번: “The soccer player carefully plays soccer near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "주어, 동사, 목적어 단위로 끊어 읽는다.",
+            "subject"
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "The soccer player carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q07",
+          "stageId": "EN-L09-C12-S10",
+          "type": "reviewMixed",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 7번: The new student carefully plays soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / plays / soccer",
+            "The new student / plays / soccer",
+            "Our teacher / makes / a simple plan",
+            "Tom / writes / short notes"
+          ],
+          "correctAnswer": "The new student / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The new student / plays / soccer입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student / plays / soccer",
+            "the new student / plays / soccer"
+          ],
+          "exampleSentence": "The new student carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q08",
+          "stageId": "EN-L09-C12-S10",
+          "type": "multipleChoice",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 8번: Mina carefully opens the window near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / opens / the window",
+            "The young artist / makes / a simple plan",
+            "My brother / writes / short notes",
+            "The new student / plays / soccer"
+          ],
+          "correctAnswer": "Mina / opens / the window",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Mina / opens / the window입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina / opens / the window",
+            "mina / opens / the window"
+          ],
+          "exampleSentence": "Mina carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q09",
+          "stageId": "EN-L09-C12-S10",
+          "type": "listeningChoice",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player carefully makes a simple plan during study time.",
+            "The student carefully writes short notes at the community center.",
+            "Mina carefully opens the window after class.",
+            "Tom carefully opens the window near the school."
+          ],
+          "correctAnswer": "Tom carefully opens the window near the school.",
+          "explanation": "들은 문장은 “Tom carefully opens the window near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom carefully opens the window near the school.",
+          "acceptedAnswers": [
+            "Tom carefully opens the window near the school."
+          ],
+          "exampleSentence": "Tom carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q10",
+          "stageId": "EN-L09-C12-S10",
+          "type": "sentenceCompletion",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 10번: My brother carefully opens the window near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Our teacher / writes / short notes",
+            "Tom / opens / the window",
+            "My brother / opens / the window",
+            "The new student / makes / a simple plan"
+          ],
+          "correctAnswer": "My brother / opens / the window",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 My brother / opens / the window입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother / opens / the window",
+            "my brother / opens / the window"
+          ],
+          "exampleSentence": "My brother carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q11",
+          "stageId": "EN-L09-C12-S10",
+          "type": "dictation",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student carefully opens the window near the school.",
+          "explanation": "바른 문장은 “The student carefully opens the window near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student carefully opens the window near the school.",
+          "acceptedAnswers": [
+            "The student carefully opens the window near the school.",
+            "The student carefully opens the window near the school"
+          ],
+          "exampleSentence": "The student carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C12-S10-Q12",
+          "stageId": "EN-L09-C12-S10",
+          "type": "sentenceMeaning",
+          "prompt": "긴 문장 끊어 읽기: 과정 평가 · 12번: “Our teacher carefully opens the window near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "주어, 동사, 목적어 단위로 끊어 읽는다.",
+          "explanation": "핵심 의미는 ‘주어, 동사, 목적어 단위로 끊어 읽는다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "긴 문장 끊어 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어, 동사, 목적어 단위로 끊어 읽는다."
+          ],
+          "exampleSentence": "Our teacher carefully opens the window near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    }
+  ]
+}

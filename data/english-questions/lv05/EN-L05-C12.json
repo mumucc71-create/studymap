@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C12",
+  "stages": [
+    {
+      "stageId": "EN-L05-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S01-Q01",
+          "stageId": "EN-L05-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 1번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "colder",
+            "taller"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S01-Q02",
+          "stageId": "EN-L05-C12-S01",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 2번: 핵심 표현이 ‘bigger’이면 O, 아니면 X를 고르세요: This bag is bigger.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 bigger이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S01-Q03",
+          "stageId": "EN-L05-C12-S01",
+          "type": "matching",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 3번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "colder",
+            "faster",
+            "taller",
+            "bigger"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S01-Q04",
+          "stageId": "EN-L05-C12-S01",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 4번: “Today is colder than yesterday.”의 뜻을 고르세요.",
+          "choices": [
+            "오늘은 어제보다 춥다.",
+            "Tom은 Sam보다 키가 크다.",
+            "이 가방이 더 크다.",
+            "자전거가 걷기보다 빠르다."
+          ],
+          "correctAnswer": "오늘은 어제보다 춥다.",
+          "explanation": "뜻은 ‘오늘은 어제보다 춥다.’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "오늘은 어제보다 춥다."
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S01-Q05",
+          "stageId": "EN-L05-C12-S01",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 5번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "faster",
+            "easier"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S01-Q06",
+          "stageId": "EN-L05-C12-S01",
+          "type": "ordering",
+          "prompt": "기초 비교급: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is taller than Sam Tom.",
+            "is",
+            "Tom is taller than Sam.",
+            "Sam than taller is Tom."
+          ],
+          "correctAnswer": "Tom is taller than Sam.",
+          "explanation": "바른 어순은 “Tom is taller than Sam.”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom is taller than Sam.",
+            "Tom is taller than Sam"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S02-Q01",
+          "stageId": "EN-L05-C12-S02",
+          "type": "matching",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 1번: Today is ___ than yesterday. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "faster",
+            "colder"
+          ],
+          "correctAnswer": "colder",
+          "explanation": "기초 비교급에 맞는 표현은 colder입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "colder",
+            "colder"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S02-Q02",
+          "stageId": "EN-L05-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 2번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "easier",
+            "taller"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S02-Q03",
+          "stageId": "EN-L05-C12-S02",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 3번: “Tom is taller than Sam.”의 뜻을 고르세요.",
+          "choices": [
+            "오늘은 어제보다 춥다.",
+            "Tom은 Sam보다 키가 크다.",
+            "이 가방이 더 크다.",
+            "자전거가 걷기보다 빠르다."
+          ],
+          "correctAnswer": "Tom은 Sam보다 키가 크다.",
+          "explanation": "뜻은 ‘Tom은 Sam보다 키가 크다.’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom은 Sam보다 키가 크다."
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S02-Q04",
+          "stageId": "EN-L05-C12-S02",
+          "type": "fillBlank",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 4번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "taller",
+            "faster",
+            "colder"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S02-Q05",
+          "stageId": "EN-L05-C12-S02",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 5번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "colder",
+            "faster"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S02-Q06",
+          "stageId": "EN-L05-C12-S02",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘colder’이면 O, 아니면 X를 고르세요: Today is colder than yesterday.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 colder이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S03-Q01",
+          "stageId": "EN-L05-C12-S03",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 문장 구조 발견 · 1번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "faster",
+            "colder",
+            "bigger"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S03-Q02",
+          "stageId": "EN-L05-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 문장 구조 발견 · 2번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "colder",
+            "faster",
+            "taller"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S03-Q03",
+          "stageId": "EN-L05-C12-S03",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 문장 구조 발견 · 3번: 핵심 표현이 ‘taller’이면 O, 아니면 X를 고르세요: Today is colder than yesterday.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 colder이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S03-Q04",
+          "stageId": "EN-L05-C12-S03",
+          "type": "ordering",
+          "prompt": "기초 비교급: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "This book is easier.",
+            "easier is book This.",
+            "book is easier This.",
+            "is"
+          ],
+          "correctAnswer": "This book is easier.",
+          "explanation": "바른 어순은 “This book is easier.”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This book is easier.",
+            "This book is easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S03-Q05",
+          "stageId": "EN-L05-C12-S03",
+          "type": "matching",
+          "prompt": "기초 비교급: 문장 구조 발견 · 5번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "colder",
+            "taller"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S03-Q06",
+          "stageId": "EN-L05-C12-S03",
+          "type": "fillBlank",
+          "prompt": "기초 비교급: 문장 구조 발견 · 6번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "colder",
+            "bigger",
+            "taller"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S04-Q01",
+          "stageId": "EN-L05-C12-S04",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 1번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "faster",
+            "easier"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S04-Q02",
+          "stageId": "EN-L05-C12-S04",
+          "type": "ordering",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is taller than Sam Tom.",
+            "is",
+            "Tom is taller than Sam.",
+            "Sam than taller is Tom."
+          ],
+          "correctAnswer": "Tom is taller than Sam.",
+          "explanation": "바른 어순은 “Tom is taller than Sam.”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom is taller than Sam.",
+            "Tom is taller than Sam"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S04-Q03",
+          "stageId": "EN-L05-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 3번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "colder",
+            "bigger",
+            "taller",
+            "faster"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S04-Q04",
+          "stageId": "EN-L05-C12-S04",
+          "type": "fillBlank",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 4번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "taller",
+            "bigger",
+            "colder"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S04-Q05",
+          "stageId": "EN-L05-C12-S04",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 5번: 핵심 표현이 ‘taller’이면 O, 아니면 X를 고르세요: Today is colder than yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 colder이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S04-Q06",
+          "stageId": "EN-L05-C12-S04",
+          "type": "matching",
+          "prompt": "기초 비교급: 짧은 문장 연습 · 6번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "easier",
+            "taller"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S05-Q01",
+          "stageId": "EN-L05-C12-S05",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 1번: “A bike is faster than a walk.”의 뜻을 고르세요.",
+          "choices": [
+            "Tom은 Sam보다 키가 크다.",
+            "이 가방이 더 크다.",
+            "오늘은 어제보다 춥다.",
+            "자전거가 걷기보다 빠르다."
+          ],
+          "correctAnswer": "자전거가 걷기보다 빠르다.",
+          "explanation": "뜻은 ‘자전거가 걷기보다 빠르다.’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "자전거가 걷기보다 빠르다."
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S05-Q02",
+          "stageId": "EN-L05-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 2번: Today is ___ than yesterday. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "colder",
+            "taller"
+          ],
+          "correctAnswer": "colder",
+          "explanation": "기초 비교급에 맞는 표현은 colder입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "colder",
+            "colder"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S05-Q03",
+          "stageId": "EN-L05-C12-S05",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 3번: 핵심 표현이 ‘taller’이면 O, 아니면 X를 고르세요: This book is easier.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 easier이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S05-Q04",
+          "stageId": "EN-L05-C12-S05",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 4번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "faster",
+            "colder"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S05-Q05",
+          "stageId": "EN-L05-C12-S05",
+          "type": "matching",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 5번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "faster",
+            "colder",
+            "bigger"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S05-Q06",
+          "stageId": "EN-L05-C12-S05",
+          "type": "ordering",
+          "prompt": "기초 비교급: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "bike is faster than a walk A.",
+            "is",
+            "A bike is faster than a walk.",
+            "walk a than faster is bike A."
+          ],
+          "correctAnswer": "A bike is faster than a walk.",
+          "explanation": "바른 어순은 “A bike is faster than a walk.”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A bike is faster than a walk.",
+            "A bike is faster than a walk"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S06-Q01",
+          "stageId": "EN-L05-C12-S06",
+          "type": "listeningChoice",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "This bag is bigger.",
+            "A bike is faster than a walk.",
+            "Today is colder than yesterday.",
+            "Tom is taller than Sam."
+          ],
+          "correctAnswer": "Tom is taller than Sam.",
+          "explanation": "들은 문장은 “Tom is taller than Sam.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom is taller than Sam.",
+          "acceptedAnswers": [
+            "Tom is taller than Sam."
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S06-Q02",
+          "stageId": "EN-L05-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 2번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "colder",
+            "bigger",
+            "taller"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S06-Q03",
+          "stageId": "EN-L05-C12-S06",
+          "type": "listeningChoice",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Today is colder than yesterday.",
+            "A bike is faster than a walk.",
+            "Tom is taller than Sam.",
+            "This bag is bigger."
+          ],
+          "correctAnswer": "A bike is faster than a walk.",
+          "explanation": "들은 문장은 “A bike is faster than a walk.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A bike is faster than a walk.",
+          "acceptedAnswers": [
+            "A bike is faster than a walk."
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S06-Q04",
+          "stageId": "EN-L05-C12-S06",
+          "type": "dictation",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Today is colder than yesterday.",
+          "explanation": "바른 문장은 “Today is colder than yesterday.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Today is colder than yesterday.",
+          "acceptedAnswers": [
+            "Today is colder than yesterday.",
+            "Today is colder than yesterday"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S06-Q05",
+          "stageId": "EN-L05-C12-S06",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 5번: 핵심 표현이 ‘taller’이면 O, 아니면 X를 고르세요: This book is easier.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 easier이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S06-Q06",
+          "stageId": "EN-L05-C12-S06",
+          "type": "matching",
+          "prompt": "기초 비교급: 생활 대화 듣기 · 6번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "colder",
+            "taller",
+            "bigger"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S07-Q01",
+          "stageId": "EN-L05-C12-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "기초 비교급: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Today is colder than yesterday.",
+          "explanation": "“Today is colder than yesterday.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Today is colder than yesterday.",
+          "acceptedAnswers": [
+            "Today is colder than yesterday.",
+            "Today is colder than yesterday"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S07-Q02",
+          "stageId": "EN-L05-C12-S07",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 표현 말하기 · 2번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "easier",
+            "taller"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S07-Q03",
+          "stageId": "EN-L05-C12-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "기초 비교급: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom is taller than Sam.",
+          "explanation": "“Tom is taller than Sam.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom is taller than Sam.",
+          "acceptedAnswers": [
+            "Tom is taller than Sam.",
+            "Tom is taller than Sam"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S07-Q04",
+          "stageId": "EN-L05-C12-S07",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 표현 말하기 · 4번: “This bag is bigger.”의 뜻을 고르세요.",
+          "choices": [
+            "이 가방이 더 크다.",
+            "Tom은 Sam보다 키가 크다.",
+            "자전거가 걷기보다 빠르다.",
+            "오늘은 어제보다 춥다."
+          ],
+          "correctAnswer": "이 가방이 더 크다.",
+          "explanation": "뜻은 ‘이 가방이 더 크다.’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 가방이 더 크다."
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S07-Q05",
+          "stageId": "EN-L05-C12-S07",
+          "type": "matching",
+          "prompt": "기초 비교급: 표현 말하기 · 5번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "colder",
+            "faster"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S07-Q06",
+          "stageId": "EN-L05-C12-S07",
+          "type": "trueFalse",
+          "prompt": "기초 비교급: 표현 말하기 · 6번: 핵심 표현이 ‘colder’이면 O, 아니면 X를 고르세요: Today is colder than yesterday.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 colder이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S08-Q01",
+          "stageId": "EN-L05-C12-S08",
+          "type": "fillBlank",
+          "prompt": "기초 비교급: 문장 쓰기 · 1번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "faster",
+            "colder",
+            "bigger"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S08-Q02",
+          "stageId": "EN-L05-C12-S08",
+          "type": "dictation",
+          "prompt": "기초 비교급: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A bike is faster than a walk.",
+          "explanation": "바른 문장은 “A bike is faster than a walk.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A bike is faster than a walk.",
+          "acceptedAnswers": [
+            "A bike is faster than a walk.",
+            "A bike is faster than a walk"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S08-Q03",
+          "stageId": "EN-L05-C12-S08",
+          "type": "ordering",
+          "prompt": "기초 비교급: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "Today is colder than yesterday.",
+            "yesterday than colder is Today.",
+            "is colder than yesterday Today."
+          ],
+          "correctAnswer": "Today is colder than yesterday.",
+          "explanation": "바른 어순은 “Today is colder than yesterday.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Today is colder than yesterday.",
+            "Today is colder than yesterday"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S08-Q04",
+          "stageId": "EN-L05-C12-S08",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 문장 쓰기 · 4번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "easier",
+            "taller",
+            "bigger",
+            "faster"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S08-Q05",
+          "stageId": "EN-L05-C12-S08",
+          "type": "fillBlank",
+          "prompt": "기초 비교급: 문장 쓰기 · 5번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "colder",
+            "taller"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S08-Q06",
+          "stageId": "EN-L05-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 문장 쓰기 · 6번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "colder",
+            "bigger",
+            "taller"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C12-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C12-S09-Q01",
+          "stageId": "EN-L05-C12-S09",
+          "type": "reviewMixed",
+          "prompt": "기초 비교급: 과정 평가 · 1번: This book is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "taller",
+            "bigger",
+            "faster",
+            "easier"
+          ],
+          "correctAnswer": "easier",
+          "explanation": "기초 비교급에 맞는 표현은 easier입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "easier",
+            "easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q02",
+          "stageId": "EN-L05-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 과정 평가 · 2번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "colder",
+            "taller",
+            "bigger"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q03",
+          "stageId": "EN-L05-C12-S09",
+          "type": "listeningChoice",
+          "prompt": "기초 비교급: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Today is colder than yesterday.",
+            "This bag is bigger.",
+            "Tom is taller than Sam.",
+            "A bike is faster than a walk."
+          ],
+          "correctAnswer": "This bag is bigger.",
+          "explanation": "들은 문장은 “This bag is bigger.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This bag is bigger.",
+          "acceptedAnswers": [
+            "This bag is bigger."
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q04",
+          "stageId": "EN-L05-C12-S09",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 과정 평가 · 4번: A bike is ___ than a walk. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "faster",
+            "taller",
+            "bigger",
+            "colder"
+          ],
+          "correctAnswer": "faster",
+          "explanation": "기초 비교급에 맞는 표현은 faster입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "faster",
+            "faster"
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q05",
+          "stageId": "EN-L05-C12-S09",
+          "type": "dictation",
+          "prompt": "기초 비교급: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Today is colder than yesterday.",
+          "explanation": "바른 문장은 “Today is colder than yesterday.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Today is colder than yesterday.",
+          "acceptedAnswers": [
+            "Today is colder than yesterday.",
+            "Today is colder than yesterday"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q06",
+          "stageId": "EN-L05-C12-S09",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 과정 평가 · 6번: “This book is easier.”의 뜻을 고르세요.",
+          "choices": [
+            "이 가방이 더 크다.",
+            "자전거가 걷기보다 빠르다.",
+            "이 책이 더 쉽다.",
+            "Tom은 Sam보다 키가 크다."
+          ],
+          "correctAnswer": "이 책이 더 쉽다.",
+          "explanation": "뜻은 ‘이 책이 더 쉽다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 책이 더 쉽다."
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q07",
+          "stageId": "EN-L05-C12-S09",
+          "type": "reviewMixed",
+          "prompt": "기초 비교급: 과정 평가 · 7번: Tom is ___ than Sam. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "colder",
+            "taller",
+            "bigger",
+            "faster"
+          ],
+          "correctAnswer": "taller",
+          "explanation": "기초 비교급에 맞는 표현은 taller입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "taller",
+            "taller"
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q08",
+          "stageId": "EN-L05-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "기초 비교급: 과정 평가 · 8번: This bag is ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "taller",
+            "faster",
+            "colder"
+          ],
+          "correctAnswer": "bigger",
+          "explanation": "기초 비교급에 맞는 표현은 bigger입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bigger",
+            "bigger"
+          ],
+          "exampleSentence": "This bag is bigger.",
+          "koreanMeaning": "이 가방이 더 크다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q09",
+          "stageId": "EN-L05-C12-S09",
+          "type": "listeningChoice",
+          "prompt": "기초 비교급: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Tom is taller than Sam.",
+            "This bag is bigger.",
+            "Today is colder than yesterday.",
+            "A bike is faster than a walk."
+          ],
+          "correctAnswer": "A bike is faster than a walk.",
+          "explanation": "들은 문장은 “A bike is faster than a walk.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A bike is faster than a walk.",
+          "acceptedAnswers": [
+            "A bike is faster than a walk."
+          ],
+          "exampleSentence": "A bike is faster than a walk.",
+          "koreanMeaning": "자전거가 걷기보다 빠르다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q10",
+          "stageId": "EN-L05-C12-S09",
+          "type": "sentenceCompletion",
+          "prompt": "기초 비교급: 과정 평가 · 10번: Today is ___ than yesterday. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "bigger",
+            "faster",
+            "colder",
+            "taller"
+          ],
+          "correctAnswer": "colder",
+          "explanation": "기초 비교급에 맞는 표현은 colder입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "colder",
+            "colder"
+          ],
+          "exampleSentence": "Today is colder than yesterday.",
+          "koreanMeaning": "오늘은 어제보다 춥다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q11",
+          "stageId": "EN-L05-C12-S09",
+          "type": "dictation",
+          "prompt": "기초 비교급: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "This book is easier.",
+          "explanation": "바른 문장은 “This book is easier.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This book is easier.",
+          "acceptedAnswers": [
+            "This book is easier.",
+            "This book is easier"
+          ],
+          "exampleSentence": "This book is easier.",
+          "koreanMeaning": "이 책이 더 쉽다."
+        },
+        {
+          "questionId": "EN-L05-C12-S09-Q12",
+          "stageId": "EN-L05-C12-S09",
+          "type": "sentenceMeaning",
+          "prompt": "기초 비교급: 과정 평가 · 12번: “Tom is taller than Sam.”의 뜻을 고르세요.",
+          "choices": [
+            "Tom은 Sam보다 키가 크다.",
+            "이 가방이 더 크다.",
+            "자전거가 걷기보다 빠르다.",
+            "오늘은 어제보다 춥다."
+          ],
+          "correctAnswer": "Tom은 Sam보다 키가 크다.",
+          "explanation": "뜻은 ‘Tom은 Sam보다 키가 크다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "기초 비교급",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "기초 비교급 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom은 Sam보다 키가 크다."
+          ],
+          "exampleSentence": "Tom is taller than Sam.",
+          "koreanMeaning": "Tom은 Sam보다 키가 크다."
+        }
+      ]
+    }
+  ]
+}

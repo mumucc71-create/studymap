@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C03",
+  "stages": [
+    {
+      "stageId": "EN-L02-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S01-Q01",
+          "stageId": "EN-L02-C03-S01",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 문자와 소리 발견 · 1번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "sit",
+            "fan",
+            "sad",
+            "pig"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "pig에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S01-Q02",
+          "stageId": "EN-L02-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 문자와 소리 발견 · 2번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "sit",
+            "pig"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "sit에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "SIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S01-Q03",
+          "stageId": "EN-L02-C03-S01",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 문자와 소리 발견 · 3번: fin에 short-o 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fin의 목표 규칙은 short-i이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S01-Q04",
+          "stageId": "EN-L02-C03-S01",
+          "type": "matching",
+          "prompt": "단모음 i: 문자와 소리 발견 · 4번: lip와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pin",
+            "fan",
+            "sad",
+            "dog"
+          ],
+          "correctAnswer": "pin",
+          "explanation": "lip와 pin에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pin",
+            "PIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S01-Q05",
+          "stageId": "EN-L02-C03-S01",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 문자와 소리 발견 · 5번: pi_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "pin의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S01-Q06",
+          "stageId": "EN-L02-C03-S01",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 rib를 만드세요.",
+          "choices": [
+            "ibr",
+            "ri",
+            "rib",
+            "bir"
+          ],
+          "correctAnswer": "rib",
+          "explanation": "r + i + b를 순서대로 놓으면 rib입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rib",
+            "RIB"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S02-Q01",
+          "stageId": "EN-L02-C03-S02",
+          "type": "matching",
+          "prompt": "단모음 i: 핵심 글자·철자 · 1번: fin와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "dog",
+            "lip"
+          ],
+          "correctAnswer": "lip",
+          "explanation": "fin와 lip에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lip",
+            "LIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S02-Q02",
+          "stageId": "EN-L02-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 핵심 글자·철자 · 2번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "lip",
+            "pig"
+          ],
+          "correctAnswer": "lip",
+          "explanation": "lip에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lip",
+            "LIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S02-Q03",
+          "stageId": "EN-L02-C03-S02",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 pin를 만드세요.",
+          "choices": [
+            "pi",
+            "pin",
+            "nip",
+            "inp"
+          ],
+          "correctAnswer": "pin",
+          "explanation": "p + i + n를 순서대로 놓으면 pin입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pin",
+            "PIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S02-Q04",
+          "stageId": "EN-L02-C03-S02",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 핵심 글자·철자 · 4번: r_b에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "rib의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S02-Q05",
+          "stageId": "EN-L02-C03-S02",
+          "type": "spelling",
+          "prompt": "단모음 i: 핵심 글자·철자 · 5번: hi_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "hit의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S02-Q06",
+          "stageId": "EN-L02-C03-S02",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 핵심 글자·철자 · 6번: dig에 short-i 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "dig의 목표 규칙은 short-i이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S03-Q01",
+          "stageId": "EN-L02-C03-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "pin"
+          ],
+          "correctAnswer": "pin",
+          "explanation": "음성은 pin를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pin",
+          "acceptedAnswers": [
+            "pin",
+            "PIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S03-Q02",
+          "stageId": "EN-L02-C03-S03",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 2번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "rib",
+            "pig"
+          ],
+          "correctAnswer": "rib",
+          "explanation": "rib에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rib",
+            "RIB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S03-Q03",
+          "stageId": "EN-L02-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 3번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "hit",
+            "pig",
+            "fan"
+          ],
+          "correctAnswer": "hit",
+          "explanation": "hit에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hit",
+            "HIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S03-Q04",
+          "stageId": "EN-L02-C03-S03",
+          "type": "listeningChoice",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "dig",
+            "pig",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "dig",
+          "explanation": "음성은 dig를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "dig",
+          "acceptedAnswers": [
+            "dig",
+            "DIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S03-Q05",
+          "stageId": "EN-L02-C03-S03",
+          "type": "matching",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 5번: win와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "dog",
+            "tip"
+          ],
+          "correctAnswer": "tip",
+          "explanation": "win와 tip에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tip",
+            "TIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S03-Q06",
+          "stageId": "EN-L02-C03-S03",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 음가 듣고 구별하기 · 6번: tip에 short-i 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "tip의 목표 규칙은 short-i이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S04-Q01",
+          "stageId": "EN-L02-C03-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 1번: hit를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "hit",
+          "explanation": "hit에는 short i in a word 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "hit",
+          "acceptedAnswers": [
+            "hit",
+            "HIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S04-Q02",
+          "stageId": "EN-L02-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 2번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "dig",
+            "pig"
+          ],
+          "correctAnswer": "dig",
+          "explanation": "dig에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dig",
+            "DIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S04-Q03",
+          "stageId": "EN-L02-C03-S04",
+          "type": "matching",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 3번: win와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "tip",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "tip",
+          "explanation": "win와 tip에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tip",
+            "TIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S04-Q04",
+          "stageId": "EN-L02-C03-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 4번: tip를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "tip",
+          "explanation": "tip에는 short i in a word 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "tip",
+          "acceptedAnswers": [
+            "tip",
+            "TIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S04-Q05",
+          "stageId": "EN-L02-C03-S04",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 5번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "kid"
+          ],
+          "correctAnswer": "kid",
+          "explanation": "kid에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "kid",
+            "KID"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S04-Q06",
+          "stageId": "EN-L02-C03-S04",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 소리 내어 따라 읽기 · 6번: mix에 short-i 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "mix의 목표 규칙은 short-i이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S05-Q01",
+          "stageId": "EN-L02-C03-S05",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 문자 인식 연습 · 1번: 글자를 바르게 배열해 win를 만드세요.",
+          "choices": [
+            "niw",
+            "inw",
+            "wi",
+            "win"
+          ],
+          "correctAnswer": "win",
+          "explanation": "w + i + n를 순서대로 놓으면 win입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "win",
+            "WIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S05-Q02",
+          "stageId": "EN-L02-C03-S05",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 문자 인식 연습 · 2번: ti_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "tip의 빠진 글자는 p입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S05-Q03",
+          "stageId": "EN-L02-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 문자 인식 연습 · 3번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "kid",
+            "pig",
+            "fan"
+          ],
+          "correctAnswer": "kid",
+          "explanation": "kid에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "kid",
+            "KID"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S05-Q04",
+          "stageId": "EN-L02-C03-S05",
+          "type": "matching",
+          "prompt": "단모음 i: 문자 인식 연습 · 4번: mix와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "dog"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "mix와 pig에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S05-Q05",
+          "stageId": "EN-L02-C03-S05",
+          "type": "ordering",
+          "prompt": "단모음 i: 문자 인식 연습 · 5번: 글자를 바르게 배열해 pig를 만드세요.",
+          "choices": [
+            "gip",
+            "igp",
+            "pi",
+            "pig"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "p + i + g를 순서대로 놓으면 pig입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S05-Q06",
+          "stageId": "EN-L02-C03-S05",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 문자 인식 연습 · 6번: sit에 short-i 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "sit의 목표 규칙은 short-i이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S06-Q01",
+          "stageId": "EN-L02-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 단어 읽기 적용 · 1번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "kid"
+          ],
+          "correctAnswer": "kid",
+          "explanation": "kid에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "kid",
+            "KID"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S06-Q02",
+          "stageId": "EN-L02-C03-S06",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 단어 읽기 적용 · 2번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "mix",
+            "pig"
+          ],
+          "correctAnswer": "mix",
+          "explanation": "mix에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mix",
+            "MIX"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S06-Q03",
+          "stageId": "EN-L02-C03-S06",
+          "type": "matching",
+          "prompt": "단모음 i: 단어 읽기 적용 · 3번: pig와 같은 short i in a word 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "sit",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "pig와 sit에는 모두 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "SIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S06-Q04",
+          "stageId": "EN-L02-C03-S06",
+          "type": "trueFalse",
+          "prompt": "단모음 i: 단어 읽기 적용 · 4번: sit에 short-i 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "sit의 목표 규칙은 short-i이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S06-Q05",
+          "stageId": "EN-L02-C03-S06",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 fin를 만드세요.",
+          "choices": [
+            "nif",
+            "inf",
+            "fi",
+            "fin"
+          ],
+          "correctAnswer": "fin",
+          "explanation": "f + i + n를 순서대로 놓으면 fin입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fin",
+            "FIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S06-Q06",
+          "stageId": "EN-L02-C03-S06",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 단어 읽기 적용 · 6번: _ip에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "l",
+          "explanation": "lip의 빠진 글자는 l입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "l",
+            "L"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S07-Q01",
+          "stageId": "EN-L02-C03-S07",
+          "type": "spelling",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 1번: p_g에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "pig의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S07-Q02",
+          "stageId": "EN-L02-C03-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 2번: si_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "sit의 빠진 글자는 t입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S07-Q03",
+          "stageId": "EN-L02-C03-S07",
+          "type": "dictation",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fin",
+          "explanation": "fin의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fin",
+          "acceptedAnswers": [
+            "fin",
+            "FIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S07-Q04",
+          "stageId": "EN-L02-C03-S07",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 lip를 만드세요.",
+          "choices": [
+            "lip",
+            "pil",
+            "ipl",
+            "li"
+          ],
+          "correctAnswer": "lip",
+          "explanation": "l + i + p를 순서대로 놓으면 lip입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lip",
+            "LIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S07-Q05",
+          "stageId": "EN-L02-C03-S07",
+          "type": "spelling",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 5번: pi_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "pin의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S07-Q06",
+          "stageId": "EN-L02-C03-S07",
+          "type": "fillBlank",
+          "prompt": "단모음 i: 철자와 받아쓰기 · 6번: _ib에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "rib의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C03-S08-Q01",
+          "stageId": "EN-L02-C03-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 i: 과정 평가 · 1번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "fin"
+          ],
+          "correctAnswer": "fin",
+          "explanation": "fin에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fin",
+            "FIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q02",
+          "stageId": "EN-L02-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 과정 평가 · 2번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "lip",
+            "pig"
+          ],
+          "correctAnswer": "lip",
+          "explanation": "lip에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lip",
+            "LIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q03",
+          "stageId": "EN-L02-C03-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 i: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "pin",
+            "pig",
+            "fan"
+          ],
+          "correctAnswer": "pin",
+          "explanation": "음성은 pin를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pin",
+          "acceptedAnswers": [
+            "pin",
+            "PIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q04",
+          "stageId": "EN-L02-C03-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 과정 평가 · 4번: 글자를 바르게 배열해 rib를 만드세요.",
+          "choices": [
+            "rib",
+            "bir",
+            "ibr",
+            "ri"
+          ],
+          "correctAnswer": "rib",
+          "explanation": "r + i + b를 순서대로 놓으면 rib입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rib",
+            "RIB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q05",
+          "stageId": "EN-L02-C03-S08",
+          "type": "dictation",
+          "prompt": "단모음 i: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "hit",
+          "explanation": "hit의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "hit",
+          "acceptedAnswers": [
+            "hit",
+            "HIT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q06",
+          "stageId": "EN-L02-C03-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 과정 평가 · 6번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "fan",
+            "sad",
+            "dig",
+            "pig"
+          ],
+          "correctAnswer": "dig",
+          "explanation": "dig에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dig",
+            "DIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q07",
+          "stageId": "EN-L02-C03-S08",
+          "type": "reviewMixed",
+          "prompt": "단모음 i: 과정 평가 · 7번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "sad",
+            "win",
+            "pig",
+            "fan"
+          ],
+          "correctAnswer": "win",
+          "explanation": "win에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "win",
+            "WIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q08",
+          "stageId": "EN-L02-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "단모음 i: 과정 평가 · 8번: short-i 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tip",
+            "pig",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "tip",
+          "explanation": "tip에는 short-i 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tip",
+            "TIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q09",
+          "stageId": "EN-L02-C03-S08",
+          "type": "listeningChoice",
+          "prompt": "단모음 i: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "pig",
+            "fan",
+            "sad",
+            "kid"
+          ],
+          "correctAnswer": "kid",
+          "explanation": "음성은 kid를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "kid",
+          "acceptedAnswers": [
+            "kid",
+            "KID"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q10",
+          "stageId": "EN-L02-C03-S08",
+          "type": "wordBuilding",
+          "prompt": "단모음 i: 과정 평가 · 10번: 글자를 바르게 배열해 mix를 만드세요.",
+          "choices": [
+            "ixm",
+            "mi",
+            "mix",
+            "xim"
+          ],
+          "correctAnswer": "mix",
+          "explanation": "m + i + x를 순서대로 놓으면 mix입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mix",
+            "MIX"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q11",
+          "stageId": "EN-L02-C03-S08",
+          "type": "dictation",
+          "prompt": "단모음 i: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "pig",
+          "explanation": "pig의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pig",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C03-S08-Q12",
+          "stageId": "EN-L02-C03-S08",
+          "type": "soundDiscrimination",
+          "prompt": "단모음 i: 과정 평가 · 12번: short i in a word이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "sit",
+            "pig",
+            "fan",
+            "sad"
+          ],
+          "correctAnswer": "sit",
+          "explanation": "sit에서 short i in a word을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "short-i",
+          "targetSound": "short i in a word",
+          "sourceObjective": "단모음 i 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sit",
+            "SIT"
+          ]
+        }
+      ]
+    }
+  ]
+}

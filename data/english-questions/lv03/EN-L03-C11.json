@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C11",
+  "stages": [
+    {
+      "stageId": "EN-L03-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S01-Q01",
+          "stageId": "EN-L03-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 1번: ‘축구’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "music",
+            "soccer"
+          ],
+          "correctAnswer": "soccer",
+          "explanation": "‘축구’은 영어로 soccer입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "soccer",
+            "SOCCER"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        },
+        {
+          "questionId": "EN-L03-C11-S01-Q02",
+          "stageId": "EN-L03-C11-S01",
+          "type": "sentenceMeaning",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 2번: “I have baseball.”에서 baseball의 뜻을 고르세요.",
+          "choices": [
+            "테니스",
+            "음악",
+            "야구",
+            "축구"
+          ],
+          "correctAnswer": "야구",
+          "explanation": "baseball은 ‘야구’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "야구"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C11-S01-Q03",
+          "stageId": "EN-L03-C11-S01",
+          "type": "trueFalse",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 3번: tennis의 뜻이 ‘축구’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "tennis의 뜻은 ‘테니스’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S01-Q04",
+          "stageId": "EN-L03-C11-S01",
+          "type": "matching",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 4번: music과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "음악",
+            "축구",
+            "야구",
+            "테니스"
+          ],
+          "correctAnswer": "음악",
+          "explanation": "music은 ‘음악’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음악"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S01-Q05",
+          "stageId": "EN-L03-C11-S01",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 5번: I like ___. 빈칸에 ‘춤’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "dance"
+          ],
+          "correctAnswer": "dance",
+          "explanation": "문맥과 뜻에 맞는 단어는 dance입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dance",
+            "DANCE"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S01-Q06",
+          "stageId": "EN-L03-C11-S01",
+          "type": "categorization",
+          "prompt": "놀이와 취미: 핵심 표현 이해 · 6번: game을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "동물과 자연",
+            "놀이와 취미",
+            "집"
+          ],
+          "correctAnswer": "놀이와 취미",
+          "explanation": "game은 놀이와 취미 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "놀이와 취미"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S02-Q01",
+          "stageId": "EN-L03-C11-S02",
+          "type": "matching",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 1번: music과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "축구",
+            "야구",
+            "테니스",
+            "음악"
+          ],
+          "correctAnswer": "음악",
+          "explanation": "music은 ‘음악’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음악"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S02-Q02",
+          "stageId": "EN-L03-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 2번: ‘춤’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "dance",
+            "soccer"
+          ],
+          "correctAnswer": "dance",
+          "explanation": "‘춤’은 영어로 dance입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dance",
+            "DANCE"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S02-Q03",
+          "stageId": "EN-L03-C11-S02",
+          "type": "categorization",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 3번: game을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "놀이와 취미",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "놀이와 취미",
+          "explanation": "game은 놀이와 취미 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "놀이와 취미"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C11-S02-Q04",
+          "stageId": "EN-L03-C11-S02",
+          "type": "spelling",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 4번: bi_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "k",
+          "explanation": "bike의 빠진 글자는 k입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "k",
+            "K"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C11-S02-Q05",
+          "stageId": "EN-L03-C11-S02",
+          "type": "wordBuilding",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘수영’을 만드세요.",
+          "choices": [
+            "miws",
+            "wims",
+            "swi",
+            "swim"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "바른 철자는 swim입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ],
+          "koreanMeaning": "수영",
+          "exampleSentence": "I can swim."
+        },
+        {
+          "questionId": "EN-L03-C11-S02-Q06",
+          "stageId": "EN-L03-C11-S02",
+          "type": "fillBlank",
+          "prompt": "놀이와 취미: 생활 어휘 문맥 학습 · 6번: _raw에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "draw의 빠진 글자는 d입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S03-Q01",
+          "stageId": "EN-L03-C11-S03",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 1번: I like ___. 빈칸에 ‘자전거’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "bike"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "문맥과 뜻에 맞는 단어는 bike입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C11-S03-Q02",
+          "stageId": "EN-L03-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 2번: ‘수영’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "swim",
+            "soccer"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "‘수영’은 영어로 swim입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ],
+          "koreanMeaning": "수영",
+          "exampleSentence": "I can swim."
+        },
+        {
+          "questionId": "EN-L03-C11-S03-Q03",
+          "stageId": "EN-L03-C11-S03",
+          "type": "trueFalse",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 3번: draw의 뜻이 ‘축구’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "draw의 뜻은 ‘그림 그리기’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        },
+        {
+          "questionId": "EN-L03-C11-S03-Q04",
+          "stageId": "EN-L03-C11-S03",
+          "type": "ordering",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I can read.",
+            "read can I.",
+            "can read I."
+          ],
+          "correctAnswer": "I can read.",
+          "explanation": "바른 어순은 “I can read.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I can read.",
+            "I can read"
+          ],
+          "koreanMeaning": "읽기",
+          "exampleSentence": "I can read."
+        },
+        {
+          "questionId": "EN-L03-C11-S03-Q05",
+          "stageId": "EN-L03-C11-S03",
+          "type": "fillBlank",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 5번: so_cer에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "soccer의 빠진 글자는 c입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        },
+        {
+          "questionId": "EN-L03-C11-S03-Q06",
+          "stageId": "EN-L03-C11-S03",
+          "type": "matching",
+          "prompt": "놀이와 취미: 문장 구조 발견 · 6번: baseball과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "테니스",
+            "음악",
+            "야구",
+            "축구"
+          ],
+          "correctAnswer": "야구",
+          "explanation": "baseball은 ‘야구’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "야구"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S04-Q01",
+          "stageId": "EN-L03-C11-S04",
+          "type": "wordBuilding",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘읽기’을 만드세요.",
+          "choices": [
+            "daer",
+            "eadr",
+            "rea",
+            "read"
+          ],
+          "correctAnswer": "read",
+          "explanation": "바른 철자는 read입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "READ"
+          ],
+          "koreanMeaning": "읽기",
+          "exampleSentence": "I can read."
+        },
+        {
+          "questionId": "EN-L03-C11-S04-Q02",
+          "stageId": "EN-L03-C11-S04",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 2번: I like ___. 빈칸에 ‘축구’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "tennis",
+            "music",
+            "soccer",
+            "baseball"
+          ],
+          "correctAnswer": "soccer",
+          "explanation": "문맥과 뜻에 맞는 단어는 soccer입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "soccer",
+            "SOCCER"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        },
+        {
+          "questionId": "EN-L03-C11-S04-Q03",
+          "stageId": "EN-L03-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 3번: ‘야구’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "music",
+            "baseball",
+            "soccer",
+            "tennis"
+          ],
+          "correctAnswer": "baseball",
+          "explanation": "‘야구’은 영어로 baseball입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baseball",
+            "BASEBALL"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C11-S04-Q04",
+          "stageId": "EN-L03-C11-S04",
+          "type": "categorization",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 4번: tennis을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "놀이와 취미",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "놀이와 취미",
+          "explanation": "tennis은 놀이와 취미 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "놀이와 취미"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S04-Q05",
+          "stageId": "EN-L03-C11-S04",
+          "type": "ordering",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "music have I.",
+            "have music I.",
+            "I have music."
+          ],
+          "correctAnswer": "I have music.",
+          "explanation": "바른 어순은 “I have music.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have music.",
+            "I have music"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S04-Q06",
+          "stageId": "EN-L03-C11-S04",
+          "type": "fillBlank",
+          "prompt": "놀이와 취미: 짧은 문장 연습 · 6번: _ance에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "dance의 빠진 글자는 d입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S05-Q01",
+          "stageId": "EN-L03-C11-S05",
+          "type": "sentenceMeaning",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 1번: “I like tennis.”에서 tennis의 뜻을 고르세요.",
+          "choices": [
+            "축구",
+            "야구",
+            "음악",
+            "테니스"
+          ],
+          "correctAnswer": "테니스",
+          "explanation": "tennis은 ‘테니스’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "테니스"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S05-Q02",
+          "stageId": "EN-L03-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 2번: ‘음악’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "music",
+            "soccer"
+          ],
+          "correctAnswer": "music",
+          "explanation": "‘음악’은 영어로 music입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "music",
+            "MUSIC"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S05-Q03",
+          "stageId": "EN-L03-C11-S05",
+          "type": "trueFalse",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 3번: dance의 뜻이 ‘축구’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "dance의 뜻은 ‘춤’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S05-Q04",
+          "stageId": "EN-L03-C11-S05",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 4번: I have ___. 빈칸에 ‘게임’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "game",
+            "soccer",
+            "baseball",
+            "tennis"
+          ],
+          "correctAnswer": "game",
+          "explanation": "문맥과 뜻에 맞는 단어는 game입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C11-S05-Q05",
+          "stageId": "EN-L03-C11-S05",
+          "type": "matching",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 5번: bike과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "축구",
+            "야구",
+            "테니스",
+            "자전거"
+          ],
+          "correctAnswer": "자전거",
+          "explanation": "bike은 ‘자전거’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "자전거"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C11-S05-Q06",
+          "stageId": "EN-L03-C11-S05",
+          "type": "ordering",
+          "prompt": "놀이와 취미: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "can swim I.",
+            "I can swim.",
+            "swim can I."
+          ],
+          "correctAnswer": "I can swim.",
+          "explanation": "바른 어순은 “I can swim.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I can swim.",
+            "I can swim"
+          ],
+          "koreanMeaning": "수영",
+          "exampleSentence": "I can swim."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S06-Q01",
+          "stageId": "EN-L03-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "game"
+          ],
+          "correctAnswer": "game",
+          "explanation": "음성의 핵심 단어는 game입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "game",
+          "acceptedAnswers": [
+            "game"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C11-S06-Q02",
+          "stageId": "EN-L03-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 2번: ‘자전거’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "bike",
+            "soccer"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "‘자전거’은 영어로 bike입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C11-S06-Q03",
+          "stageId": "EN-L03-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "tennis",
+            "swim",
+            "soccer",
+            "baseball"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "음성의 핵심 단어는 swim입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "swim",
+          "acceptedAnswers": [
+            "swim"
+          ],
+          "koreanMeaning": "수영",
+          "exampleSentence": "I can swim."
+        },
+        {
+          "questionId": "EN-L03-C11-S06-Q04",
+          "stageId": "EN-L03-C11-S06",
+          "type": "dictation",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "draw",
+          "explanation": "그림 그리기은 영어로 draw입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "draw",
+          "acceptedAnswers": [
+            "draw",
+            "DRAW"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        },
+        {
+          "questionId": "EN-L03-C11-S06-Q05",
+          "stageId": "EN-L03-C11-S06",
+          "type": "trueFalse",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 5번: read의 뜻이 ‘축구’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "read의 뜻은 ‘읽기’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "읽기",
+          "exampleSentence": "I can read."
+        },
+        {
+          "questionId": "EN-L03-C11-S06-Q06",
+          "stageId": "EN-L03-C11-S06",
+          "type": "matching",
+          "prompt": "놀이와 취미: 생활 대화 듣기 · 6번: soccer과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "테니스",
+            "음악",
+            "축구",
+            "야구"
+          ],
+          "correctAnswer": "축구",
+          "explanation": "soccer은 ‘축구’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "축구"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S07-Q01",
+          "stageId": "EN-L03-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "놀이와 취미: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like to draw.",
+          "explanation": "I like to draw.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like to draw.",
+          "acceptedAnswers": [
+            "I like to draw.",
+            "I like to draw"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        },
+        {
+          "questionId": "EN-L03-C11-S07-Q02",
+          "stageId": "EN-L03-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 표현 말하기 · 2번: ‘읽기’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "read",
+            "soccer"
+          ],
+          "correctAnswer": "read",
+          "explanation": "‘읽기’은 영어로 read입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read",
+            "READ"
+          ],
+          "koreanMeaning": "읽기",
+          "exampleSentence": "I can read."
+        },
+        {
+          "questionId": "EN-L03-C11-S07-Q03",
+          "stageId": "EN-L03-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "놀이와 취미: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like soccer.",
+          "explanation": "I like soccer.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like soccer.",
+          "acceptedAnswers": [
+            "I like soccer.",
+            "I like soccer"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        },
+        {
+          "questionId": "EN-L03-C11-S07-Q04",
+          "stageId": "EN-L03-C11-S07",
+          "type": "sentenceMeaning",
+          "prompt": "놀이와 취미: 표현 말하기 · 4번: “I have baseball.”에서 baseball의 뜻을 고르세요.",
+          "choices": [
+            "야구",
+            "축구",
+            "테니스",
+            "음악"
+          ],
+          "correctAnswer": "야구",
+          "explanation": "baseball은 ‘야구’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "야구"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C11-S07-Q05",
+          "stageId": "EN-L03-C11-S07",
+          "type": "matching",
+          "prompt": "놀이와 취미: 표현 말하기 · 5번: tennis과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "축구",
+            "야구",
+            "음악",
+            "테니스"
+          ],
+          "correctAnswer": "테니스",
+          "explanation": "tennis은 ‘테니스’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "테니스"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S07-Q06",
+          "stageId": "EN-L03-C11-S07",
+          "type": "trueFalse",
+          "prompt": "놀이와 취미: 표현 말하기 · 6번: music의 뜻이 ‘음악’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "music의 뜻은 ‘음악’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S08-Q01",
+          "stageId": "EN-L03-C11-S08",
+          "type": "spelling",
+          "prompt": "놀이와 취미: 문장 쓰기 · 1번: b_seball에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "baseball의 빠진 글자는 a입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C11-S08-Q02",
+          "stageId": "EN-L03-C11-S08",
+          "type": "fillBlank",
+          "prompt": "놀이와 취미: 문장 쓰기 · 2번: tenn_s에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "tennis의 빠진 글자는 i입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S08-Q03",
+          "stageId": "EN-L03-C11-S08",
+          "type": "dictation",
+          "prompt": "놀이와 취미: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "music",
+          "explanation": "음악은 영어로 music입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "music",
+          "acceptedAnswers": [
+            "music",
+            "MUSIC"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S08-Q04",
+          "stageId": "EN-L03-C11-S08",
+          "type": "wordBuilding",
+          "prompt": "놀이와 취미: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘춤’을 만드세요.",
+          "choices": [
+            "dance",
+            "ecnad",
+            "anced",
+            "danc"
+          ],
+          "correctAnswer": "dance",
+          "explanation": "바른 철자는 dance입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dance",
+            "DANCE"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S08-Q05",
+          "stageId": "EN-L03-C11-S08",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 문장 쓰기 · 5번: I have ___. 빈칸에 ‘게임’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "game"
+          ],
+          "correctAnswer": "game",
+          "explanation": "문맥과 뜻에 맞는 단어는 game입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C11-S08-Q06",
+          "stageId": "EN-L03-C11-S08",
+          "type": "ordering",
+          "prompt": "놀이와 취미: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "like bike I.",
+            "I like bike.",
+            "bike like I."
+          ],
+          "correctAnswer": "I like bike.",
+          "explanation": "바른 어순은 “I like bike.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I like bike.",
+            "I like bike"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C11-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C11-S09-Q01",
+          "stageId": "EN-L03-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "놀이와 취미: 과정 평가 · 1번: ‘춤’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "dance"
+          ],
+          "correctAnswer": "dance",
+          "explanation": "‘춤’은 영어로 dance입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dance",
+            "DANCE"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q02",
+          "stageId": "EN-L03-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 과정 평가 · 2번: ‘게임’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "game",
+            "soccer"
+          ],
+          "correctAnswer": "game",
+          "explanation": "‘게임’은 영어로 game입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q03",
+          "stageId": "EN-L03-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "놀이와 취미: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "tennis",
+            "bike",
+            "soccer",
+            "baseball"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "음성의 핵심 단어는 bike입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bike",
+          "acceptedAnswers": [
+            "bike"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q04",
+          "stageId": "EN-L03-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 과정 평가 · 4번: I can ___. 빈칸에 ‘수영’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "swim",
+            "soccer",
+            "baseball",
+            "tennis"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "문맥과 뜻에 맞는 단어는 swim입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ],
+          "koreanMeaning": "수영",
+          "exampleSentence": "I can swim."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q05",
+          "stageId": "EN-L03-C11-S09",
+          "type": "dictation",
+          "prompt": "놀이와 취미: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "draw",
+          "explanation": "그림 그리기은 영어로 draw입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "draw",
+          "acceptedAnswers": [
+            "draw",
+            "DRAW"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q06",
+          "stageId": "EN-L03-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "놀이와 취미: 과정 평가 · 6번: “I can read.”에서 read의 뜻을 고르세요.",
+          "choices": [
+            "야구",
+            "테니스",
+            "읽기",
+            "축구"
+          ],
+          "correctAnswer": "읽기",
+          "explanation": "read은 ‘읽기’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "읽기"
+          ],
+          "koreanMeaning": "읽기",
+          "exampleSentence": "I can read."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q07",
+          "stageId": "EN-L03-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "놀이와 취미: 과정 평가 · 7번: ‘축구’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "music",
+            "soccer",
+            "baseball",
+            "tennis"
+          ],
+          "correctAnswer": "soccer",
+          "explanation": "‘축구’은 영어로 soccer입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "soccer",
+            "SOCCER"
+          ],
+          "koreanMeaning": "축구",
+          "exampleSentence": "I like soccer."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q08",
+          "stageId": "EN-L03-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "놀이와 취미: 과정 평가 · 8번: ‘야구’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "soccer",
+            "tennis",
+            "music"
+          ],
+          "correctAnswer": "baseball",
+          "explanation": "‘야구’은 영어로 baseball입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "baseball",
+            "BASEBALL"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q09",
+          "stageId": "EN-L03-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "놀이와 취미: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "music",
+            "tennis"
+          ],
+          "correctAnswer": "tennis",
+          "explanation": "음성의 핵심 단어는 tennis입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "tennis",
+          "acceptedAnswers": [
+            "tennis"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q10",
+          "stageId": "EN-L03-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "놀이와 취미: 과정 평가 · 10번: I have ___. 빈칸에 ‘음악’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "baseball",
+            "tennis",
+            "music",
+            "soccer"
+          ],
+          "correctAnswer": "music",
+          "explanation": "문맥과 뜻에 맞는 단어는 music입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "music",
+            "MUSIC"
+          ],
+          "koreanMeaning": "음악",
+          "exampleSentence": "I have music."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q11",
+          "stageId": "EN-L03-C11-S09",
+          "type": "dictation",
+          "prompt": "놀이와 취미: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "dance",
+          "explanation": "춤은 영어로 dance입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "dance",
+          "acceptedAnswers": [
+            "dance",
+            "DANCE"
+          ],
+          "koreanMeaning": "춤",
+          "exampleSentence": "I like dance."
+        },
+        {
+          "questionId": "EN-L03-C11-S09-Q12",
+          "stageId": "EN-L03-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "놀이와 취미: 과정 평가 · 12번: “I have game.”에서 game의 뜻을 고르세요.",
+          "choices": [
+            "게임",
+            "축구",
+            "야구",
+            "테니스"
+          ],
+          "correctAnswer": "게임",
+          "explanation": "game은 ‘게임’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "놀이와 취미 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "게임"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        }
+      ]
+    }
+  ]
+}

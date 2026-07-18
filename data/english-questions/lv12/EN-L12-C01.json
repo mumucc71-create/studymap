@@ -1,0 +1,2041 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C01",
+  "stages": [
+    {
+      "stageId": "EN-L12-C01-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S01-Q01",
+          "stageId": "EN-L12-C01-S01",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in a study about human behavior.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S01-Q02",
+          "stageId": "EN-L12-C01-S01",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in a study about human behavior.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S01-Q03",
+          "stageId": "EN-L12-C01-S01",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined in a study about human behavior.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S01-Q04",
+          "stageId": "EN-L12-C01-S01",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S01-Q05",
+          "stageId": "EN-L12-C01-S01",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S01-Q06",
+          "stageId": "EN-L12-C01-S01",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S02-Q01",
+          "stageId": "EN-L12-C01-S02",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S02-Q02",
+          "stageId": "EN-L12-C01-S02",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S02-Q03",
+          "stageId": "EN-L12-C01-S02",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Neither answer is correct. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S02-Q04",
+          "stageId": "EN-L12-C01-S02",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Many factors affect the result. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S02-Q05",
+          "stageId": "EN-L12-C01-S02",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S02-Q06",
+          "stageId": "EN-L12-C01-S02",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S03-Q01",
+          "stageId": "EN-L12-C01-S03",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S03-Q02",
+          "stageId": "EN-L12-C01-S03",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S03-Q03",
+          "stageId": "EN-L12-C01-S03",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S03-Q04",
+          "stageId": "EN-L12-C01-S03",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined in the school research paper.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S03-Q05",
+          "stageId": "EN-L12-C01-S03",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined in the school research paper.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S03-Q06",
+          "stageId": "EN-L12-C01-S03",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined in the school research paper.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S04-Q01",
+          "stageId": "EN-L12-C01-S04",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S04-Q02",
+          "stageId": "EN-L12-C01-S04",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S04-Q03",
+          "stageId": "EN-L12-C01-S04",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Neither answer is correct. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S04-Q04",
+          "stageId": "EN-L12-C01-S04",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Many factors affect the result. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S04-Q05",
+          "stageId": "EN-L12-C01-S04",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S04-Q06",
+          "stageId": "EN-L12-C01-S04",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S05-Q01",
+          "stageId": "EN-L12-C01-S05",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in the school research paper.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S05-Q02",
+          "stageId": "EN-L12-C01-S05",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in the school research paper.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S05-Q03",
+          "stageId": "EN-L12-C01-S05",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined in the school research paper.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S05-Q04",
+          "stageId": "EN-L12-C01-S05",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S05-Q05",
+          "stageId": "EN-L12-C01-S05",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S05-Q06",
+          "stageId": "EN-L12-C01-S05",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S06-Q01",
+          "stageId": "EN-L12-C01-S06",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S06-Q02",
+          "stageId": "EN-L12-C01-S06",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S06-Q03",
+          "stageId": "EN-L12-C01-S06",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Neither answer is correct. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S06-Q04",
+          "stageId": "EN-L12-C01-S06",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Many factors affect the result. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S06-Q05",
+          "stageId": "EN-L12-C01-S06",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S06-Q06",
+          "stageId": "EN-L12-C01-S06",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S07-Q01",
+          "stageId": "EN-L12-C01-S07",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S07-Q02",
+          "stageId": "EN-L12-C01-S07",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S07-Q03",
+          "stageId": "EN-L12-C01-S07",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S07-Q04",
+          "stageId": "EN-L12-C01-S07",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined in a recent class discussion.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S07-Q05",
+          "stageId": "EN-L12-C01-S07",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined in a recent class discussion.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S07-Q06",
+          "stageId": "EN-L12-C01-S07",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined in a recent class discussion.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S08-Q01",
+          "stageId": "EN-L12-C01-S08",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Each student has a role. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S08-Q02",
+          "stageId": "EN-L12-C01-S08",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The results show a clear pattern. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S08-Q03",
+          "stageId": "EN-L12-C01-S08",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Neither answer is correct. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S08-Q04",
+          "stageId": "EN-L12-C01-S08",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Many factors affect the result. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S08-Q05",
+          "stageId": "EN-L12-C01-S08",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The number of cases is small. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S08-Q06",
+          "stageId": "EN-L12-C01-S08",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Both methods work well. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S09-Q01",
+          "stageId": "EN-L12-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in a recent class discussion.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S09-Q02",
+          "stageId": "EN-L12-C01-S09",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in a recent class discussion.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S09-Q03",
+          "stageId": "EN-L12-C01-S09",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined in a recent class discussion.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S09-Q04",
+          "stageId": "EN-L12-C01-S09",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S09-Q05",
+          "stageId": "EN-L12-C01-S09",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S09-Q06",
+          "stageId": "EN-L12-C01-S09",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined during the science project.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S10-Q01",
+          "stageId": "EN-L12-C01-S10",
+          "type": "ordering",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S10-Q02",
+          "stageId": "EN-L12-C01-S10",
+          "type": "grammarChoice",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S10-Q03",
+          "stageId": "EN-L12-C01-S10",
+          "type": "grammarError",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Neither answer is correct. This structure is examined during the community meeting.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S10-Q04",
+          "stageId": "EN-L12-C01-S10",
+          "type": "sentenceTransformation",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Many factors affect the result. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S10-Q05",
+          "stageId": "EN-L12-C01-S10",
+          "type": "passageGrammar",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S10-Q06",
+          "stageId": "EN-L12-C01-S10",
+          "type": "multipleChoice",
+          "prompt": "주어 동사 수 일치: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the community meeting.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C01-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C01-S11-Q01",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q02",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q03",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined during the science project.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q04",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q05",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. Each student has a role. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "belongs",
+            "work",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "문장 구조상 has이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "Each student has a role. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 has이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q06",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The results show a clear pattern. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "belongs",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "show",
+          "explanation": "문장 구조상 show이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "show",
+            "show"
+          ],
+          "exampleSentence": "The results show a clear pattern. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 show이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q07",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Neither answer is correct. This structure is examined in the environmental report.",
+          "choices": [
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "Neither answer is correct. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q08",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Many factors affect the result. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "is",
+            "show",
+            "has"
+          ],
+          "correctAnswer": "affect",
+          "explanation": "문장 구조상 affect이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affect",
+            "affect"
+          ],
+          "exampleSentence": "Many factors affect the result. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 affect이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q09",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The number of cases is small. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "show",
+            "is"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The number of cases is small. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q10",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. Both methods work well. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "work",
+          "explanation": "문장 구조상 work이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "work",
+            "work"
+          ],
+          "exampleSentence": "Both methods work well. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 work이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q11",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. One of the books belongs to Mina. This structure is examined in the environmental report.",
+          "choices": [
+            "affect",
+            "belongs",
+            "work",
+            "is"
+          ],
+          "correctAnswer": "belongs",
+          "explanation": "문장 구조상 belongs이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "belongs",
+            "belongs"
+          ],
+          "exampleSentence": "One of the books belongs to Mina. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 belongs이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C01-S11-Q12",
+          "stageId": "EN-L12-C01-S11",
+          "type": "reviewMixed",
+          "prompt": "주어 동사 수 일치: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The list of items is complete. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "is",
+            "belongs",
+            "work"
+          ],
+          "correctAnswer": "is",
+          "explanation": "문장 구조상 is이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 동사 수 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "주어 동사 수 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is",
+            "is"
+          ],
+          "exampleSentence": "The list of items is complete. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 is이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

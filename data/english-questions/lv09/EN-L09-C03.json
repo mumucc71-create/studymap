@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C03",
+  "stages": [
+    {
+      "stageId": "EN-L09-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S01-Q01",
+          "stageId": "EN-L09-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 1번: The young artist is ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "quiet",
+            "tired",
+            "happy"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "The young artist is happy before lunch.",
+          "koreanMeaning": "The young artist는 before lunch에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S01-Q02",
+          "stageId": "EN-L09-C03-S01",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 2번: 핵심 구조가 ‘happy’이면 O, 아니면 X를 고르세요: The soccer player is happy before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 happy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player is happy before lunch.",
+          "koreanMeaning": "The soccer player는 before lunch에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S01-Q03",
+          "stageId": "EN-L09-C03-S01",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 3번: The new student is ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired",
+            "happy",
+            "ready",
+            "careful"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "The new student is happy before lunch.",
+          "koreanMeaning": "The new student는 before lunch에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S01-Q04",
+          "stageId": "EN-L09-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 4번: “Mina is happy before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina는 before lunch에서 happy한 상태다.",
+            "The young artist는 in the library에서 ready한 상태다.",
+            "My brother는 near the school에서 careful한 상태다.",
+            "The new student는 on Saturday morning에서 tired한 상태다."
+          ],
+          "correctAnswer": "Mina는 before lunch에서 happy한 상태다.",
+          "explanation": "핵심 의미는 ‘Mina는 before lunch에서 happy한 상태다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 before lunch에서 happy한 상태다."
+          ],
+          "exampleSentence": "Mina is happy before lunch.",
+          "koreanMeaning": "Mina는 before lunch에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S01-Q05",
+          "stageId": "EN-L09-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 5번: Tom is ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "careful",
+            "tired",
+            "happy"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "Tom is happy before lunch.",
+          "koreanMeaning": "Tom는 before lunch에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S01-Q06",
+          "stageId": "EN-L09-C03-S01",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother is happy before lunch My.",
+            "subject",
+            "My brother is happy before lunch.",
+            "lunch before happy is brother My."
+          ],
+          "correctAnswer": "My brother is happy before lunch.",
+          "explanation": "바른 어순은 “My brother is happy before lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother is happy before lunch.",
+            "My brother is happy before lunch"
+          ],
+          "exampleSentence": "My brother is happy before lunch.",
+          "koreanMeaning": "My brother는 before lunch에서 happy한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S02-Q01",
+          "stageId": "EN-L09-C03-S02",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 1번: Tom is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful",
+            "ready",
+            "quiet",
+            "confident"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "Tom is confident at the community center.",
+          "koreanMeaning": "Tom는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S02-Q02",
+          "stageId": "EN-L09-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 2번: My brother is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "quiet",
+            "confident",
+            "helpful"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "My brother is confident at the community center.",
+          "koreanMeaning": "My brother는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S02-Q03",
+          "stageId": "EN-L09-C03-S02",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 3번: “The student is confident at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother는 near the school에서 quiet한 상태다.",
+            "The student는 at the community center에서 confident한 상태다.",
+            "Mina는 before lunch에서 happy한 상태다.",
+            "The young artist는 in the library에서 ready한 상태다."
+          ],
+          "correctAnswer": "The student는 at the community center에서 confident한 상태다.",
+          "explanation": "핵심 의미는 ‘The student는 at the community center에서 confident한 상태다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The student는 at the community center에서 confident한 상태다."
+          ],
+          "exampleSentence": "The student is confident at the community center.",
+          "koreanMeaning": "The student는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S02-Q04",
+          "stageId": "EN-L09-C03-S02",
+          "type": "fillBlank",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 4번: Our teacher is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "happy",
+            "ready",
+            "quiet"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "Our teacher is confident at the community center.",
+          "koreanMeaning": "Our teacher는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S02-Q05",
+          "stageId": "EN-L09-C03-S02",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 5번: The young artist is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "ready",
+            "quiet",
+            "confident"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "The young artist is confident at the community center.",
+          "koreanMeaning": "The young artist는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S02-Q06",
+          "stageId": "EN-L09-C03-S02",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘confident’이면 O, 아니면 X를 고르세요: The soccer player is confident at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 confident입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player is confident at the community center.",
+          "koreanMeaning": "The soccer player는 at the community center에서 confident한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S03-Q01",
+          "stageId": "EN-L09-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 1번: The young artist is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "helpful",
+            "happy",
+            "tired"
+          ],
+          "correctAnswer": "tired",
+          "explanation": "2형식 문맥에 맞는 답은 tired입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired",
+            "tired"
+          ],
+          "exampleSentence": "The young artist is tired on Saturday morning.",
+          "koreanMeaning": "The young artist는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S03-Q02",
+          "stageId": "EN-L09-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 2번: The soccer player is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful",
+            "happy",
+            "tired",
+            "confident"
+          ],
+          "correctAnswer": "tired",
+          "explanation": "2형식 문맥에 맞는 답은 tired입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired",
+            "tired"
+          ],
+          "exampleSentence": "The soccer player is tired on Saturday morning.",
+          "koreanMeaning": "The soccer player는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S03-Q03",
+          "stageId": "EN-L09-C03-S03",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 3번: 핵심 구조가 ‘confident’이면 O, 아니면 X를 고르세요: The new student is tired on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 tired입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student is tired on Saturday morning.",
+          "koreanMeaning": "The new student는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S03-Q04",
+          "stageId": "EN-L09-C03-S03",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina is busy on Saturday morning.",
+            "morning Saturday on busy is Mina.",
+            "is busy on Saturday morning Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina is busy on Saturday morning.",
+          "explanation": "바른 어순은 “Mina is busy on Saturday morning.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina is busy on Saturday morning.",
+            "Mina is busy on Saturday morning"
+          ],
+          "exampleSentence": "Mina is busy on Saturday morning.",
+          "koreanMeaning": "Mina는 on Saturday morning에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S03-Q05",
+          "stageId": "EN-L09-C03-S03",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 5번: Tom is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "helpful",
+            "ready",
+            "busy"
+          ],
+          "correctAnswer": "busy",
+          "explanation": "2형식 문맥에 맞는 답은 busy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy",
+            "busy"
+          ],
+          "exampleSentence": "Tom is busy on Saturday morning.",
+          "koreanMeaning": "Tom는 on Saturday morning에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S03-Q06",
+          "stageId": "EN-L09-C03-S03",
+          "type": "fillBlank",
+          "prompt": "조동사 의미 차이: 문법 구조 분석 · 6번: My brother is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful",
+            "ready",
+            "busy",
+            "confident"
+          ],
+          "correctAnswer": "busy",
+          "explanation": "2형식 문맥에 맞는 답은 busy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy",
+            "busy"
+          ],
+          "exampleSentence": "My brother is busy on Saturday morning.",
+          "koreanMeaning": "My brother는 on Saturday morning에서 busy한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S04-Q01",
+          "stageId": "EN-L09-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 1번: Tom is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired",
+            "busy",
+            "helpful",
+            "careful"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "2형식 문맥에 맞는 답은 careful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "Tom is careful near the school.",
+          "koreanMeaning": "Tom는 near the school에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S04-Q02",
+          "stageId": "EN-L09-C03-S04",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother is careful near the school My.",
+            "subject",
+            "My brother is careful near the school.",
+            "school the near careful is brother My."
+          ],
+          "correctAnswer": "My brother is careful near the school.",
+          "explanation": "바른 어순은 “My brother is careful near the school.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother is careful near the school.",
+            "My brother is careful near the school"
+          ],
+          "exampleSentence": "My brother is careful near the school.",
+          "koreanMeaning": "My brother는 near the school에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S04-Q03",
+          "stageId": "EN-L09-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 3번: The student is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful",
+            "careful",
+            "tired",
+            "busy"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "2형식 문맥에 맞는 답은 careful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "The student is careful near the school.",
+          "koreanMeaning": "The student는 near the school에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S04-Q04",
+          "stageId": "EN-L09-C03-S04",
+          "type": "fillBlank",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 4번: Our teacher is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "tired",
+            "busy",
+            "helpful"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "2형식 문맥에 맞는 답은 careful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "Our teacher is careful near the school.",
+          "koreanMeaning": "Our teacher는 near the school에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S04-Q05",
+          "stageId": "EN-L09-C03-S04",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 5번: 핵심 구조가 ‘tired’이면 O, 아니면 X를 고르세요: The young artist is careful near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 careful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist is careful near the school.",
+          "koreanMeaning": "The young artist는 near the school에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S04-Q06",
+          "stageId": "EN-L09-C03-S04",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 문장 분석 연습 · 6번: The soccer player is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "helpful",
+            "careful",
+            "tired"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "2형식 문맥에 맞는 답은 careful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "The soccer player is careful near the school.",
+          "koreanMeaning": "The soccer player는 near the school에서 careful한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S05-Q01",
+          "stageId": "EN-L09-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 1번: “The young artist is ready in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother는 near the school에서 quiet한 상태다.",
+            "The new student는 during study time에서 careful한 상태다.",
+            "Our teacher는 at the community center에서 busy한 상태다.",
+            "The young artist는 in the library에서 ready한 상태다."
+          ],
+          "correctAnswer": "The young artist는 in the library에서 ready한 상태다.",
+          "explanation": "핵심 의미는 ‘The young artist는 in the library에서 ready한 상태다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist는 in the library에서 ready한 상태다."
+          ],
+          "exampleSentence": "The young artist is ready in the library.",
+          "koreanMeaning": "The young artist는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S05-Q02",
+          "stageId": "EN-L09-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 2번: The soccer player is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired",
+            "busy",
+            "ready",
+            "quiet"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "The soccer player is ready in the library.",
+          "koreanMeaning": "The soccer player는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S05-Q03",
+          "stageId": "EN-L09-C03-S05",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 3번: 핵심 구조가 ‘quiet’이면 O, 아니면 X를 고르세요: The new student is ready in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 ready입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student is ready in the library.",
+          "koreanMeaning": "The new student는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S05-Q04",
+          "stageId": "EN-L09-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 4번: Mina is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "quiet",
+            "tired",
+            "busy"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "Mina is ready in the library.",
+          "koreanMeaning": "Mina는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S05-Q05",
+          "stageId": "EN-L09-C03-S05",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 5번: Tom is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet",
+            "tired",
+            "busy",
+            "ready"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "Tom is ready in the library.",
+          "koreanMeaning": "Tom는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S05-Q06",
+          "stageId": "EN-L09-C03-S05",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother is ready in the library My.",
+            "subject",
+            "My brother is ready in the library.",
+            "library the in ready is brother My."
+          ],
+          "correctAnswer": "My brother is ready in the library.",
+          "explanation": "바른 어순은 “My brother is ready in the library.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother is ready in the library.",
+            "My brother is ready in the library"
+          ],
+          "exampleSentence": "My brother is ready in the library.",
+          "koreanMeaning": "My brother는 in the library에서 ready한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S06-Q01",
+          "stageId": "EN-L09-C03-S06",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 1번: “Tom is helpful after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "The soccer player는 in the library에서 happy한 상태다.",
+            "The student는 near the school에서 quiet한 상태다.",
+            "Mina는 during study time에서 careful한 상태다.",
+            "Tom는 after class에서 helpful한 상태다."
+          ],
+          "correctAnswer": "Tom는 after class에서 helpful한 상태다.",
+          "explanation": "핵심 의미는 ‘Tom는 after class에서 helpful한 상태다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 after class에서 helpful한 상태다."
+          ],
+          "exampleSentence": "Tom is helpful after class.",
+          "koreanMeaning": "Tom는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S06-Q02",
+          "stageId": "EN-L09-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 2번: My brother is ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet",
+            "careful",
+            "helpful",
+            "happy"
+          ],
+          "correctAnswer": "helpful",
+          "explanation": "2형식 문맥에 맞는 답은 helpful입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful",
+            "helpful"
+          ],
+          "exampleSentence": "My brother is helpful after class.",
+          "koreanMeaning": "My brother는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S06-Q03",
+          "stageId": "EN-L09-C03-S06",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 3번: 핵심 구조가 ‘ready’이면 O, 아니면 X를 고르세요: The student is helpful after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 helpful입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student is helpful after class.",
+          "koreanMeaning": "The student는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S06-Q04",
+          "stageId": "EN-L09-C03-S06",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 4번: Our teacher is ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful",
+            "ready",
+            "quiet",
+            "careful"
+          ],
+          "correctAnswer": "helpful",
+          "explanation": "2형식 문맥에 맞는 답은 helpful입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful",
+            "helpful"
+          ],
+          "exampleSentence": "Our teacher is helpful after class.",
+          "koreanMeaning": "Our teacher는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S06-Q05",
+          "stageId": "EN-L09-C03-S06",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 5번: The young artist is ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "quiet",
+            "careful",
+            "helpful"
+          ],
+          "correctAnswer": "helpful",
+          "explanation": "2형식 문맥에 맞는 답은 helpful입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful",
+            "helpful"
+          ],
+          "exampleSentence": "The young artist is helpful after class.",
+          "koreanMeaning": "The young artist는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S06-Q06",
+          "stageId": "EN-L09-C03-S06",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player is helpful after class The.",
+            "subject",
+            "The soccer player is helpful after class.",
+            "class after helpful is player soccer The."
+          ],
+          "correctAnswer": "The soccer player is helpful after class.",
+          "explanation": "바른 어순은 “The soccer player is helpful after class.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player is helpful after class.",
+            "The soccer player is helpful after class"
+          ],
+          "exampleSentence": "The soccer player is helpful after class.",
+          "koreanMeaning": "The soccer player는 after class에서 helpful한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S07-Q01",
+          "stageId": "EN-L09-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother is helpful after class.",
+            "The new student is happy in the library.",
+            "Our teacher is ready near the school.",
+            "The young artist is busy at the community center."
+          ],
+          "correctAnswer": "The young artist is busy at the community center.",
+          "explanation": "들은 문장은 “The young artist is busy at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist is busy at the community center.",
+          "acceptedAnswers": [
+            "The young artist is busy at the community center."
+          ],
+          "exampleSentence": "The young artist is busy at the community center.",
+          "koreanMeaning": "The young artist는 at the community center에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S07-Q02",
+          "stageId": "EN-L09-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 2번: The soccer player is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "ready",
+            "busy",
+            "helpful"
+          ],
+          "correctAnswer": "busy",
+          "explanation": "2형식 문맥에 맞는 답은 busy입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy",
+            "busy"
+          ],
+          "exampleSentence": "The soccer player is busy at the community center.",
+          "koreanMeaning": "The soccer player는 at the community center에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S07-Q03",
+          "stageId": "EN-L09-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player is ready near the school.",
+            "The new student is busy at the community center.",
+            "Our teacher is helpful after class.",
+            "Tom is happy in the library."
+          ],
+          "correctAnswer": "The new student is busy at the community center.",
+          "explanation": "들은 문장은 “The new student is busy at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student is busy at the community center.",
+          "acceptedAnswers": [
+            "The new student is busy at the community center."
+          ],
+          "exampleSentence": "The new student is busy at the community center.",
+          "koreanMeaning": "The new student는 at the community center에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S07-Q04",
+          "stageId": "EN-L09-C03-S07",
+          "type": "dictation",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina is confident at the community center.",
+          "explanation": "바른 문장은 “Mina is confident at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina is confident at the community center.",
+          "acceptedAnswers": [
+            "Mina is confident at the community center.",
+            "Mina is confident at the community center"
+          ],
+          "exampleSentence": "Mina is confident at the community center.",
+          "koreanMeaning": "Mina는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S07-Q05",
+          "stageId": "EN-L09-C03-S07",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘helpful’이면 O, 아니면 X를 고르세요: Tom is confident at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 confident입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom is confident at the community center.",
+          "koreanMeaning": "Tom는 at the community center에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S07-Q06",
+          "stageId": "EN-L09-C03-S07",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 핵심 정보 듣기 · 6번: My brother is ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "quiet",
+            "confident",
+            "helpful"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "My brother is confident at the community center.",
+          "koreanMeaning": "My brother는 at the community center에서 confident한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S08-Q01",
+          "stageId": "EN-L09-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom is tired on Saturday morning.",
+          "explanation": "“Tom is tired on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom is tired on Saturday morning.",
+          "acceptedAnswers": [
+            "Tom is tired on Saturday morning.",
+            "Tom is tired on Saturday morning"
+          ],
+          "exampleSentence": "Tom is tired on Saturday morning.",
+          "koreanMeaning": "Tom는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S08-Q02",
+          "stageId": "EN-L09-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 2번: My brother is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "happy",
+            "tired",
+            "busy"
+          ],
+          "correctAnswer": "tired",
+          "explanation": "2형식 문맥에 맞는 답은 tired입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired",
+            "tired"
+          ],
+          "exampleSentence": "My brother is tired on Saturday morning.",
+          "koreanMeaning": "My brother는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S08-Q03",
+          "stageId": "EN-L09-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student is tired on Saturday morning.",
+          "explanation": "“The student is tired on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student is tired on Saturday morning.",
+          "acceptedAnswers": [
+            "The student is tired on Saturday morning.",
+            "The student is tired on Saturday morning"
+          ],
+          "exampleSentence": "The student is tired on Saturday morning.",
+          "koreanMeaning": "The student는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S08-Q04",
+          "stageId": "EN-L09-C03-S08",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 4번: “Our teacher is tired on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher는 on Saturday morning에서 tired한 상태다.",
+            "Tom는 at the community center에서 busy한 상태다.",
+            "The soccer player는 after class에서 confident한 상태다.",
+            "The student는 in the library에서 happy한 상태다."
+          ],
+          "correctAnswer": "Our teacher는 on Saturday morning에서 tired한 상태다.",
+          "explanation": "핵심 의미는 ‘Our teacher는 on Saturday morning에서 tired한 상태다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher는 on Saturday morning에서 tired한 상태다."
+          ],
+          "exampleSentence": "Our teacher is tired on Saturday morning.",
+          "koreanMeaning": "Our teacher는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S08-Q05",
+          "stageId": "EN-L09-C03-S08",
+          "type": "matching",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 5번: The young artist is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy",
+            "confident",
+            "happy",
+            "tired"
+          ],
+          "correctAnswer": "tired",
+          "explanation": "2형식 문맥에 맞는 답은 tired입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired",
+            "tired"
+          ],
+          "exampleSentence": "The young artist is tired on Saturday morning.",
+          "koreanMeaning": "The young artist는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S08-Q06",
+          "stageId": "EN-L09-C03-S08",
+          "type": "trueFalse",
+          "prompt": "조동사 의미 차이: 근거 설명하기 · 6번: 핵심 구조가 ‘tired’이면 O, 아니면 X를 고르세요: The soccer player is tired on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 tired입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player is tired on Saturday morning.",
+          "koreanMeaning": "The soccer player는 on Saturday morning에서 tired한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S09-Q01",
+          "stageId": "EN-L09-C03-S09",
+          "type": "fillBlank",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 1번: The young artist is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "tired",
+            "confident",
+            "quiet"
+          ],
+          "correctAnswer": "quiet",
+          "explanation": "2형식 문맥에 맞는 답은 quiet입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet",
+            "quiet"
+          ],
+          "exampleSentence": "The young artist is quiet near the school.",
+          "koreanMeaning": "The young artist는 near the school에서 quiet한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S09-Q02",
+          "stageId": "EN-L09-C03-S09",
+          "type": "dictation",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player is quiet near the school.",
+          "explanation": "바른 문장은 “The soccer player is quiet near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player is quiet near the school.",
+          "acceptedAnswers": [
+            "The soccer player is quiet near the school.",
+            "The soccer player is quiet near the school"
+          ],
+          "exampleSentence": "The soccer player is quiet near the school.",
+          "koreanMeaning": "The soccer player는 near the school에서 quiet한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S09-Q03",
+          "stageId": "EN-L09-C03-S09",
+          "type": "ordering",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student is quiet near the school.",
+            "school the near quiet is student new The.",
+            "new student is quiet near the school The."
+          ],
+          "correctAnswer": "The new student is quiet near the school.",
+          "explanation": "바른 어순은 “The new student is quiet near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student is quiet near the school.",
+            "The new student is quiet near the school"
+          ],
+          "exampleSentence": "The new student is quiet near the school.",
+          "koreanMeaning": "The new student는 near the school에서 quiet한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S09-Q04",
+          "stageId": "EN-L09-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 4번: Mina is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet",
+            "careful",
+            "busy",
+            "confident"
+          ],
+          "correctAnswer": "quiet",
+          "explanation": "2형식 문맥에 맞는 답은 quiet입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet",
+            "quiet"
+          ],
+          "exampleSentence": "Mina is quiet near the school.",
+          "koreanMeaning": "Mina는 near the school에서 quiet한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S09-Q05",
+          "stageId": "EN-L09-C03-S09",
+          "type": "fillBlank",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 5번: Tom is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "busy",
+            "confident",
+            "quiet"
+          ],
+          "correctAnswer": "quiet",
+          "explanation": "2형식 문맥에 맞는 답은 quiet입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet",
+            "quiet"
+          ],
+          "exampleSentence": "Tom is quiet near the school.",
+          "koreanMeaning": "Tom는 near the school에서 quiet한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S09-Q06",
+          "stageId": "EN-L09-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 논리 문장 쓰기 · 6번: My brother is ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy",
+            "confident",
+            "quiet",
+            "careful"
+          ],
+          "correctAnswer": "quiet",
+          "explanation": "2형식 문맥에 맞는 답은 quiet입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet",
+            "quiet"
+          ],
+          "exampleSentence": "My brother is quiet near the school.",
+          "koreanMeaning": "My brother는 near the school에서 quiet한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C03-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C03-S10-Q01",
+          "stageId": "EN-L09-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "조동사 의미 차이: 과정 평가 · 1번: Tom is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "careful",
+            "tired",
+            "happy"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "Tom is happy in the library.",
+          "koreanMeaning": "Tom는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q02",
+          "stageId": "EN-L09-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 과정 평가 · 2번: My brother is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "tired",
+            "happy",
+            "ready"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "My brother is happy in the library.",
+          "koreanMeaning": "My brother는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q03",
+          "stageId": "EN-L09-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "조동사 의미 차이: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother is tired at the community center.",
+            "The student is happy in the library.",
+            "Mina is quiet near the school.",
+            "The young artist is careful during study time."
+          ],
+          "correctAnswer": "The student is happy in the library.",
+          "explanation": "들은 문장은 “The student is happy in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student is happy in the library.",
+          "acceptedAnswers": [
+            "The student is happy in the library."
+          ],
+          "exampleSentence": "The student is happy in the library.",
+          "koreanMeaning": "The student는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q04",
+          "stageId": "EN-L09-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 과정 평가 · 4번: Our teacher is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "quiet",
+            "careful",
+            "tired"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "Our teacher is happy in the library.",
+          "koreanMeaning": "Our teacher는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q05",
+          "stageId": "EN-L09-C03-S10",
+          "type": "dictation",
+          "prompt": "조동사 의미 차이: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist is happy in the library.",
+          "explanation": "바른 문장은 “The young artist is happy in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist is happy in the library.",
+          "acceptedAnswers": [
+            "The young artist is happy in the library.",
+            "The young artist is happy in the library"
+          ],
+          "exampleSentence": "The young artist is happy in the library.",
+          "koreanMeaning": "The young artist는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q06",
+          "stageId": "EN-L09-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 과정 평가 · 6번: “The soccer player is happy in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina는 during study time에서 careful한 상태다.",
+            "The young artist는 at the community center에서 tired한 상태다.",
+            "The soccer player는 in the library에서 happy한 상태다.",
+            "The student는 near the school에서 quiet한 상태다."
+          ],
+          "correctAnswer": "The soccer player는 in the library에서 happy한 상태다.",
+          "explanation": "핵심 의미는 ‘The soccer player는 in the library에서 happy한 상태다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player는 in the library에서 happy한 상태다."
+          ],
+          "exampleSentence": "The soccer player is happy in the library.",
+          "koreanMeaning": "The soccer player는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q07",
+          "stageId": "EN-L09-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "조동사 의미 차이: 과정 평가 · 7번: The new student is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired",
+            "happy",
+            "quiet",
+            "careful"
+          ],
+          "correctAnswer": "happy",
+          "explanation": "2형식 문맥에 맞는 답은 happy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy",
+            "happy"
+          ],
+          "exampleSentence": "The new student is happy in the library.",
+          "koreanMeaning": "The new student는 in the library에서 happy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q08",
+          "stageId": "EN-L09-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "조동사 의미 차이: 과정 평가 · 8번: Mina is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready",
+            "quiet",
+            "careful",
+            "tired"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "Mina is ready in the library.",
+          "koreanMeaning": "Mina는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q09",
+          "stageId": "EN-L09-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "조동사 의미 차이: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player is quiet near the school.",
+            "The student is careful during study time.",
+            "Mina is busy at the community center.",
+            "Tom is ready in the library."
+          ],
+          "correctAnswer": "Tom is ready in the library.",
+          "explanation": "들은 문장은 “Tom is ready in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom is ready in the library.",
+          "acceptedAnswers": [
+            "Tom is ready in the library."
+          ],
+          "exampleSentence": "Tom is ready in the library.",
+          "koreanMeaning": "Tom는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q10",
+          "stageId": "EN-L09-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 의미 차이: 과정 평가 · 10번: My brother is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "busy",
+            "ready",
+            "quiet"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "My brother is ready in the library.",
+          "koreanMeaning": "My brother는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q11",
+          "stageId": "EN-L09-C03-S10",
+          "type": "dictation",
+          "prompt": "조동사 의미 차이: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student is ready in the library.",
+          "explanation": "바른 문장은 “The student is ready in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student is ready in the library.",
+          "acceptedAnswers": [
+            "The student is ready in the library.",
+            "The student is ready in the library"
+          ],
+          "exampleSentence": "The student is ready in the library.",
+          "koreanMeaning": "The student는 in the library에서 ready한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C03-S10-Q12",
+          "stageId": "EN-L09-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 의미 차이: 과정 평가 · 12번: “Our teacher is ready in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher는 in the library에서 ready한 상태다.",
+            "Tom는 near the school에서 quiet한 상태다.",
+            "The soccer player는 during study time에서 careful한 상태다.",
+            "The student는 at the community center에서 busy한 상태다."
+          ],
+          "correctAnswer": "Our teacher는 in the library에서 ready한 상태다.",
+          "explanation": "핵심 의미는 ‘Our teacher는 in the library에서 ready한 상태다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 의미 차이 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher는 in the library에서 ready한 상태다."
+          ],
+          "exampleSentence": "Our teacher is ready in the library.",
+          "koreanMeaning": "Our teacher는 in the library에서 ready한 상태다."
+        }
+      ]
+    }
+  ]
+}

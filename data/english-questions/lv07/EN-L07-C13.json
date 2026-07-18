@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L07",
+  "courseId": "EN-L07-C13",
+  "stages": [
+    {
+      "stageId": "EN-L07-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S01-Q01",
+          "stageId": "EN-L07-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 1번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S01-Q02",
+          "stageId": "EN-L07-C13-S01",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 2번: 핵심 표현이 ‘have finished’이면 O, 아니면 X를 고르세요: You have finished the book, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have finished입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S01-Q03",
+          "stageId": "EN-L07-C13-S01",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 3번: He ___ that movie, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has eaten",
+            "has seen",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "has seen",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has seen입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has seen",
+            "has seen"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S01-Q04",
+          "stageId": "EN-L07-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 4번: “She has eaten lunch, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "lunch을 마쳐 일이 끝났다.",
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "lunch을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘lunch을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lunch을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S01-Q05",
+          "stageId": "EN-L07-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 5번: We ___ the room, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "have cleaned"
+          ],
+          "correctAnswer": "have cleaned",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have cleaned입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have cleaned",
+            "have cleaned"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S01-Q06",
+          "stageId": "EN-L07-C13-S01",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have played this game, so the task is done They.",
+            "have",
+            "They have played this game, so the task is done.",
+            "done is task the so game, this played have They."
+          ],
+          "correctAnswer": "They have played this game, so the task is done.",
+          "explanation": "바른 어순은 “They have played this game, so the task is done.”입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have played this game, so the task is done.",
+            "They have played this game, so the task is done"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S02-Q01",
+          "stageId": "EN-L07-C13-S02",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 1번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S02-Q02",
+          "stageId": "EN-L07-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 2번: We ___ the room, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "have cleaned",
+            "have visited"
+          ],
+          "correctAnswer": "have cleaned",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have cleaned입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have cleaned",
+            "have cleaned"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S02-Q03",
+          "stageId": "EN-L07-C13-S02",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 3번: “They have played this game, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "that movie을 마쳐 일이 끝났다.",
+            "this game을 마쳐 일이 끝났다.",
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "this game을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘this game을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "this game을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S02-Q04",
+          "stageId": "EN-L07-C13-S02",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 4번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has written",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S02-Q05",
+          "stageId": "EN-L07-C13-S02",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 5번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has read"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S02-Q06",
+          "stageId": "EN-L07-C13-S02",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: I have visited Jeju, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S03-Q01",
+          "stageId": "EN-L07-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 1번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has written"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S03-Q02",
+          "stageId": "EN-L07-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 2번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has read",
+            "have visited"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S03-Q03",
+          "stageId": "EN-L07-C13-S03",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 3번: 핵심 표현이 ‘have finished’이면 O, 아니면 X를 고르세요: I have visited Jeju, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S03-Q04",
+          "stageId": "EN-L07-C13-S03",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have finished the book, so the task is done.",
+            "done is task the so book, the finished have You.",
+            "have finished the book, so the task is done You.",
+            "have"
+          ],
+          "correctAnswer": "You have finished the book, so the task is done.",
+          "explanation": "바른 어순은 “You have finished the book, so the task is done.”입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have finished the book, so the task is done.",
+            "You have finished the book, so the task is done"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S03-Q05",
+          "stageId": "EN-L07-C13-S03",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 5번: He ___ that movie, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has eaten",
+            "has seen"
+          ],
+          "correctAnswer": "has seen",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has seen입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has seen",
+            "has seen"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S03-Q06",
+          "stageId": "EN-L07-C13-S03",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 문법 구조 분석 · 6번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S04-Q01",
+          "stageId": "EN-L07-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 1번: You ___ the book, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "has seen",
+            "has eaten",
+            "have finished"
+          ],
+          "correctAnswer": "have finished",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have finished입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have finished",
+            "have finished"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S04-Q02",
+          "stageId": "EN-L07-C13-S04",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has seen that movie, so the task is done He.",
+            "have",
+            "He has seen that movie, so the task is done.",
+            "done is task the so movie, that seen has He."
+          ],
+          "correctAnswer": "He has seen that movie, so the task is done.",
+          "explanation": "바른 어순은 “He has seen that movie, so the task is done.”입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has seen that movie, so the task is done.",
+            "He has seen that movie, so the task is done"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S04-Q03",
+          "stageId": "EN-L07-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 3번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "has eaten",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S04-Q04",
+          "stageId": "EN-L07-C13-S04",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 4번: We ___ the room, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have cleaned",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "have cleaned",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have cleaned입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have cleaned",
+            "have cleaned"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S04-Q05",
+          "stageId": "EN-L07-C13-S04",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 5번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: They have played this game, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have played입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S04-Q06",
+          "stageId": "EN-L07-C13-S04",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 문장 분석 연습 · 6번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has written",
+            "have visited"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S05-Q01",
+          "stageId": "EN-L07-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 1번: “We have cleaned the room, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "the room을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "the room을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘the room을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S05-Q02",
+          "stageId": "EN-L07-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 2번: They ___ this game, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "have played",
+            "have visited"
+          ],
+          "correctAnswer": "have played",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have played입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have played",
+            "have played"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S05-Q03",
+          "stageId": "EN-L07-C13-S05",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 3번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: Mina has written the email, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has written입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S05-Q04",
+          "stageId": "EN-L07-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 4번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has read",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S05-Q05",
+          "stageId": "EN-L07-C13-S05",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 5번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S05-Q06",
+          "stageId": "EN-L07-C13-S05",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have finished the book, so the task is done You.",
+            "have",
+            "You have finished the book, so the task is done.",
+            "done is task the so book, the finished have You."
+          ],
+          "correctAnswer": "You have finished the book, so the task is done.",
+          "explanation": "바른 어순은 “You have finished the book, so the task is done.”입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have finished the book, so the task is done.",
+            "You have finished the book, so the task is done"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S06-Q01",
+          "stageId": "EN-L07-C13-S06",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 1번: “Tom has read the story, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "the story을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "the story을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘the story을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the story을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S06-Q02",
+          "stageId": "EN-L07-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 2번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "has eaten",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S06-Q03",
+          "stageId": "EN-L07-C13-S06",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 3번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: You have finished the book, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have finished입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S06-Q04",
+          "stageId": "EN-L07-C13-S06",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 4번: He ___ that movie, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "have visited",
+            "have finished",
+            "has eaten"
+          ],
+          "correctAnswer": "has seen",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has seen입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has seen",
+            "has seen"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S06-Q05",
+          "stageId": "EN-L07-C13-S06",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 5번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S06-Q06",
+          "stageId": "EN-L07-C13-S06",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have cleaned the room, so the task is done We.",
+            "have",
+            "We have cleaned the room, so the task is done.",
+            "done is task the so room, the cleaned have We."
+          ],
+          "correctAnswer": "We have cleaned the room, so the task is done.",
+          "explanation": "바른 어순은 “We have cleaned the room, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have cleaned the room, so the task is done.",
+            "We have cleaned the room, so the task is done"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S07-Q01",
+          "stageId": "EN-L07-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have visited Jeju, so the task is done.",
+            "You have finished the book, so the task is done.",
+            "She has eaten lunch, so the task is done.",
+            "He has seen that movie, so the task is done."
+          ],
+          "correctAnswer": "He has seen that movie, so the task is done.",
+          "explanation": "들은 문장은 “He has seen that movie, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has seen that movie, so the task is done.",
+          "acceptedAnswers": [
+            "He has seen that movie, so the task is done."
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S07-Q02",
+          "stageId": "EN-L07-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 2번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S07-Q03",
+          "stageId": "EN-L07-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has seen that movie, so the task is done.",
+            "We have cleaned the room, so the task is done.",
+            "I have visited Jeju, so the task is done.",
+            "You have finished the book, so the task is done."
+          ],
+          "correctAnswer": "We have cleaned the room, so the task is done.",
+          "explanation": "들은 문장은 “We have cleaned the room, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have cleaned the room, so the task is done.",
+          "acceptedAnswers": [
+            "We have cleaned the room, so the task is done."
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S07-Q04",
+          "stageId": "EN-L07-C13-S07",
+          "type": "dictation",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have played this game, so the task is done.",
+          "explanation": "바른 문장은 “They have played this game, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have played this game, so the task is done.",
+          "acceptedAnswers": [
+            "They have played this game, so the task is done.",
+            "They have played this game, so the task is done"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S07-Q05",
+          "stageId": "EN-L07-C13-S07",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: Mina has written the email, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has written입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S07-Q06",
+          "stageId": "EN-L07-C13-S07",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 핵심 정보 듣기 · 6번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has read",
+            "have visited"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S08-Q01",
+          "stageId": "EN-L07-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have played this game, so the task is done.",
+          "explanation": "“They have played this game, so the task is done.”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have played this game, so the task is done.",
+          "acceptedAnswers": [
+            "They have played this game, so the task is done.",
+            "They have played this game, so the task is done"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S08-Q02",
+          "stageId": "EN-L07-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 2번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has written",
+            "have visited"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S08-Q03",
+          "stageId": "EN-L07-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has read the story, so the task is done.",
+          "explanation": "“Tom has read the story, so the task is done.”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has read the story, so the task is done.",
+          "acceptedAnswers": [
+            "Tom has read the story, so the task is done.",
+            "Tom has read the story, so the task is done"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S08-Q04",
+          "stageId": "EN-L07-C13-S08",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 4번: “I have visited Jeju, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "lunch을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "Jeju을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘Jeju을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Jeju을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S08-Q05",
+          "stageId": "EN-L07-C13-S08",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 5번: You ___ the book, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "has seen",
+            "has eaten",
+            "have finished"
+          ],
+          "correctAnswer": "have finished",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have finished입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have finished",
+            "have finished"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S08-Q06",
+          "stageId": "EN-L07-C13-S08",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 근거 설명하기 · 6번: 핵심 표현이 ‘has seen’이면 O, 아니면 X를 고르세요: He has seen that movie, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 has seen입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S09-Q01",
+          "stageId": "EN-L07-C13-S09",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 1번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S09-Q02",
+          "stageId": "EN-L07-C13-S09",
+          "type": "dictation",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have finished the book, so the task is done.",
+          "explanation": "바른 문장은 “You have finished the book, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have finished the book, so the task is done.",
+          "acceptedAnswers": [
+            "You have finished the book, so the task is done.",
+            "You have finished the book, so the task is done"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S09-Q03",
+          "stageId": "EN-L07-C13-S09",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has seen that movie, so the task is done.",
+            "done is task the so movie, that seen has He.",
+            "has seen that movie, so the task is done He."
+          ],
+          "correctAnswer": "He has seen that movie, so the task is done.",
+          "explanation": "바른 어순은 “He has seen that movie, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has seen that movie, so the task is done.",
+            "He has seen that movie, so the task is done"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S09-Q04",
+          "stageId": "EN-L07-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 4번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has eaten",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S09-Q05",
+          "stageId": "EN-L07-C13-S09",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 5번: We ___ the room, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "have cleaned"
+          ],
+          "correctAnswer": "have cleaned",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have cleaned입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have cleaned",
+            "have cleaned"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S09-Q06",
+          "stageId": "EN-L07-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 논리 문장 쓰기 · 6번: They ___ this game, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "have played",
+            "have visited"
+          ],
+          "correctAnswer": "have played",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have played입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have played",
+            "have played"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S10-Q01",
+          "stageId": "EN-L07-C13-S10",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 1번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S10-Q02",
+          "stageId": "EN-L07-C13-S10",
+          "type": "ordering",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have cleaned the room, so the task is done We.",
+            "have",
+            "We have cleaned the room, so the task is done.",
+            "done is task the so room, the cleaned have We."
+          ],
+          "correctAnswer": "We have cleaned the room, so the task is done.",
+          "explanation": "바른 어순은 “We have cleaned the room, so the task is done.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have cleaned the room, so the task is done.",
+            "We have cleaned the room, so the task is done"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S10-Q03",
+          "stageId": "EN-L07-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 3번: They ___ this game, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "have played",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have played",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have played입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have played",
+            "have played"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S10-Q04",
+          "stageId": "EN-L07-C13-S10",
+          "type": "fillBlank",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 4번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has written",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S10-Q05",
+          "stageId": "EN-L07-C13-S10",
+          "type": "trueFalse",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 5번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: Tom has read the story, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has read입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S10-Q06",
+          "stageId": "EN-L07-C13-S10",
+          "type": "matching",
+          "prompt": "문맥 속 어휘 추론: 혼합 문제 적용 · 6번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "has eaten",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C13-S11",
+      "questions": [
+        {
+          "questionId": "EN-L07-C13-S11-Q01",
+          "stageId": "EN-L07-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 1번: Mina ___ the email, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has written"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q02",
+          "stageId": "EN-L07-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 2번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has read",
+            "have visited"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q03",
+          "stageId": "EN-L07-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "She has eaten lunch, so the task is done.",
+            "I have visited Jeju, so the task is done.",
+            "You have finished the book, so the task is done.",
+            "He has seen that movie, so the task is done."
+          ],
+          "correctAnswer": "I have visited Jeju, so the task is done.",
+          "explanation": "들은 문장은 “I have visited Jeju, so the task is done.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have visited Jeju, so the task is done.",
+          "acceptedAnswers": [
+            "I have visited Jeju, so the task is done."
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q04",
+          "stageId": "EN-L07-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 4번: You ___ the book, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "have visited",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "have finished",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have finished입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have finished",
+            "have finished"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q05",
+          "stageId": "EN-L07-C13-S11",
+          "type": "dictation",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He has seen that movie, so the task is done.",
+          "explanation": "바른 문장은 “He has seen that movie, so the task is done.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has seen that movie, so the task is done.",
+          "acceptedAnswers": [
+            "He has seen that movie, so the task is done.",
+            "He has seen that movie, so the task is done"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q06",
+          "stageId": "EN-L07-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 6번: “She has eaten lunch, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "lunch을 마쳐 일이 끝났다.",
+            "Jeju을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "lunch을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘lunch을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lunch을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q07",
+          "stageId": "EN-L07-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 7번: We ___ the room, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "have cleaned",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have cleaned",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have cleaned입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have cleaned",
+            "have cleaned"
+          ],
+          "exampleSentence": "We have cleaned the room, so the task is done.",
+          "koreanMeaning": "the room을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q08",
+          "stageId": "EN-L07-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 8번: They ___ this game, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have played",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "have played",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have played입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have played",
+            "have played"
+          ],
+          "exampleSentence": "They have played this game, so the task is done.",
+          "koreanMeaning": "this game을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q09",
+          "stageId": "EN-L07-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have visited Jeju, so the task is done.",
+            "You have finished the book, so the task is done.",
+            "He has seen that movie, so the task is done.",
+            "Mina has written the email, so the task is done."
+          ],
+          "correctAnswer": "Mina has written the email, so the task is done.",
+          "explanation": "들은 문장은 “Mina has written the email, so the task is done.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina has written the email, so the task is done.",
+          "acceptedAnswers": [
+            "Mina has written the email, so the task is done."
+          ],
+          "exampleSentence": "Mina has written the email, so the task is done.",
+          "koreanMeaning": "the email을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q10",
+          "stageId": "EN-L07-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 10번: Tom ___ the story, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has read",
+            "have visited"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q11",
+          "stageId": "EN-L07-C13-S11",
+          "type": "dictation",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "I have visited Jeju, so the task is done.",
+          "explanation": "바른 문장은 “I have visited Jeju, so the task is done.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have visited Jeju, so the task is done.",
+          "acceptedAnswers": [
+            "I have visited Jeju, so the task is done.",
+            "I have visited Jeju, so the task is done"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C13-S11-Q12",
+          "stageId": "EN-L07-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "문맥 속 어휘 추론: 과정 평가 · 12번: “You have finished the book, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "the book을 마쳐 일이 끝났다.",
+            "Jeju을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "lunch을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "the book을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘the book을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "문맥 속 어휘 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the book을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        }
+      ]
+    }
+  ]
+}

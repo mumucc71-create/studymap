@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C01",
+  "stages": [
+    {
+      "stageId": "EN-L09-C01-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S01-Q01",
+          "stageId": "EN-L09-C01-S01",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 1번: The young artist opens the window after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist opens the window after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S01-Q02",
+          "stageId": "EN-L09-C01-S01",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 2번: 핵심 구조가 ‘steady learning’이면 O, 아니면 X를 고르세요: The soccer player opens the window after class. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player opens the window after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S01-Q03",
+          "stageId": "EN-L09-C01-S01",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 3번: The new student opens the window after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "steady learning",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The new student opens the window after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S01-Q04",
+          "stageId": "EN-L09-C01-S01",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 4번: “Mina carries a blue bag after class. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "Mina carries a blue bag after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S01-Q05",
+          "stageId": "EN-L09-C01-S01",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 5번: Tom carries a blue bag after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom carries a blue bag after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S01-Q06",
+          "stageId": "EN-L09-C01-S01",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother carries a blue bag after class. This habit supports steady learning My.",
+            "subject",
+            "My brother carries a blue bag after class. This habit supports steady learning.",
+            "learning steady supports habit This class. after bag blue a carries brother My."
+          ],
+          "correctAnswer": "My brother carries a blue bag after class. This habit supports steady learning.",
+          "explanation": "바른 어순은 “My brother carries a blue bag after class. This habit supports steady learning.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother carries a blue bag after class. This habit supports steady learning.",
+            "My brother carries a blue bag after class. This habit supports steady learning"
+          ],
+          "exampleSentence": "My brother carries a blue bag after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S02-Q01",
+          "stageId": "EN-L09-C01-S02",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 1번: Tom writes short notes at the community center. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S02-Q02",
+          "stageId": "EN-L09-C01-S02",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 2번: My brother writes short notes at the community center. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S02-Q03",
+          "stageId": "EN-L09-C01-S02",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 3번: “The student writes short notes at the community center. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "The student writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S02-Q04",
+          "stageId": "EN-L09-C01-S02",
+          "type": "fillBlank",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 4번: Our teacher writes short notes at the community center. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Our teacher writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S02-Q05",
+          "stageId": "EN-L09-C01-S02",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 5번: The young artist writes short notes at the community center. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S02-Q06",
+          "stageId": "EN-L09-C01-S02",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘steady learning’이면 O, 아니면 X를 고르세요: The soccer player writes short notes at the community center. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player writes short notes at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S03-Q01",
+          "stageId": "EN-L09-C01-S03",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 1번: The young artist carries a blue bag during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist carries a blue bag during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S03-Q02",
+          "stageId": "EN-L09-C01-S03",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 2번: The soccer player carries a blue bag during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S03-Q03",
+          "stageId": "EN-L09-C01-S03",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student carries a blue bag during study time. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student carries a blue bag during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S03-Q04",
+          "stageId": "EN-L09-C01-S03",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina makes a simple plan during study time. This habit supports steady learning.",
+            "learning steady supports habit This time. study during plan simple a makes Mina.",
+            "makes a simple plan during study time. This habit supports steady learning Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina makes a simple plan during study time. This habit supports steady learning.",
+          "explanation": "바른 어순은 “Mina makes a simple plan during study time. This habit supports steady learning.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina makes a simple plan during study time. This habit supports steady learning.",
+            "Mina makes a simple plan during study time. This habit supports steady learning"
+          ],
+          "exampleSentence": "Mina makes a simple plan during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S03-Q05",
+          "stageId": "EN-L09-C01-S03",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 5번: Tom makes a simple plan during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom makes a simple plan during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S03-Q06",
+          "stageId": "EN-L09-C01-S03",
+          "type": "fillBlank",
+          "prompt": "문장 성분과 동사 형식: 문법 구조 분석 · 6번: My brother makes a simple plan during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother makes a simple plan during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S04-Q01",
+          "stageId": "EN-L09-C01-S04",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 1번: Tom studies English near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S04-Q02",
+          "stageId": "EN-L09-C01-S04",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother studies English near the school. This habit supports steady learning My.",
+            "subject",
+            "My brother studies English near the school. This habit supports steady learning.",
+            "learning steady supports habit This school. the near English studies brother My."
+          ],
+          "correctAnswer": "My brother studies English near the school. This habit supports steady learning.",
+          "explanation": "바른 어순은 “My brother studies English near the school. This habit supports steady learning.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother studies English near the school. This habit supports steady learning.",
+            "My brother studies English near the school. This habit supports steady learning"
+          ],
+          "exampleSentence": "My brother studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S04-Q03",
+          "stageId": "EN-L09-C01-S04",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 3번: The student studies English near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "steady learning",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The student studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S04-Q04",
+          "stageId": "EN-L09-C01-S04",
+          "type": "fillBlank",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 4번: Our teacher studies English near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Our teacher studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S04-Q05",
+          "stageId": "EN-L09-C01-S04",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist studies English near the school. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S04-Q06",
+          "stageId": "EN-L09-C01-S04",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 문장 분석 연습 · 6번: The soccer player studies English near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The soccer player studies English near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S05-Q01",
+          "stageId": "EN-L09-C01-S05",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 1번: “The young artist makes a simple plan at home. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "The young artist makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S05-Q02",
+          "stageId": "EN-L09-C01-S05",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 2번: The soccer player makes a simple plan at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S05-Q03",
+          "stageId": "EN-L09-C01-S05",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student makes a simple plan at home. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S05-Q04",
+          "stageId": "EN-L09-C01-S05",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 4번: Mina finds the answer at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Mina finds the answer at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S05-Q05",
+          "stageId": "EN-L09-C01-S05",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 5번: Tom finds the answer at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom finds the answer at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S05-Q06",
+          "stageId": "EN-L09-C01-S05",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother finds the answer at home. This habit supports steady learning My.",
+            "subject",
+            "My brother finds the answer at home. This habit supports steady learning.",
+            "learning steady supports habit This home. at answer the finds brother My."
+          ],
+          "correctAnswer": "My brother finds the answer at home. This habit supports steady learning.",
+          "explanation": "바른 어순은 “My brother finds the answer at home. This habit supports steady learning.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother finds the answer at home. This habit supports steady learning.",
+            "My brother finds the answer at home. This habit supports steady learning"
+          ],
+          "exampleSentence": "My brother finds the answer at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S06-Q01",
+          "stageId": "EN-L09-C01-S06",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 1번: “Tom plays soccer after class. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "Tom plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S06-Q02",
+          "stageId": "EN-L09-C01-S06",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 2번: My brother plays soccer after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S06-Q03",
+          "stageId": "EN-L09-C01-S06",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student plays soccer after class. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S06-Q04",
+          "stageId": "EN-L09-C01-S06",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 4번: Our teacher plays soccer after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Our teacher plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S06-Q05",
+          "stageId": "EN-L09-C01-S06",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 5번: The young artist plays soccer after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S06-Q06",
+          "stageId": "EN-L09-C01-S06",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player plays soccer after class. This habit supports steady learning The.",
+            "subject",
+            "The soccer player plays soccer after class. This habit supports steady learning.",
+            "learning steady supports habit This class. after soccer plays player soccer The."
+          ],
+          "correctAnswer": "The soccer player plays soccer after class. This habit supports steady learning.",
+          "explanation": "바른 어순은 “The soccer player plays soccer after class. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player plays soccer after class. This habit supports steady learning.",
+            "The soccer player plays soccer after class. This habit supports steady learning"
+          ],
+          "exampleSentence": "The soccer player plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S07-Q01",
+          "stageId": "EN-L09-C01-S07",
+          "type": "listeningChoice",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother studies English after class. This habit supports steady learning.",
+            "The new student opens the window at home. This habit supports steady learning.",
+            "Our teacher finds the answer on Saturday morning. This habit supports steady learning.",
+            "The young artist finds the answer before lunch. This habit supports steady learning."
+          ],
+          "correctAnswer": "The young artist finds the answer before lunch. This habit supports steady learning.",
+          "explanation": "들은 문장은 “The young artist finds the answer before lunch. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist finds the answer before lunch. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The young artist finds the answer before lunch. This habit supports steady learning."
+          ],
+          "exampleSentence": "The young artist finds the answer before lunch. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S07-Q02",
+          "stageId": "EN-L09-C01-S07",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 2번: The soccer player finds the answer before lunch. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The soccer player finds the answer before lunch. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S07-Q03",
+          "stageId": "EN-L09-C01-S07",
+          "type": "listeningChoice",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player finds the answer on Saturday morning. This habit supports steady learning.",
+            "The new student finds the answer before lunch. This habit supports steady learning.",
+            "Our teacher studies English after class. This habit supports steady learning.",
+            "Tom carries a blue bag at home. This habit supports steady learning."
+          ],
+          "correctAnswer": "The new student finds the answer before lunch. This habit supports steady learning.",
+          "explanation": "들은 문장은 “The new student finds the answer before lunch. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student finds the answer before lunch. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The new student finds the answer before lunch. This habit supports steady learning."
+          ],
+          "exampleSentence": "The new student finds the answer before lunch. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S07-Q04",
+          "stageId": "EN-L09-C01-S07",
+          "type": "dictation",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina reads books at the community center. This habit supports steady learning.",
+          "explanation": "바른 문장은 “Mina reads books at the community center. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina reads books at the community center. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "Mina reads books at the community center. This habit supports steady learning.",
+            "Mina reads books at the community center. This habit supports steady learning"
+          ],
+          "exampleSentence": "Mina reads books at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S07-Q05",
+          "stageId": "EN-L09-C01-S07",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom reads books at the community center. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom reads books at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S07-Q06",
+          "stageId": "EN-L09-C01-S07",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 핵심 정보 듣기 · 6번: My brother reads books at the community center. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother reads books at the community center. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S08-Q01",
+          "stageId": "EN-L09-C01-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom opens the window during study time. This habit supports steady learning.",
+          "explanation": "“Tom opens the window during study time. This habit supports steady learning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom opens the window during study time. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "Tom opens the window during study time. This habit supports steady learning.",
+            "Tom opens the window during study time. This habit supports steady learning"
+          ],
+          "exampleSentence": "Tom opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S08-Q02",
+          "stageId": "EN-L09-C01-S08",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 2번: My brother opens the window during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S08-Q03",
+          "stageId": "EN-L09-C01-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student opens the window during study time. This habit supports steady learning.",
+          "explanation": "“The student opens the window during study time. This habit supports steady learning.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student opens the window during study time. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The student opens the window during study time. This habit supports steady learning.",
+            "The student opens the window during study time. This habit supports steady learning"
+          ],
+          "exampleSentence": "The student opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S08-Q04",
+          "stageId": "EN-L09-C01-S08",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 4번: “Our teacher opens the window during study time. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "Our teacher opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S08-Q05",
+          "stageId": "EN-L09-C01-S08",
+          "type": "matching",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 5번: The young artist opens the window during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S08-Q06",
+          "stageId": "EN-L09-C01-S08",
+          "type": "trueFalse",
+          "prompt": "문장 성분과 동사 형식: 근거 설명하기 · 6번: 핵심 구조가 ‘steady learning’이면 O, 아니면 X를 고르세요: The soccer player opens the window during study time. This habit supports steady learning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player opens the window during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S09-Q01",
+          "stageId": "EN-L09-C01-S09",
+          "type": "fillBlank",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 1번: The young artist reads books near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist reads books near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S09-Q02",
+          "stageId": "EN-L09-C01-S09",
+          "type": "dictation",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player reads books near the school. This habit supports steady learning.",
+          "explanation": "바른 문장은 “The soccer player reads books near the school. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player reads books near the school. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The soccer player reads books near the school. This habit supports steady learning.",
+            "The soccer player reads books near the school. This habit supports steady learning"
+          ],
+          "exampleSentence": "The soccer player reads books near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S09-Q03",
+          "stageId": "EN-L09-C01-S09",
+          "type": "ordering",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student reads books near the school. This habit supports steady learning.",
+            "learning steady supports habit This school. the near books reads student new The.",
+            "new student reads books near the school. This habit supports steady learning The."
+          ],
+          "correctAnswer": "The new student reads books near the school. This habit supports steady learning.",
+          "explanation": "바른 어순은 “The new student reads books near the school. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student reads books near the school. This habit supports steady learning.",
+            "The new student reads books near the school. This habit supports steady learning"
+          ],
+          "exampleSentence": "The new student reads books near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S09-Q04",
+          "stageId": "EN-L09-C01-S09",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 4번: Mina writes short notes near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Mina writes short notes near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S09-Q05",
+          "stageId": "EN-L09-C01-S09",
+          "type": "fillBlank",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 5번: Tom writes short notes near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom writes short notes near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S09-Q06",
+          "stageId": "EN-L09-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 논리 문장 쓰기 · 6번: My brother writes short notes near the school. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother writes short notes near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C01-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C01-S10-Q01",
+          "stageId": "EN-L09-C01-S10",
+          "type": "reviewMixed",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 1번: Tom carries a blue bag at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q02",
+          "stageId": "EN-L09-C01-S10",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 2번: My brother carries a blue bag at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q03",
+          "stageId": "EN-L09-C01-S10",
+          "type": "listeningChoice",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother carries a blue bag before lunch. This habit supports steady learning.",
+            "The student carries a blue bag at home. This habit supports steady learning.",
+            "Mina reads books near the school. This habit supports steady learning.",
+            "The young artist studies English during study time. This habit supports steady learning."
+          ],
+          "correctAnswer": "The student carries a blue bag at home. This habit supports steady learning.",
+          "explanation": "들은 문장은 “The student carries a blue bag at home. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student carries a blue bag at home. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The student carries a blue bag at home. This habit supports steady learning."
+          ],
+          "exampleSentence": "The student carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q04",
+          "stageId": "EN-L09-C01-S10",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 4번: Our teacher carries a blue bag at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q05",
+          "stageId": "EN-L09-C01-S10",
+          "type": "dictation",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist carries a blue bag at home. This habit supports steady learning.",
+          "explanation": "바른 문장은 “The young artist carries a blue bag at home. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist carries a blue bag at home. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The young artist carries a blue bag at home. This habit supports steady learning.",
+            "The young artist carries a blue bag at home. This habit supports steady learning"
+          ],
+          "exampleSentence": "The young artist carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q06",
+          "stageId": "EN-L09-C01-S10",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 6번: “The soccer player carries a blue bag at home. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "The soccer player carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q07",
+          "stageId": "EN-L09-C01-S10",
+          "type": "reviewMixed",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 7번: The new student carries a blue bag at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "steady learning",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The new student carries a blue bag at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q08",
+          "stageId": "EN-L09-C01-S10",
+          "type": "multipleChoice",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 8번: Mina makes a simple plan at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "steady learning",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Mina makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q09",
+          "stageId": "EN-L09-C01-S10",
+          "type": "listeningChoice",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player reads books near the school. This habit supports steady learning.",
+            "The student plays soccer during study time. This habit supports steady learning.",
+            "Mina makes a simple plan before lunch. This habit supports steady learning.",
+            "Tom makes a simple plan at home. This habit supports steady learning."
+          ],
+          "correctAnswer": "Tom makes a simple plan at home. This habit supports steady learning.",
+          "explanation": "들은 문장은 “Tom makes a simple plan at home. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom makes a simple plan at home. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "Tom makes a simple plan at home. This habit supports steady learning."
+          ],
+          "exampleSentence": "Tom makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q10",
+          "stageId": "EN-L09-C01-S10",
+          "type": "sentenceCompletion",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 10번: My brother makes a simple plan at home. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q11",
+          "stageId": "EN-L09-C01-S10",
+          "type": "dictation",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student makes a simple plan at home. This habit supports steady learning.",
+          "explanation": "바른 문장은 “The student makes a simple plan at home. This habit supports steady learning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student makes a simple plan at home. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The student makes a simple plan at home. This habit supports steady learning.",
+            "The student makes a simple plan at home. This habit supports steady learning"
+          ],
+          "exampleSentence": "The student makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C01-S10-Q12",
+          "stageId": "EN-L09-C01-S10",
+          "type": "sentenceMeaning",
+          "prompt": "문장 성분과 동사 형식: 과정 평가 · 12번: “Our teacher makes a simple plan at home. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "문장 성분과 동사 형식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "Our teacher makes a simple plan at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    }
+  ]
+}

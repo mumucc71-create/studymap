@@ -1,0 +1,2998 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L07",
+  "courseId": "EN-L07-C15",
+  "stages": [
+    {
+      "stageId": "EN-L07-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S01-Q01",
+          "stageId": "EN-L07-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 1번: I ___ Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 경험 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju.",
+          "koreanMeaning": "I는 Jeju을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S01-Q02",
+          "stageId": "EN-L07-C15-S01",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 2번: 핵심 표현이 ‘have’이면 O, 아니면 X를 고르세요: You have successfully finished the book.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have successfully finished the book.",
+          "koreanMeaning": "You는 the book을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S01-Q03",
+          "stageId": "EN-L07-C15-S01",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 3번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "never",
+            "ever",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S01-Q04",
+          "stageId": "EN-L07-C15-S01",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 4번: “She has never eaten lunch.”의 뜻을 고르세요.",
+          "choices": [
+            "She는 lunch을 한 적이 없다.",
+            "I는 Jeju을 한 적이 없다.",
+            "You는 the book을 한 적이 없다.",
+            "He는 that movie을 한 적이 없다."
+          ],
+          "correctAnswer": "She는 lunch을 한 적이 없다.",
+          "explanation": "뜻은 ‘She는 lunch을 한 적이 없다.’입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She는 lunch을 한 적이 없다."
+          ],
+          "exampleSentence": "She has never eaten lunch.",
+          "koreanMeaning": "She는 lunch을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S01-Q05",
+          "stageId": "EN-L07-C15-S01",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 5번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just 완료 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 the room을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S01-Q06",
+          "stageId": "EN-L07-C15-S01",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have already played this game They.",
+            "have",
+            "They have already played this game.",
+            "game this played already have They."
+          ],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "바른 어순은 “They have already played this game.”입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have already played this game.",
+            "They have already played this game"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 이미 this game을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S02-Q01",
+          "stageId": "EN-L07-C15-S02",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 1번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "already 완료 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 이미 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S02-Q02",
+          "stageId": "EN-L07-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 2번: Has she cleaned the room ___? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 의문문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Has she cleaned the room yet?",
+          "koreanMeaning": "the room을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S02-Q03",
+          "stageId": "EN-L07-C15-S02",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 3번: “They have not played this game yet.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 아직 that movie을 마치지 않았다.",
+            "They는 아직 this game을 마치지 않았다.",
+            "I는 아직 Jeju을 마치지 않았다.",
+            "You는 아직 the book을 마치지 않았다."
+          ],
+          "correctAnswer": "They는 아직 this game을 마치지 않았다.",
+          "explanation": "뜻은 ‘They는 아직 this game을 마치지 않았다.’입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They는 아직 this game을 마치지 않았다."
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "They는 아직 this game을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S02-Q04",
+          "stageId": "EN-L07-C15-S02",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 4번: Mina has studied math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for six years",
+            "for two years",
+            "for three years",
+            "for an hour"
+          ],
+          "correctAnswer": "for six years",
+          "explanation": "for 계속 문맥에 맞는 표현은 for six years입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for six years",
+            "for six years"
+          ],
+          "exampleSentence": "Mina has studied math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S02-Q05",
+          "stageId": "EN-L07-C15-S02",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 5번: Tom has used this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since Monday"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "since 계속 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has used this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S02-Q06",
+          "stageId": "EN-L07-C15-S02",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: I have visited Jeju this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have visited Jeju this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S03-Q01",
+          "stageId": "EN-L07-C15-S03",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 1번: Mina ___ the email this week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has written"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재형과 현재완료 비교 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S03-Q02",
+          "stageId": "EN-L07-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 2번: Yes, tom ___ the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has read",
+            "have visited"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 생활 대화 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Yes, tom has read the story.",
+          "koreanMeaning": "네, the story을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S03-Q03",
+          "stageId": "EN-L07-C15-S03",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 3번: 핵심 표현이 ‘have finished’이면 O, 아니면 X를 고르세요: I have visited Jeju, so the task is done.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S03-Q04",
+          "stageId": "EN-L07-C15-S03",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have finished the book.",
+            "book the finished have You.",
+            "have finished the book You.",
+            "have"
+          ],
+          "correctAnswer": "You have finished the book.",
+          "explanation": "바른 어순은 “You have finished the book.”입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have finished the book.",
+            "You have finished the book"
+          ],
+          "exampleSentence": "You have finished the book.",
+          "koreanMeaning": "You는 the book을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S03-Q05",
+          "stageId": "EN-L07-C15-S03",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 5번: He ___ successfully seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "ever",
+            "never",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "have와 has 문맥에 맞는 표현은 has입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has successfully seen that movie.",
+          "koreanMeaning": "He는 that movie을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S03-Q06",
+          "stageId": "EN-L07-C15-S03",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 문법 구조 분석 · 6번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S04-Q01",
+          "stageId": "EN-L07-C15-S04",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 1번: Have you ___ finished the book? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S04-Q02",
+          "stageId": "EN-L07-C15-S04",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has never seen that movie He.",
+            "have",
+            "He has never seen that movie.",
+            "movie that seen never has He."
+          ],
+          "correctAnswer": "He has never seen that movie.",
+          "explanation": "바른 어순은 “He has never seen that movie.”입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has never seen that movie.",
+            "He has never seen that movie"
+          ],
+          "exampleSentence": "He has never seen that movie.",
+          "koreanMeaning": "He는 that movie을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S04-Q03",
+          "stageId": "EN-L07-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 3번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "just",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just 완료 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "She has just eaten lunch.",
+          "koreanMeaning": "She는 방금 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S04-Q04",
+          "stageId": "EN-L07-C15-S04",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 4번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "already",
+          "explanation": "already 완료 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "We have already cleaned the room.",
+          "koreanMeaning": "We는 이미 the room을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S04-Q05",
+          "stageId": "EN-L07-C15-S04",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Has she played this game yet?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Has she played this game yet?",
+          "koreanMeaning": "this game을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S04-Q06",
+          "stageId": "EN-L07-C15-S04",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 문장 분석 연습 · 6번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 부정문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "Mina는 아직 the email을 마치지 않았다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S05-Q01",
+          "stageId": "EN-L07-C15-S05",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 1번: “We have not cleaned the room yet.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 아직 Jeju을 마치지 않았다.",
+            "You는 아직 the book을 마치지 않았다.",
+            "He는 아직 that movie을 마치지 않았다.",
+            "We는 아직 the room을 마치지 않았다."
+          ],
+          "correctAnswer": "We는 아직 the room을 마치지 않았다.",
+          "explanation": "뜻은 ‘We는 아직 the room을 마치지 않았다.’입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 아직 the room을 마치지 않았다."
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "We는 아직 the room을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S05-Q02",
+          "stageId": "EN-L07-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 2번: They have worked together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for three years",
+            "for an hour",
+            "for five months",
+            "for two years"
+          ],
+          "correctAnswer": "for five months",
+          "explanation": "for 계속 문맥에 맞는 표현은 for five months입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for five months",
+            "for five months"
+          ],
+          "exampleSentence": "They have worked together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S05-Q03",
+          "stageId": "EN-L07-C15-S05",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 3번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: Mina has studied math since 2020.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since 2020입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has studied math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S05-Q04",
+          "stageId": "EN-L07-C15-S05",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 4번: Tom ___ the story this week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has read",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재형과 현재완료 비교 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S05-Q05",
+          "stageId": "EN-L07-C15-S05",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 5번: Yes, i ___ Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 생활 대화 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "Yes, i have visited Jeju.",
+          "koreanMeaning": "네, Jeju을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S05-Q06",
+          "stageId": "EN-L07-C15-S05",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have finished the book, so the task is done You.",
+            "have",
+            "You have finished the book, so the task is done.",
+            "done is task the so book, the finished have You."
+          ],
+          "correctAnswer": "You have finished the book, so the task is done.",
+          "explanation": "바른 어순은 “You have finished the book, so the task is done.”입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have finished the book, so the task is done.",
+            "You have finished the book, so the task is done"
+          ],
+          "exampleSentence": "You have finished the book, so the task is done.",
+          "koreanMeaning": "the book을 마쳐 일이 끝났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S06-Q01",
+          "stageId": "EN-L07-C15-S06",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 1번: “Tom has read the story, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "the story을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "the story을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘the story을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the story을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S06-Q02",
+          "stageId": "EN-L07-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 2번: I ___ Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "has eaten",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 경험 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju.",
+          "koreanMeaning": "I는 Jeju을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S06-Q03",
+          "stageId": "EN-L07-C15-S06",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 3번: 핵심 표현이 ‘has’이면 O, 아니면 X를 고르세요: You have successfully finished the book.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 have입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have successfully finished the book.",
+          "koreanMeaning": "You는 the book을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S06-Q04",
+          "stageId": "EN-L07-C15-S06",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 4번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S06-Q05",
+          "stageId": "EN-L07-C15-S06",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 5번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "never"
+          ],
+          "correctAnswer": "never",
+          "explanation": "never 경험 문맥에 맞는 표현은 never입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "never",
+            "never"
+          ],
+          "exampleSentence": "She has never eaten lunch.",
+          "koreanMeaning": "She는 lunch을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S06-Q06",
+          "stageId": "EN-L07-C15-S06",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have just cleaned the room We.",
+            "have",
+            "We have just cleaned the room.",
+            "room the cleaned just have We."
+          ],
+          "correctAnswer": "We have just cleaned the room.",
+          "explanation": "바른 어순은 “We have just cleaned the room.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have just cleaned the room.",
+            "We have just cleaned the room"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 the room을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S07-Q01",
+          "stageId": "EN-L07-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have just visited Jeju.",
+            "You have just finished the book.",
+            "She has just eaten lunch.",
+            "He has just seen that movie."
+          ],
+          "correctAnswer": "He has just seen that movie.",
+          "explanation": "들은 문장은 “He has just seen that movie.”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has just seen that movie.",
+          "acceptedAnswers": [
+            "He has just seen that movie."
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 that movie을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S07-Q02",
+          "stageId": "EN-L07-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 2번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "already",
+            "have"
+          ],
+          "correctAnswer": "already",
+          "explanation": "already 완료 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 이미 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S07-Q03",
+          "stageId": "EN-L07-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Has he seen that movie yet?",
+            "Has she cleaned the room yet?",
+            "Has she visited Jeju yet?",
+            "Has she finished the book yet?"
+          ],
+          "correctAnswer": "Has she cleaned the room yet?",
+          "explanation": "들은 문장은 “Has she cleaned the room yet?”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Has she cleaned the room yet?",
+          "acceptedAnswers": [
+            "Has she cleaned the room yet?"
+          ],
+          "exampleSentence": "Has she cleaned the room yet?",
+          "koreanMeaning": "the room을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S07-Q04",
+          "stageId": "EN-L07-C15-S07",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have not played this game yet.",
+          "explanation": "바른 문장은 “They have not played this game yet.”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have not played this game yet.",
+          "acceptedAnswers": [
+            "They have not played this game yet.",
+            "They have not played this game yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "They는 아직 this game을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S07-Q05",
+          "stageId": "EN-L07-C15-S07",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘for two years’이면 O, 아니면 X를 고르세요: Mina has studied math for six years.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 for six years입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has studied math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S07-Q06",
+          "stageId": "EN-L07-C15-S07",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 핵심 정보 듣기 · 6번: Tom has used this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since Monday",
+            "since 2024"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "since 계속 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has used this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S08-Q01",
+          "stageId": "EN-L07-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have worked together since spring.",
+          "explanation": "“They have worked together since spring.”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have worked together since spring.",
+          "acceptedAnswers": [
+            "They have worked together since spring.",
+            "They have worked together since spring"
+          ],
+          "exampleSentence": "They have worked together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S08-Q02",
+          "stageId": "EN-L07-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 2번: Mina ___ the email this week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has written",
+            "have visited"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재형과 현재완료 비교 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Mina has written the email this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S08-Q03",
+          "stageId": "EN-L07-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Yes, tom has read the story.",
+          "explanation": "“Yes, tom has read the story.”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Yes, tom has read the story.",
+          "acceptedAnswers": [
+            "Yes, tom has read the story.",
+            "Yes, tom has read the story"
+          ],
+          "exampleSentence": "Yes, tom has read the story.",
+          "koreanMeaning": "네, the story을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S08-Q04",
+          "stageId": "EN-L07-C15-S08",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 4번: “I have visited Jeju, so the task is done.”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 마쳐 일이 끝났다.",
+            "the book을 마쳐 일이 끝났다.",
+            "that movie을 마쳐 일이 끝났다.",
+            "lunch을 마쳐 일이 끝났다."
+          ],
+          "correctAnswer": "Jeju을 마쳐 일이 끝났다.",
+          "explanation": "뜻은 ‘Jeju을 마쳐 일이 끝났다.’입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Jeju을 마쳐 일이 끝났다."
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S08-Q05",
+          "stageId": "EN-L07-C15-S08",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 5번: You ___ the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "has seen",
+            "has eaten",
+            "have finished"
+          ],
+          "correctAnswer": "have finished",
+          "explanation": "현재완료 경험 문맥에 맞는 표현은 have finished입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have finished",
+            "have finished"
+          ],
+          "exampleSentence": "You have finished the book.",
+          "koreanMeaning": "You는 the book을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S08-Q06",
+          "stageId": "EN-L07-C15-S08",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 근거 설명하기 · 6번: 핵심 표현이 ‘has’이면 O, 아니면 X를 고르세요: He has successfully seen that movie.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 has입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has successfully seen that movie.",
+          "koreanMeaning": "He는 that movie을 성공적으로 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S09-Q01",
+          "stageId": "EN-L07-C15-S09",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 1번: I ___ successfully visited Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "never",
+            "have"
+          ],
+          "correctAnswer": "have",
+          "explanation": "have와 has 문맥에 맞는 표현은 have입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have",
+            "have"
+          ],
+          "exampleSentence": "I have successfully visited Jeju.",
+          "koreanMeaning": "I는 Jeju을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S09-Q02",
+          "stageId": "EN-L07-C15-S09",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever finished the book?",
+          "explanation": "바른 문장은 “Have you ever finished the book?”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever finished the book?",
+          "acceptedAnswers": [
+            "Have you ever finished the book?",
+            "Have you ever finished the book"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S09-Q03",
+          "stageId": "EN-L07-C15-S09",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has never seen that movie.",
+            "movie that seen never has He.",
+            "has never seen that movie He."
+          ],
+          "correctAnswer": "He has never seen that movie.",
+          "explanation": "바른 어순은 “He has never seen that movie.”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has never seen that movie.",
+            "He has never seen that movie"
+          ],
+          "exampleSentence": "He has never seen that movie.",
+          "koreanMeaning": "He는 that movie을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S09-Q04",
+          "stageId": "EN-L07-C15-S09",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 4번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just 완료 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "She has just eaten lunch.",
+          "koreanMeaning": "She는 방금 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S09-Q05",
+          "stageId": "EN-L07-C15-S09",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 5번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "already 완료 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "We have already cleaned the room.",
+          "koreanMeaning": "We는 이미 the room을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S09-Q06",
+          "stageId": "EN-L07-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 논리 문장 쓰기 · 6번: Has she played this game ___? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 의문문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Has she played this game yet?",
+          "koreanMeaning": "this game을 벌써 마쳤니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S10-Q01",
+          "stageId": "EN-L07-C15-S10",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 1번: Has she eaten lunch ___? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 의문문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Has she eaten lunch yet?",
+          "koreanMeaning": "lunch을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S10-Q02",
+          "stageId": "EN-L07-C15-S10",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have not cleaned the room yet We.",
+            "have",
+            "We have not cleaned the room yet.",
+            "yet room the cleaned not have We."
+          ],
+          "correctAnswer": "We have not cleaned the room yet.",
+          "explanation": "바른 어순은 “We have not cleaned the room yet.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have not cleaned the room yet.",
+            "We have not cleaned the room yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "We는 아직 the room을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S10-Q03",
+          "stageId": "EN-L07-C15-S10",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 3번: They have worked together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "for an hour",
+            "for five months",
+            "for two years",
+            "for three years"
+          ],
+          "correctAnswer": "for five months",
+          "explanation": "for 계속 문맥에 맞는 표현은 for five months입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "for five months",
+            "for five months"
+          ],
+          "exampleSentence": "They have worked together for five months.",
+          "koreanMeaning": "They는 for five months 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S10-Q04",
+          "stageId": "EN-L07-C15-S10",
+          "type": "fillBlank",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 4번: Mina has studied math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2020",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "since 계속 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has studied math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S10-Q05",
+          "stageId": "EN-L07-C15-S10",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 5번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: Tom has read the story this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has read입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom has read the story this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S10-Q06",
+          "stageId": "EN-L07-C15-S10",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 혼합 문제 적용 · 6번: Yes, i ___ Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has seen",
+            "has eaten",
+            "have visited",
+            "have finished"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 생활 대화 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "Yes, i have visited Jeju.",
+          "koreanMeaning": "네, Jeju을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S11-Q01",
+          "stageId": "EN-L07-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 1번: Yes, mina ___ the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has written"
+          ],
+          "correctAnswer": "has written",
+          "explanation": "현재완료 생활 대화 문맥에 맞는 표현은 has written입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has written",
+            "has written"
+          ],
+          "exampleSentence": "Yes, mina has written the email.",
+          "koreanMeaning": "네, the email을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q02",
+          "stageId": "EN-L07-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "You have finished the book, so the task is done.",
+            "He has seen that movie, so the task is done.",
+            "Tom has read the story, so the task is done.",
+            "I have visited Jeju, so the task is done."
+          ],
+          "correctAnswer": "Tom has read the story, so the task is done.",
+          "explanation": "들은 문장은 “Tom has read the story, so the task is done.”입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has read the story, so the task is done.",
+          "acceptedAnswers": [
+            "Tom has read the story, so the task is done."
+          ],
+          "exampleSentence": "Tom has read the story, so the task is done.",
+          "koreanMeaning": "the story을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q03",
+          "stageId": "EN-L07-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 3번: “I have visited Jeju.”의 뜻을 고르세요.",
+          "choices": [
+            "She는 lunch을 경험했다.",
+            "I는 Jeju을 경험했다.",
+            "You는 the book을 경험했다.",
+            "He는 that movie을 경험했다."
+          ],
+          "correctAnswer": "I는 Jeju을 경험했다.",
+          "explanation": "뜻은 ‘I는 Jeju을 경험했다.’입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 Jeju을 경험했다."
+          ],
+          "exampleSentence": "I have visited Jeju.",
+          "koreanMeaning": "I는 Jeju을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q04",
+          "stageId": "EN-L07-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 4번: You ___ successfully finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "never"
+          ],
+          "correctAnswer": "have",
+          "explanation": "have와 has 문맥에 맞는 표현은 have입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have",
+            "have"
+          ],
+          "exampleSentence": "You have successfully finished the book.",
+          "koreanMeaning": "You는 the book을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q05",
+          "stageId": "EN-L07-C15-S11",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever seen that movie?",
+          "explanation": "바른 문장은 “Have you ever seen that movie?”입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever seen that movie?",
+          "acceptedAnswers": [
+            "Have you ever seen that movie?",
+            "Have you ever seen that movie"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q06",
+          "stageId": "EN-L07-C15-S11",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has never eaten lunch She.",
+            "have",
+            "She has never eaten lunch.",
+            "lunch eaten never has She."
+          ],
+          "correctAnswer": "She has never eaten lunch.",
+          "explanation": "바른 어순은 “She has never eaten lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She has never eaten lunch.",
+            "She has never eaten lunch"
+          ],
+          "exampleSentence": "She has never eaten lunch.",
+          "koreanMeaning": "She는 lunch을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q07",
+          "stageId": "EN-L07-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 7번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "just",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just 완료 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 the room을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q08",
+          "stageId": "EN-L07-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "They have already played this game.",
+            "I have already visited Jeju.",
+            "You have already finished the book.",
+            "He has already seen that movie."
+          ],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "들은 문장은 “They have already played this game.”입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have already played this game.",
+          "acceptedAnswers": [
+            "They have already played this game."
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 이미 this game을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q09",
+          "stageId": "EN-L07-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 9번: “Has mina written the email yet?”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 벌써 마쳤니?",
+            "the book을 벌써 마쳤니?",
+            "that movie을 벌써 마쳤니?",
+            "the email을 벌써 마쳤니?"
+          ],
+          "correctAnswer": "the email을 벌써 마쳤니?",
+          "explanation": "뜻은 ‘the email을 벌써 마쳤니?’입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the email을 벌써 마쳤니?"
+          ],
+          "exampleSentence": "Has mina written the email yet?",
+          "koreanMeaning": "the email을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S11-Q10",
+          "stageId": "EN-L07-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 이전 레벨 누적 복습 · 10번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 부정문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "review",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "Tom는 아직 the story을 마치지 않았다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S12-Q01",
+          "stageId": "EN-L07-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 1번: You have ___ finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "never"
+          ],
+          "correctAnswer": "never",
+          "explanation": "never 경험 문맥에 맞는 표현은 never입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "never",
+            "never"
+          ],
+          "exampleSentence": "You have never finished the book.",
+          "koreanMeaning": "You는 the book을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q02",
+          "stageId": "EN-L07-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 2번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "just",
+            "have"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just 완료 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 that movie을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q03",
+          "stageId": "EN-L07-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has already seen that movie.",
+            "She has already eaten lunch.",
+            "I have already visited Jeju.",
+            "You have already finished the book."
+          ],
+          "correctAnswer": "She has already eaten lunch.",
+          "explanation": "들은 문장은 “She has already eaten lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has already eaten lunch.",
+          "acceptedAnswers": [
+            "She has already eaten lunch."
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 이미 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q04",
+          "stageId": "EN-L07-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 4번: Has she cleaned the room ___? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 의문문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Has she cleaned the room yet?",
+          "koreanMeaning": "the room을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q05",
+          "stageId": "EN-L07-C15-S12",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have not played this game yet.",
+          "explanation": "바른 문장은 “They have not played this game yet.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have not played this game yet.",
+          "acceptedAnswers": [
+            "They have not played this game yet.",
+            "They have not played this game yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "They는 아직 this game을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q06",
+          "stageId": "EN-L07-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 6번: “Mina has studied math for six years.”의 뜻을 고르세요.",
+          "choices": [
+            "You는 for three years 동안 계속했다.",
+            "He는 for an hour 동안 계속했다.",
+            "Mina는 for six years 동안 계속했다.",
+            "I는 for two years 동안 계속했다."
+          ],
+          "correctAnswer": "Mina는 for six years 동안 계속했다.",
+          "explanation": "뜻은 ‘Mina는 for six years 동안 계속했다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 for six years 동안 계속했다."
+          ],
+          "exampleSentence": "Mina has studied math for six years.",
+          "koreanMeaning": "Mina는 for six years 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q07",
+          "stageId": "EN-L07-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 7번: Tom has used this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since Monday",
+            "since 2024",
+            "since May"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "since 계속 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has used this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q08",
+          "stageId": "EN-L07-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 8번: I ___ Jeju this week. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재형과 현재완료 비교 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q09",
+          "stageId": "EN-L07-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Yes, i have visited Jeju.",
+            "Yes, he has seen that movie.",
+            "Yes, she has eaten lunch.",
+            "Yes, you have finished the book."
+          ],
+          "correctAnswer": "Yes, you have finished the book.",
+          "explanation": "들은 문장은 “Yes, you have finished the book.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Yes, you have finished the book.",
+          "acceptedAnswers": [
+            "Yes, you have finished the book."
+          ],
+          "exampleSentence": "Yes, you have finished the book.",
+          "koreanMeaning": "네, the book을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q10",
+          "stageId": "EN-L07-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 10번: He ___ that movie, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has eaten",
+            "has seen",
+            "have visited"
+          ],
+          "correctAnswer": "has seen",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has seen입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has seen",
+            "has seen"
+          ],
+          "exampleSentence": "He has seen that movie, so the task is done.",
+          "koreanMeaning": "that movie을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q11",
+          "stageId": "EN-L07-C15-S12",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "She has eaten lunch.",
+          "explanation": "바른 문장은 “She has eaten lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has eaten lunch.",
+          "acceptedAnswers": [
+            "She has eaten lunch.",
+            "She has eaten lunch"
+          ],
+          "exampleSentence": "She has eaten lunch.",
+          "koreanMeaning": "She는 lunch을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S12-Q12",
+          "stageId": "EN-L07-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 과정 성취 확인 · 12번: “We have successfully cleaned the room.”의 뜻을 고르세요.",
+          "choices": [
+            "We는 the room을 성공적으로 마쳤다.",
+            "I는 Jeju을 성공적으로 마쳤다.",
+            "You는 the book을 성공적으로 마쳤다.",
+            "He는 that movie을 성공적으로 마쳤다."
+          ],
+          "correctAnswer": "We는 the room을 성공적으로 마쳤다.",
+          "explanation": "뜻은 ‘We는 the room을 성공적으로 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 the room을 성공적으로 마쳤다."
+          ],
+          "exampleSentence": "We have successfully cleaned the room.",
+          "koreanMeaning": "We는 the room을 성공적으로 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S13-Q01",
+          "stageId": "EN-L07-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 1번: “We have waited here for thirty minutes.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 for two years 동안 계속했다.",
+            "You는 for three years 동안 계속했다.",
+            "He는 for an hour 동안 계속했다.",
+            "We는 for thirty minutes 동안 계속했다."
+          ],
+          "correctAnswer": "We는 for thirty minutes 동안 계속했다.",
+          "explanation": "뜻은 ‘We는 for thirty minutes 동안 계속했다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 for thirty minutes 동안 계속했다."
+          ],
+          "exampleSentence": "We have waited here for thirty minutes.",
+          "koreanMeaning": "We는 for thirty minutes 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S13-Q02",
+          "stageId": "EN-L07-C15-S13",
+          "type": "multipleChoice",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 2번: They have worked together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since spring",
+            "since 2024"
+          ],
+          "correctAnswer": "since spring",
+          "explanation": "since 계속 문맥에 맞는 표현은 since spring입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since spring",
+            "since spring"
+          ],
+          "exampleSentence": "They have worked together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S13-Q03",
+          "stageId": "EN-L07-C15-S13",
+          "type": "trueFalse",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 3번: 핵심 표현이 ‘have visited’이면 O, 아니면 X를 고르세요: Mina has written the email this week.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 has written입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has written the email this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S13-Q04",
+          "stageId": "EN-L07-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 4번: Yes, tom ___ the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has read",
+            "have visited",
+            "have finished",
+            "has seen"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 생활 대화 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Yes, tom has read the story.",
+          "koreanMeaning": "네, the story을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S13-Q05",
+          "stageId": "EN-L07-C15-S13",
+          "type": "matching",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 5번: I ___ Jeju, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have finished",
+            "has seen",
+            "has eaten",
+            "have visited"
+          ],
+          "correctAnswer": "have visited",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 have visited입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "have visited",
+            "have visited"
+          ],
+          "exampleSentence": "I have visited Jeju, so the task is done.",
+          "koreanMeaning": "Jeju을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S13-Q06",
+          "stageId": "EN-L07-C15-S13",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 장문 독해 확장 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have finished the book You.",
+            "have",
+            "You have finished the book.",
+            "book the finished have You."
+          ],
+          "correctAnswer": "You have finished the book.",
+          "explanation": "바른 어순은 “You have finished the book.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have finished the book.",
+            "You have finished the book"
+          ],
+          "exampleSentence": "You have finished the book.",
+          "koreanMeaning": "You는 the book을 경험했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C15-S14",
+      "questions": [
+        {
+          "questionId": "EN-L07-C15-S14-Q01",
+          "stageId": "EN-L07-C15-S14",
+          "type": "bossMixed",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 1번: Tom ___ the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has read"
+          ],
+          "correctAnswer": "has read",
+          "explanation": "현재완료 경험 문맥에 맞는 표현은 has read입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has read",
+            "has read"
+          ],
+          "exampleSentence": "Tom has read the story.",
+          "koreanMeaning": "Tom는 the story을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q02",
+          "stageId": "EN-L07-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has successfully seen that movie.",
+            "She has successfully eaten lunch.",
+            "I have successfully visited Jeju.",
+            "You have successfully finished the book."
+          ],
+          "correctAnswer": "I have successfully visited Jeju.",
+          "explanation": "들은 문장은 “I have successfully visited Jeju.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have successfully visited Jeju.",
+          "acceptedAnswers": [
+            "I have successfully visited Jeju."
+          ],
+          "exampleSentence": "I have successfully visited Jeju.",
+          "koreanMeaning": "I는 Jeju을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q03",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 3번: “Have you ever finished the book?”의 뜻을 고르세요.",
+          "choices": [
+            "lunch을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "Jeju을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "the book을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘the book을 해 본 적이 있니?’입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the book을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q04",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 4번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "never",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "never",
+          "explanation": "never 경험 문맥에 맞는 표현은 never입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "never",
+            "never"
+          ],
+          "exampleSentence": "He has never seen that movie.",
+          "koreanMeaning": "He는 that movie을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q05",
+          "stageId": "EN-L07-C15-S14",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "She has just eaten lunch.",
+          "explanation": "바른 문장은 “She has just eaten lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has just eaten lunch.",
+          "acceptedAnswers": [
+            "She has just eaten lunch.",
+            "She has just eaten lunch"
+          ],
+          "exampleSentence": "She has just eaten lunch.",
+          "koreanMeaning": "She는 방금 lunch을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q06",
+          "stageId": "EN-L07-C15-S14",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have already cleaned the room We.",
+            "have",
+            "We have already cleaned the room.",
+            "room the cleaned already have We."
+          ],
+          "correctAnswer": "We have already cleaned the room.",
+          "explanation": "바른 어순은 “We have already cleaned the room.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have already cleaned the room.",
+            "We have already cleaned the room"
+          ],
+          "exampleSentence": "We have already cleaned the room.",
+          "koreanMeaning": "We는 이미 the room을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q07",
+          "stageId": "EN-L07-C15-S14",
+          "type": "bossMixed",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 7번: Has she played this game ___? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "yet",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "yet 의문문 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Has she played this game yet?",
+          "koreanMeaning": "this game을 벌써 마쳤니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q08",
+          "stageId": "EN-L07-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina has not written the email yet.",
+            "I have not visited Jeju yet.",
+            "You have not finished the book yet.",
+            "He has not seen that movie yet."
+          ],
+          "correctAnswer": "Mina has not written the email yet.",
+          "explanation": "들은 문장은 “Mina has not written the email yet.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "yet 부정문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina has not written the email yet.",
+          "acceptedAnswers": [
+            "Mina has not written the email yet."
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "Mina는 아직 the email을 마치지 않았다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q09",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 9번: “Tom has used this bike for a week.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 for two years 동안 계속했다.",
+            "You는 for three years 동안 계속했다.",
+            "He는 for an hour 동안 계속했다.",
+            "Tom는 for a week 동안 계속했다."
+          ],
+          "correctAnswer": "Tom는 for a week 동안 계속했다.",
+          "explanation": "뜻은 ‘Tom는 for a week 동안 계속했다.’입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "for 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 for a week 동안 계속했다."
+          ],
+          "exampleSentence": "Tom has used this bike for a week.",
+          "koreanMeaning": "Tom는 for a week 동안 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q10",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 10번: I have studied English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since breakfast",
+            "since 2024",
+            "since May"
+          ],
+          "correctAnswer": "since 2024",
+          "explanation": "since 계속 문맥에 맞는 표현은 since 2024입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "since 계속",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2024",
+            "since 2024"
+          ],
+          "exampleSentence": "I have studied English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q11",
+          "stageId": "EN-L07-C15-S14",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have finished the book this week.",
+          "explanation": "바른 문장은 “You have finished the book this week.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "현재형과 현재완료 비교",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have finished the book this week.",
+          "acceptedAnswers": [
+            "You have finished the book this week.",
+            "You have finished the book this week"
+          ],
+          "exampleSentence": "You have finished the book this week.",
+          "koreanMeaning": "이번 주의 경험이 현재와 이어진다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q12",
+          "stageId": "EN-L07-C15-S14",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 12번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Yes, he has seen that movie.",
+            "movie that seen has he Yes,.",
+            "he has seen that movie Yes,.",
+            "have"
+          ],
+          "correctAnswer": "Yes, he has seen that movie.",
+          "explanation": "바른 어순은 “Yes, he has seen that movie.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "현재완료 생활 대화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Yes, he has seen that movie.",
+            "Yes, he has seen that movie"
+          ],
+          "exampleSentence": "Yes, he has seen that movie.",
+          "koreanMeaning": "네, that movie을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q13",
+          "stageId": "EN-L07-C15-S14",
+          "type": "bossMixed",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 13번: She ___ lunch, so the task is done. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have visited",
+            "have finished",
+            "has seen",
+            "has eaten"
+          ],
+          "correctAnswer": "has eaten",
+          "explanation": "현재완료 짧은 독해 문맥에 맞는 표현은 has eaten입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "현재완료 짧은 독해",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has eaten",
+            "has eaten"
+          ],
+          "exampleSentence": "She has eaten lunch, so the task is done.",
+          "koreanMeaning": "lunch을 마쳐 일이 끝났다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q14",
+          "stageId": "EN-L07-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 14번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "You have finished the book.",
+            "He has seen that movie.",
+            "We have cleaned the room.",
+            "I have visited Jeju."
+          ],
+          "correctAnswer": "We have cleaned the room.",
+          "explanation": "들은 문장은 “We have cleaned the room.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "현재완료 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have cleaned the room.",
+          "acceptedAnswers": [
+            "We have cleaned the room."
+          ],
+          "exampleSentence": "We have cleaned the room.",
+          "koreanMeaning": "We는 the room을 경험했다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q15",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 15번: “They have successfully played this game.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 that movie을 성공적으로 마쳤다.",
+            "They는 this game을 성공적으로 마쳤다.",
+            "I는 Jeju을 성공적으로 마쳤다.",
+            "You는 the book을 성공적으로 마쳤다."
+          ],
+          "correctAnswer": "They는 this game을 성공적으로 마쳤다.",
+          "explanation": "뜻은 ‘They는 this game을 성공적으로 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "have와 has",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They는 this game을 성공적으로 마쳤다."
+          ],
+          "exampleSentence": "They have successfully played this game.",
+          "koreanMeaning": "They는 this game을 성공적으로 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q16",
+          "stageId": "EN-L07-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 16번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q17",
+          "stageId": "EN-L07-C15-S14",
+          "type": "dictation",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 17번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has never read the story.",
+          "explanation": "바른 문장은 “Tom has never read the story.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "never 경험",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has never read the story.",
+          "acceptedAnswers": [
+            "Tom has never read the story.",
+            "Tom has never read the story"
+          ],
+          "exampleSentence": "Tom has never read the story.",
+          "koreanMeaning": "Tom는 the story을 한 적이 없다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q18",
+          "stageId": "EN-L07-C15-S14",
+          "type": "ordering",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 18번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have just visited Jeju I.",
+            "have",
+            "I have just visited Jeju.",
+            "Jeju visited just have I."
+          ],
+          "correctAnswer": "I have just visited Jeju.",
+          "explanation": "바른 어순은 “I have just visited Jeju.”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "just 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have just visited Jeju.",
+            "I have just visited Jeju"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 Jeju을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q19",
+          "stageId": "EN-L07-C15-S14",
+          "type": "bossMixed",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 19번: You have ___ finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "already",
+          "explanation": "already 완료 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "already 완료",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 이미 the book을 마쳤다."
+        },
+        {
+          "questionId": "EN-L07-C15-S14-Q20",
+          "stageId": "EN-L07-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "중등 기초 보스 테스트: 레벨 보스 · 20번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Has he seen that movie yet?",
+            "Has she visited Jeju yet?",
+            "Has she finished the book yet?",
+            "Has she eaten lunch yet?"
+          ],
+          "correctAnswer": "Has he seen that movie yet?",
+          "explanation": "들은 문장은 “Has he seen that movie yet?”입니다.",
+          "difficulty": 9,
+          "skill": "boss",
+          "grammarFocus": "yet 의문문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "중등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Has he seen that movie yet?",
+          "acceptedAnswers": [
+            "Has he seen that movie yet?"
+          ],
+          "exampleSentence": "Has he seen that movie yet?",
+          "koreanMeaning": "that movie을 벌써 마쳤니?"
+        }
+      ]
+    }
+  ]
+}

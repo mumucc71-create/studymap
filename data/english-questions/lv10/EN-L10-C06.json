@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C06",
+  "stages": [
+    {
+      "stageId": "EN-L10-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S01-Q01",
+          "stageId": "EN-L10-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 1번: The young artist plans ___ a simple plan near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "to play",
+            "subject",
+            "to make"
+          ],
+          "correctAnswer": "to make",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to make입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to make",
+            "to make"
+          ],
+          "exampleSentence": "The young artist plans to make a simple plan near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S01-Q02",
+          "stageId": "EN-L10-C06-S01",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 2번: 핵심 구조가 ‘to make’이면 O, 아니면 X를 고르세요: The soccer player plans to make a simple plan near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 to make입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player plans to make a simple plan near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S01-Q03",
+          "stageId": "EN-L10-C06-S01",
+          "type": "matching",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 3번: The new student plans ___ a simple plan near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "to make",
+            "to write",
+            "to open"
+          ],
+          "correctAnswer": "to make",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to make입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to make",
+            "to make"
+          ],
+          "exampleSentence": "The new student plans to make a simple plan near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S01-Q04",
+          "stageId": "EN-L10-C06-S01",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 4번: “Mina plans to find the answer near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞으로 하려는 목적이나 계획을 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "Mina plans to find the answer near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S01-Q05",
+          "stageId": "EN-L10-C06-S01",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 5번: Tom plans ___ the answer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "to open",
+            "subject",
+            "to find"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "Tom plans to find the answer near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S01-Q06",
+          "stageId": "EN-L10-C06-S01",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plans to find the answer near the school My.",
+            "subject",
+            "My brother plans to find the answer near the school.",
+            "school the near answer the find to plans brother My."
+          ],
+          "correctAnswer": "My brother plans to find the answer near the school.",
+          "explanation": "바른 어순은 “My brother plans to find the answer near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plans to find the answer near the school.",
+            "My brother plans to find the answer near the school"
+          ],
+          "exampleSentence": "My brother plans to find the answer near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S02-Q01",
+          "stageId": "EN-L10-C06-S02",
+          "type": "matching",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 1번: Tom plans ___ soccer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "to read",
+            "subject",
+            "to play"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "Tom plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S02-Q02",
+          "stageId": "EN-L10-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 2번: My brother plans ___ soccer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to read",
+            "subject",
+            "to play",
+            "to carrie"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "My brother plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S02-Q03",
+          "stageId": "EN-L10-C06-S02",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 3번: “The student plans to play soccer in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "앞으로 하려는 목적이나 계획을 나타낸다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "The student plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S02-Q04",
+          "stageId": "EN-L10-C06-S02",
+          "type": "fillBlank",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 4번: Our teacher plans ___ soccer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to play",
+            "to make",
+            "to read",
+            "subject"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "Our teacher plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S02-Q05",
+          "stageId": "EN-L10-C06-S02",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 5번: The young artist plans ___ soccer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to make",
+            "to read",
+            "subject",
+            "to play"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "The young artist plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S02-Q06",
+          "stageId": "EN-L10-C06-S02",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘to play’이면 O, 아니면 X를 고르세요: The soccer player plans to play soccer in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 to play입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player plans to play soccer in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S03-Q01",
+          "stageId": "EN-L10-C06-S03",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 1번: The young artist plans ___ the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to studie",
+            "to open",
+            "subject",
+            "to find"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "The young artist plans to find the answer after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S03-Q02",
+          "stageId": "EN-L10-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 2번: The soccer player plans ___ the answer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "subject",
+            "to find",
+            "to studie"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "The soccer player plans to find the answer after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S03-Q03",
+          "stageId": "EN-L10-C06-S03",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 3번: 핵심 구조가 ‘to studie’이면 O, 아니면 X를 고르세요: The new student plans to find the answer after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 to find입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student plans to find the answer after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S03-Q04",
+          "stageId": "EN-L10-C06-S03",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina plans to read books before lunch.",
+            "lunch before books read to plans Mina.",
+            "plans to read books before lunch Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina plans to read books before lunch.",
+          "explanation": "바른 어순은 “Mina plans to read books before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina plans to read books before lunch.",
+            "Mina plans to read books before lunch"
+          ],
+          "exampleSentence": "Mina plans to read books before lunch.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S03-Q05",
+          "stageId": "EN-L10-C06-S03",
+          "type": "matching",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 5번: Tom plans ___ books before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to studie",
+            "to carrie",
+            "subject",
+            "to read"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to read입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "Tom plans to read books before lunch.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S03-Q06",
+          "stageId": "EN-L10-C06-S03",
+          "type": "fillBlank",
+          "prompt": "혼합 가정법: 문법 구조 분석 · 6번: My brother plans ___ books before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "subject",
+            "to read",
+            "to studie"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to read입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "My brother plans to read books before lunch.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S04-Q01",
+          "stageId": "EN-L10-C06-S04",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 1번: Tom plans ___ the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to make",
+            "to write",
+            "subject",
+            "to open"
+          ],
+          "correctAnswer": "to open",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to open입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to open",
+            "to open"
+          ],
+          "exampleSentence": "Tom plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S04-Q02",
+          "stageId": "EN-L10-C06-S04",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plans to open the window at the community center My.",
+            "subject",
+            "My brother plans to open the window at the community center.",
+            "center community the at window the open to plans brother My."
+          ],
+          "correctAnswer": "My brother plans to open the window at the community center.",
+          "explanation": "바른 어순은 “My brother plans to open the window at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plans to open the window at the community center.",
+            "My brother plans to open the window at the community center"
+          ],
+          "exampleSentence": "My brother plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S04-Q03",
+          "stageId": "EN-L10-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 3번: The student plans ___ the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "to open",
+            "to find",
+            "to write"
+          ],
+          "correctAnswer": "to open",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to open입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to open",
+            "to open"
+          ],
+          "exampleSentence": "The student plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S04-Q04",
+          "stageId": "EN-L10-C06-S04",
+          "type": "fillBlank",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 4번: Our teacher plans ___ the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to open",
+            "to find",
+            "to write",
+            "subject"
+          ],
+          "correctAnswer": "to open",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to open입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to open",
+            "to open"
+          ],
+          "exampleSentence": "Our teacher plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S04-Q05",
+          "stageId": "EN-L10-C06-S04",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 5번: 핵심 구조가 ‘to find’이면 O, 아니면 X를 고르세요: The young artist plans to open the window at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 to open입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S04-Q06",
+          "stageId": "EN-L10-C06-S04",
+          "type": "matching",
+          "prompt": "혼합 가정법: 문장 분석 연습 · 6번: The soccer player plans ___ the window at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to studie",
+            "subject",
+            "to open",
+            "to find"
+          ],
+          "correctAnswer": "to open",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to open입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to open",
+            "to open"
+          ],
+          "exampleSentence": "The soccer player plans to open the window at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S05-Q01",
+          "stageId": "EN-L10-C06-S05",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 1번: “The young artist plans to read books on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "The young artist plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S05-Q02",
+          "stageId": "EN-L10-C06-S05",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 2번: The soccer player plans ___ books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to make",
+            "subject",
+            "to read",
+            "to play"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to read입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "The soccer player plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S05-Q03",
+          "stageId": "EN-L10-C06-S05",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 3번: 핵심 구조가 ‘to play’이면 O, 아니면 X를 고르세요: The new student plans to read books on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 to read입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S05-Q04",
+          "stageId": "EN-L10-C06-S05",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 4번: Mina plans ___ short notes on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "to play",
+            "to make",
+            "to read"
+          ],
+          "correctAnswer": "to write",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to write입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to write",
+            "to write"
+          ],
+          "exampleSentence": "Mina plans to write short notes on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S05-Q05",
+          "stageId": "EN-L10-C06-S05",
+          "type": "matching",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 5번: Tom plans ___ short notes on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to play",
+            "to make",
+            "subject",
+            "to write"
+          ],
+          "correctAnswer": "to write",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to write입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to write",
+            "to write"
+          ],
+          "exampleSentence": "Tom plans to write short notes on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S05-Q06",
+          "stageId": "EN-L10-C06-S05",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plans to write short notes on Saturday morning My.",
+            "subject",
+            "My brother plans to write short notes on Saturday morning.",
+            "morning Saturday on notes short write to plans brother My."
+          ],
+          "correctAnswer": "My brother plans to write short notes on Saturday morning.",
+          "explanation": "바른 어순은 “My brother plans to write short notes on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plans to write short notes on Saturday morning.",
+            "My brother plans to write short notes on Saturday morning"
+          ],
+          "exampleSentence": "My brother plans to write short notes on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S06-Q01",
+          "stageId": "EN-L10-C06-S06",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 구문독해 적용 · 1번: “Tom plans to carrie a blue bag near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "Tom plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S06-Q02",
+          "stageId": "EN-L10-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 구문독해 적용 · 2번: My brother plans ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to studie",
+            "subject",
+            "to carrie",
+            "to find"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "My brother plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S06-Q03",
+          "stageId": "EN-L10-C06-S06",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 구문독해 적용 · 3번: 핵심 구조가 ‘to read’이면 O, 아니면 X를 고르세요: The student plans to carrie a blue bag near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 to carrie입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S06-Q04",
+          "stageId": "EN-L10-C06-S06",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 구문독해 적용 · 4번: Our teacher plans ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "to read",
+            "to studie",
+            "subject"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "Our teacher plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S06-Q05",
+          "stageId": "EN-L10-C06-S06",
+          "type": "matching",
+          "prompt": "혼합 가정법: 구문독해 적용 · 5번: The young artist plans ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to read",
+            "to studie",
+            "subject",
+            "to carrie"
+          ],
+          "correctAnswer": "to carrie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to carrie입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to carrie",
+            "to carrie"
+          ],
+          "exampleSentence": "The young artist plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S06-Q06",
+          "stageId": "EN-L10-C06-S06",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player plans to carrie a blue bag near the school The.",
+            "subject",
+            "The soccer player plans to carrie a blue bag near the school.",
+            "school the near bag blue a carrie to plans player soccer The."
+          ],
+          "correctAnswer": "The soccer player plans to carrie a blue bag near the school.",
+          "explanation": "바른 어순은 “The soccer player plans to carrie a blue bag near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player plans to carrie a blue bag near the school.",
+            "The soccer player plans to carrie a blue bag near the school"
+          ],
+          "exampleSentence": "The soccer player plans to carrie a blue bag near the school.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S07-Q01",
+          "stageId": "EN-L10-C06-S07",
+          "type": "listeningChoice",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother plans to open the window near the school.",
+            "The new student plans to make a simple plan during study time.",
+            "Our teacher plans to write short notes at the community center.",
+            "The young artist plans to write short notes in the library."
+          ],
+          "correctAnswer": "The young artist plans to write short notes in the library.",
+          "explanation": "들은 문장은 “The young artist plans to write short notes in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist plans to write short notes in the library.",
+          "acceptedAnswers": [
+            "The young artist plans to write short notes in the library."
+          ],
+          "exampleSentence": "The young artist plans to write short notes in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S07-Q02",
+          "stageId": "EN-L10-C06-S07",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 2번: The soccer player plans ___ short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to find",
+            "subject",
+            "to write",
+            "to open"
+          ],
+          "correctAnswer": "to write",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to write입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to write",
+            "to write"
+          ],
+          "exampleSentence": "The soccer player plans to write short notes in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S07-Q03",
+          "stageId": "EN-L10-C06-S07",
+          "type": "listeningChoice",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player plans to write short notes at the community center.",
+            "The new student plans to write short notes in the library.",
+            "Our teacher plans to open the window near the school.",
+            "Tom plans to find the answer during study time."
+          ],
+          "correctAnswer": "The new student plans to write short notes in the library.",
+          "explanation": "들은 문장은 “The new student plans to write short notes in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student plans to write short notes in the library.",
+          "acceptedAnswers": [
+            "The new student plans to write short notes in the library."
+          ],
+          "exampleSentence": "The new student plans to write short notes in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S07-Q04",
+          "stageId": "EN-L10-C06-S07",
+          "type": "dictation",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina plans to studie English in the library.",
+          "explanation": "바른 문장은 “Mina plans to studie English in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina plans to studie English in the library.",
+          "acceptedAnswers": [
+            "Mina plans to studie English in the library.",
+            "Mina plans to studie English in the library"
+          ],
+          "exampleSentence": "Mina plans to studie English in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S07-Q05",
+          "stageId": "EN-L10-C06-S07",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘to open’이면 O, 아니면 X를 고르세요: Tom plans to studie English in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 to studie입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom plans to studie English in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S07-Q06",
+          "stageId": "EN-L10-C06-S07",
+          "type": "matching",
+          "prompt": "혼합 가정법: 핵심 정보 듣기 · 6번: My brother plans ___ English in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to find",
+            "subject",
+            "to studie",
+            "to open"
+          ],
+          "correctAnswer": "to studie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to studie입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to studie",
+            "to studie"
+          ],
+          "exampleSentence": "My brother plans to studie English in the library.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S08-Q01",
+          "stageId": "EN-L10-C06-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "혼합 가정법: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom plans to make a simple plan after class.",
+          "explanation": "“Tom plans to make a simple plan after class.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom plans to make a simple plan after class.",
+          "acceptedAnswers": [
+            "Tom plans to make a simple plan after class.",
+            "Tom plans to make a simple plan after class"
+          ],
+          "exampleSentence": "Tom plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S08-Q02",
+          "stageId": "EN-L10-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 근거 설명하기 · 2번: My brother plans ___ a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to play",
+            "subject",
+            "to make",
+            "to read"
+          ],
+          "correctAnswer": "to make",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to make입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to make",
+            "to make"
+          ],
+          "exampleSentence": "My brother plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S08-Q03",
+          "stageId": "EN-L10-C06-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "혼합 가정법: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student plans to make a simple plan after class.",
+          "explanation": "“The student plans to make a simple plan after class.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student plans to make a simple plan after class.",
+          "acceptedAnswers": [
+            "The student plans to make a simple plan after class.",
+            "The student plans to make a simple plan after class"
+          ],
+          "exampleSentence": "The student plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S08-Q04",
+          "stageId": "EN-L10-C06-S08",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 근거 설명하기 · 4번: “Our teacher plans to make a simple plan after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞으로 하려는 목적이나 계획을 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "Our teacher plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S08-Q05",
+          "stageId": "EN-L10-C06-S08",
+          "type": "matching",
+          "prompt": "혼합 가정법: 근거 설명하기 · 5번: The young artist plans ___ a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "to play",
+            "subject",
+            "to make"
+          ],
+          "correctAnswer": "to make",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to make입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to make",
+            "to make"
+          ],
+          "exampleSentence": "The young artist plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S08-Q06",
+          "stageId": "EN-L10-C06-S08",
+          "type": "trueFalse",
+          "prompt": "혼합 가정법: 근거 설명하기 · 6번: 핵심 구조가 ‘to make’이면 O, 아니면 X를 고르세요: The soccer player plans to make a simple plan after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 to make입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player plans to make a simple plan after class.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S09-Q01",
+          "stageId": "EN-L10-C06-S09",
+          "type": "fillBlank",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 1번: The young artist plans ___ English at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "to find",
+            "subject",
+            "to studie"
+          ],
+          "correctAnswer": "to studie",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to studie입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to studie",
+            "to studie"
+          ],
+          "exampleSentence": "The young artist plans to studie English at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S09-Q02",
+          "stageId": "EN-L10-C06-S09",
+          "type": "dictation",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player plans to studie English at the community center.",
+          "explanation": "바른 문장은 “The soccer player plans to studie English at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player plans to studie English at the community center.",
+          "acceptedAnswers": [
+            "The soccer player plans to studie English at the community center.",
+            "The soccer player plans to studie English at the community center"
+          ],
+          "exampleSentence": "The soccer player plans to studie English at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S09-Q03",
+          "stageId": "EN-L10-C06-S09",
+          "type": "ordering",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student plans to studie English at the community center.",
+            "center community the at English studie to plans student new The.",
+            "new student plans to studie English at the community center The."
+          ],
+          "correctAnswer": "The new student plans to studie English at the community center.",
+          "explanation": "바른 어순은 “The new student plans to studie English at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student plans to studie English at the community center.",
+            "The new student plans to studie English at the community center"
+          ],
+          "exampleSentence": "The new student plans to studie English at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S09-Q04",
+          "stageId": "EN-L10-C06-S09",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 4번: Mina plans ___ soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to play",
+            "to carrie",
+            "to read",
+            "to studie"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "Mina plans to play soccer at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S09-Q05",
+          "stageId": "EN-L10-C06-S09",
+          "type": "fillBlank",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 5번: Tom plans ___ soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "to read",
+            "subject",
+            "to play"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "Tom plans to play soccer at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S09-Q06",
+          "stageId": "EN-L10-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 논리 문장 쓰기 · 6번: My brother plans ___ soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to read",
+            "subject",
+            "to play",
+            "to carrie"
+          ],
+          "correctAnswer": "to play",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to play입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to play",
+            "to play"
+          ],
+          "exampleSentence": "My brother plans to play soccer at the community center.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C06-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C06-S10-Q01",
+          "stageId": "EN-L10-C06-S10",
+          "type": "reviewMixed",
+          "prompt": "혼합 가정법: 과정 평가 · 1번: Tom plans ___ the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to write",
+            "to open",
+            "subject",
+            "to find"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "Tom plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q02",
+          "stageId": "EN-L10-C06-S10",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 과정 평가 · 2번: My brother plans ___ the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to open",
+            "subject",
+            "to find",
+            "to write"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "My brother plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q03",
+          "stageId": "EN-L10-C06-S10",
+          "type": "listeningChoice",
+          "prompt": "혼합 가정법: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother plans to find the answer at home.",
+            "The student plans to find the answer during study time.",
+            "Mina plans to studie English at the community center.",
+            "The young artist plans to open the window after class."
+          ],
+          "correctAnswer": "The student plans to find the answer during study time.",
+          "explanation": "들은 문장은 “The student plans to find the answer during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student plans to find the answer during study time.",
+          "acceptedAnswers": [
+            "The student plans to find the answer during study time."
+          ],
+          "exampleSentence": "The student plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q04",
+          "stageId": "EN-L10-C06-S10",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 과정 평가 · 4번: Our teacher plans ___ the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to find",
+            "to studie",
+            "to open",
+            "subject"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "Our teacher plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q05",
+          "stageId": "EN-L10-C06-S10",
+          "type": "dictation",
+          "prompt": "혼합 가정법: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist plans to find the answer during study time.",
+          "explanation": "바른 문장은 “The young artist plans to find the answer during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist plans to find the answer during study time.",
+          "acceptedAnswers": [
+            "The young artist plans to find the answer during study time.",
+            "The young artist plans to find the answer during study time"
+          ],
+          "exampleSentence": "The young artist plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q06",
+          "stageId": "EN-L10-C06-S10",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 과정 평가 · 6번: “The soccer player plans to find the answer during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "앞으로 하려는 목적이나 계획을 나타낸다.",
+            "subject"
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "The soccer player plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q07",
+          "stageId": "EN-L10-C06-S10",
+          "type": "reviewMixed",
+          "prompt": "혼합 가정법: 과정 평가 · 7번: The new student plans ___ the answer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "to find",
+            "to studie",
+            "to carrie"
+          ],
+          "correctAnswer": "to find",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to find입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to find",
+            "to find"
+          ],
+          "exampleSentence": "The new student plans to find the answer during study time.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q08",
+          "stageId": "EN-L10-C06-S10",
+          "type": "multipleChoice",
+          "prompt": "혼합 가정법: 과정 평가 · 8번: Mina plans ___ books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to read",
+            "to studie",
+            "to carrie",
+            "to find"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to read입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "Mina plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q09",
+          "stageId": "EN-L10-C06-S10",
+          "type": "listeningChoice",
+          "prompt": "혼합 가정법: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player plans to studie English at the community center.",
+            "The student plans to carrie a blue bag after class.",
+            "Mina plans to read books in the library.",
+            "Tom plans to read books on Saturday morning."
+          ],
+          "correctAnswer": "Tom plans to read books on Saturday morning.",
+          "explanation": "들은 문장은 “Tom plans to read books on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom plans to read books on Saturday morning.",
+          "acceptedAnswers": [
+            "Tom plans to read books on Saturday morning."
+          ],
+          "exampleSentence": "Tom plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q10",
+          "stageId": "EN-L10-C06-S10",
+          "type": "sentenceCompletion",
+          "prompt": "혼합 가정법: 과정 평가 · 10번: My brother plans ___ books on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "to carrie",
+            "subject",
+            "to read",
+            "to studie"
+          ],
+          "correctAnswer": "to read",
+          "explanation": "부정사 기초 문맥에 맞는 답은 to read입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to read",
+            "to read"
+          ],
+          "exampleSentence": "My brother plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q11",
+          "stageId": "EN-L10-C06-S10",
+          "type": "dictation",
+          "prompt": "혼합 가정법: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student plans to read books on Saturday morning.",
+          "explanation": "바른 문장은 “The student plans to read books on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student plans to read books on Saturday morning.",
+          "acceptedAnswers": [
+            "The student plans to read books on Saturday morning.",
+            "The student plans to read books on Saturday morning"
+          ],
+          "exampleSentence": "The student plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        },
+        {
+          "questionId": "EN-L10-C06-S10-Q12",
+          "stageId": "EN-L10-C06-S10",
+          "type": "sentenceMeaning",
+          "prompt": "혼합 가정법: 과정 평가 · 12번: “Our teacher plans to read books on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞으로 하려는 목적이나 계획을 나타낸다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞으로 하려는 목적이나 계획을 나타낸다.",
+          "explanation": "핵심 의미는 ‘앞으로 하려는 목적이나 계획을 나타낸다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "부정사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "혼합 가정법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞으로 하려는 목적이나 계획을 나타낸다."
+          ],
+          "exampleSentence": "Our teacher plans to read books on Saturday morning.",
+          "koreanMeaning": "앞으로 하려는 목적이나 계획을 나타낸다."
+        }
+      ]
+    }
+  ]
+}

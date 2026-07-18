@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C01",
+  "stages": [
+    {
+      "stageId": "EN-L05-C01-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S01-Q01",
+          "stageId": "EN-L05-C01-S01",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 핵심 표현 이해 · 1번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "is running",
+            "am reading"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S01-Q02",
+          "stageId": "EN-L05-C01-S01",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 핵심 표현 이해 · 2번: 핵심 표현이 ‘is cooking’이면 O, 아니면 X를 고르세요: She is cooking.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 is cooking이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S01-Q03",
+          "stageId": "EN-L05-C01-S01",
+          "type": "matching",
+          "prompt": "현재진행형: 핵심 표현 이해 · 3번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is running",
+            "are playing",
+            "am reading",
+            "is cooking"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S01-Q04",
+          "stageId": "EN-L05-C01-S01",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 핵심 표현 이해 · 4번: “He is running.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 지금 달리고 있다.",
+            "나는 지금 읽고 있다.",
+            "그녀는 지금 요리하고 있다.",
+            "그들은 지금 놀고 있다."
+          ],
+          "correctAnswer": "그는 지금 달리고 있다.",
+          "explanation": "뜻은 ‘그는 지금 달리고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 지금 달리고 있다."
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S01-Q05",
+          "stageId": "EN-L05-C01-S01",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 핵심 표현 이해 · 5번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "are playing",
+            "are studying"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S01-Q06",
+          "stageId": "EN-L05-C01-S01",
+          "type": "ordering",
+          "prompt": "현재진행형: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "am reading I.",
+            "is",
+            "I am reading.",
+            "reading am I."
+          ],
+          "correctAnswer": "I am reading.",
+          "explanation": "바른 어순은 “I am reading.”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I am reading.",
+            "I am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S02-Q01",
+          "stageId": "EN-L05-C01-S02",
+          "type": "matching",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 1번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "are playing",
+            "is running"
+          ],
+          "correctAnswer": "is running",
+          "explanation": "현재진행형에 맞는 표현은 is running입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is running",
+            "is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S02-Q02",
+          "stageId": "EN-L05-C01-S02",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 2번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "are studying",
+            "am reading"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S02-Q03",
+          "stageId": "EN-L05-C01-S02",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 3번: “I am reading.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 지금 달리고 있다.",
+            "나는 지금 읽고 있다.",
+            "그녀는 지금 요리하고 있다.",
+            "그들은 지금 놀고 있다."
+          ],
+          "correctAnswer": "나는 지금 읽고 있다.",
+          "explanation": "뜻은 ‘나는 지금 읽고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 지금 읽고 있다."
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S02-Q04",
+          "stageId": "EN-L05-C01-S02",
+          "type": "fillBlank",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 4번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "am reading",
+            "are playing",
+            "is running"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S02-Q05",
+          "stageId": "EN-L05-C01-S02",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 5번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "is running",
+            "are playing"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S02-Q06",
+          "stageId": "EN-L05-C01-S02",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘is running’이면 O, 아니면 X를 고르세요: He is running.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 is running이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S03-Q01",
+          "stageId": "EN-L05-C01-S03",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 문장 구조 발견 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "are playing",
+            "is running",
+            "is cooking"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S03-Q02",
+          "stageId": "EN-L05-C01-S03",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 문장 구조 발견 · 2번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "is running",
+            "are playing",
+            "am reading"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S03-Q03",
+          "stageId": "EN-L05-C01-S03",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 문장 구조 발견 · 3번: 핵심 표현이 ‘am reading’이면 O, 아니면 X를 고르세요: He is running.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 is running이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S03-Q04",
+          "stageId": "EN-L05-C01-S03",
+          "type": "ordering",
+          "prompt": "현재진행형: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "We are studying.",
+            "studying are We.",
+            "are studying We.",
+            "is"
+          ],
+          "correctAnswer": "We are studying.",
+          "explanation": "바른 어순은 “We are studying.”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We are studying.",
+            "We are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S03-Q05",
+          "stageId": "EN-L05-C01-S03",
+          "type": "matching",
+          "prompt": "현재진행형: 문장 구조 발견 · 5번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "is running",
+            "am reading"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S03-Q06",
+          "stageId": "EN-L05-C01-S03",
+          "type": "fillBlank",
+          "prompt": "현재진행형: 문장 구조 발견 · 6번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "is running",
+            "is cooking",
+            "am reading"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S04-Q01",
+          "stageId": "EN-L05-C01-S04",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 짧은 문장 연습 · 1번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "are playing",
+            "are studying"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S04-Q02",
+          "stageId": "EN-L05-C01-S04",
+          "type": "ordering",
+          "prompt": "현재진행형: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "am reading I.",
+            "is",
+            "I am reading.",
+            "reading am I."
+          ],
+          "correctAnswer": "I am reading.",
+          "explanation": "바른 어순은 “I am reading.”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I am reading.",
+            "I am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S04-Q03",
+          "stageId": "EN-L05-C01-S04",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 짧은 문장 연습 · 3번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is running",
+            "is cooking",
+            "am reading",
+            "are playing"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S04-Q04",
+          "stageId": "EN-L05-C01-S04",
+          "type": "fillBlank",
+          "prompt": "현재진행형: 짧은 문장 연습 · 4번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "am reading",
+            "is cooking",
+            "is running"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S04-Q05",
+          "stageId": "EN-L05-C01-S04",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 짧은 문장 연습 · 5번: 핵심 표현이 ‘am reading’이면 O, 아니면 X를 고르세요: He is running.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 is running이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S04-Q06",
+          "stageId": "EN-L05-C01-S04",
+          "type": "matching",
+          "prompt": "현재진행형: 짧은 문장 연습 · 6번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "are studying",
+            "am reading"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S05-Q01",
+          "stageId": "EN-L05-C01-S05",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 짧은 글 읽기 · 1번: “They are playing.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 지금 읽고 있다.",
+            "그녀는 지금 요리하고 있다.",
+            "그는 지금 달리고 있다.",
+            "그들은 지금 놀고 있다."
+          ],
+          "correctAnswer": "그들은 지금 놀고 있다.",
+          "explanation": "뜻은 ‘그들은 지금 놀고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 지금 놀고 있다."
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S05-Q02",
+          "stageId": "EN-L05-C01-S05",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 짧은 글 읽기 · 2번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "is running",
+            "am reading"
+          ],
+          "correctAnswer": "is running",
+          "explanation": "현재진행형에 맞는 표현은 is running입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is running",
+            "is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S05-Q03",
+          "stageId": "EN-L05-C01-S05",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 짧은 글 읽기 · 3번: 핵심 표현이 ‘am reading’이면 O, 아니면 X를 고르세요: We are studying.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 are studying이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S05-Q04",
+          "stageId": "EN-L05-C01-S05",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 짧은 글 읽기 · 4번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "are playing",
+            "is running"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S05-Q05",
+          "stageId": "EN-L05-C01-S05",
+          "type": "matching",
+          "prompt": "현재진행형: 짧은 글 읽기 · 5번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "are playing",
+            "is running",
+            "is cooking"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S05-Q06",
+          "stageId": "EN-L05-C01-S05",
+          "type": "ordering",
+          "prompt": "현재진행형: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "are playing They.",
+            "is",
+            "They are playing.",
+            "playing are They."
+          ],
+          "correctAnswer": "They are playing.",
+          "explanation": "바른 어순은 “They are playing.”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They are playing.",
+            "They are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S06-Q01",
+          "stageId": "EN-L05-C01-S06",
+          "type": "listeningChoice",
+          "prompt": "현재진행형: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "She is cooking.",
+            "They are playing.",
+            "He is running.",
+            "I am reading."
+          ],
+          "correctAnswer": "I am reading.",
+          "explanation": "들은 문장은 “I am reading.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I am reading.",
+          "acceptedAnswers": [
+            "I am reading."
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S06-Q02",
+          "stageId": "EN-L05-C01-S06",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 생활 대화 듣기 · 2번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "is running",
+            "is cooking",
+            "am reading"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S06-Q03",
+          "stageId": "EN-L05-C01-S06",
+          "type": "listeningChoice",
+          "prompt": "현재진행형: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He is running.",
+            "They are playing.",
+            "I am reading.",
+            "She is cooking."
+          ],
+          "correctAnswer": "They are playing.",
+          "explanation": "들은 문장은 “They are playing.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They are playing.",
+          "acceptedAnswers": [
+            "They are playing."
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S06-Q04",
+          "stageId": "EN-L05-C01-S06",
+          "type": "dictation",
+          "prompt": "현재진행형: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He is running.",
+          "explanation": "바른 문장은 “He is running.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He is running.",
+          "acceptedAnswers": [
+            "He is running.",
+            "He is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S06-Q05",
+          "stageId": "EN-L05-C01-S06",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 생활 대화 듣기 · 5번: 핵심 표현이 ‘am reading’이면 O, 아니면 X를 고르세요: We are studying.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 are studying이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S06-Q06",
+          "stageId": "EN-L05-C01-S06",
+          "type": "matching",
+          "prompt": "현재진행형: 생활 대화 듣기 · 6번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "is running",
+            "am reading",
+            "is cooking"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S07-Q01",
+          "stageId": "EN-L05-C01-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "현재진행형: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "He is running.",
+          "explanation": "“He is running.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "He is running.",
+          "acceptedAnswers": [
+            "He is running.",
+            "He is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S07-Q02",
+          "stageId": "EN-L05-C01-S07",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 표현 말하기 · 2번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "are studying",
+            "am reading"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S07-Q03",
+          "stageId": "EN-L05-C01-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "현재진행형: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I am reading.",
+          "explanation": "“I am reading.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I am reading.",
+          "acceptedAnswers": [
+            "I am reading.",
+            "I am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S07-Q04",
+          "stageId": "EN-L05-C01-S07",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 표현 말하기 · 4번: “She is cooking.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 지금 요리하고 있다.",
+            "나는 지금 읽고 있다.",
+            "그들은 지금 놀고 있다.",
+            "그는 지금 달리고 있다."
+          ],
+          "correctAnswer": "그녀는 지금 요리하고 있다.",
+          "explanation": "뜻은 ‘그녀는 지금 요리하고 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 지금 요리하고 있다."
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S07-Q05",
+          "stageId": "EN-L05-C01-S07",
+          "type": "matching",
+          "prompt": "현재진행형: 표현 말하기 · 5번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "is running",
+            "are playing"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S07-Q06",
+          "stageId": "EN-L05-C01-S07",
+          "type": "trueFalse",
+          "prompt": "현재진행형: 표현 말하기 · 6번: 핵심 표현이 ‘is running’이면 O, 아니면 X를 고르세요: He is running.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 is running이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S08-Q01",
+          "stageId": "EN-L05-C01-S08",
+          "type": "fillBlank",
+          "prompt": "현재진행형: 문장 쓰기 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "are playing",
+            "is running",
+            "is cooking"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S08-Q02",
+          "stageId": "EN-L05-C01-S08",
+          "type": "dictation",
+          "prompt": "현재진행형: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They are playing.",
+          "explanation": "바른 문장은 “They are playing.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They are playing.",
+          "acceptedAnswers": [
+            "They are playing.",
+            "They are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S08-Q03",
+          "stageId": "EN-L05-C01-S08",
+          "type": "ordering",
+          "prompt": "현재진행형: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "He is running.",
+            "running is He.",
+            "is running He."
+          ],
+          "correctAnswer": "He is running.",
+          "explanation": "바른 어순은 “He is running.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He is running.",
+            "He is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S08-Q04",
+          "stageId": "EN-L05-C01-S08",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 문장 쓰기 · 4번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are studying",
+            "am reading",
+            "is cooking",
+            "are playing"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S08-Q05",
+          "stageId": "EN-L05-C01-S08",
+          "type": "fillBlank",
+          "prompt": "현재진행형: 문장 쓰기 · 5번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "is running",
+            "am reading"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S08-Q06",
+          "stageId": "EN-L05-C01-S08",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 문장 쓰기 · 6번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "is running",
+            "is cooking",
+            "am reading"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C01-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C01-S09-Q01",
+          "stageId": "EN-L05-C01-S09",
+          "type": "reviewMixed",
+          "prompt": "현재진행형: 과정 평가 · 1번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "am reading",
+            "is cooking",
+            "are playing",
+            "are studying"
+          ],
+          "correctAnswer": "are studying",
+          "explanation": "현재진행형에 맞는 표현은 are studying입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are studying",
+            "are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q02",
+          "stageId": "EN-L05-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 과정 평가 · 2번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "is running",
+            "am reading",
+            "is cooking"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q03",
+          "stageId": "EN-L05-C01-S09",
+          "type": "listeningChoice",
+          "prompt": "현재진행형: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He is running.",
+            "She is cooking.",
+            "I am reading.",
+            "They are playing."
+          ],
+          "correctAnswer": "She is cooking.",
+          "explanation": "들은 문장은 “She is cooking.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She is cooking.",
+          "acceptedAnswers": [
+            "She is cooking."
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q04",
+          "stageId": "EN-L05-C01-S09",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 과정 평가 · 4번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are playing",
+            "am reading",
+            "is cooking",
+            "is running"
+          ],
+          "correctAnswer": "are playing",
+          "explanation": "현재진행형에 맞는 표현은 are playing입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "are playing",
+            "are playing"
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q05",
+          "stageId": "EN-L05-C01-S09",
+          "type": "dictation",
+          "prompt": "현재진행형: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He is running.",
+          "explanation": "바른 문장은 “He is running.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He is running.",
+          "acceptedAnswers": [
+            "He is running.",
+            "He is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q06",
+          "stageId": "EN-L05-C01-S09",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 과정 평가 · 6번: “We are studying.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 지금 요리하고 있다.",
+            "그들은 지금 놀고 있다.",
+            "우리는 지금 공부하고 있다.",
+            "나는 지금 읽고 있다."
+          ],
+          "correctAnswer": "우리는 지금 공부하고 있다.",
+          "explanation": "뜻은 ‘우리는 지금 공부하고 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 지금 공부하고 있다."
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q07",
+          "stageId": "EN-L05-C01-S09",
+          "type": "reviewMixed",
+          "prompt": "현재진행형: 과정 평가 · 7번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is running",
+            "am reading",
+            "is cooking",
+            "are playing"
+          ],
+          "correctAnswer": "am reading",
+          "explanation": "현재진행형에 맞는 표현은 am reading입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "am reading",
+            "am reading"
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q08",
+          "stageId": "EN-L05-C01-S09",
+          "type": "multipleChoice",
+          "prompt": "현재진행형: 과정 평가 · 8번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "am reading",
+            "are playing",
+            "is running"
+          ],
+          "correctAnswer": "is cooking",
+          "explanation": "현재진행형에 맞는 표현은 is cooking입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is cooking",
+            "is cooking"
+          ],
+          "exampleSentence": "She is cooking.",
+          "koreanMeaning": "그녀는 지금 요리하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q09",
+          "stageId": "EN-L05-C01-S09",
+          "type": "listeningChoice",
+          "prompt": "현재진행형: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I am reading.",
+            "She is cooking.",
+            "He is running.",
+            "They are playing."
+          ],
+          "correctAnswer": "They are playing.",
+          "explanation": "들은 문장은 “They are playing.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They are playing.",
+          "acceptedAnswers": [
+            "They are playing."
+          ],
+          "exampleSentence": "They are playing.",
+          "koreanMeaning": "그들은 지금 놀고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q10",
+          "stageId": "EN-L05-C01-S09",
+          "type": "sentenceCompletion",
+          "prompt": "현재진행형: 과정 평가 · 10번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is cooking",
+            "are playing",
+            "is running",
+            "am reading"
+          ],
+          "correctAnswer": "is running",
+          "explanation": "현재진행형에 맞는 표현은 is running입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is running",
+            "is running"
+          ],
+          "exampleSentence": "He is running.",
+          "koreanMeaning": "그는 지금 달리고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q11",
+          "stageId": "EN-L05-C01-S09",
+          "type": "dictation",
+          "prompt": "현재진행형: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We are studying.",
+          "explanation": "바른 문장은 “We are studying.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We are studying.",
+          "acceptedAnswers": [
+            "We are studying.",
+            "We are studying"
+          ],
+          "exampleSentence": "We are studying.",
+          "koreanMeaning": "우리는 지금 공부하고 있다."
+        },
+        {
+          "questionId": "EN-L05-C01-S09-Q12",
+          "stageId": "EN-L05-C01-S09",
+          "type": "sentenceMeaning",
+          "prompt": "현재진행형: 과정 평가 · 12번: “I am reading.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 지금 읽고 있다.",
+            "그녀는 지금 요리하고 있다.",
+            "그들은 지금 놀고 있다.",
+            "그는 지금 달리고 있다."
+          ],
+          "correctAnswer": "나는 지금 읽고 있다.",
+          "explanation": "뜻은 ‘나는 지금 읽고 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "현재진행형",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "현재진행형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 지금 읽고 있다."
+          ],
+          "exampleSentence": "I am reading.",
+          "koreanMeaning": "나는 지금 읽고 있다."
+        }
+      ]
+    }
+  ]
+}

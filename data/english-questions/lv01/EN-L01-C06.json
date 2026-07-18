@@ -1,0 +1,1343 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L01",
+  "courseId": "EN-L01-C06",
+  "stages": [
+    {
+      "stageId": "EN-L01-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S01-Q01",
+          "stageId": "EN-L01-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "D-F-E",
+            "E-D-F",
+            "F-E-D",
+            "D-E-F"
+          ],
+          "correctAnswer": "D-E-F",
+          "explanation": "D, E, F 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "D-E-F",
+            "DEF"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S01-Q02",
+          "stageId": "EN-L01-C06-S01",
+          "type": "trueFalse",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "F-E-G",
+            "G-F-E",
+            "E-F-G",
+            "E-G-F"
+          ],
+          "correctAnswer": "E-F-G",
+          "explanation": "E, F, G 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E-F-G",
+            "EFG"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S01-Q03",
+          "stageId": "EN-L01-C06-S01",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "H-G-F",
+            "F-G-H",
+            "F-H-G",
+            "G-F-H"
+          ],
+          "correctAnswer": "F-G-H",
+          "explanation": "F, G, H 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "F-G-H",
+            "FGH"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S01-Q04",
+          "stageId": "EN-L01-C06-S01",
+          "type": "fillBlank",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "G-H-I",
+            "G-I-H",
+            "H-G-I",
+            "I-H-G"
+          ],
+          "correctAnswer": "G-H-I",
+          "explanation": "G, H, I 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "G-H-I",
+            "GHI"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S01-Q05",
+          "stageId": "EN-L01-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "H-J-I",
+            "I-H-J",
+            "J-I-H",
+            "H-I-J"
+          ],
+          "correctAnswer": "H-I-J",
+          "explanation": "H, I, J 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "H-I-J",
+            "HIJ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S01-Q06",
+          "stageId": "EN-L01-C06-S01",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자와 소리 발견 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "J-I-K",
+            "K-J-I",
+            "I-J-K",
+            "I-K-J"
+          ],
+          "correctAnswer": "I-J-K",
+          "explanation": "I, J, K 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I-J-K",
+            "IJK"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S02-Q01",
+          "stageId": "EN-L01-C06-S02",
+          "type": "matching",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "F-H-G",
+            "G-F-H",
+            "H-G-F",
+            "F-G-H"
+          ],
+          "correctAnswer": "F-G-H",
+          "explanation": "F, G, H 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "F-G-H",
+            "FGH"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S02-Q02",
+          "stageId": "EN-L01-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "H-G-I",
+            "I-H-G",
+            "G-H-I",
+            "G-I-H"
+          ],
+          "correctAnswer": "G-H-I",
+          "explanation": "G, H, I 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "G-H-I",
+            "GHI"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S02-Q03",
+          "stageId": "EN-L01-C06-S02",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "J-I-H",
+            "H-I-J",
+            "H-J-I",
+            "I-H-J"
+          ],
+          "correctAnswer": "H-I-J",
+          "explanation": "H, I, J 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "H-I-J",
+            "HIJ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S02-Q04",
+          "stageId": "EN-L01-C06-S02",
+          "type": "trueFalse",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "I-J-K",
+            "I-K-J",
+            "J-I-K",
+            "K-J-I"
+          ],
+          "correctAnswer": "I-J-K",
+          "explanation": "I, J, K 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I-J-K",
+            "IJK"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S02-Q05",
+          "stageId": "EN-L01-C06-S02",
+          "type": "matching",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "J-L-K",
+            "K-J-L",
+            "L-K-J",
+            "J-K-L"
+          ],
+          "correctAnswer": "J-K-L",
+          "explanation": "J, K, L 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "J-K-L",
+            "JKL"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S02-Q06",
+          "stageId": "EN-L01-C06-S02",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 핵심 글자·철자 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-K-M",
+            "M-L-K",
+            "K-L-M",
+            "K-M-L"
+          ],
+          "correctAnswer": "K-L-M",
+          "explanation": "K, L, M 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "K-L-M",
+            "KLM"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S03-Q01",
+          "stageId": "EN-L01-C06-S03",
+          "type": "listeningChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "H-J-I",
+            "I-H-J",
+            "J-I-H",
+            "H-I-J"
+          ],
+          "correctAnswer": "H-I-J",
+          "explanation": "H, I, J 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "H-I-J",
+            "HIJ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S03-Q02",
+          "stageId": "EN-L01-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "J-I-K",
+            "K-J-I",
+            "I-J-K",
+            "I-K-J"
+          ],
+          "correctAnswer": "I-J-K",
+          "explanation": "I, J, K 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I-J-K",
+            "IJK"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S03-Q03",
+          "stageId": "EN-L01-C06-S03",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-K-J",
+            "J-K-L",
+            "J-L-K",
+            "K-J-L"
+          ],
+          "correctAnswer": "J-K-L",
+          "explanation": "J, K, L 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "J-K-L",
+            "JKL"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S03-Q04",
+          "stageId": "EN-L01-C06-S03",
+          "type": "listeningChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "K-L-M",
+            "K-M-L",
+            "L-K-M",
+            "M-L-K"
+          ],
+          "correctAnswer": "K-L-M",
+          "explanation": "K, L, M 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "K-L-M",
+            "KLM"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S03-Q05",
+          "stageId": "EN-L01-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-N-M",
+            "M-L-N",
+            "N-M-L",
+            "L-M-N"
+          ],
+          "correctAnswer": "L-M-N",
+          "explanation": "L, M, N 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L-M-N",
+            "LMN"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S03-Q06",
+          "stageId": "EN-L01-C06-S03",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 음가 듣고 구별하기 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "N-M-O",
+            "O-N-M",
+            "M-N-O",
+            "M-O-N"
+          ],
+          "correctAnswer": "M-N-O",
+          "explanation": "M, N, O 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "M-N-O",
+            "MNO"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S04-Q01",
+          "stageId": "EN-L01-C06-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "J-L-K",
+            "K-J-L",
+            "L-K-J",
+            "J-K-L"
+          ],
+          "correctAnswer": "J-K-L",
+          "explanation": "J, K, L 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "J-K-L",
+            "JKL"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S04-Q02",
+          "stageId": "EN-L01-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-K-M",
+            "M-L-K",
+            "K-L-M",
+            "K-M-L"
+          ],
+          "correctAnswer": "K-L-M",
+          "explanation": "K, L, M 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "K-L-M",
+            "KLM"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S04-Q03",
+          "stageId": "EN-L01-C06-S04",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "N-M-L",
+            "L-M-N",
+            "L-N-M",
+            "M-L-N"
+          ],
+          "correctAnswer": "L-M-N",
+          "explanation": "L, M, N 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L-M-N",
+            "LMN"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S04-Q04",
+          "stageId": "EN-L01-C06-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "M-N-O",
+            "M-O-N",
+            "N-M-O",
+            "O-N-M"
+          ],
+          "correctAnswer": "M-N-O",
+          "explanation": "M, N, O 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "M-N-O",
+            "MNO"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S04-Q05",
+          "stageId": "EN-L01-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "N-P-O",
+            "O-N-P",
+            "P-O-N",
+            "N-O-P"
+          ],
+          "correctAnswer": "N-O-P",
+          "explanation": "N, O, P 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N-O-P",
+            "NOP"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S04-Q06",
+          "stageId": "EN-L01-C06-S04",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 소리 내어 따라 읽기 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-O-Q",
+            "Q-P-O",
+            "O-P-Q",
+            "O-Q-P"
+          ],
+          "correctAnswer": "O-P-Q",
+          "explanation": "O, P, Q 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O-P-Q",
+            "OPQ"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S05-Q01",
+          "stageId": "EN-L01-C06-S05",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-N-M",
+            "M-L-N",
+            "N-M-L",
+            "L-M-N"
+          ],
+          "correctAnswer": "L-M-N",
+          "explanation": "L, M, N 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L-M-N",
+            "LMN"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S05-Q02",
+          "stageId": "EN-L01-C06-S05",
+          "type": "fillBlank",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "N-M-O",
+            "O-N-M",
+            "M-N-O",
+            "M-O-N"
+          ],
+          "correctAnswer": "M-N-O",
+          "explanation": "M, N, O 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "M-N-O",
+            "MNO"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S05-Q03",
+          "stageId": "EN-L01-C06-S05",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-O-N",
+            "N-O-P",
+            "N-P-O",
+            "O-N-P"
+          ],
+          "correctAnswer": "N-O-P",
+          "explanation": "N, O, P 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N-O-P",
+            "NOP"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S05-Q04",
+          "stageId": "EN-L01-C06-S05",
+          "type": "matching",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "O-P-Q",
+            "O-Q-P",
+            "P-O-Q",
+            "Q-P-O"
+          ],
+          "correctAnswer": "O-P-Q",
+          "explanation": "O, P, Q 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O-P-Q",
+            "OPQ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S05-Q05",
+          "stageId": "EN-L01-C06-S05",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-R-Q",
+            "Q-P-R",
+            "R-Q-P",
+            "P-Q-R"
+          ],
+          "correctAnswer": "P-Q-R",
+          "explanation": "P, Q, R 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P-Q-R",
+            "PQR"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S05-Q06",
+          "stageId": "EN-L01-C06-S05",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 문자 인식 연습 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "R-Q-S",
+            "S-R-Q",
+            "Q-R-S",
+            "Q-S-R"
+          ],
+          "correctAnswer": "Q-R-S",
+          "explanation": "Q, R, S 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Q-R-S",
+            "QRS"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S06-Q01",
+          "stageId": "EN-L01-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "N-P-O",
+            "O-N-P",
+            "P-O-N",
+            "N-O-P"
+          ],
+          "correctAnswer": "N-O-P",
+          "explanation": "N, O, P 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "N-O-P",
+            "NOP"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S06-Q02",
+          "stageId": "EN-L01-C06-S06",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-O-Q",
+            "Q-P-O",
+            "O-P-Q",
+            "O-Q-P"
+          ],
+          "correctAnswer": "O-P-Q",
+          "explanation": "O, P, Q 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O-P-Q",
+            "OPQ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S06-Q03",
+          "stageId": "EN-L01-C06-S06",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "R-Q-P",
+            "P-Q-R",
+            "P-R-Q",
+            "Q-P-R"
+          ],
+          "correctAnswer": "P-Q-R",
+          "explanation": "P, Q, R 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P-Q-R",
+            "PQR"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S06-Q04",
+          "stageId": "EN-L01-C06-S06",
+          "type": "trueFalse",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "Q-R-S",
+            "Q-S-R",
+            "R-Q-S",
+            "S-R-Q"
+          ],
+          "correctAnswer": "Q-R-S",
+          "explanation": "Q, R, S 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Q-R-S",
+            "QRS"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S06-Q05",
+          "stageId": "EN-L01-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "R-T-S",
+            "S-R-T",
+            "T-S-R",
+            "R-S-T"
+          ],
+          "correctAnswer": "R-S-T",
+          "explanation": "R, S, T 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R-S-T",
+            "RST"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S06-Q06",
+          "stageId": "EN-L01-C06-S06",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 단어 읽기 적용 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-S-U",
+            "U-T-S",
+            "S-T-U",
+            "S-U-T"
+          ],
+          "correctAnswer": "S-T-U",
+          "explanation": "S, T, U 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S-T-U",
+            "STU"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S07-Q01",
+          "stageId": "EN-L01-C06-S07",
+          "type": "spelling",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-R-Q",
+            "Q-P-R",
+            "R-Q-P",
+            "P-Q-R"
+          ],
+          "correctAnswer": "P-Q-R",
+          "explanation": "P, Q, R 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P-Q-R",
+            "PQR"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S07-Q02",
+          "stageId": "EN-L01-C06-S07",
+          "type": "fillBlank",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "R-Q-S",
+            "S-R-Q",
+            "Q-R-S",
+            "Q-S-R"
+          ],
+          "correctAnswer": "Q-R-S",
+          "explanation": "Q, R, S 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Q-R-S",
+            "QRS"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S07-Q03",
+          "stageId": "EN-L01-C06-S07",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-S-R",
+            "R-S-T",
+            "R-T-S",
+            "S-R-T"
+          ],
+          "correctAnswer": "R-S-T",
+          "explanation": "R, S, T 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R-S-T",
+            "RST"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S07-Q04",
+          "stageId": "EN-L01-C06-S07",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "S-T-U",
+            "S-U-T",
+            "T-S-U",
+            "U-T-S"
+          ],
+          "correctAnswer": "S-T-U",
+          "explanation": "S, T, U 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S-T-U",
+            "STU"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S07-Q05",
+          "stageId": "EN-L01-C06-S07",
+          "type": "spelling",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-V-U",
+            "U-T-V",
+            "V-U-T",
+            "T-U-V"
+          ],
+          "correctAnswer": "T-U-V",
+          "explanation": "T, U, V 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T-U-V",
+            "TUV"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S07-Q06",
+          "stageId": "EN-L01-C06-S07",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 철자와 받아쓰기 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "V-U-W",
+            "W-V-U",
+            "U-V-W",
+            "U-W-V"
+          ],
+          "correctAnswer": "U-V-W",
+          "explanation": "U, V, W 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U-V-W",
+            "UVW"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L01-C06-S08-Q01",
+          "stageId": "EN-L01-C06-S08",
+          "type": "reviewMixed",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "R-T-S",
+            "S-R-T",
+            "T-S-R",
+            "R-S-T"
+          ],
+          "correctAnswer": "R-S-T",
+          "explanation": "R, S, T 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "R-S-T",
+            "RST"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q02",
+          "stageId": "EN-L01-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-S-U",
+            "U-T-S",
+            "S-T-U",
+            "S-U-T"
+          ],
+          "correctAnswer": "S-T-U",
+          "explanation": "S, T, U 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S-T-U",
+            "STU"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q03",
+          "stageId": "EN-L01-C06-S08",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "V-U-T",
+            "T-U-V",
+            "T-V-U",
+            "U-T-V"
+          ],
+          "correctAnswer": "T-U-V",
+          "explanation": "T, U, V 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T-U-V",
+            "TUV"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q04",
+          "stageId": "EN-L01-C06-S08",
+          "type": "listeningChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 4번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "U-V-W",
+            "U-W-V",
+            "V-U-W",
+            "W-V-U"
+          ],
+          "correctAnswer": "U-V-W",
+          "explanation": "U, V, W 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U-V-W",
+            "UVW"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q05",
+          "stageId": "EN-L01-C06-S08",
+          "type": "spelling",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "V-X-W",
+            "W-V-X",
+            "X-W-V",
+            "V-W-X"
+          ],
+          "correctAnswer": "V-W-X",
+          "explanation": "V, W, X 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "V-W-X",
+            "VWX"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q06",
+          "stageId": "EN-L01-C06-S08",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "X-W-Y",
+            "Y-X-W",
+            "W-X-Y",
+            "W-Y-X"
+          ],
+          "correctAnswer": "W-X-Y",
+          "explanation": "W, X, Y 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "W-X-Y",
+            "WXY"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q07",
+          "stageId": "EN-L01-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 7번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "C-B-A",
+            "A-B-C",
+            "A-C-B",
+            "B-A-C"
+          ],
+          "correctAnswer": "A-B-C",
+          "explanation": "A, B, C 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A-B-C",
+            "ABC"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q08",
+          "stageId": "EN-L01-C06-S08",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 8번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "B-C-D",
+            "B-D-C",
+            "C-B-D",
+            "D-C-B"
+          ],
+          "correctAnswer": "B-C-D",
+          "explanation": "B, C, D 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "B-C-D",
+            "BCD"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q09",
+          "stageId": "EN-L01-C06-S08",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 9번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "C-E-D",
+            "D-C-E",
+            "E-D-C",
+            "C-D-E"
+          ],
+          "correctAnswer": "C-D-E",
+          "explanation": "C, D, E 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "C-D-E",
+            "CDE"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q10",
+          "stageId": "EN-L01-C06-S08",
+          "type": "spelling",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 10번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "E-D-F",
+            "F-E-D",
+            "D-E-F",
+            "D-F-E"
+          ],
+          "correctAnswer": "D-E-F",
+          "explanation": "D, E, F 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "D-E-F",
+            "DEF"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q11",
+          "stageId": "EN-L01-C06-S08",
+          "type": "reviewMixed",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 11번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "G-F-E",
+            "E-F-G",
+            "E-G-F",
+            "F-E-G"
+          ],
+          "correctAnswer": "E-F-G",
+          "explanation": "E, F, G 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E-F-G",
+            "EFG"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C06-S08-Q12",
+          "stageId": "EN-L01-C06-S08",
+          "type": "ordering",
+          "prompt": "알파벳 순서와 이웃 글자: 과정 평가 · 12번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "F-G-H",
+            "F-H-G",
+            "G-F-H",
+            "H-G-F"
+          ],
+          "correctAnswer": "F-G-H",
+          "explanation": "F, G, H 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "알파벳 순서와 이웃 글자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "F-G-H",
+            "FGH"
+          ]
+        }
+      ]
+    }
+  ]
+}

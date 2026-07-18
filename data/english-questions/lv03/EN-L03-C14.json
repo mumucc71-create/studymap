@@ -1,0 +1,2075 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C14",
+  "stages": [
+    {
+      "stageId": "EN-L03-C14-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S01-Q01",
+          "stageId": "EN-L03-C14-S01",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 1번: ‘엄마’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "brother",
+            "mother"
+          ],
+          "correctAnswer": "mother",
+          "explanation": "‘엄마’은 영어로 mother입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mother",
+            "MOTHER"
+          ],
+          "koreanMeaning": "엄마",
+          "exampleSentence": "This is my mother."
+        },
+        {
+          "questionId": "EN-L03-C14-S01-Q02",
+          "stageId": "EN-L03-C14-S01",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 2번: “I see two.”에서 two의 뜻을 고르세요.",
+          "choices": [
+            "셋",
+            "넷",
+            "둘",
+            "하나"
+          ],
+          "correctAnswer": "둘",
+          "explanation": "two은 ‘둘’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "둘"
+          ],
+          "koreanMeaning": "둘",
+          "exampleSentence": "I see two."
+        },
+        {
+          "questionId": "EN-L03-C14-S01-Q03",
+          "stageId": "EN-L03-C14-S01",
+          "type": "trueFalse",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 3번: green의 뜻이 ‘빨간색’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "green의 뜻은 ‘초록색’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "초록색",
+          "exampleSentence": "It is green."
+        },
+        {
+          "questionId": "EN-L03-C14-S01-Q04",
+          "stageId": "EN-L03-C14-S01",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 4번: leg과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "다리",
+            "머리",
+            "손",
+            "팔"
+          ],
+          "correctAnswer": "다리",
+          "explanation": "leg은 ‘다리’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "다리"
+          ],
+          "koreanMeaning": "다리",
+          "exampleSentence": "I have a leg."
+        },
+        {
+          "questionId": "EN-L03-C14-S01-Q05",
+          "stageId": "EN-L03-C14-S01",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 5번: I like ___. 빈칸에 ‘달걀’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "egg"
+          ],
+          "correctAnswer": "egg",
+          "explanation": "문맥과 뜻에 맞는 단어는 egg입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C14-S01-Q06",
+          "stageId": "EN-L03-C14-S01",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 핵심 표현 이해 · 6번: door을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "집",
+          "explanation": "door은 집 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "집"
+          ],
+          "koreanMeaning": "문",
+          "exampleSentence": "I see a door."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S02-Q01",
+          "stageId": "EN-L03-C14-S02",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 1번: desk과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "집",
+            "방",
+            "침대",
+            "책상"
+          ],
+          "correctAnswer": "책상",
+          "explanation": "desk은 ‘책상’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "책상"
+          ],
+          "koreanMeaning": "책상",
+          "exampleSentence": "I see a desk."
+        },
+        {
+          "questionId": "EN-L03-C14-S02-Q02",
+          "stageId": "EN-L03-C14-S02",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 2번: ‘펜’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "pen",
+            "school"
+          ],
+          "correctAnswer": "pen",
+          "explanation": "‘펜’은 영어로 pen입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C14-S02-Q03",
+          "stageId": "EN-L03-C14-S02",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 3번: frog을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "동물과 자연",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "동물과 자연",
+          "explanation": "frog은 동물과 자연 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동물과 자연"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C14-S02-Q04",
+          "stageId": "EN-L03-C14-S02",
+          "type": "spelling",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 4번: _pring에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "spring의 빠진 글자는 s입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C14-S02-Q05",
+          "stageId": "EN-L03-C14-S02",
+          "type": "wordBuilding",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘손목시계’을 만드세요.",
+          "choices": [
+            "hctaw",
+            "atchw",
+            "watc",
+            "watch"
+          ],
+          "correctAnswer": "watch",
+          "explanation": "바른 철자는 watch입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watch",
+            "WATCH"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        },
+        {
+          "questionId": "EN-L03-C14-S02-Q06",
+          "stageId": "EN-L03-C14-S02",
+          "type": "fillBlank",
+          "prompt": "생활 어휘 누적 복습: 생활 어휘 문맥 학습 · 6번: _raw에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "draw의 빠진 글자는 d입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "그림 그리기",
+          "exampleSentence": "I like to draw."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S03-Q01",
+          "stageId": "EN-L03-C14-S03",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 1번: I like ___. 빈칸에 ‘자전거’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "soccer",
+            "baseball",
+            "tennis",
+            "bike"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "문맥과 뜻에 맞는 단어는 bike입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I like bike."
+        },
+        {
+          "questionId": "EN-L03-C14-S03-Q02",
+          "stageId": "EN-L03-C14-S03",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 2번: ‘자다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "sleep",
+            "wake"
+          ],
+          "correctAnswer": "sleep",
+          "explanation": "‘자다’은 영어로 sleep입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sleep",
+            "SLEEP"
+          ],
+          "koreanMeaning": "자다",
+          "exampleSentence": "I sleep in the morning."
+        },
+        {
+          "questionId": "EN-L03-C14-S03-Q03",
+          "stageId": "EN-L03-C14-S03",
+          "type": "trueFalse",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 3번: here의 뜻이 ‘공원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "here의 뜻은 ‘여기’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        },
+        {
+          "questionId": "EN-L03-C14-S03-Q04",
+          "stageId": "EN-L03-C14-S03",
+          "type": "ordering",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I see my family.",
+            "family my see I.",
+            "see my family I."
+          ],
+          "correctAnswer": "I see my family.",
+          "explanation": "바른 어순은 “I see my family.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see my family.",
+            "I see my family"
+          ],
+          "koreanMeaning": "가족",
+          "exampleSentence": "I see my family."
+        },
+        {
+          "questionId": "EN-L03-C14-S03-Q05",
+          "stageId": "EN-L03-C14-S03",
+          "type": "fillBlank",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 5번: on_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "one의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "하나",
+          "exampleSentence": "I am one."
+        },
+        {
+          "questionId": "EN-L03-C14-S03-Q06",
+          "stageId": "EN-L03-C14-S03",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 문장 구조 발견 · 6번: blue과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "초록색",
+            "노란색",
+            "파란색",
+            "빨간색"
+          ],
+          "correctAnswer": "파란색",
+          "explanation": "blue은 ‘파란색’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "파란색"
+          ],
+          "koreanMeaning": "파란색",
+          "exampleSentence": "I see blue."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S04-Q01",
+          "stageId": "EN-L03-C14-S04",
+          "type": "wordBuilding",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘큰’을 만드세요.",
+          "choices": [
+            "gib",
+            "igb",
+            "bi",
+            "big"
+          ],
+          "correctAnswer": "big",
+          "explanation": "바른 철자는 big입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "big",
+            "BIG"
+          ],
+          "koreanMeaning": "큰",
+          "exampleSentence": "I see big."
+        },
+        {
+          "questionId": "EN-L03-C14-S04-Q02",
+          "stageId": "EN-L03-C14-S04",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 2번: This is my ___. 빈칸에 ‘머리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "arm",
+            "leg",
+            "head",
+            "hand"
+          ],
+          "correctAnswer": "head",
+          "explanation": "문맥과 뜻에 맞는 단어는 head입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "head",
+            "HEAD"
+          ],
+          "koreanMeaning": "머리",
+          "exampleSentence": "This is my head."
+        },
+        {
+          "questionId": "EN-L03-C14-S04-Q03",
+          "stageId": "EN-L03-C14-S04",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 3번: ‘바나나’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rice",
+            "banana",
+            "apple",
+            "bread"
+          ],
+          "correctAnswer": "banana",
+          "explanation": "‘바나나’은 영어로 banana입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "banana",
+            "BANANA"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C14-S04-Q04",
+          "stageId": "EN-L03-C14-S04",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 4번: bed을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "신체",
+            "음식과 음료",
+            "학교"
+          ],
+          "correctAnswer": "집",
+          "explanation": "bed은 집 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "집"
+          ],
+          "koreanMeaning": "침대",
+          "exampleSentence": "There is a bed."
+        },
+        {
+          "questionId": "EN-L03-C14-S04-Q05",
+          "stageId": "EN-L03-C14-S04",
+          "type": "ordering",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "pencil a have I.",
+            "have a pencil I.",
+            "I have a pencil."
+          ],
+          "correctAnswer": "I have a pencil.",
+          "explanation": "바른 어순은 “I have a pencil.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a pencil.",
+            "I have a pencil"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C14-S04-Q06",
+          "stageId": "EN-L03-C14-S04",
+          "type": "fillBlank",
+          "prompt": "생활 어휘 누적 복습: 짧은 문장 연습 · 6번: du_k에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "duck의 빠진 글자는 c입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S05-Q01",
+          "stageId": "EN-L03-C14-S05",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 1번: “I see a bird.”에서 bird의 뜻을 고르세요.",
+          "choices": [
+            "고양이",
+            "개",
+            "토끼",
+            "새"
+          ],
+          "correctAnswer": "새",
+          "explanation": "bird은 ‘새’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "새"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C14-S05-Q02",
+          "stageId": "EN-L03-C14-S05",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 2번: ‘바람 부는’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "windy",
+            "sunny"
+          ],
+          "correctAnswer": "windy",
+          "explanation": "‘바람 부는’은 영어로 windy입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "windy",
+            "WINDY"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C14-S05-Q03",
+          "stageId": "EN-L03-C14-S05",
+          "type": "trueFalse",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 3번: hat의 뜻이 ‘셔츠’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "hat의 뜻은 ‘모자’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C14-S05-Q04",
+          "stageId": "EN-L03-C14-S05",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 4번: I have ___. 빈칸에 ‘게임’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "game",
+            "soccer",
+            "baseball",
+            "tennis"
+          ],
+          "correctAnswer": "game",
+          "explanation": "문맥과 뜻에 맞는 단어는 game입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ],
+          "koreanMeaning": "게임",
+          "exampleSentence": "I have game."
+        },
+        {
+          "questionId": "EN-L03-C14-S05-Q05",
+          "stageId": "EN-L03-C14-S05",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 5번: walk과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "일어나다",
+            "씻다",
+            "먹다",
+            "걷다"
+          ],
+          "correctAnswer": "걷다",
+          "explanation": "walk은 ‘걷다’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "걷다"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I walk."
+        },
+        {
+          "questionId": "EN-L03-C14-S05-Q06",
+          "stageId": "EN-L03-C14-S05",
+          "type": "ordering",
+          "prompt": "생활 어휘 누적 복습: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "like to walk I.",
+            "I like to walk.",
+            "walk to like I."
+          ],
+          "correctAnswer": "I like to walk.",
+          "explanation": "바른 어순은 “I like to walk.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I like to walk.",
+            "I like to walk"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S06-Q01",
+          "stageId": "EN-L03-C14-S06",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "car"
+          ],
+          "correctAnswer": "car",
+          "explanation": "음성의 핵심 단어는 car입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "car",
+          "acceptedAnswers": [
+            "car"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C14-S06-Q02",
+          "stageId": "EN-L03-C14-S06",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 2번: ‘선생님’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "father",
+            "sister",
+            "teacher",
+            "mother"
+          ],
+          "correctAnswer": "teacher",
+          "explanation": "‘선생님’은 영어로 teacher입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "teacher",
+            "TEACHER"
+          ],
+          "koreanMeaning": "선생님",
+          "exampleSentence": "This is my teacher."
+        },
+        {
+          "questionId": "EN-L03-C14-S06-Q03",
+          "stageId": "EN-L03-C14-S06",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "three",
+            "eight",
+            "one",
+            "two"
+          ],
+          "correctAnswer": "eight",
+          "explanation": "음성의 핵심 단어는 eight입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "eight",
+          "acceptedAnswers": [
+            "eight"
+          ],
+          "koreanMeaning": "여덟",
+          "exampleSentence": "I see eight."
+        },
+        {
+          "questionId": "EN-L03-C14-S06-Q04",
+          "stageId": "EN-L03-C14-S06",
+          "type": "dictation",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "star",
+          "explanation": "별 모양은 영어로 star입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "star",
+          "acceptedAnswers": [
+            "star",
+            "STAR"
+          ],
+          "koreanMeaning": "별 모양",
+          "exampleSentence": "It is a star."
+        },
+        {
+          "questionId": "EN-L03-C14-S06-Q05",
+          "stageId": "EN-L03-C14-S06",
+          "type": "trueFalse",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 5번: well의 뜻이 ‘머리’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "well의 뜻은 ‘건강한’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "건강한",
+          "exampleSentence": "You are well."
+        },
+        {
+          "questionId": "EN-L03-C14-S06-Q06",
+          "stageId": "EN-L03-C14-S06",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 생활 대화 듣기 · 6번: apple과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빵",
+            "밥",
+            "사과",
+            "바나나"
+          ],
+          "correctAnswer": "사과",
+          "explanation": "apple은 ‘사과’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "사과"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S07-Q01",
+          "stageId": "EN-L03-C14-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like cake.",
+          "explanation": "I like cake.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like cake.",
+          "acceptedAnswers": [
+            "I like cake.",
+            "I like cake"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        },
+        {
+          "questionId": "EN-L03-C14-S07-Q02",
+          "stageId": "EN-L03-C14-S07",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 2번: ‘전등’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "room",
+            "bed",
+            "lamp",
+            "home"
+          ],
+          "correctAnswer": "lamp",
+          "explanation": "‘전등’은 영어로 lamp입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lamp",
+            "LAMP"
+          ],
+          "koreanMeaning": "전등",
+          "exampleSentence": "I see a lamp."
+        },
+        {
+          "questionId": "EN-L03-C14-S07-Q03",
+          "stageId": "EN-L03-C14-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my school.",
+          "explanation": "This is my school.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my school.",
+          "acceptedAnswers": [
+            "This is my school.",
+            "This is my school"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C14-S07-Q04",
+          "stageId": "EN-L03-C14-S07",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 4번: “It is a dog.”에서 dog의 뜻을 고르세요.",
+          "choices": [
+            "개",
+            "고양이",
+            "새",
+            "토끼"
+          ],
+          "correctAnswer": "개",
+          "explanation": "dog은 ‘개’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C14-S07-Q05",
+          "stageId": "EN-L03-C14-S07",
+          "type": "matching",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 5번: cloudy과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "화창한",
+            "비 오는",
+            "바람 부는",
+            "흐린"
+          ],
+          "correctAnswer": "흐린",
+          "explanation": "cloudy은 ‘흐린’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "흐린"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C14-S07-Q06",
+          "stageId": "EN-L03-C14-S07",
+          "type": "trueFalse",
+          "prompt": "생활 어휘 누적 복습: 표현 말하기 · 6번: shoes의 뜻이 ‘신발’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "shoes의 뜻은 ‘신발’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S08-Q01",
+          "stageId": "EN-L03-C14-S08",
+          "type": "spelling",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 1번: pant_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "pants의 빠진 글자는 s입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C14-S08-Q02",
+          "stageId": "EN-L03-C14-S08",
+          "type": "fillBlank",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 2번: tenn_s에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "tennis의 빠진 글자는 i입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ],
+          "koreanMeaning": "테니스",
+          "exampleSentence": "I like tennis."
+        },
+        {
+          "questionId": "EN-L03-C14-S08-Q03",
+          "stageId": "EN-L03-C14-S08",
+          "type": "dictation",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "study",
+          "explanation": "공부하다은 영어로 study입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "study",
+          "acceptedAnswers": [
+            "study",
+            "STUDY"
+          ],
+          "koreanMeaning": "공부하다",
+          "exampleSentence": "I study in the morning."
+        },
+        {
+          "questionId": "EN-L03-C14-S08-Q04",
+          "stageId": "EN-L03-C14-S08",
+          "type": "wordBuilding",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘버스’을 만드세요.",
+          "choices": [
+            "bus",
+            "sub",
+            "usb",
+            "bu"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "바른 철자는 bus입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C14-S08-Q05",
+          "stageId": "EN-L03-C14-S08",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 5번: I see my ___. 빈칸에 ‘친구’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "mother",
+            "father",
+            "sister",
+            "friend"
+          ],
+          "correctAnswer": "friend",
+          "explanation": "문맥과 뜻에 맞는 단어는 friend입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "friend",
+            "FRIEND"
+          ],
+          "koreanMeaning": "친구",
+          "exampleSentence": "I see my friend."
+        },
+        {
+          "questionId": "EN-L03-C14-S08-Q06",
+          "stageId": "EN-L03-C14-S08",
+          "type": "ordering",
+          "prompt": "생활 어휘 누적 복습: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "am seven I.",
+            "I am seven.",
+            "seven am I."
+          ],
+          "correctAnswer": "I am seven.",
+          "explanation": "바른 어순은 “I am seven.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I am seven.",
+            "I am seven"
+          ],
+          "koreanMeaning": "일곱",
+          "exampleSentence": "I am seven."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S09-Q01",
+          "stageId": "EN-L03-C14-S09",
+          "type": "wordBuilding",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 1번: 글자를 바르게 배열해 ‘다섯’을 만드세요.",
+          "choices": [
+            "evif",
+            "ivef",
+            "fiv",
+            "five"
+          ],
+          "correctAnswer": "five",
+          "explanation": "바른 철자는 five입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ],
+          "koreanMeaning": "다섯",
+          "exampleSentence": "I am five."
+        },
+        {
+          "questionId": "EN-L03-C14-S09-Q02",
+          "stageId": "EN-L03-C14-S09",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 2번: I see ___. 빈칸에 ‘흰색’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "blue",
+            "green",
+            "white",
+            "red"
+          ],
+          "correctAnswer": "white",
+          "explanation": "문맥과 뜻에 맞는 단어는 white입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "white",
+            "WHITE"
+          ],
+          "koreanMeaning": "흰색",
+          "exampleSentence": "I see white."
+        },
+        {
+          "questionId": "EN-L03-C14-S09-Q03",
+          "stageId": "EN-L03-C14-S09",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 3번: ‘코’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "arm",
+            "nose",
+            "head",
+            "hand"
+          ],
+          "correctAnswer": "nose",
+          "explanation": "‘코’은 영어로 nose입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nose",
+            "NOSE"
+          ],
+          "koreanMeaning": "코",
+          "exampleSentence": "This is my nose."
+        },
+        {
+          "questionId": "EN-L03-C14-S09-Q04",
+          "stageId": "EN-L03-C14-S09",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 4번: juice을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "신체",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "음식과 음료",
+          "explanation": "juice은 음식과 음료 범주의 단어입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음식과 음료"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        },
+        {
+          "questionId": "EN-L03-C14-S09-Q05",
+          "stageId": "EN-L03-C14-S09",
+          "type": "ordering",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "bathroom a is There.",
+            "is a bathroom There.",
+            "There is a bathroom."
+          ],
+          "correctAnswer": "There is a bathroom.",
+          "explanation": "바른 어순은 “There is a bathroom.”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "There is a bathroom.",
+            "There is a bathroom"
+          ],
+          "koreanMeaning": "화장실",
+          "exampleSentence": "There is a bathroom."
+        },
+        {
+          "questionId": "EN-L03-C14-S09-Q06",
+          "stageId": "EN-L03-C14-S09",
+          "type": "fillBlank",
+          "prompt": "생활 어휘 누적 복습: 네 기능 혼합 연습 · 6번: _oard에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "b",
+          "explanation": "board의 빠진 글자는 b입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 네 기능 혼합 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "b",
+            "B"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S10",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S10-Q01",
+          "stageId": "EN-L03-C14-S10",
+          "type": "reviewMixed",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 1번: ‘지우개’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "eraser"
+          ],
+          "correctAnswer": "eraser",
+          "explanation": "‘지우개’은 영어로 eraser입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eraser",
+            "ERASER"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q02",
+          "stageId": "EN-L03-C14-S10",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 2번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "sun",
+            "cat"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "음성의 핵심 단어는 sun입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I see a sun.",
+          "acceptedAnswers": [
+            "sun"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q03",
+          "stageId": "EN-L03-C14-S10",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 3번: “It is winter.”에서 winter의 뜻을 고르세요.",
+          "choices": [
+            "흐린",
+            "겨울",
+            "화창한",
+            "비 오는"
+          ],
+          "correctAnswer": "겨울",
+          "explanation": "winter은 ‘겨울’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "겨울"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q04",
+          "stageId": "EN-L03-C14-S10",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 4번: shirt을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "옷과 소지품",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "옷과 소지품",
+          "explanation": "shirt은 옷과 소지품 범주의 단어입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "옷과 소지품"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q05",
+          "stageId": "EN-L03-C14-S10",
+          "type": "dictation",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "baseball",
+          "explanation": "야구은 영어로 baseball입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "놀이와 취미",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "baseball",
+          "acceptedAnswers": [
+            "baseball",
+            "BASEBALL"
+          ],
+          "koreanMeaning": "야구",
+          "exampleSentence": "I have baseball."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q06",
+          "stageId": "EN-L03-C14-S10",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 6번: I ___. 빈칸에 ‘먹다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "study",
+            "eat",
+            "wake"
+          ],
+          "correctAnswer": "eat",
+          "explanation": "문맥과 뜻에 맞는 단어는 eat입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eat",
+            "EAT"
+          ],
+          "koreanMeaning": "먹다",
+          "exampleSentence": "I eat."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q07",
+          "stageId": "EN-L03-C14-S10",
+          "type": "reviewMixed",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 7번: ‘병원’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "library",
+            "hospital",
+            "park",
+            "store"
+          ],
+          "correctAnswer": "hospital",
+          "explanation": "‘병원’은 영어로 hospital입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hospital",
+            "HOSPITAL"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q08",
+          "stageId": "EN-L03-C14-S10",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 8번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "baby",
+            "mother",
+            "father",
+            "sister"
+          ],
+          "correctAnswer": "baby",
+          "explanation": "음성의 핵심 단어는 baby입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This is my baby.",
+          "acceptedAnswers": [
+            "baby"
+          ],
+          "koreanMeaning": "아기",
+          "exampleSentence": "This is my baby."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q09",
+          "stageId": "EN-L03-C14-S10",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 9번: “I see six.”에서 six의 뜻을 고르세요.",
+          "choices": [
+            "하나",
+            "둘",
+            "셋",
+            "여섯"
+          ],
+          "correctAnswer": "여섯",
+          "explanation": "six은 ‘여섯’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "여섯"
+          ],
+          "koreanMeaning": "여섯",
+          "exampleSentence": "I see six."
+        },
+        {
+          "questionId": "EN-L03-C14-S10-Q10",
+          "stageId": "EN-L03-C14-S10",
+          "type": "categorization",
+          "prompt": "생활 어휘 누적 복습: 누적 복습 · 10번: circle을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "하루 일과",
+            "장소와 이동",
+            "색과 모양",
+            "놀이와 취미"
+          ],
+          "correctAnswer": "색과 모양",
+          "explanation": "circle은 색과 모양 범주의 단어입니다.",
+          "difficulty": 4,
+          "skill": "review",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 누적 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "색과 모양"
+          ],
+          "koreanMeaning": "원",
+          "exampleSentence": "It is a circle."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C14-S11",
+      "questions": [
+        {
+          "questionId": "EN-L03-C14-S11-Q01",
+          "stageId": "EN-L03-C14-S11",
+          "type": "reviewMixed",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 1번: ‘일어나다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "wash",
+            "eat",
+            "study",
+            "wake"
+          ],
+          "correctAnswer": "wake",
+          "explanation": "‘일어나다’은 영어로 wake입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "하루 일과",
+          "grammarFocus": "I + 기본 동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wake",
+            "WAKE"
+          ],
+          "koreanMeaning": "일어나다",
+          "exampleSentence": "I wake."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q02",
+          "stageId": "EN-L03-C14-S11",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 2번: ‘가게’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "library",
+            "hospital",
+            "store",
+            "park"
+          ],
+          "correctAnswer": "store",
+          "explanation": "‘가게’은 영어로 store입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "store",
+            "STORE"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q03",
+          "stageId": "EN-L03-C14-S11",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "brother",
+            "sister",
+            "mother",
+            "father"
+          ],
+          "correctAnswer": "sister",
+          "explanation": "음성의 핵심 단어는 sister입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "가족과 사람",
+          "grammarFocus": "주어 + be동사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sister",
+          "acceptedAnswers": [
+            "sister"
+          ],
+          "koreanMeaning": "여자 형제",
+          "exampleSentence": "This is my sister."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q04",
+          "stageId": "EN-L03-C14-S11",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 4번: I see ___. 빈칸에 ‘넷’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "four",
+            "one",
+            "two",
+            "three"
+          ],
+          "correctAnswer": "four",
+          "explanation": "문맥과 뜻에 맞는 단어는 four입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "숫자와 나이",
+          "grammarFocus": "I am + 숫자",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "four",
+            "FOUR"
+          ],
+          "koreanMeaning": "넷",
+          "exampleSentence": "I see four."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q05",
+          "stageId": "EN-L03-C14-S11",
+          "type": "dictation",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "black",
+          "explanation": "검은색은 영어로 black입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "색과 모양",
+          "grammarFocus": "It is + 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "black",
+          "acceptedAnswers": [
+            "black",
+            "BLACK"
+          ],
+          "koreanMeaning": "검은색",
+          "exampleSentence": "It is black."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q06",
+          "stageId": "EN-L03-C14-S11",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 6번: “I have an ear.”에서 ear의 뜻을 고르세요.",
+          "choices": [
+            "손",
+            "팔",
+            "귀",
+            "머리"
+          ],
+          "correctAnswer": "귀",
+          "explanation": "ear은 ‘귀’이라는 뜻입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "몸과 건강",
+          "grammarFocus": "I have + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "귀"
+          ],
+          "koreanMeaning": "귀",
+          "exampleSentence": "I have an ear."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q07",
+          "stageId": "EN-L03-C14-S11",
+          "type": "reviewMixed",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 7번: ‘물’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "bread",
+            "water",
+            "apple",
+            "banana"
+          ],
+          "correctAnswer": "water",
+          "explanation": "‘물’은 영어로 water입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "water",
+            "WATER"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q08",
+          "stageId": "EN-L03-C14-S11",
+          "type": "multipleChoice",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 8번: ‘부엌’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "kitchen",
+            "home",
+            "room",
+            "bed"
+          ],
+          "correctAnswer": "kitchen",
+          "explanation": "‘부엌’은 영어로 kitchen입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "집과 방",
+          "grammarFocus": "There is + 단수 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "kitchen",
+            "KITCHEN"
+          ],
+          "koreanMeaning": "부엌",
+          "exampleSentence": "I see a kitchen."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q09",
+          "stageId": "EN-L03-C14-S11",
+          "type": "listeningChoice",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "paper"
+          ],
+          "correctAnswer": "paper",
+          "explanation": "음성의 핵심 단어는 paper입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "paper",
+          "acceptedAnswers": [
+            "paper"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q10",
+          "stageId": "EN-L03-C14-S11",
+          "type": "sentenceCompletion",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 10번: It is a ___. 빈칸에 ‘달’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "moon",
+            "cat"
+          ],
+          "correctAnswer": "moon",
+          "explanation": "문맥과 뜻에 맞는 단어는 moon입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "moon",
+            "MOON"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q11",
+          "stageId": "EN-L03-C14-S11",
+          "type": "dictation",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "sunny",
+          "explanation": "화창한은 영어로 sunny입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sunny",
+          "acceptedAnswers": [
+            "sunny",
+            "SUNNY"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C14-S11-Q12",
+          "stageId": "EN-L03-C14-S11",
+          "type": "sentenceMeaning",
+          "prompt": "생활 어휘 누적 복습: 과정 평가 · 12번: “I have a pants.”에서 pants의 뜻을 고르세요.",
+          "choices": [
+            "바지",
+            "셔츠",
+            "원피스",
+            "신발"
+          ],
+          "correctAnswer": "바지",
+          "explanation": "pants은 ‘바지’이라는 뜻입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "생활 어휘 누적 복습 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바지"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        }
+      ]
+    }
+  ]
+}

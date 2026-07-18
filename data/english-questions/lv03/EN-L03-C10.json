@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C10",
+  "stages": [
+    {
+      "stageId": "EN-L03-C10-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S01-Q01",
+          "stageId": "EN-L03-C10-S01",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 1번: ‘셔츠’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "shoes",
+            "shirt"
+          ],
+          "correctAnswer": "shirt",
+          "explanation": "‘셔츠’은 영어로 shirt입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shirt",
+            "SHIRT"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C10-S01-Q02",
+          "stageId": "EN-L03-C10-S01",
+          "type": "sentenceMeaning",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 2번: “I have a pants.”에서 pants의 뜻을 고르세요.",
+          "choices": [
+            "원피스",
+            "신발",
+            "바지",
+            "셔츠"
+          ],
+          "correctAnswer": "바지",
+          "explanation": "pants은 ‘바지’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바지"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C10-S01-Q03",
+          "stageId": "EN-L03-C10-S01",
+          "type": "trueFalse",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 3번: dress의 뜻이 ‘셔츠’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "dress의 뜻은 ‘원피스’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S01-Q04",
+          "stageId": "EN-L03-C10-S01",
+          "type": "matching",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 4번: shoes과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "신발",
+            "셔츠",
+            "바지",
+            "원피스"
+          ],
+          "correctAnswer": "신발",
+          "explanation": "shoes은 ‘신발’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "신발"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S01-Q05",
+          "stageId": "EN-L03-C10-S01",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 5번: This is my ___. 빈칸에 ‘모자’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "dress",
+            "hat"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "문맥과 뜻에 맞는 단어는 hat입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S01-Q06",
+          "stageId": "EN-L03-C10-S01",
+          "type": "categorization",
+          "prompt": "옷과 소지품: 핵심 표현 이해 · 6번: coat을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "동물과 자연",
+            "옷과 소지품",
+            "집"
+          ],
+          "correctAnswer": "옷과 소지품",
+          "explanation": "coat은 옷과 소지품 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "옷과 소지품"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S02-Q01",
+          "stageId": "EN-L03-C10-S02",
+          "type": "matching",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 1번: shoes과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "셔츠",
+            "바지",
+            "원피스",
+            "신발"
+          ],
+          "correctAnswer": "신발",
+          "explanation": "shoes은 ‘신발’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "신발"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S02-Q02",
+          "stageId": "EN-L03-C10-S02",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 2번: ‘모자’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "hat",
+            "shirt"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "‘모자’은 영어로 hat입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S02-Q03",
+          "stageId": "EN-L03-C10-S02",
+          "type": "categorization",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 3번: coat을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "옷과 소지품",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "옷과 소지품",
+          "explanation": "coat은 옷과 소지품 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "옷과 소지품"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        },
+        {
+          "questionId": "EN-L03-C10-S02-Q04",
+          "stageId": "EN-L03-C10-S02",
+          "type": "spelling",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 4번: s_cks에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "socks의 빠진 글자는 o입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        },
+        {
+          "questionId": "EN-L03-C10-S02-Q05",
+          "stageId": "EN-L03-C10-S02",
+          "type": "wordBuilding",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘손목시계’을 만드세요.",
+          "choices": [
+            "hctaw",
+            "atchw",
+            "watc",
+            "watch"
+          ],
+          "correctAnswer": "watch",
+          "explanation": "바른 철자는 watch입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watch",
+            "WATCH"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        },
+        {
+          "questionId": "EN-L03-C10-S02-Q06",
+          "stageId": "EN-L03-C10-S02",
+          "type": "fillBlank",
+          "prompt": "옷과 소지품: 생활 어휘 문맥 학습 · 6번: pho_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "phone의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ],
+          "koreanMeaning": "전화기",
+          "exampleSentence": "This is my phone."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S03-Q01",
+          "stageId": "EN-L03-C10-S03",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 1번: This is my ___. 빈칸에 ‘양말’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "dress",
+            "socks"
+          ],
+          "correctAnswer": "socks",
+          "explanation": "문맥과 뜻에 맞는 단어는 socks입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "socks",
+            "SOCKS"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        },
+        {
+          "questionId": "EN-L03-C10-S03-Q02",
+          "stageId": "EN-L03-C10-S03",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 2번: ‘손목시계’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "watch",
+            "shirt"
+          ],
+          "correctAnswer": "watch",
+          "explanation": "‘손목시계’은 영어로 watch입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watch",
+            "WATCH"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        },
+        {
+          "questionId": "EN-L03-C10-S03-Q03",
+          "stageId": "EN-L03-C10-S03",
+          "type": "trueFalse",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 3번: phone의 뜻이 ‘셔츠’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "phone의 뜻은 ‘전화기’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "전화기",
+          "exampleSentence": "This is my phone."
+        },
+        {
+          "questionId": "EN-L03-C10-S03-Q04",
+          "stageId": "EN-L03-C10-S03",
+          "type": "ordering",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I have an umbrella.",
+            "umbrella an have I.",
+            "have an umbrella I."
+          ],
+          "correctAnswer": "I have an umbrella.",
+          "explanation": "바른 어순은 “I have an umbrella.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have an umbrella.",
+            "I have an umbrella"
+          ],
+          "koreanMeaning": "우산",
+          "exampleSentence": "I have an umbrella."
+        },
+        {
+          "questionId": "EN-L03-C10-S03-Q05",
+          "stageId": "EN-L03-C10-S03",
+          "type": "fillBlank",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 5번: shi_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "shirt의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C10-S03-Q06",
+          "stageId": "EN-L03-C10-S03",
+          "type": "matching",
+          "prompt": "옷과 소지품: 문장 구조 발견 · 6번: pants과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "원피스",
+            "신발",
+            "바지",
+            "셔츠"
+          ],
+          "correctAnswer": "바지",
+          "explanation": "pants은 ‘바지’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바지"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S04-Q01",
+          "stageId": "EN-L03-C10-S04",
+          "type": "wordBuilding",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘우산’을 만드세요.",
+          "choices": [
+            "allerbmu",
+            "mbrellau",
+            "umbrell",
+            "umbrella"
+          ],
+          "correctAnswer": "umbrella",
+          "explanation": "바른 철자는 umbrella입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "umbrella",
+            "UMBRELLA"
+          ],
+          "koreanMeaning": "우산",
+          "exampleSentence": "I have an umbrella."
+        },
+        {
+          "questionId": "EN-L03-C10-S04-Q02",
+          "stageId": "EN-L03-C10-S04",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 2번: This is my ___. 빈칸에 ‘셔츠’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "dress",
+            "shoes",
+            "shirt",
+            "pants"
+          ],
+          "correctAnswer": "shirt",
+          "explanation": "문맥과 뜻에 맞는 단어는 shirt입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shirt",
+            "SHIRT"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C10-S04-Q03",
+          "stageId": "EN-L03-C10-S04",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 3번: ‘바지’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "shoes",
+            "pants",
+            "shirt",
+            "dress"
+          ],
+          "correctAnswer": "pants",
+          "explanation": "‘바지’은 영어로 pants입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pants",
+            "PANTS"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C10-S04-Q04",
+          "stageId": "EN-L03-C10-S04",
+          "type": "categorization",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 4번: dress을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "옷과 소지품",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "옷과 소지품",
+          "explanation": "dress은 옷과 소지품 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "옷과 소지품"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S04-Q05",
+          "stageId": "EN-L03-C10-S04",
+          "type": "ordering",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "shoes a have I.",
+            "have a shoes I.",
+            "I have a shoes."
+          ],
+          "correctAnswer": "I have a shoes.",
+          "explanation": "바른 어순은 “I have a shoes.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a shoes.",
+            "I have a shoes"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S04-Q06",
+          "stageId": "EN-L03-C10-S04",
+          "type": "fillBlank",
+          "prompt": "옷과 소지품: 짧은 문장 연습 · 6번: h_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "hat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S05-Q01",
+          "stageId": "EN-L03-C10-S05",
+          "type": "sentenceMeaning",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 1번: “This is my dress.”에서 dress의 뜻을 고르세요.",
+          "choices": [
+            "셔츠",
+            "바지",
+            "신발",
+            "원피스"
+          ],
+          "correctAnswer": "원피스",
+          "explanation": "dress은 ‘원피스’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "원피스"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S05-Q02",
+          "stageId": "EN-L03-C10-S05",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 2번: ‘신발’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "shoes",
+            "shirt"
+          ],
+          "correctAnswer": "shoes",
+          "explanation": "‘신발’은 영어로 shoes입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shoes",
+            "SHOES"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S05-Q03",
+          "stageId": "EN-L03-C10-S05",
+          "type": "trueFalse",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 3번: hat의 뜻이 ‘셔츠’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "hat의 뜻은 ‘모자’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S05-Q04",
+          "stageId": "EN-L03-C10-S05",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 4번: I have a ___. 빈칸에 ‘외투’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "coat",
+            "shirt",
+            "pants",
+            "dress"
+          ],
+          "correctAnswer": "coat",
+          "explanation": "문맥과 뜻에 맞는 단어는 coat입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "coat",
+            "COAT"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        },
+        {
+          "questionId": "EN-L03-C10-S05-Q05",
+          "stageId": "EN-L03-C10-S05",
+          "type": "matching",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 5번: socks과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "셔츠",
+            "바지",
+            "원피스",
+            "양말"
+          ],
+          "correctAnswer": "양말",
+          "explanation": "socks은 ‘양말’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "양말"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        },
+        {
+          "questionId": "EN-L03-C10-S05-Q06",
+          "stageId": "EN-L03-C10-S05",
+          "type": "ordering",
+          "prompt": "옷과 소지품: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have a watch I.",
+            "I have a watch.",
+            "watch a have I."
+          ],
+          "correctAnswer": "I have a watch.",
+          "explanation": "바른 어순은 “I have a watch.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a watch.",
+            "I have a watch"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S06-Q01",
+          "stageId": "EN-L03-C10-S06",
+          "type": "listeningChoice",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "dress",
+            "coat"
+          ],
+          "correctAnswer": "coat",
+          "explanation": "음성의 핵심 단어는 coat입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "coat",
+          "acceptedAnswers": [
+            "coat"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        },
+        {
+          "questionId": "EN-L03-C10-S06-Q02",
+          "stageId": "EN-L03-C10-S06",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 2번: ‘양말’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "socks",
+            "shirt"
+          ],
+          "correctAnswer": "socks",
+          "explanation": "‘양말’은 영어로 socks입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "socks",
+            "SOCKS"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        },
+        {
+          "questionId": "EN-L03-C10-S06-Q03",
+          "stageId": "EN-L03-C10-S06",
+          "type": "listeningChoice",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "dress",
+            "watch",
+            "shirt",
+            "pants"
+          ],
+          "correctAnswer": "watch",
+          "explanation": "음성의 핵심 단어는 watch입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "watch",
+          "acceptedAnswers": [
+            "watch"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        },
+        {
+          "questionId": "EN-L03-C10-S06-Q04",
+          "stageId": "EN-L03-C10-S06",
+          "type": "dictation",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "phone",
+          "explanation": "전화기은 영어로 phone입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "phone",
+          "acceptedAnswers": [
+            "phone",
+            "PHONE"
+          ],
+          "koreanMeaning": "전화기",
+          "exampleSentence": "This is my phone."
+        },
+        {
+          "questionId": "EN-L03-C10-S06-Q05",
+          "stageId": "EN-L03-C10-S06",
+          "type": "trueFalse",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 5번: umbrella의 뜻이 ‘셔츠’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "umbrella의 뜻은 ‘우산’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "우산",
+          "exampleSentence": "I have an umbrella."
+        },
+        {
+          "questionId": "EN-L03-C10-S06-Q06",
+          "stageId": "EN-L03-C10-S06",
+          "type": "matching",
+          "prompt": "옷과 소지품: 생활 대화 듣기 · 6번: shirt과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "원피스",
+            "신발",
+            "셔츠",
+            "바지"
+          ],
+          "correctAnswer": "셔츠",
+          "explanation": "shirt은 ‘셔츠’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "셔츠"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S07-Q01",
+          "stageId": "EN-L03-C10-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "옷과 소지품: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my phone.",
+          "explanation": "This is my phone.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my phone.",
+          "acceptedAnswers": [
+            "This is my phone.",
+            "This is my phone"
+          ],
+          "koreanMeaning": "전화기",
+          "exampleSentence": "This is my phone."
+        },
+        {
+          "questionId": "EN-L03-C10-S07-Q02",
+          "stageId": "EN-L03-C10-S07",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 표현 말하기 · 2번: ‘우산’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "umbrella",
+            "shirt"
+          ],
+          "correctAnswer": "umbrella",
+          "explanation": "‘우산’은 영어로 umbrella입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "umbrella",
+            "UMBRELLA"
+          ],
+          "koreanMeaning": "우산",
+          "exampleSentence": "I have an umbrella."
+        },
+        {
+          "questionId": "EN-L03-C10-S07-Q03",
+          "stageId": "EN-L03-C10-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "옷과 소지품: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my shirt.",
+          "explanation": "This is my shirt.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my shirt.",
+          "acceptedAnswers": [
+            "This is my shirt.",
+            "This is my shirt"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C10-S07-Q04",
+          "stageId": "EN-L03-C10-S07",
+          "type": "sentenceMeaning",
+          "prompt": "옷과 소지품: 표현 말하기 · 4번: “I have a pants.”에서 pants의 뜻을 고르세요.",
+          "choices": [
+            "바지",
+            "셔츠",
+            "원피스",
+            "신발"
+          ],
+          "correctAnswer": "바지",
+          "explanation": "pants은 ‘바지’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바지"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C10-S07-Q05",
+          "stageId": "EN-L03-C10-S07",
+          "type": "matching",
+          "prompt": "옷과 소지품: 표현 말하기 · 5번: dress과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "셔츠",
+            "바지",
+            "신발",
+            "원피스"
+          ],
+          "correctAnswer": "원피스",
+          "explanation": "dress은 ‘원피스’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "원피스"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S07-Q06",
+          "stageId": "EN-L03-C10-S07",
+          "type": "trueFalse",
+          "prompt": "옷과 소지품: 표현 말하기 · 6번: shoes의 뜻이 ‘신발’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "shoes의 뜻은 ‘신발’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S08-Q01",
+          "stageId": "EN-L03-C10-S08",
+          "type": "spelling",
+          "prompt": "옷과 소지품: 문장 쓰기 · 1번: pant_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "pants의 빠진 글자는 s입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C10-S08-Q02",
+          "stageId": "EN-L03-C10-S08",
+          "type": "fillBlank",
+          "prompt": "옷과 소지품: 문장 쓰기 · 2번: _ress에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "dress의 빠진 글자는 d입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S08-Q03",
+          "stageId": "EN-L03-C10-S08",
+          "type": "dictation",
+          "prompt": "옷과 소지품: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "shoes",
+          "explanation": "신발은 영어로 shoes입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "shoes",
+          "acceptedAnswers": [
+            "shoes",
+            "SHOES"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S08-Q04",
+          "stageId": "EN-L03-C10-S08",
+          "type": "wordBuilding",
+          "prompt": "옷과 소지품: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘모자’을 만드세요.",
+          "choices": [
+            "hat",
+            "tah",
+            "ath",
+            "ha"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "바른 철자는 hat입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S08-Q05",
+          "stageId": "EN-L03-C10-S08",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 문장 쓰기 · 5번: I have a ___. 빈칸에 ‘외투’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "dress",
+            "coat"
+          ],
+          "correctAnswer": "coat",
+          "explanation": "문맥과 뜻에 맞는 단어는 coat입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "coat",
+            "COAT"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        },
+        {
+          "questionId": "EN-L03-C10-S08-Q06",
+          "stageId": "EN-L03-C10-S08",
+          "type": "ordering",
+          "prompt": "옷과 소지품: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is my socks This.",
+            "This is my socks.",
+            "socks my is This."
+          ],
+          "correctAnswer": "This is my socks.",
+          "explanation": "바른 어순은 “This is my socks.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is my socks.",
+            "This is my socks"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C10-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C10-S09-Q01",
+          "stageId": "EN-L03-C10-S09",
+          "type": "reviewMixed",
+          "prompt": "옷과 소지품: 과정 평가 · 1번: ‘모자’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "dress",
+            "hat"
+          ],
+          "correctAnswer": "hat",
+          "explanation": "‘모자’은 영어로 hat입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q02",
+          "stageId": "EN-L03-C10-S09",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 과정 평가 · 2번: ‘외투’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "coat",
+            "shirt"
+          ],
+          "correctAnswer": "coat",
+          "explanation": "‘외투’은 영어로 coat입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "coat",
+            "COAT"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q03",
+          "stageId": "EN-L03-C10-S09",
+          "type": "listeningChoice",
+          "prompt": "옷과 소지품: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "dress",
+            "socks",
+            "shirt",
+            "pants"
+          ],
+          "correctAnswer": "socks",
+          "explanation": "음성의 핵심 단어는 socks입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "socks",
+          "acceptedAnswers": [
+            "socks"
+          ],
+          "koreanMeaning": "양말",
+          "exampleSentence": "This is my socks."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q04",
+          "stageId": "EN-L03-C10-S09",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 과정 평가 · 4번: I have a ___. 빈칸에 ‘손목시계’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "watch",
+            "shirt",
+            "pants",
+            "dress"
+          ],
+          "correctAnswer": "watch",
+          "explanation": "문맥과 뜻에 맞는 단어는 watch입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watch",
+            "WATCH"
+          ],
+          "koreanMeaning": "손목시계",
+          "exampleSentence": "I have a watch."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q05",
+          "stageId": "EN-L03-C10-S09",
+          "type": "dictation",
+          "prompt": "옷과 소지품: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "phone",
+          "explanation": "전화기은 영어로 phone입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "phone",
+          "acceptedAnswers": [
+            "phone",
+            "PHONE"
+          ],
+          "koreanMeaning": "전화기",
+          "exampleSentence": "This is my phone."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q06",
+          "stageId": "EN-L03-C10-S09",
+          "type": "sentenceMeaning",
+          "prompt": "옷과 소지품: 과정 평가 · 6번: “I have an umbrella.”에서 umbrella의 뜻을 고르세요.",
+          "choices": [
+            "바지",
+            "원피스",
+            "우산",
+            "셔츠"
+          ],
+          "correctAnswer": "우산",
+          "explanation": "umbrella은 ‘우산’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우산"
+          ],
+          "koreanMeaning": "우산",
+          "exampleSentence": "I have an umbrella."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q07",
+          "stageId": "EN-L03-C10-S09",
+          "type": "reviewMixed",
+          "prompt": "옷과 소지품: 과정 평가 · 7번: ‘셔츠’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "shoes",
+            "shirt",
+            "pants",
+            "dress"
+          ],
+          "correctAnswer": "shirt",
+          "explanation": "‘셔츠’은 영어로 shirt입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shirt",
+            "SHIRT"
+          ],
+          "koreanMeaning": "셔츠",
+          "exampleSentence": "This is my shirt."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q08",
+          "stageId": "EN-L03-C10-S09",
+          "type": "multipleChoice",
+          "prompt": "옷과 소지품: 과정 평가 · 8번: ‘바지’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "shirt",
+            "dress",
+            "shoes"
+          ],
+          "correctAnswer": "pants",
+          "explanation": "‘바지’은 영어로 pants입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pants",
+            "PANTS"
+          ],
+          "koreanMeaning": "바지",
+          "exampleSentence": "I have a pants."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q09",
+          "stageId": "EN-L03-C10-S09",
+          "type": "listeningChoice",
+          "prompt": "옷과 소지품: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "shirt",
+            "pants",
+            "shoes",
+            "dress"
+          ],
+          "correctAnswer": "dress",
+          "explanation": "음성의 핵심 단어는 dress입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "dress",
+          "acceptedAnswers": [
+            "dress"
+          ],
+          "koreanMeaning": "원피스",
+          "exampleSentence": "This is my dress."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q10",
+          "stageId": "EN-L03-C10-S09",
+          "type": "sentenceCompletion",
+          "prompt": "옷과 소지품: 과정 평가 · 10번: I have a ___. 빈칸에 ‘신발’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "pants",
+            "dress",
+            "shoes",
+            "shirt"
+          ],
+          "correctAnswer": "shoes",
+          "explanation": "문맥과 뜻에 맞는 단어는 shoes입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shoes",
+            "SHOES"
+          ],
+          "koreanMeaning": "신발",
+          "exampleSentence": "I have a shoes."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q11",
+          "stageId": "EN-L03-C10-S09",
+          "type": "dictation",
+          "prompt": "옷과 소지품: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "hat",
+          "explanation": "모자은 영어로 hat입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "hat",
+          "acceptedAnswers": [
+            "hat",
+            "HAT"
+          ],
+          "koreanMeaning": "모자",
+          "exampleSentence": "This is my hat."
+        },
+        {
+          "questionId": "EN-L03-C10-S09-Q12",
+          "stageId": "EN-L03-C10-S09",
+          "type": "sentenceMeaning",
+          "prompt": "옷과 소지품: 과정 평가 · 12번: “I have a coat.”에서 coat의 뜻을 고르세요.",
+          "choices": [
+            "외투",
+            "셔츠",
+            "바지",
+            "원피스"
+          ],
+          "correctAnswer": "외투",
+          "explanation": "coat은 ‘외투’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "옷과 소지품",
+          "grammarFocus": "This is my + 명사",
+          "sourceObjective": "옷과 소지품 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "외투"
+          ],
+          "koreanMeaning": "외투",
+          "exampleSentence": "I have a coat."
+        }
+      ]
+    }
+  ]
+}

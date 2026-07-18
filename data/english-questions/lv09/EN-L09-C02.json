@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C02",
+  "stages": [
+    {
+      "stageId": "EN-L09-C02-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S01-Q01",
+          "stageId": "EN-L09-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 1번: The young artist ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived on Saturday morning.",
+          "koreanMeaning": "The young artist가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S01-Q02",
+          "stageId": "EN-L09-C02-S01",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 2번: 핵심 구조가 ‘arrived’이면 O, 아니면 X를 고르세요: The soccer player arrived on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player arrived on Saturday morning.",
+          "koreanMeaning": "The soccer player가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S01-Q03",
+          "stageId": "EN-L09-C02-S01",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 3번: The new student ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "arrived",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The new student arrived on Saturday morning.",
+          "koreanMeaning": "The new student가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S01-Q04",
+          "stageId": "EN-L09-C02-S01",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 4번: “Mina arrived on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina가 on Saturday morning에 도착했다.",
+            "The young artist가 during study time에 도착했다.",
+            "My brother가 before lunch에 도착했다.",
+            "The new student가 in the library에 도착했다."
+          ],
+          "correctAnswer": "Mina가 on Saturday morning에 도착했다.",
+          "explanation": "핵심 의미는 ‘Mina가 on Saturday morning에 도착했다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina가 on Saturday morning에 도착했다."
+          ],
+          "exampleSentence": "Mina arrived on Saturday morning.",
+          "koreanMeaning": "Mina가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S01-Q05",
+          "stageId": "EN-L09-C02-S01",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 5번: Tom ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived on Saturday morning.",
+          "koreanMeaning": "Tom가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S01-Q06",
+          "stageId": "EN-L09-C02-S01",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother arrived on Saturday morning My.",
+            "subject",
+            "My brother arrived on Saturday morning.",
+            "morning Saturday on arrived brother My."
+          ],
+          "correctAnswer": "My brother arrived on Saturday morning.",
+          "explanation": "바른 어순은 “My brother arrived on Saturday morning.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother arrived on Saturday morning.",
+            "My brother arrived on Saturday morning"
+          ],
+          "exampleSentence": "My brother arrived on Saturday morning.",
+          "koreanMeaning": "My brother가 on Saturday morning에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S02-Q01",
+          "stageId": "EN-L09-C02-S02",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 1번: Tom ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived at home.",
+          "koreanMeaning": "Tom가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S02-Q02",
+          "stageId": "EN-L09-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 2번: My brother ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived at home.",
+          "koreanMeaning": "My brother가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S02-Q03",
+          "stageId": "EN-L09-C02-S02",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 3번: “The student arrived at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother가 before lunch에 도착했다.",
+            "The student가 at home에 도착했다.",
+            "Mina가 on Saturday morning에 도착했다.",
+            "The young artist가 during study time에 도착했다."
+          ],
+          "correctAnswer": "The student가 at home에 도착했다.",
+          "explanation": "핵심 의미는 ‘The student가 at home에 도착했다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The student가 at home에 도착했다."
+          ],
+          "exampleSentence": "The student arrived at home.",
+          "koreanMeaning": "The student가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S02-Q04",
+          "stageId": "EN-L09-C02-S02",
+          "type": "fillBlank",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 4번: Our teacher ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Our teacher arrived at home.",
+          "koreanMeaning": "Our teacher가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S02-Q05",
+          "stageId": "EN-L09-C02-S02",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 5번: The young artist ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived at home.",
+          "koreanMeaning": "The young artist가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S02-Q06",
+          "stageId": "EN-L09-C02-S02",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘arrived’이면 O, 아니면 X를 고르세요: The soccer player arrived at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player arrived at home.",
+          "koreanMeaning": "The soccer player가 at home에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S03-Q01",
+          "stageId": "EN-L09-C02-S03",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 1번: The young artist ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived in the library.",
+          "koreanMeaning": "The young artist가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S03-Q02",
+          "stageId": "EN-L09-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 2번: The soccer player ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The soccer player arrived in the library.",
+          "koreanMeaning": "The soccer player가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S03-Q03",
+          "stageId": "EN-L09-C02-S03",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student arrived in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student arrived in the library.",
+          "koreanMeaning": "The new student가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S03-Q04",
+          "stageId": "EN-L09-C02-S03",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina arrived after class.",
+            "class after arrived Mina.",
+            "arrived after class Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina arrived after class.",
+          "explanation": "바른 어순은 “Mina arrived after class.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina arrived after class.",
+            "Mina arrived after class"
+          ],
+          "exampleSentence": "Mina arrived after class.",
+          "koreanMeaning": "Mina가 after class에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S03-Q05",
+          "stageId": "EN-L09-C02-S03",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 5번: Tom ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived after class.",
+          "koreanMeaning": "Tom가 after class에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S03-Q06",
+          "stageId": "EN-L09-C02-S03",
+          "type": "fillBlank",
+          "prompt": "시제 일치와 완료: 문법 구조 분석 · 6번: My brother ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived after class.",
+          "koreanMeaning": "My brother가 after class에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S04-Q01",
+          "stageId": "EN-L09-C02-S04",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 1번: Tom ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived before lunch.",
+          "koreanMeaning": "Tom가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S04-Q02",
+          "stageId": "EN-L09-C02-S04",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother arrived before lunch My.",
+            "subject",
+            "My brother arrived before lunch.",
+            "lunch before arrived brother My."
+          ],
+          "correctAnswer": "My brother arrived before lunch.",
+          "explanation": "바른 어순은 “My brother arrived before lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother arrived before lunch.",
+            "My brother arrived before lunch"
+          ],
+          "exampleSentence": "My brother arrived before lunch.",
+          "koreanMeaning": "My brother가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S04-Q03",
+          "stageId": "EN-L09-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 3번: The student ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "arrived",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The student arrived before lunch.",
+          "koreanMeaning": "The student가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S04-Q04",
+          "stageId": "EN-L09-C02-S04",
+          "type": "fillBlank",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 4번: Our teacher ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Our teacher arrived before lunch.",
+          "koreanMeaning": "Our teacher가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S04-Q05",
+          "stageId": "EN-L09-C02-S04",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist arrived before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist arrived before lunch.",
+          "koreanMeaning": "The young artist가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S04-Q06",
+          "stageId": "EN-L09-C02-S04",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 문장 분석 연습 · 6번: The soccer player ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The soccer player arrived before lunch.",
+          "koreanMeaning": "The soccer player가 before lunch에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S05-Q01",
+          "stageId": "EN-L09-C02-S05",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 1번: “The young artist arrived during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother가 before lunch에 도착했다.",
+            "The new student가 in the library에 도착했다.",
+            "Our teacher가 at home에 도착했다.",
+            "The young artist가 during study time에 도착했다."
+          ],
+          "correctAnswer": "The young artist가 during study time에 도착했다.",
+          "explanation": "핵심 의미는 ‘The young artist가 during study time에 도착했다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist가 during study time에 도착했다."
+          ],
+          "exampleSentence": "The young artist arrived during study time.",
+          "koreanMeaning": "The young artist가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S05-Q02",
+          "stageId": "EN-L09-C02-S05",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 2번: The soccer player ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The soccer player arrived during study time.",
+          "koreanMeaning": "The soccer player가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S05-Q03",
+          "stageId": "EN-L09-C02-S05",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student arrived during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student arrived during study time.",
+          "koreanMeaning": "The new student가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S05-Q04",
+          "stageId": "EN-L09-C02-S05",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 4번: Mina ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Mina arrived during study time.",
+          "koreanMeaning": "Mina가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S05-Q05",
+          "stageId": "EN-L09-C02-S05",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 5번: Tom ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived during study time.",
+          "koreanMeaning": "Tom가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S05-Q06",
+          "stageId": "EN-L09-C02-S05",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother arrived during study time My.",
+            "subject",
+            "My brother arrived during study time.",
+            "time study during arrived brother My."
+          ],
+          "correctAnswer": "My brother arrived during study time.",
+          "explanation": "바른 어순은 “My brother arrived during study time.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother arrived during study time.",
+            "My brother arrived during study time"
+          ],
+          "exampleSentence": "My brother arrived during study time.",
+          "koreanMeaning": "My brother가 during study time에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S06-Q01",
+          "stageId": "EN-L09-C02-S06",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 1번: “Tom arrived on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "The soccer player가 at the community center에 도착했다.",
+            "The student가 before lunch에 도착했다.",
+            "Mina가 in the library에 도착했다.",
+            "Tom가 on Saturday morning에 도착했다."
+          ],
+          "correctAnswer": "Tom가 on Saturday morning에 도착했다.",
+          "explanation": "핵심 의미는 ‘Tom가 on Saturday morning에 도착했다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom가 on Saturday morning에 도착했다."
+          ],
+          "exampleSentence": "Tom arrived on Saturday morning.",
+          "koreanMeaning": "Tom가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S06-Q02",
+          "stageId": "EN-L09-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 2번: My brother ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived on Saturday morning.",
+          "koreanMeaning": "My brother가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S06-Q03",
+          "stageId": "EN-L09-C02-S06",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student arrived on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student arrived on Saturday morning.",
+          "koreanMeaning": "The student가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S06-Q04",
+          "stageId": "EN-L09-C02-S06",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 4번: Our teacher ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Our teacher arrived on Saturday morning.",
+          "koreanMeaning": "Our teacher가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S06-Q05",
+          "stageId": "EN-L09-C02-S06",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 5번: The young artist ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived on Saturday morning.",
+          "koreanMeaning": "The young artist가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S06-Q06",
+          "stageId": "EN-L09-C02-S06",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player arrived on Saturday morning The.",
+            "subject",
+            "The soccer player arrived on Saturday morning.",
+            "morning Saturday on arrived player soccer The."
+          ],
+          "correctAnswer": "The soccer player arrived on Saturday morning.",
+          "explanation": "바른 어순은 “The soccer player arrived on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player arrived on Saturday morning.",
+            "The soccer player arrived on Saturday morning"
+          ],
+          "exampleSentence": "The soccer player arrived on Saturday morning.",
+          "koreanMeaning": "The soccer player가 on Saturday morning에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S07-Q01",
+          "stageId": "EN-L09-C02-S07",
+          "type": "listeningChoice",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother arrived on Saturday morning.",
+            "The new student arrived at the community center.",
+            "Our teacher arrived before lunch.",
+            "The young artist arrived at home."
+          ],
+          "correctAnswer": "The young artist arrived at home.",
+          "explanation": "들은 문장은 “The young artist arrived at home.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist arrived at home.",
+          "acceptedAnswers": [
+            "The young artist arrived at home."
+          ],
+          "exampleSentence": "The young artist arrived at home.",
+          "koreanMeaning": "The young artist가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S07-Q02",
+          "stageId": "EN-L09-C02-S07",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 2번: The soccer player ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The soccer player arrived at home.",
+          "koreanMeaning": "The soccer player가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S07-Q03",
+          "stageId": "EN-L09-C02-S07",
+          "type": "listeningChoice",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player arrived before lunch.",
+            "The new student arrived at home.",
+            "Our teacher arrived on Saturday morning.",
+            "Tom arrived at the community center."
+          ],
+          "correctAnswer": "The new student arrived at home.",
+          "explanation": "들은 문장은 “The new student arrived at home.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student arrived at home.",
+          "acceptedAnswers": [
+            "The new student arrived at home."
+          ],
+          "exampleSentence": "The new student arrived at home.",
+          "koreanMeaning": "The new student가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S07-Q04",
+          "stageId": "EN-L09-C02-S07",
+          "type": "dictation",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina arrived at home.",
+          "explanation": "바른 문장은 “Mina arrived at home.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina arrived at home.",
+          "acceptedAnswers": [
+            "Mina arrived at home.",
+            "Mina arrived at home"
+          ],
+          "exampleSentence": "Mina arrived at home.",
+          "koreanMeaning": "Mina가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S07-Q05",
+          "stageId": "EN-L09-C02-S07",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom arrived at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom arrived at home.",
+          "koreanMeaning": "Tom가 at home에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S07-Q06",
+          "stageId": "EN-L09-C02-S07",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 핵심 정보 듣기 · 6번: My brother ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived at home.",
+          "koreanMeaning": "My brother가 at home에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S08-Q01",
+          "stageId": "EN-L09-C02-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom arrived in the library.",
+          "explanation": "“Tom arrived in the library.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom arrived in the library.",
+          "acceptedAnswers": [
+            "Tom arrived in the library.",
+            "Tom arrived in the library"
+          ],
+          "exampleSentence": "Tom arrived in the library.",
+          "koreanMeaning": "Tom가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S08-Q02",
+          "stageId": "EN-L09-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 2번: My brother ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived in the library.",
+          "koreanMeaning": "My brother가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S08-Q03",
+          "stageId": "EN-L09-C02-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student arrived in the library.",
+          "explanation": "“The student arrived in the library.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student arrived in the library.",
+          "acceptedAnswers": [
+            "The student arrived in the library.",
+            "The student arrived in the library"
+          ],
+          "exampleSentence": "The student arrived in the library.",
+          "koreanMeaning": "The student가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S08-Q04",
+          "stageId": "EN-L09-C02-S08",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 4번: “Our teacher arrived in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher가 in the library에 도착했다.",
+            "Tom가 at home에 도착했다.",
+            "The soccer player가 on Saturday morning에 도착했다.",
+            "The student가 at the community center에 도착했다."
+          ],
+          "correctAnswer": "Our teacher가 in the library에 도착했다.",
+          "explanation": "핵심 의미는 ‘Our teacher가 in the library에 도착했다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher가 in the library에 도착했다."
+          ],
+          "exampleSentence": "Our teacher arrived in the library.",
+          "koreanMeaning": "Our teacher가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S08-Q05",
+          "stageId": "EN-L09-C02-S08",
+          "type": "matching",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 5번: The young artist ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived in the library.",
+          "koreanMeaning": "The young artist가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S08-Q06",
+          "stageId": "EN-L09-C02-S08",
+          "type": "trueFalse",
+          "prompt": "시제 일치와 완료: 근거 설명하기 · 6번: 핵심 구조가 ‘arrived’이면 O, 아니면 X를 고르세요: The soccer player arrived in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player arrived in the library.",
+          "koreanMeaning": "The soccer player가 in the library에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S09-Q01",
+          "stageId": "EN-L09-C02-S09",
+          "type": "fillBlank",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 1번: The young artist ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived before lunch.",
+          "koreanMeaning": "The young artist가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S09-Q02",
+          "stageId": "EN-L09-C02-S09",
+          "type": "dictation",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player arrived before lunch.",
+          "explanation": "바른 문장은 “The soccer player arrived before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player arrived before lunch.",
+          "acceptedAnswers": [
+            "The soccer player arrived before lunch.",
+            "The soccer player arrived before lunch"
+          ],
+          "exampleSentence": "The soccer player arrived before lunch.",
+          "koreanMeaning": "The soccer player가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S09-Q03",
+          "stageId": "EN-L09-C02-S09",
+          "type": "ordering",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student arrived before lunch.",
+            "lunch before arrived student new The.",
+            "new student arrived before lunch The."
+          ],
+          "correctAnswer": "The new student arrived before lunch.",
+          "explanation": "바른 어순은 “The new student arrived before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student arrived before lunch.",
+            "The new student arrived before lunch"
+          ],
+          "exampleSentence": "The new student arrived before lunch.",
+          "koreanMeaning": "The new student가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S09-Q04",
+          "stageId": "EN-L09-C02-S09",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 4번: Mina ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Mina arrived before lunch.",
+          "koreanMeaning": "Mina가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S09-Q05",
+          "stageId": "EN-L09-C02-S09",
+          "type": "fillBlank",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 5번: Tom ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived before lunch.",
+          "koreanMeaning": "Tom가 before lunch에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S09-Q06",
+          "stageId": "EN-L09-C02-S09",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 논리 문장 쓰기 · 6번: My brother ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived before lunch.",
+          "koreanMeaning": "My brother가 before lunch에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C02-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C02-S10-Q01",
+          "stageId": "EN-L09-C02-S10",
+          "type": "reviewMixed",
+          "prompt": "시제 일치와 완료: 과정 평가 · 1번: Tom ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived at the community center.",
+          "koreanMeaning": "Tom가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q02",
+          "stageId": "EN-L09-C02-S10",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 과정 평가 · 2번: My brother ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived at the community center.",
+          "koreanMeaning": "My brother가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q03",
+          "stageId": "EN-L09-C02-S10",
+          "type": "listeningChoice",
+          "prompt": "시제 일치와 완료: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother arrived near the school.",
+            "The student arrived at the community center.",
+            "Mina arrived before lunch.",
+            "The young artist arrived in the library."
+          ],
+          "correctAnswer": "The student arrived at the community center.",
+          "explanation": "들은 문장은 “The student arrived at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student arrived at the community center.",
+          "acceptedAnswers": [
+            "The student arrived at the community center."
+          ],
+          "exampleSentence": "The student arrived at the community center.",
+          "koreanMeaning": "The student가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q04",
+          "stageId": "EN-L09-C02-S10",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 과정 평가 · 4번: Our teacher ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Our teacher arrived at the community center.",
+          "koreanMeaning": "Our teacher가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q05",
+          "stageId": "EN-L09-C02-S10",
+          "type": "dictation",
+          "prompt": "시제 일치와 완료: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist arrived at the community center.",
+          "explanation": "바른 문장은 “The young artist arrived at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist arrived at the community center.",
+          "acceptedAnswers": [
+            "The young artist arrived at the community center.",
+            "The young artist arrived at the community center"
+          ],
+          "exampleSentence": "The young artist arrived at the community center.",
+          "koreanMeaning": "The young artist가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q06",
+          "stageId": "EN-L09-C02-S10",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 과정 평가 · 6번: “The soccer player arrived at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina가 in the library에 도착했다.",
+            "The young artist가 near the school에 도착했다.",
+            "The soccer player가 at the community center에 도착했다.",
+            "The student가 before lunch에 도착했다."
+          ],
+          "correctAnswer": "The soccer player가 at the community center에 도착했다.",
+          "explanation": "핵심 의미는 ‘The soccer player가 at the community center에 도착했다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player가 at the community center에 도착했다."
+          ],
+          "exampleSentence": "The soccer player arrived at the community center.",
+          "koreanMeaning": "The soccer player가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q07",
+          "stageId": "EN-L09-C02-S10",
+          "type": "reviewMixed",
+          "prompt": "시제 일치와 완료: 과정 평가 · 7번: The new student ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "arrived",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The new student arrived at the community center.",
+          "koreanMeaning": "The new student가 at the community center에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q08",
+          "stageId": "EN-L09-C02-S10",
+          "type": "multipleChoice",
+          "prompt": "시제 일치와 완료: 과정 평가 · 8번: Mina ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Mina arrived during study time.",
+          "koreanMeaning": "Mina가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q09",
+          "stageId": "EN-L09-C02-S10",
+          "type": "listeningChoice",
+          "prompt": "시제 일치와 완료: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player arrived before lunch.",
+            "The student arrived in the library.",
+            "Mina arrived at home.",
+            "Tom arrived during study time."
+          ],
+          "correctAnswer": "Tom arrived during study time.",
+          "explanation": "들은 문장은 “Tom arrived during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom arrived during study time.",
+          "acceptedAnswers": [
+            "Tom arrived during study time."
+          ],
+          "exampleSentence": "Tom arrived during study time.",
+          "koreanMeaning": "Tom가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q10",
+          "stageId": "EN-L09-C02-S10",
+          "type": "sentenceCompletion",
+          "prompt": "시제 일치와 완료: 과정 평가 · 10번: My brother ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "arrived",
+            "subject"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "My brother arrived during study time.",
+          "koreanMeaning": "My brother가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q11",
+          "stageId": "EN-L09-C02-S10",
+          "type": "dictation",
+          "prompt": "시제 일치와 완료: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student arrived during study time.",
+          "explanation": "바른 문장은 “The student arrived during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student arrived during study time.",
+          "acceptedAnswers": [
+            "The student arrived during study time.",
+            "The student arrived during study time"
+          ],
+          "exampleSentence": "The student arrived during study time.",
+          "koreanMeaning": "The student가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C02-S10-Q12",
+          "stageId": "EN-L09-C02-S10",
+          "type": "sentenceMeaning",
+          "prompt": "시제 일치와 완료: 과정 평가 · 12번: “Our teacher arrived during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher가 during study time에 도착했다.",
+            "Tom가 before lunch에 도착했다.",
+            "The soccer player가 in the library에 도착했다.",
+            "The student가 at home에 도착했다."
+          ],
+          "correctAnswer": "Our teacher가 during study time에 도착했다.",
+          "explanation": "핵심 의미는 ‘Our teacher가 during study time에 도착했다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "시제 일치와 완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher가 during study time에 도착했다."
+          ],
+          "exampleSentence": "Our teacher arrived during study time.",
+          "koreanMeaning": "Our teacher가 during study time에 도착했다."
+        }
+      ]
+    }
+  ]
+}

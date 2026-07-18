@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C02",
+  "stages": [
+    {
+      "stageId": "EN-L10-C02-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S01-Q01",
+          "stageId": "EN-L10-C02-S01",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 1번: The young artist makes a simple plan every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S01-Q02",
+          "stageId": "EN-L10-C02-S01",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 2번: 핵심 구조가 ‘yesterday’이면 O, 아니면 X를 고르세요: The soccer player makes a simple plan every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S01-Q03",
+          "stageId": "EN-L10-C02-S01",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 3번: The new student makes a simple plan every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "yesterday",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The new student makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S01-Q04",
+          "stageId": "EN-L10-C02-S01",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 4번: “Mina finds the answer every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "Mina finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S01-Q05",
+          "stageId": "EN-L10-C02-S01",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 5번: Tom finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S01-Q06",
+          "stageId": "EN-L10-C02-S01",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother finds the answer every week but completed it yesterday My.",
+            "subject",
+            "My brother finds the answer every week but completed it yesterday.",
+            "yesterday it completed but week every answer the finds brother My."
+          ],
+          "correctAnswer": "My brother finds the answer every week but completed it yesterday.",
+          "explanation": "바른 어순은 “My brother finds the answer every week but completed it yesterday.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother finds the answer every week but completed it yesterday.",
+            "My brother finds the answer every week but completed it yesterday"
+          ],
+          "exampleSentence": "My brother finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S02-Q01",
+          "stageId": "EN-L10-C02-S02",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 1번: Tom plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S02-Q02",
+          "stageId": "EN-L10-C02-S02",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 2번: My brother plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S02-Q03",
+          "stageId": "EN-L10-C02-S02",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 3번: “The student plays soccer every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "The student plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S02-Q04",
+          "stageId": "EN-L10-C02-S02",
+          "type": "fillBlank",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 4번: Our teacher plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Our teacher plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S02-Q05",
+          "stageId": "EN-L10-C02-S02",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 5번: The young artist plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S02-Q06",
+          "stageId": "EN-L10-C02-S02",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘yesterday’이면 O, 아니면 X를 고르세요: The soccer player plays soccer every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S03-Q01",
+          "stageId": "EN-L10-C02-S03",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 1번: The young artist finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S03-Q02",
+          "stageId": "EN-L10-C02-S03",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 2번: The soccer player finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The soccer player finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S03-Q03",
+          "stageId": "EN-L10-C02-S03",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student finds the answer every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S03-Q04",
+          "stageId": "EN-L10-C02-S03",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina reads books every week but completed it yesterday.",
+            "yesterday it completed but week every books reads Mina.",
+            "reads books every week but completed it yesterday Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina reads books every week but completed it yesterday.",
+          "explanation": "바른 어순은 “Mina reads books every week but completed it yesterday.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina reads books every week but completed it yesterday.",
+            "Mina reads books every week but completed it yesterday"
+          ],
+          "exampleSentence": "Mina reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S03-Q05",
+          "stageId": "EN-L10-C02-S03",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 5번: Tom reads books every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S03-Q06",
+          "stageId": "EN-L10-C02-S03",
+          "type": "fillBlank",
+          "prompt": "조동사 과거 추측: 문법 구조 분석 · 6번: My brother reads books every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S04-Q01",
+          "stageId": "EN-L10-C02-S04",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 1번: Tom opens the window every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S04-Q02",
+          "stageId": "EN-L10-C02-S04",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother opens the window every week but completed it yesterday My.",
+            "subject",
+            "My brother opens the window every week but completed it yesterday.",
+            "yesterday it completed but week every window the opens brother My."
+          ],
+          "correctAnswer": "My brother opens the window every week but completed it yesterday.",
+          "explanation": "바른 어순은 “My brother opens the window every week but completed it yesterday.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother opens the window every week but completed it yesterday.",
+            "My brother opens the window every week but completed it yesterday"
+          ],
+          "exampleSentence": "My brother opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S04-Q03",
+          "stageId": "EN-L10-C02-S04",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 3번: The student opens the window every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "yesterday",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The student opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S04-Q04",
+          "stageId": "EN-L10-C02-S04",
+          "type": "fillBlank",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 4번: Our teacher opens the window every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Our teacher opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S04-Q05",
+          "stageId": "EN-L10-C02-S04",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist opens the window every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S04-Q06",
+          "stageId": "EN-L10-C02-S04",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 문장 분석 연습 · 6번: The soccer player opens the window every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The soccer player opens the window every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S05-Q01",
+          "stageId": "EN-L10-C02-S05",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 1번: “The young artist reads books every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "The young artist reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S05-Q02",
+          "stageId": "EN-L10-C02-S05",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 2번: The soccer player reads books every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The soccer player reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S05-Q03",
+          "stageId": "EN-L10-C02-S05",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student reads books every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S05-Q04",
+          "stageId": "EN-L10-C02-S05",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 4번: Mina writes short notes every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Mina writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S05-Q05",
+          "stageId": "EN-L10-C02-S05",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 5번: Tom writes short notes every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S05-Q06",
+          "stageId": "EN-L10-C02-S05",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother writes short notes every week but completed it yesterday My.",
+            "subject",
+            "My brother writes short notes every week but completed it yesterday.",
+            "yesterday it completed but week every notes short writes brother My."
+          ],
+          "correctAnswer": "My brother writes short notes every week but completed it yesterday.",
+          "explanation": "바른 어순은 “My brother writes short notes every week but completed it yesterday.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother writes short notes every week but completed it yesterday.",
+            "My brother writes short notes every week but completed it yesterday"
+          ],
+          "exampleSentence": "My brother writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S06-Q01",
+          "stageId": "EN-L10-C02-S06",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 1번: “Tom carries a blue bag every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "Tom carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S06-Q02",
+          "stageId": "EN-L10-C02-S06",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 2번: My brother carries a blue bag every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S06-Q03",
+          "stageId": "EN-L10-C02-S06",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student carries a blue bag every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S06-Q04",
+          "stageId": "EN-L10-C02-S06",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 4번: Our teacher carries a blue bag every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S06-Q05",
+          "stageId": "EN-L10-C02-S06",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 5번: The young artist carries a blue bag every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S06-Q06",
+          "stageId": "EN-L10-C02-S06",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player carries a blue bag every week but completed it yesterday The.",
+            "subject",
+            "The soccer player carries a blue bag every week but completed it yesterday.",
+            "yesterday it completed but week every bag blue a carries player soccer The."
+          ],
+          "correctAnswer": "The soccer player carries a blue bag every week but completed it yesterday.",
+          "explanation": "바른 어순은 “The soccer player carries a blue bag every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player carries a blue bag every week but completed it yesterday.",
+            "The soccer player carries a blue bag every week but completed it yesterday"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S07-Q01",
+          "stageId": "EN-L10-C02-S07",
+          "type": "listeningChoice",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother opens the window every week but completed it yesterday.",
+            "The new student makes a simple plan every week but completed it yesterday.",
+            "Our teacher writes short notes every week but completed it yesterday.",
+            "The young artist writes short notes every week but completed it yesterday."
+          ],
+          "correctAnswer": "The young artist writes short notes every week but completed it yesterday.",
+          "explanation": "들은 문장은 “The young artist writes short notes every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist writes short notes every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The young artist writes short notes every week but completed it yesterday."
+          ],
+          "exampleSentence": "The young artist writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S07-Q02",
+          "stageId": "EN-L10-C02-S07",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 2번: The soccer player writes short notes every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The soccer player writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S07-Q03",
+          "stageId": "EN-L10-C02-S07",
+          "type": "listeningChoice",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player writes short notes every week but completed it yesterday.",
+            "The new student writes short notes every week but completed it yesterday.",
+            "Our teacher opens the window every week but completed it yesterday.",
+            "Tom finds the answer every week but completed it yesterday."
+          ],
+          "correctAnswer": "The new student writes short notes every week but completed it yesterday.",
+          "explanation": "들은 문장은 “The new student writes short notes every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student writes short notes every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The new student writes short notes every week but completed it yesterday."
+          ],
+          "exampleSentence": "The new student writes short notes every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S07-Q04",
+          "stageId": "EN-L10-C02-S07",
+          "type": "dictation",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina studies English every week but completed it yesterday.",
+          "explanation": "바른 문장은 “Mina studies English every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina studies English every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "Mina studies English every week but completed it yesterday.",
+            "Mina studies English every week but completed it yesterday"
+          ],
+          "exampleSentence": "Mina studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S07-Q05",
+          "stageId": "EN-L10-C02-S07",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom studies English every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S07-Q06",
+          "stageId": "EN-L10-C02-S07",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 핵심 정보 듣기 · 6번: My brother studies English every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S08-Q01",
+          "stageId": "EN-L10-C02-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom makes a simple plan every week but completed it yesterday.",
+          "explanation": "“Tom makes a simple plan every week but completed it yesterday.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom makes a simple plan every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "Tom makes a simple plan every week but completed it yesterday.",
+            "Tom makes a simple plan every week but completed it yesterday"
+          ],
+          "exampleSentence": "Tom makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S08-Q02",
+          "stageId": "EN-L10-C02-S08",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 2번: My brother makes a simple plan every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S08-Q03",
+          "stageId": "EN-L10-C02-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student makes a simple plan every week but completed it yesterday.",
+          "explanation": "“The student makes a simple plan every week but completed it yesterday.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student makes a simple plan every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The student makes a simple plan every week but completed it yesterday.",
+            "The student makes a simple plan every week but completed it yesterday"
+          ],
+          "exampleSentence": "The student makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S08-Q04",
+          "stageId": "EN-L10-C02-S08",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 4번: “Our teacher makes a simple plan every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "Our teacher makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S08-Q05",
+          "stageId": "EN-L10-C02-S08",
+          "type": "matching",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 5번: The young artist makes a simple plan every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S08-Q06",
+          "stageId": "EN-L10-C02-S08",
+          "type": "trueFalse",
+          "prompt": "조동사 과거 추측: 근거 설명하기 · 6번: 핵심 구조가 ‘yesterday’이면 O, 아니면 X를 고르세요: The soccer player makes a simple plan every week but completed it yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S09-Q01",
+          "stageId": "EN-L10-C02-S09",
+          "type": "fillBlank",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 1번: The young artist studies English every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The young artist studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S09-Q02",
+          "stageId": "EN-L10-C02-S09",
+          "type": "dictation",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player studies English every week but completed it yesterday.",
+          "explanation": "바른 문장은 “The soccer player studies English every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player studies English every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The soccer player studies English every week but completed it yesterday.",
+            "The soccer player studies English every week but completed it yesterday"
+          ],
+          "exampleSentence": "The soccer player studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S09-Q03",
+          "stageId": "EN-L10-C02-S09",
+          "type": "ordering",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student studies English every week but completed it yesterday.",
+            "yesterday it completed but week every English studies student new The.",
+            "new student studies English every week but completed it yesterday The."
+          ],
+          "correctAnswer": "The new student studies English every week but completed it yesterday.",
+          "explanation": "바른 어순은 “The new student studies English every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student studies English every week but completed it yesterday.",
+            "The new student studies English every week but completed it yesterday"
+          ],
+          "exampleSentence": "The new student studies English every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S09-Q04",
+          "stageId": "EN-L10-C02-S09",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 4번: Mina plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Mina plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S09-Q05",
+          "stageId": "EN-L10-C02-S09",
+          "type": "fillBlank",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 5번: Tom plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S09-Q06",
+          "stageId": "EN-L10-C02-S09",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 논리 문장 쓰기 · 6번: My brother plays soccer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother plays soccer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C02-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C02-S10-Q01",
+          "stageId": "EN-L10-C02-S10",
+          "type": "reviewMixed",
+          "prompt": "조동사 과거 추측: 과정 평가 · 1번: Tom finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "yesterday"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Tom finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q02",
+          "stageId": "EN-L10-C02-S10",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 과정 평가 · 2번: My brother finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q03",
+          "stageId": "EN-L10-C02-S10",
+          "type": "listeningChoice",
+          "prompt": "조동사 과거 추측: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother finds the answer every week but completed it yesterday.",
+            "The student finds the answer every week but completed it yesterday.",
+            "Mina studies English every week but completed it yesterday.",
+            "The young artist opens the window every week but completed it yesterday."
+          ],
+          "correctAnswer": "The student finds the answer every week but completed it yesterday.",
+          "explanation": "들은 문장은 “The student finds the answer every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student finds the answer every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The student finds the answer every week but completed it yesterday."
+          ],
+          "exampleSentence": "The student finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q04",
+          "stageId": "EN-L10-C02-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 과정 평가 · 4번: Our teacher finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Our teacher finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q05",
+          "stageId": "EN-L10-C02-S10",
+          "type": "dictation",
+          "prompt": "조동사 과거 추측: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist finds the answer every week but completed it yesterday.",
+          "explanation": "바른 문장은 “The young artist finds the answer every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist finds the answer every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The young artist finds the answer every week but completed it yesterday.",
+            "The young artist finds the answer every week but completed it yesterday"
+          ],
+          "exampleSentence": "The young artist finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q06",
+          "stageId": "EN-L10-C02-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 과정 평가 · 6번: “The soccer player finds the answer every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "The soccer player finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q07",
+          "stageId": "EN-L10-C02-S10",
+          "type": "reviewMixed",
+          "prompt": "조동사 과거 추측: 과정 평가 · 7번: The new student finds the answer every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "yesterday",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "The new student finds the answer every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q08",
+          "stageId": "EN-L10-C02-S10",
+          "type": "multipleChoice",
+          "prompt": "조동사 과거 추측: 과정 평가 · 8번: Mina reads books every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "yesterday",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "Mina reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q09",
+          "stageId": "EN-L10-C02-S10",
+          "type": "listeningChoice",
+          "prompt": "조동사 과거 추측: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player studies English every week but completed it yesterday.",
+            "The student carries a blue bag every week but completed it yesterday.",
+            "Mina reads books every week but completed it yesterday.",
+            "Tom reads books every week but completed it yesterday."
+          ],
+          "correctAnswer": "Tom reads books every week but completed it yesterday.",
+          "explanation": "들은 문장은 “Tom reads books every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom reads books every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "Tom reads books every week but completed it yesterday."
+          ],
+          "exampleSentence": "Tom reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q10",
+          "stageId": "EN-L10-C02-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조동사 과거 추측: 과정 평가 · 10번: My brother reads books every week but completed it ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "yesterday",
+            "subject"
+          ],
+          "correctAnswer": "yesterday",
+          "explanation": "시제 비교 문맥에 맞는 답은 yesterday입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yesterday",
+            "yesterday"
+          ],
+          "exampleSentence": "My brother reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q11",
+          "stageId": "EN-L10-C02-S10",
+          "type": "dictation",
+          "prompt": "조동사 과거 추측: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student reads books every week but completed it yesterday.",
+          "explanation": "바른 문장은 “The student reads books every week but completed it yesterday.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student reads books every week but completed it yesterday.",
+          "acceptedAnswers": [
+            "The student reads books every week but completed it yesterday.",
+            "The student reads books every week but completed it yesterday"
+          ],
+          "exampleSentence": "The student reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        },
+        {
+          "questionId": "EN-L10-C02-S10-Q12",
+          "stageId": "EN-L10-C02-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조동사 과거 추측: 과정 평가 · 12번: “Our teacher reads books every week but completed it yesterday.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "반복되는 현재와 끝난 과거를 비교한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "반복되는 현재와 끝난 과거를 비교한다.",
+          "explanation": "핵심 의미는 ‘반복되는 현재와 끝난 과거를 비교한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "시제 비교",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조동사 과거 추측 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "반복되는 현재와 끝난 과거를 비교한다."
+          ],
+          "exampleSentence": "Our teacher reads books every week but completed it yesterday.",
+          "koreanMeaning": "반복되는 현재와 끝난 과거를 비교한다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C07",
+  "stages": [
+    {
+      "stageId": "EN-L03-C07-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S01-Q01",
+          "stageId": "EN-L03-C07-S01",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 1번: ‘학교’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "pencil",
+            "school"
+          ],
+          "correctAnswer": "school",
+          "explanation": "‘학교’은 영어로 school입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "school",
+            "SCHOOL"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C07-S01-Q02",
+          "stageId": "EN-L03-C07-S01",
+          "type": "sentenceMeaning",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 2번: “I have a classroom.”에서 classroom의 뜻을 고르세요.",
+          "choices": [
+            "책",
+            "연필",
+            "교실",
+            "학교"
+          ],
+          "correctAnswer": "교실",
+          "explanation": "classroom은 ‘교실’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "교실"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        },
+        {
+          "questionId": "EN-L03-C07-S01-Q03",
+          "stageId": "EN-L03-C07-S01",
+          "type": "trueFalse",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 3번: book의 뜻이 ‘학교’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "book의 뜻은 ‘책’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S01-Q04",
+          "stageId": "EN-L03-C07-S01",
+          "type": "matching",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 4번: pencil과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "연필",
+            "학교",
+            "교실",
+            "책"
+          ],
+          "correctAnswer": "연필",
+          "explanation": "pencil은 ‘연필’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "연필"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S01-Q05",
+          "stageId": "EN-L03-C07-S01",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 5번: This is my ___. 빈칸에 ‘펜’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "pen"
+          ],
+          "correctAnswer": "pen",
+          "explanation": "문맥과 뜻에 맞는 단어는 pen입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S01-Q06",
+          "stageId": "EN-L03-C07-S01",
+          "type": "categorization",
+          "prompt": "학교와 교실: 핵심 표현 이해 · 6번: bag을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "학교",
+            "집"
+          ],
+          "correctAnswer": "학교",
+          "explanation": "bag은 학교 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "학교"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S02-Q01",
+          "stageId": "EN-L03-C07-S02",
+          "type": "matching",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 1번: pencil과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "학교",
+            "교실",
+            "책",
+            "연필"
+          ],
+          "correctAnswer": "연필",
+          "explanation": "pencil은 ‘연필’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "연필"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S02-Q02",
+          "stageId": "EN-L03-C07-S02",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 2번: ‘펜’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "pen",
+            "school"
+          ],
+          "correctAnswer": "pen",
+          "explanation": "‘펜’은 영어로 pen입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S02-Q03",
+          "stageId": "EN-L03-C07-S02",
+          "type": "categorization",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 3번: bag을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "학교",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "학교",
+          "explanation": "bag은 학교 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "학교"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        },
+        {
+          "questionId": "EN-L03-C07-S02-Q04",
+          "stageId": "EN-L03-C07-S02",
+          "type": "spelling",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 4번: r_ler에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "ruler의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        },
+        {
+          "questionId": "EN-L03-C07-S02-Q05",
+          "stageId": "EN-L03-C07-S02",
+          "type": "wordBuilding",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘지우개’을 만드세요.",
+          "choices": [
+            "resare",
+            "rasere",
+            "erase",
+            "eraser"
+          ],
+          "correctAnswer": "eraser",
+          "explanation": "바른 철자는 eraser입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eraser",
+            "ERASER"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        },
+        {
+          "questionId": "EN-L03-C07-S02-Q06",
+          "stageId": "EN-L03-C07-S02",
+          "type": "fillBlank",
+          "prompt": "학교와 교실: 생활 어휘 문맥 학습 · 6번: pap_r에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "paper의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S03-Q01",
+          "stageId": "EN-L03-C07-S03",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 문장 구조 발견 · 1번: This is my ___. 빈칸에 ‘자’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "ruler"
+          ],
+          "correctAnswer": "ruler",
+          "explanation": "문맥과 뜻에 맞는 단어는 ruler입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ruler",
+            "RULER"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        },
+        {
+          "questionId": "EN-L03-C07-S03-Q02",
+          "stageId": "EN-L03-C07-S03",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 문장 구조 발견 · 2번: ‘지우개’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "eraser",
+            "school"
+          ],
+          "correctAnswer": "eraser",
+          "explanation": "‘지우개’은 영어로 eraser입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eraser",
+            "ERASER"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        },
+        {
+          "questionId": "EN-L03-C07-S03-Q03",
+          "stageId": "EN-L03-C07-S03",
+          "type": "trueFalse",
+          "prompt": "학교와 교실: 문장 구조 발견 · 3번: paper의 뜻이 ‘학교’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "paper의 뜻은 ‘종이’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        },
+        {
+          "questionId": "EN-L03-C07-S03-Q04",
+          "stageId": "EN-L03-C07-S03",
+          "type": "ordering",
+          "prompt": "학교와 교실: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I have a board.",
+            "board a have I.",
+            "have a board I."
+          ],
+          "correctAnswer": "I have a board.",
+          "explanation": "바른 어순은 “I have a board.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a board.",
+            "I have a board"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        },
+        {
+          "questionId": "EN-L03-C07-S03-Q05",
+          "stageId": "EN-L03-C07-S03",
+          "type": "fillBlank",
+          "prompt": "학교와 교실: 문장 구조 발견 · 5번: sc_ool에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "school의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C07-S03-Q06",
+          "stageId": "EN-L03-C07-S03",
+          "type": "matching",
+          "prompt": "학교와 교실: 문장 구조 발견 · 6번: classroom과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "책",
+            "연필",
+            "교실",
+            "학교"
+          ],
+          "correctAnswer": "교실",
+          "explanation": "classroom은 ‘교실’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "교실"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S04-Q01",
+          "stageId": "EN-L03-C07-S04",
+          "type": "wordBuilding",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘칠판’을 만드세요.",
+          "choices": [
+            "draob",
+            "oardb",
+            "boar",
+            "board"
+          ],
+          "correctAnswer": "board",
+          "explanation": "바른 철자는 board입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "board",
+            "BOARD"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        },
+        {
+          "questionId": "EN-L03-C07-S04-Q02",
+          "stageId": "EN-L03-C07-S04",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 2번: This is my ___. 빈칸에 ‘학교’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "book",
+            "pencil",
+            "school",
+            "classroom"
+          ],
+          "correctAnswer": "school",
+          "explanation": "문맥과 뜻에 맞는 단어는 school입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "school",
+            "SCHOOL"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C07-S04-Q03",
+          "stageId": "EN-L03-C07-S04",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 3번: ‘교실’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pencil",
+            "classroom",
+            "school",
+            "book"
+          ],
+          "correctAnswer": "classroom",
+          "explanation": "‘교실’은 영어로 classroom입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "classroom",
+            "CLASSROOM"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        },
+        {
+          "questionId": "EN-L03-C07-S04-Q04",
+          "stageId": "EN-L03-C07-S04",
+          "type": "categorization",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 4번: book을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "학교",
+          "explanation": "book은 학교 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "학교"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S04-Q05",
+          "stageId": "EN-L03-C07-S04",
+          "type": "ordering",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "pencil a have I.",
+            "have a pencil I.",
+            "I have a pencil."
+          ],
+          "correctAnswer": "I have a pencil.",
+          "explanation": "바른 어순은 “I have a pencil.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have a pencil.",
+            "I have a pencil"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S04-Q06",
+          "stageId": "EN-L03-C07-S04",
+          "type": "fillBlank",
+          "prompt": "학교와 교실: 짧은 문장 연습 · 6번: p_n에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "pen의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S05-Q01",
+          "stageId": "EN-L03-C07-S05",
+          "type": "sentenceMeaning",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 1번: “This is my book.”에서 book의 뜻을 고르세요.",
+          "choices": [
+            "학교",
+            "교실",
+            "연필",
+            "책"
+          ],
+          "correctAnswer": "책",
+          "explanation": "book은 ‘책’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "책"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S05-Q02",
+          "stageId": "EN-L03-C07-S05",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 2번: ‘연필’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "pencil",
+            "school"
+          ],
+          "correctAnswer": "pencil",
+          "explanation": "‘연필’은 영어로 pencil입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pencil",
+            "PENCIL"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S05-Q03",
+          "stageId": "EN-L03-C07-S05",
+          "type": "trueFalse",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 3번: pen의 뜻이 ‘학교’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "pen의 뜻은 ‘펜’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S05-Q04",
+          "stageId": "EN-L03-C07-S05",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 4번: I have a ___. 빈칸에 ‘가방’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "bag",
+            "school",
+            "classroom",
+            "book"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "문맥과 뜻에 맞는 단어는 bag입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        },
+        {
+          "questionId": "EN-L03-C07-S05-Q05",
+          "stageId": "EN-L03-C07-S05",
+          "type": "matching",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 5번: ruler과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "학교",
+            "교실",
+            "책",
+            "자"
+          ],
+          "correctAnswer": "자",
+          "explanation": "ruler은 ‘자’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "자"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        },
+        {
+          "questionId": "EN-L03-C07-S05-Q06",
+          "stageId": "EN-L03-C07-S05",
+          "type": "ordering",
+          "prompt": "학교와 교실: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have an eraser I.",
+            "I have an eraser.",
+            "eraser an have I."
+          ],
+          "correctAnswer": "I have an eraser.",
+          "explanation": "바른 어순은 “I have an eraser.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have an eraser.",
+            "I have an eraser"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S06-Q01",
+          "stageId": "EN-L03-C07-S06",
+          "type": "listeningChoice",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "bag"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "음성의 핵심 단어는 bag입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bag",
+          "acceptedAnswers": [
+            "bag"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        },
+        {
+          "questionId": "EN-L03-C07-S06-Q02",
+          "stageId": "EN-L03-C07-S06",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 2번: ‘자’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "ruler",
+            "school"
+          ],
+          "correctAnswer": "ruler",
+          "explanation": "‘자’은 영어로 ruler입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ruler",
+            "RULER"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        },
+        {
+          "questionId": "EN-L03-C07-S06-Q03",
+          "stageId": "EN-L03-C07-S06",
+          "type": "listeningChoice",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "book",
+            "eraser",
+            "school",
+            "classroom"
+          ],
+          "correctAnswer": "eraser",
+          "explanation": "음성의 핵심 단어는 eraser입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "eraser",
+          "acceptedAnswers": [
+            "eraser"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        },
+        {
+          "questionId": "EN-L03-C07-S06-Q04",
+          "stageId": "EN-L03-C07-S06",
+          "type": "dictation",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "paper",
+          "explanation": "종이은 영어로 paper입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "paper",
+          "acceptedAnswers": [
+            "paper",
+            "PAPER"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        },
+        {
+          "questionId": "EN-L03-C07-S06-Q05",
+          "stageId": "EN-L03-C07-S06",
+          "type": "trueFalse",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 5번: board의 뜻이 ‘학교’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "board의 뜻은 ‘칠판’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        },
+        {
+          "questionId": "EN-L03-C07-S06-Q06",
+          "stageId": "EN-L03-C07-S06",
+          "type": "matching",
+          "prompt": "학교와 교실: 생활 대화 듣기 · 6번: school과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "책",
+            "연필",
+            "학교",
+            "교실"
+          ],
+          "correctAnswer": "학교",
+          "explanation": "school은 ‘학교’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "학교"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S07-Q01",
+          "stageId": "EN-L03-C07-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "학교와 교실: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my paper.",
+          "explanation": "This is my paper.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my paper.",
+          "acceptedAnswers": [
+            "This is my paper.",
+            "This is my paper"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        },
+        {
+          "questionId": "EN-L03-C07-S07-Q02",
+          "stageId": "EN-L03-C07-S07",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 표현 말하기 · 2번: ‘칠판’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "board",
+            "school"
+          ],
+          "correctAnswer": "board",
+          "explanation": "‘칠판’은 영어로 board입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "board",
+            "BOARD"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        },
+        {
+          "questionId": "EN-L03-C07-S07-Q03",
+          "stageId": "EN-L03-C07-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "학교와 교실: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "This is my school.",
+          "explanation": "This is my school.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "This is my school.",
+          "acceptedAnswers": [
+            "This is my school.",
+            "This is my school"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C07-S07-Q04",
+          "stageId": "EN-L03-C07-S07",
+          "type": "sentenceMeaning",
+          "prompt": "학교와 교실: 표현 말하기 · 4번: “I have a classroom.”에서 classroom의 뜻을 고르세요.",
+          "choices": [
+            "교실",
+            "학교",
+            "책",
+            "연필"
+          ],
+          "correctAnswer": "교실",
+          "explanation": "classroom은 ‘교실’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "교실"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        },
+        {
+          "questionId": "EN-L03-C07-S07-Q05",
+          "stageId": "EN-L03-C07-S07",
+          "type": "matching",
+          "prompt": "학교와 교실: 표현 말하기 · 5번: book과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "학교",
+            "교실",
+            "연필",
+            "책"
+          ],
+          "correctAnswer": "책",
+          "explanation": "book은 ‘책’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "책"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S07-Q06",
+          "stageId": "EN-L03-C07-S07",
+          "type": "trueFalse",
+          "prompt": "학교와 교실: 표현 말하기 · 6번: pencil의 뜻이 ‘연필’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "pencil의 뜻은 ‘연필’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S08-Q01",
+          "stageId": "EN-L03-C07-S08",
+          "type": "spelling",
+          "prompt": "학교와 교실: 문장 쓰기 · 1번: _lassroom에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "classroom의 빠진 글자는 c입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        },
+        {
+          "questionId": "EN-L03-C07-S08-Q02",
+          "stageId": "EN-L03-C07-S08",
+          "type": "fillBlank",
+          "prompt": "학교와 교실: 문장 쓰기 · 2번: bo_k에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "book의 빠진 글자는 o입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S08-Q03",
+          "stageId": "EN-L03-C07-S08",
+          "type": "dictation",
+          "prompt": "학교와 교실: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "pencil",
+          "explanation": "연필은 영어로 pencil입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pencil",
+          "acceptedAnswers": [
+            "pencil",
+            "PENCIL"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S08-Q04",
+          "stageId": "EN-L03-C07-S08",
+          "type": "wordBuilding",
+          "prompt": "학교와 교실: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘펜’을 만드세요.",
+          "choices": [
+            "pen",
+            "nep",
+            "enp",
+            "pe"
+          ],
+          "correctAnswer": "pen",
+          "explanation": "바른 철자는 pen입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S08-Q05",
+          "stageId": "EN-L03-C07-S08",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 문장 쓰기 · 5번: I have a ___. 빈칸에 ‘가방’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "bag"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "문맥과 뜻에 맞는 단어는 bag입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        },
+        {
+          "questionId": "EN-L03-C07-S08-Q06",
+          "stageId": "EN-L03-C07-S08",
+          "type": "ordering",
+          "prompt": "학교와 교실: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is my ruler This.",
+            "This is my ruler.",
+            "ruler my is This."
+          ],
+          "correctAnswer": "This is my ruler.",
+          "explanation": "바른 어순은 “This is my ruler.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This is my ruler.",
+            "This is my ruler"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C07-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C07-S09-Q01",
+          "stageId": "EN-L03-C07-S09",
+          "type": "reviewMixed",
+          "prompt": "학교와 교실: 과정 평가 · 1번: ‘펜’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "book",
+            "pen"
+          ],
+          "correctAnswer": "pen",
+          "explanation": "‘펜’은 영어로 pen입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q02",
+          "stageId": "EN-L03-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 과정 평가 · 2번: ‘가방’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "bag",
+            "school"
+          ],
+          "correctAnswer": "bag",
+          "explanation": "‘가방’은 영어로 bag입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bag",
+            "BAG"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q03",
+          "stageId": "EN-L03-C07-S09",
+          "type": "listeningChoice",
+          "prompt": "학교와 교실: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "book",
+            "ruler",
+            "school",
+            "classroom"
+          ],
+          "correctAnswer": "ruler",
+          "explanation": "음성의 핵심 단어는 ruler입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "ruler",
+          "acceptedAnswers": [
+            "ruler"
+          ],
+          "koreanMeaning": "자",
+          "exampleSentence": "This is my ruler."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q04",
+          "stageId": "EN-L03-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 과정 평가 · 4번: I have an ___. 빈칸에 ‘지우개’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "eraser",
+            "school",
+            "classroom",
+            "book"
+          ],
+          "correctAnswer": "eraser",
+          "explanation": "문맥과 뜻에 맞는 단어는 eraser입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "eraser",
+            "ERASER"
+          ],
+          "koreanMeaning": "지우개",
+          "exampleSentence": "I have an eraser."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q05",
+          "stageId": "EN-L03-C07-S09",
+          "type": "dictation",
+          "prompt": "학교와 교실: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "paper",
+          "explanation": "종이은 영어로 paper입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "paper",
+          "acceptedAnswers": [
+            "paper",
+            "PAPER"
+          ],
+          "koreanMeaning": "종이",
+          "exampleSentence": "This is my paper."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q06",
+          "stageId": "EN-L03-C07-S09",
+          "type": "sentenceMeaning",
+          "prompt": "학교와 교실: 과정 평가 · 6번: “I have a board.”에서 board의 뜻을 고르세요.",
+          "choices": [
+            "교실",
+            "책",
+            "칠판",
+            "학교"
+          ],
+          "correctAnswer": "칠판",
+          "explanation": "board은 ‘칠판’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "칠판"
+          ],
+          "koreanMeaning": "칠판",
+          "exampleSentence": "I have a board."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q07",
+          "stageId": "EN-L03-C07-S09",
+          "type": "reviewMixed",
+          "prompt": "학교와 교실: 과정 평가 · 7번: ‘학교’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "pencil",
+            "school",
+            "classroom",
+            "book"
+          ],
+          "correctAnswer": "school",
+          "explanation": "‘학교’은 영어로 school입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "school",
+            "SCHOOL"
+          ],
+          "koreanMeaning": "학교",
+          "exampleSentence": "This is my school."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q08",
+          "stageId": "EN-L03-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "학교와 교실: 과정 평가 · 8번: ‘교실’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "school",
+            "book",
+            "pencil"
+          ],
+          "correctAnswer": "classroom",
+          "explanation": "‘교실’은 영어로 classroom입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "classroom",
+            "CLASSROOM"
+          ],
+          "koreanMeaning": "교실",
+          "exampleSentence": "I have a classroom."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q09",
+          "stageId": "EN-L03-C07-S09",
+          "type": "listeningChoice",
+          "prompt": "학교와 교실: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "school",
+            "classroom",
+            "pencil",
+            "book"
+          ],
+          "correctAnswer": "book",
+          "explanation": "음성의 핵심 단어는 book입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "book",
+          "acceptedAnswers": [
+            "book"
+          ],
+          "koreanMeaning": "책",
+          "exampleSentence": "This is my book."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q10",
+          "stageId": "EN-L03-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "학교와 교실: 과정 평가 · 10번: I have a ___. 빈칸에 ‘연필’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "classroom",
+            "book",
+            "pencil",
+            "school"
+          ],
+          "correctAnswer": "pencil",
+          "explanation": "문맥과 뜻에 맞는 단어는 pencil입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pencil",
+            "PENCIL"
+          ],
+          "koreanMeaning": "연필",
+          "exampleSentence": "I have a pencil."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q11",
+          "stageId": "EN-L03-C07-S09",
+          "type": "dictation",
+          "prompt": "학교와 교실: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "pen",
+          "explanation": "펜은 영어로 pen입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pen",
+          "acceptedAnswers": [
+            "pen",
+            "PEN"
+          ],
+          "koreanMeaning": "펜",
+          "exampleSentence": "This is my pen."
+        },
+        {
+          "questionId": "EN-L03-C07-S09-Q12",
+          "stageId": "EN-L03-C07-S09",
+          "type": "sentenceMeaning",
+          "prompt": "학교와 교실: 과정 평가 · 12번: “I have a bag.”에서 bag의 뜻을 고르세요.",
+          "choices": [
+            "가방",
+            "학교",
+            "교실",
+            "책"
+          ],
+          "correctAnswer": "가방",
+          "explanation": "bag은 ‘가방’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "학교와 교실",
+          "grammarFocus": "This is + 명사",
+          "sourceObjective": "학교와 교실 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "가방"
+          ],
+          "koreanMeaning": "가방",
+          "exampleSentence": "I have a bag."
+        }
+      ]
+    }
+  ]
+}

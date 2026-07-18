@@ -1,0 +1,2998 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C15",
+  "stages": [
+    {
+      "stageId": "EN-L09-C15-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S01-Q01",
+          "stageId": "EN-L09-C15-S01",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 1번: The young artist reads books on Saturday morning. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist reads books on Saturday morning. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S01-Q02",
+          "stageId": "EN-L09-C15-S01",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 2번: 핵심 구조가 ‘arrived’이면 O, 아니면 X를 고르세요: The soccer player arrived on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player arrived on Saturday morning.",
+          "koreanMeaning": "The soccer player가 on Saturday morning에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S01-Q03",
+          "stageId": "EN-L09-C15-S01",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 3번: The new student is ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "tired",
+            "busy",
+            "helpful"
+          ],
+          "correctAnswer": "tired",
+          "explanation": "2형식 문맥에 맞는 답은 tired입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired",
+            "tired"
+          ],
+          "exampleSentence": "The new student is tired on Saturday morning.",
+          "koreanMeaning": "The new student는 on Saturday morning에서 tired한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S01-Q04",
+          "stageId": "EN-L09-C15-S01",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 4번: “Mina writes short notes on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Mina는 on Saturday morning에서 short notes을 대상으로 행동한다.",
+            "The young artist는 at the community center에서 soccer을 대상으로 행동한다.",
+            "My brother는 after class에서 a simple plan을 대상으로 행동한다.",
+            "The new student는 in the library에서 books을 대상으로 행동한다."
+          ],
+          "correctAnswer": "Mina는 on Saturday morning에서 short notes을 대상으로 행동한다.",
+          "explanation": "핵심 의미는 ‘Mina는 on Saturday morning에서 short notes을 대상으로 행동한다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 on Saturday morning에서 short notes을 대상으로 행동한다."
+          ],
+          "exampleSentence": "Mina writes short notes on Saturday morning.",
+          "koreanMeaning": "Mina는 on Saturday morning에서 short notes을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S01-Q05",
+          "stageId": "EN-L09-C15-S01",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 5번: Tom gives ___ on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend soccer",
+            "a friend a simple plan",
+            "subject",
+            "a friend short notes"
+          ],
+          "correctAnswer": "a friend short notes",
+          "explanation": "4형식 문맥에 맞는 답은 a friend short notes입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend short notes",
+            "a friend short notes"
+          ],
+          "exampleSentence": "Tom gives a friend short notes on Saturday morning.",
+          "koreanMeaning": "Tom는 친구에게 short notes을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S01-Q06",
+          "stageId": "EN-L09-C15-S01",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother keeps the room tired on Saturday morning My.",
+            "subject",
+            "My brother keeps the room tired on Saturday morning.",
+            "morning Saturday on tired room the keeps brother My."
+          ],
+          "correctAnswer": "My brother keeps the room tired on Saturday morning.",
+          "explanation": "바른 어순은 “My brother keeps the room tired on Saturday morning.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother keeps the room tired on Saturday morning.",
+            "My brother keeps the room tired on Saturday morning"
+          ],
+          "exampleSentence": "My brother keeps the room tired on Saturday morning.",
+          "koreanMeaning": "My brother는 방을 tired하게 유지한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S02-Q01",
+          "stageId": "EN-L09-C15-S02",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 1번: Tom keeps ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the room careful",
+            "the room busy",
+            "the room confident",
+            "the room quiet"
+          ],
+          "correctAnswer": "the room quiet",
+          "explanation": "5형식 문맥에 맞는 답은 the room quiet입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room quiet",
+            "the room quiet"
+          ],
+          "exampleSentence": "Tom keeps the room quiet near the school.",
+          "koreanMeaning": "Tom는 방을 quiet하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S02-Q02",
+          "stageId": "EN-L09-C15-S02",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 2번: My brother calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S02-Q03",
+          "stageId": "EN-L09-C15-S02",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 3번: “The student carries a blue bag near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "이 문장의 주어는 My brother다.",
+            "이 문장의 주어는 The student다.",
+            "이 문장의 주어는 Mina다.",
+            "이 문장의 주어는 The young artist다."
+          ],
+          "correctAnswer": "이 문장의 주어는 The student다.",
+          "explanation": "핵심 의미는 ‘이 문장의 주어는 The student다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 문장의 주어는 The student다."
+          ],
+          "exampleSentence": "The student carries a blue bag near the school.",
+          "koreanMeaning": "이 문장의 주어는 The student다."
+        },
+        {
+          "questionId": "EN-L09-C15-S02-Q04",
+          "stageId": "EN-L09-C15-S02",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 4번: Our teacher ___ a blue bag near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "carries",
+            "reads",
+            "studies",
+            "subject"
+          ],
+          "correctAnswer": "carries",
+          "explanation": "동사 찾기 문맥에 맞는 답은 carries입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carries",
+            "carries"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag near the school.",
+          "koreanMeaning": "이 문장의 동사는 carries다."
+        },
+        {
+          "questionId": "EN-L09-C15-S02-Q05",
+          "stageId": "EN-L09-C15-S02",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 5번: The young artist carries a blue bag ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "on Saturday morning",
+            "at the community center",
+            "after class",
+            "near the school"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "The young artist carries a blue bag near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S02-Q06",
+          "stageId": "EN-L09-C15-S02",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘주어-동사-목적어’이면 O, 아니면 X를 고르세요: The soccer player carries a blue bag near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 주어-동사-목적어입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag near the school.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S03-Q01",
+          "stageId": "EN-L09-C15-S03",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 1번: The young artist writes short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "주어-동사-목적어"
+          ],
+          "correctAnswer": "주어-동사-목적어",
+          "explanation": "문장 구조 분석 문맥에 맞는 답은 주어-동사-목적어입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어-동사-목적어",
+            "주어-동사-목적어"
+          ],
+          "exampleSentence": "The young artist writes short notes in the library.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S03-Q02",
+          "stageId": "EN-L09-C15-S03",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 2번: The soccer player carefully writes short notes in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / finds / the answer",
+            "The young artist / writes / short notes",
+            "The soccer player / writes / short notes",
+            "The student / opens / the window"
+          ],
+          "correctAnswer": "The soccer player / writes / short notes",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / writes / short notes입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / writes / short notes",
+            "the soccer player / writes / short notes"
+          ],
+          "exampleSentence": "The soccer player carefully writes short notes in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S03-Q03",
+          "stageId": "EN-L09-C15-S03",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student writes short notes in the library, so the daily task is complete.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the daily task is complete입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student writes short notes in the library, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S03-Q04",
+          "stageId": "EN-L09-C15-S03",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina studies English in the library. This habit supports steady learning.",
+            "learning steady supports habit This library. the in English studies Mina.",
+            "studies English in the library. This habit supports steady learning Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina studies English in the library. This habit supports steady learning.",
+          "explanation": "바른 어순은 “Mina studies English in the library. This habit supports steady learning.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina studies English in the library. This habit supports steady learning.",
+            "Mina studies English in the library. This habit supports steady learning"
+          ],
+          "exampleSentence": "Mina studies English in the library. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S03-Q05",
+          "stageId": "EN-L09-C15-S03",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 5번: Tom ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Tom arrived in the library.",
+          "koreanMeaning": "Tom가 in the library에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S03-Q06",
+          "stageId": "EN-L09-C15-S03",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 문법 구조 분석 · 6번: My brother is ___ in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "busy",
+            "ready",
+            "quiet"
+          ],
+          "correctAnswer": "ready",
+          "explanation": "2형식 문맥에 맞는 답은 ready입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready",
+            "ready"
+          ],
+          "exampleSentence": "My brother is ready in the library.",
+          "koreanMeaning": "My brother는 in the library에서 ready한 상태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S04-Q01",
+          "stageId": "EN-L09-C15-S04",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 1번: Tom is ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy",
+            "ready",
+            "careful",
+            "helpful"
+          ],
+          "correctAnswer": "helpful",
+          "explanation": "2형식 문맥에 맞는 답은 helpful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful",
+            "helpful"
+          ],
+          "exampleSentence": "Tom is helpful after class.",
+          "koreanMeaning": "Tom는 after class에서 helpful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S04-Q02",
+          "stageId": "EN-L09-C15-S04",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother makes a simple plan after class My.",
+            "subject",
+            "My brother makes a simple plan after class.",
+            "class after plan simple a makes brother My."
+          ],
+          "correctAnswer": "My brother makes a simple plan after class.",
+          "explanation": "바른 어순은 “My brother makes a simple plan after class.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother makes a simple plan after class.",
+            "My brother makes a simple plan after class"
+          ],
+          "exampleSentence": "My brother makes a simple plan after class.",
+          "koreanMeaning": "My brother는 after class에서 a simple plan을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S04-Q03",
+          "stageId": "EN-L09-C15-S04",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 3번: The student gives ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "a friend a simple plan",
+            "a friend short notes",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "The student gives a friend a simple plan after class.",
+          "koreanMeaning": "The student는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S04-Q04",
+          "stageId": "EN-L09-C15-S04",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 4번: Our teacher keeps ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the room helpful",
+            "the room happy",
+            "the room ready",
+            "the room careful"
+          ],
+          "correctAnswer": "the room helpful",
+          "explanation": "5형식 문맥에 맞는 답은 the room helpful입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room helpful",
+            "the room helpful"
+          ],
+          "exampleSentence": "Our teacher keeps the room helpful after class.",
+          "koreanMeaning": "Our teacher는 방을 helpful하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S04-Q05",
+          "stageId": "EN-L09-C15-S04",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist calls the task easy after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S04-Q06",
+          "stageId": "EN-L09-C15-S04",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 문장 분석 연습 · 6번: ___ makes a simple plan after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina",
+            "The young artist",
+            "The soccer player",
+            "The student"
+          ],
+          "correctAnswer": "The soccer player",
+          "explanation": "주어 찾기 문맥에 맞는 답은 The soccer player입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player",
+            "the soccer player"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan after class.",
+          "koreanMeaning": "이 문장의 주어는 The soccer player다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S05-Q01",
+          "stageId": "EN-L09-C15-S05",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 1번: “The young artist studies English at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "이 문장의 주어는 My brother다.",
+            "이 문장의 주어는 The new student다.",
+            "이 문장의 주어는 Our teacher다.",
+            "이 문장의 주어는 The young artist다."
+          ],
+          "correctAnswer": "이 문장의 주어는 The young artist다.",
+          "explanation": "핵심 의미는 ‘이 문장의 주어는 The young artist다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 문장의 주어는 The young artist다."
+          ],
+          "exampleSentence": "The young artist studies English at the community center.",
+          "koreanMeaning": "이 문장의 주어는 The young artist다."
+        },
+        {
+          "questionId": "EN-L09-C15-S05-Q02",
+          "stageId": "EN-L09-C15-S05",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 2번: The soccer player ___ English at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "reads",
+            "subject",
+            "studies",
+            "carries"
+          ],
+          "correctAnswer": "studies",
+          "explanation": "동사 찾기 문맥에 맞는 답은 studies입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studies",
+            "studies"
+          ],
+          "exampleSentence": "The soccer player studies English at the community center.",
+          "koreanMeaning": "이 문장의 동사는 studies다."
+        },
+        {
+          "questionId": "EN-L09-C15-S05-Q03",
+          "stageId": "EN-L09-C15-S05",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 3번: 핵심 구조가 ‘after class’이면 O, 아니면 X를 고르세요: The new student studies English at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 at the community center입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student studies English at the community center.",
+          "koreanMeaning": "at the community center은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S05-Q04",
+          "stageId": "EN-L09-C15-S05",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 4번: Mina plays soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "주어-동사-목적어",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "주어-동사-목적어",
+          "explanation": "문장 구조 분석 문맥에 맞는 답은 주어-동사-목적어입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어-동사-목적어",
+            "주어-동사-목적어"
+          ],
+          "exampleSentence": "Mina plays soccer at the community center.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S05-Q05",
+          "stageId": "EN-L09-C15-S05",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 5번: Tom carefully plays soccer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "The soccer player / carries / a blue bag",
+            "The student / reads / books",
+            "Mina / plays / soccer",
+            "Tom / plays / soccer"
+          ],
+          "correctAnswer": "Tom / plays / soccer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Tom / plays / soccer입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom / plays / soccer",
+            "tom / plays / soccer"
+          ],
+          "exampleSentence": "Tom carefully plays soccer at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S05-Q06",
+          "stageId": "EN-L09-C15-S05",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother plays soccer at the community center, so the daily task is complete My.",
+            "subject",
+            "My brother plays soccer at the community center, so the daily task is complete.",
+            "complete is task daily the so center, community the at soccer plays brother My."
+          ],
+          "correctAnswer": "My brother plays soccer at the community center, so the daily task is complete.",
+          "explanation": "바른 어순은 “My brother plays soccer at the community center, so the daily task is complete.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother plays soccer at the community center, so the daily task is complete.",
+            "My brother plays soccer at the community center, so the daily task is complete"
+          ],
+          "exampleSentence": "My brother plays soccer at the community center, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S06-Q01",
+          "stageId": "EN-L09-C15-S06",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 1번: “Tom finds the answer during study time, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Tom finds the answer during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S06-Q02",
+          "stageId": "EN-L09-C15-S06",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 2번: My brother finds the answer during study time. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "steady learning",
+            "subject"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "My brother finds the answer during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S06-Q03",
+          "stageId": "EN-L09-C15-S06",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student arrived during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student arrived during study time.",
+          "koreanMeaning": "The student가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S06-Q04",
+          "stageId": "EN-L09-C15-S06",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 4번: Our teacher is ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful",
+            "busy",
+            "confident",
+            "helpful"
+          ],
+          "correctAnswer": "careful",
+          "explanation": "2형식 문맥에 맞는 답은 careful입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful",
+            "careful"
+          ],
+          "exampleSentence": "Our teacher is careful during study time.",
+          "koreanMeaning": "Our teacher는 during study time에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S06-Q05",
+          "stageId": "EN-L09-C15-S06",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 5번: The young artist finds ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "English",
+            "the window",
+            "subject",
+            "the answer"
+          ],
+          "correctAnswer": "the answer",
+          "explanation": "3형식 문맥에 맞는 답은 the answer입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the answer",
+            "the answer"
+          ],
+          "exampleSentence": "The young artist finds the answer during study time.",
+          "koreanMeaning": "The young artist는 during study time에서 the answer을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S06-Q06",
+          "stageId": "EN-L09-C15-S06",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player gives a friend the answer during study time The.",
+            "subject",
+            "The soccer player gives a friend the answer during study time.",
+            "time study during answer the friend a gives player soccer The."
+          ],
+          "correctAnswer": "The soccer player gives a friend the answer during study time.",
+          "explanation": "바른 어순은 “The soccer player gives a friend the answer during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player gives a friend the answer during study time.",
+            "The soccer player gives a friend the answer during study time"
+          ],
+          "exampleSentence": "The soccer player gives a friend the answer during study time.",
+          "koreanMeaning": "The soccer player는 친구에게 the answer을 준다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S07-Q01",
+          "stageId": "EN-L09-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother gives a friend a simple plan during study time.",
+            "The new student gives a friend books at the community center.",
+            "Our teacher gives a friend soccer after class.",
+            "The young artist gives a friend soccer near the school."
+          ],
+          "correctAnswer": "The young artist gives a friend soccer near the school.",
+          "explanation": "들은 문장은 “The young artist gives a friend soccer near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist gives a friend soccer near the school.",
+          "acceptedAnswers": [
+            "The young artist gives a friend soccer near the school."
+          ],
+          "exampleSentence": "The young artist gives a friend soccer near the school.",
+          "koreanMeaning": "The young artist는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S07-Q02",
+          "stageId": "EN-L09-C15-S07",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 2번: The soccer player keeps ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the room tired",
+            "the room busy",
+            "the room ready",
+            "the room careful"
+          ],
+          "correctAnswer": "the room ready",
+          "explanation": "5형식 문맥에 맞는 답은 the room ready입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room ready",
+            "the room ready"
+          ],
+          "exampleSentence": "The soccer player keeps the room ready near the school.",
+          "koreanMeaning": "The soccer player는 방을 ready하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S07-Q03",
+          "stageId": "EN-L09-C15-S07",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player calls the task easy after class.",
+            "The new student calls the task easy near the school.",
+            "Our teacher calls the task easy during study time.",
+            "Tom calls the task easy at the community center."
+          ],
+          "correctAnswer": "The new student calls the task easy near the school.",
+          "explanation": "들은 문장은 “The new student calls the task easy near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student calls the task easy near the school.",
+          "acceptedAnswers": [
+            "The new student calls the task easy near the school."
+          ],
+          "exampleSentence": "The new student calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S07-Q04",
+          "stageId": "EN-L09-C15-S07",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina opens the window near the school.",
+          "explanation": "바른 문장은 “Mina opens the window near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina opens the window near the school.",
+          "acceptedAnswers": [
+            "Mina opens the window near the school.",
+            "Mina opens the window near the school"
+          ],
+          "exampleSentence": "Mina opens the window near the school.",
+          "koreanMeaning": "이 문장의 주어는 Mina다."
+        },
+        {
+          "questionId": "EN-L09-C15-S07-Q05",
+          "stageId": "EN-L09-C15-S07",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘makes’이면 O, 아니면 X를 고르세요: Tom opens the window near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 opens입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom opens the window near the school.",
+          "koreanMeaning": "이 문장의 동사는 opens다."
+        },
+        {
+          "questionId": "EN-L09-C15-S07-Q06",
+          "stageId": "EN-L09-C15-S07",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 핵심 정보 듣기 · 6번: My brother opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at the community center",
+            "after class",
+            "near the school",
+            "during study time"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "My brother opens the window near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S08-Q01",
+          "stageId": "EN-L09-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom reads books in the library.",
+          "explanation": "“Tom reads books in the library.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom reads books in the library.",
+          "acceptedAnswers": [
+            "Tom reads books in the library.",
+            "Tom reads books in the library"
+          ],
+          "exampleSentence": "Tom reads books in the library.",
+          "koreanMeaning": "in the library은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S08-Q02",
+          "stageId": "EN-L09-C15-S08",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 2번: My brother reads books in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "주어-동사-목적어",
+            "subject"
+          ],
+          "correctAnswer": "주어-동사-목적어",
+          "explanation": "문장 구조 분석 문맥에 맞는 답은 주어-동사-목적어입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어-동사-목적어",
+            "주어-동사-목적어"
+          ],
+          "exampleSentence": "My brother reads books in the library.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S08-Q03",
+          "stageId": "EN-L09-C15-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student carefully reads books in the library.",
+          "explanation": "“The student carefully reads books in the library.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student carefully reads books in the library.",
+          "acceptedAnswers": [
+            "The student carefully reads books in the library.",
+            "The student carefully reads books in the library"
+          ],
+          "exampleSentence": "The student carefully reads books in the library.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S08-Q04",
+          "stageId": "EN-L09-C15-S08",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 4번: “Our teacher reads books in the library, so the daily task is complete.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "핵심 행동이 끝나 하루 과제가 완료됐다.",
+          "explanation": "핵심 의미는 ‘핵심 행동이 끝나 하루 과제가 완료됐다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "핵심 행동이 끝나 하루 과제가 완료됐다."
+          ],
+          "exampleSentence": "Our teacher reads books in the library, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S08-Q05",
+          "stageId": "EN-L09-C15-S08",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 5번: The young artist reads books in the library. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "The young artist reads books in the library. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S08-Q06",
+          "stageId": "EN-L09-C15-S08",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 근거 설명하기 · 6번: 핵심 구조가 ‘arrived’이면 O, 아니면 X를 고르세요: The soccer player arrived in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player arrived in the library.",
+          "koreanMeaning": "The soccer player가 in the library에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S09-Q01",
+          "stageId": "EN-L09-C15-S09",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 1번: The young artist ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "arrived"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "The young artist arrived after class.",
+          "koreanMeaning": "The young artist가 after class에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S09-Q02",
+          "stageId": "EN-L09-C15-S09",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player is confident after class.",
+          "explanation": "바른 문장은 “The soccer player is confident after class.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player is confident after class.",
+          "acceptedAnswers": [
+            "The soccer player is confident after class.",
+            "The soccer player is confident after class"
+          ],
+          "exampleSentence": "The soccer player is confident after class.",
+          "koreanMeaning": "The soccer player는 after class에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S09-Q03",
+          "stageId": "EN-L09-C15-S09",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student opens the window after class.",
+            "class after window the opens student new The.",
+            "new student opens the window after class The."
+          ],
+          "correctAnswer": "The new student opens the window after class.",
+          "explanation": "바른 어순은 “The new student opens the window after class.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student opens the window after class.",
+            "The new student opens the window after class"
+          ],
+          "exampleSentence": "The new student opens the window after class.",
+          "koreanMeaning": "The new student는 after class에서 the window을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S09-Q04",
+          "stageId": "EN-L09-C15-S09",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 4번: Mina gives ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend a blue bag",
+            "a friend the answer",
+            "a friend English",
+            "a friend the window"
+          ],
+          "correctAnswer": "a friend a blue bag",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a blue bag입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a blue bag",
+            "a friend a blue bag"
+          ],
+          "exampleSentence": "Mina gives a friend a blue bag after class.",
+          "koreanMeaning": "Mina는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S09-Q05",
+          "stageId": "EN-L09-C15-S09",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 5번: Tom keeps ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the room helpful",
+            "the room ready",
+            "the room quiet",
+            "the room confident"
+          ],
+          "correctAnswer": "the room confident",
+          "explanation": "5형식 문맥에 맞는 답은 the room confident입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room confident",
+            "the room confident"
+          ],
+          "exampleSentence": "Tom keeps the room confident after class.",
+          "koreanMeaning": "Tom는 방을 confident하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S09-Q06",
+          "stageId": "EN-L09-C15-S09",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 논리 문장 쓰기 · 6번: My brother calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S10-Q01",
+          "stageId": "EN-L09-C15-S10",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 1번: Tom calls ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S10-Q02",
+          "stageId": "EN-L09-C15-S10",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother writes short notes at the community center My.",
+            "subject",
+            "My brother writes short notes at the community center.",
+            "center community the at notes short writes brother My."
+          ],
+          "correctAnswer": "My brother writes short notes at the community center.",
+          "explanation": "바른 어순은 “My brother writes short notes at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother writes short notes at the community center.",
+            "My brother writes short notes at the community center"
+          ],
+          "exampleSentence": "My brother writes short notes at the community center.",
+          "koreanMeaning": "이 문장의 주어는 My brother다."
+        },
+        {
+          "questionId": "EN-L09-C15-S10-Q03",
+          "stageId": "EN-L09-C15-S10",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 3번: The student ___ short notes at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "writes",
+            "opens",
+            "makes"
+          ],
+          "correctAnswer": "writes",
+          "explanation": "동사 찾기 문맥에 맞는 답은 writes입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writes",
+            "writes"
+          ],
+          "exampleSentence": "The student writes short notes at the community center.",
+          "koreanMeaning": "이 문장의 동사는 writes다."
+        },
+        {
+          "questionId": "EN-L09-C15-S10-Q04",
+          "stageId": "EN-L09-C15-S10",
+          "type": "fillBlank",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 4번: Our teacher writes short notes ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at the community center",
+            "after class",
+            "at home",
+            "near the school"
+          ],
+          "correctAnswer": "at the community center",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at the community center입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at the community center",
+            "at the community center"
+          ],
+          "exampleSentence": "Our teacher writes short notes at the community center.",
+          "koreanMeaning": "at the community center은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S10-Q05",
+          "stageId": "EN-L09-C15-S10",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist writes short notes at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 주어-동사-목적어입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist writes short notes at the community center.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S10-Q06",
+          "stageId": "EN-L09-C15-S10",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 혼합 문제 적용 · 6번: The soccer player carefully writes short notes at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / finds / the answer",
+            "The young artist / writes / short notes",
+            "The soccer player / writes / short notes",
+            "The student / opens / the window"
+          ],
+          "correctAnswer": "The soccer player / writes / short notes",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The soccer player / writes / short notes입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player / writes / short notes",
+            "the soccer player / writes / short notes"
+          ],
+          "exampleSentence": "The soccer player carefully writes short notes at the community center.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S11",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S11-Q01",
+          "stageId": "EN-L09-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 1번: The young artist carefully carries a blue bag during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "My brother / reads / books",
+            "The new student / studies / English",
+            "Our teacher / carries / a blue bag",
+            "The young artist / carries / a blue bag"
+          ],
+          "correctAnswer": "The young artist / carries / a blue bag",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 The young artist / carries / a blue bag입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The young artist / carries / a blue bag",
+            "the young artist / carries / a blue bag"
+          ],
+          "exampleSentence": "The young artist carefully carries a blue bag during study time.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q02",
+          "stageId": "EN-L09-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina plays soccer after class, so the daily task is complete.",
+            "The young artist carries a blue bag at home, so the daily task is complete.",
+            "The soccer player carries a blue bag during study time, so the daily task is complete.",
+            "The student reads books at the community center, so the daily task is complete."
+          ],
+          "correctAnswer": "The soccer player carries a blue bag during study time, so the daily task is complete.",
+          "explanation": "들은 문장은 “The soccer player carries a blue bag during study time, so the daily task is complete.”입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player carries a blue bag during study time, so the daily task is complete.",
+          "acceptedAnswers": [
+            "The soccer player carries a blue bag during study time, so the daily task is complete."
+          ],
+          "exampleSentence": "The soccer player carries a blue bag during study time, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q03",
+          "stageId": "EN-L09-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 3번: “The new student carries a blue bag during study time. This habit supports steady learning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.",
+          "explanation": "핵심 의미는 ‘꾸준한 습관이 안정적인 학습을 돕는다는 내용이다.’입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+          ],
+          "exampleSentence": "The new student carries a blue bag during study time. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q04",
+          "stageId": "EN-L09-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 4번: Mina ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "arrived",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "arrived",
+          "explanation": "1형식 문맥에 맞는 답은 arrived입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "arrived",
+            "arrived"
+          ],
+          "exampleSentence": "Mina arrived during study time.",
+          "koreanMeaning": "Mina가 during study time에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q05",
+          "stageId": "EN-L09-C15-S11",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom is careful during study time.",
+          "explanation": "바른 문장은 “Tom is careful during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom is careful during study time.",
+          "acceptedAnswers": [
+            "Tom is careful during study time.",
+            "Tom is careful during study time"
+          ],
+          "exampleSentence": "Tom is careful during study time.",
+          "koreanMeaning": "Tom는 during study time에서 careful한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q06",
+          "stageId": "EN-L09-C15-S11",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother makes a simple plan during study time My.",
+            "subject",
+            "My brother makes a simple plan during study time.",
+            "time study during plan simple a makes brother My."
+          ],
+          "correctAnswer": "My brother makes a simple plan during study time.",
+          "explanation": "바른 어순은 “My brother makes a simple plan during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother makes a simple plan during study time.",
+            "My brother makes a simple plan during study time"
+          ],
+          "exampleSentence": "My brother makes a simple plan during study time.",
+          "koreanMeaning": "My brother는 during study time에서 a simple plan을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q07",
+          "stageId": "EN-L09-C15-S11",
+          "type": "reviewMixed",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 7번: The student gives ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "a friend a simple plan",
+            "a friend short notes",
+            "a friend soccer"
+          ],
+          "correctAnswer": "a friend a simple plan",
+          "explanation": "4형식 문맥에 맞는 답은 a friend a simple plan입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend a simple plan",
+            "a friend a simple plan"
+          ],
+          "exampleSentence": "The student gives a friend a simple plan during study time.",
+          "koreanMeaning": "The student는 친구에게 a simple plan을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q08",
+          "stageId": "EN-L09-C15-S11",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher keeps the room careful during study time.",
+            "Tom keeps the room tired at the community center.",
+            "The soccer player keeps the room busy after class.",
+            "The student keeps the room helpful at home."
+          ],
+          "correctAnswer": "Our teacher keeps the room careful during study time.",
+          "explanation": "들은 문장은 “Our teacher keeps the room careful during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Our teacher keeps the room careful during study time.",
+          "acceptedAnswers": [
+            "Our teacher keeps the room careful during study time."
+          ],
+          "exampleSentence": "Our teacher keeps the room careful during study time.",
+          "koreanMeaning": "Our teacher는 방을 careful하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q09",
+          "stageId": "EN-L09-C15-S11",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 9번: “The young artist calls the task easy during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "The young artist calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S11-Q10",
+          "stageId": "EN-L09-C15-S11",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 이전 레벨 누적 복습 · 10번: ___ makes a simple plan during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina",
+            "The young artist",
+            "The soccer player",
+            "The student"
+          ],
+          "correctAnswer": "The soccer player",
+          "explanation": "주어 찾기 문맥에 맞는 답은 The soccer player입니다.",
+          "difficulty": 11,
+          "skill": "review",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 이전 레벨 누적 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player",
+            "the soccer player"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan during study time.",
+          "koreanMeaning": "이 문장의 주어는 The soccer player다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S12",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S12-Q01",
+          "stageId": "EN-L09-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 1번: Tom studies ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the window",
+            "the answer",
+            "subject",
+            "English"
+          ],
+          "correctAnswer": "English",
+          "explanation": "3형식 문맥에 맞는 답은 English입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "English",
+            "english"
+          ],
+          "exampleSentence": "Tom studies English near the school.",
+          "koreanMeaning": "Tom는 near the school에서 English을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q02",
+          "stageId": "EN-L09-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 2번: My brother gives ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a friend the answer",
+            "subject",
+            "a friend English",
+            "a friend the window"
+          ],
+          "correctAnswer": "a friend English",
+          "explanation": "4형식 문맥에 맞는 답은 a friend English입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a friend English",
+            "a friend english"
+          ],
+          "exampleSentence": "My brother gives a friend English near the school.",
+          "koreanMeaning": "My brother는 친구에게 English을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q03",
+          "stageId": "EN-L09-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother keeps the room busy after class.",
+            "The student keeps the room ready near the school.",
+            "Mina keeps the room quiet during study time.",
+            "The young artist keeps the room careful before lunch."
+          ],
+          "correctAnswer": "The student keeps the room ready near the school.",
+          "explanation": "들은 문장은 “The student keeps the room ready near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student keeps the room ready near the school.",
+          "acceptedAnswers": [
+            "The student keeps the room ready near the school."
+          ],
+          "exampleSentence": "The student keeps the room ready near the school.",
+          "koreanMeaning": "The student는 방을 ready하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q04",
+          "stageId": "EN-L09-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 4번: Our teacher calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Our teacher calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q05",
+          "stageId": "EN-L09-C15-S12",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist studies English near the school.",
+          "explanation": "바른 문장은 “The young artist studies English near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist studies English near the school.",
+          "acceptedAnswers": [
+            "The young artist studies English near the school.",
+            "The young artist studies English near the school"
+          ],
+          "exampleSentence": "The young artist studies English near the school.",
+          "koreanMeaning": "이 문장의 주어는 The young artist다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q06",
+          "stageId": "EN-L09-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 6번: “The soccer player studies English near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "이 문장의 동사는 reads다.",
+            "subject",
+            "이 문장의 동사는 studies다.",
+            "이 문장의 동사는 carries다."
+          ],
+          "correctAnswer": "이 문장의 동사는 studies다.",
+          "explanation": "핵심 의미는 ‘이 문장의 동사는 studies다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 문장의 동사는 studies다."
+          ],
+          "exampleSentence": "The soccer player studies English near the school.",
+          "koreanMeaning": "이 문장의 동사는 studies다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q07",
+          "stageId": "EN-L09-C15-S12",
+          "type": "reviewMixed",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 7번: The new student studies English ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "near the school",
+            "during study time",
+            "at the community center"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "The new student studies English near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q08",
+          "stageId": "EN-L09-C15-S12",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 8번: Mina plays soccer near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "주어-동사-목적어",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "주어-동사-목적어",
+          "explanation": "문장 구조 분석 문맥에 맞는 답은 주어-동사-목적어입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "주어-동사-목적어",
+            "주어-동사-목적어"
+          ],
+          "exampleSentence": "Mina plays soccer near the school.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q09",
+          "stageId": "EN-L09-C15-S12",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player carefully carries a blue bag during study time.",
+            "The student carefully reads books at the community center.",
+            "Mina carefully plays soccer after class.",
+            "Tom carefully plays soccer near the school."
+          ],
+          "correctAnswer": "Tom carefully plays soccer near the school.",
+          "explanation": "들은 문장은 “Tom carefully plays soccer near the school.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom carefully plays soccer near the school.",
+          "acceptedAnswers": [
+            "Tom carefully plays soccer near the school."
+          ],
+          "exampleSentence": "Tom carefully plays soccer near the school.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q10",
+          "stageId": "EN-L09-C15-S12",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 10번: My brother plays soccer near the school, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the daily task is complete",
+            "subject"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "My brother plays soccer near the school, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q11",
+          "stageId": "EN-L09-C15-S12",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student plays soccer near the school. This habit supports steady learning.",
+          "explanation": "바른 문장은 “The student plays soccer near the school. This habit supports steady learning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student plays soccer near the school. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The student plays soccer near the school. This habit supports steady learning.",
+            "The student plays soccer near the school. This habit supports steady learning"
+          ],
+          "exampleSentence": "The student plays soccer near the school. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S12-Q12",
+          "stageId": "EN-L09-C15-S12",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 과정 성취 확인 · 12번: “Our teacher arrived near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "Our teacher가 near the school에 도착했다.",
+            "Tom가 during study time에 도착했다.",
+            "The soccer player가 at the community center에 도착했다.",
+            "The student가 after class에 도착했다."
+          ],
+          "correctAnswer": "Our teacher가 near the school에 도착했다.",
+          "explanation": "핵심 의미는 ‘Our teacher가 near the school에 도착했다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 과정 성취 확인 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher가 near the school에 도착했다."
+          ],
+          "exampleSentence": "Our teacher arrived near the school.",
+          "koreanMeaning": "Our teacher가 near the school에 도착했다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S13",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S13-Q01",
+          "stageId": "EN-L09-C15-S13",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 1번: “The young artist makes a simple plan at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "이 문장의 동사는 writes다.",
+            "이 문장의 동사는 plays다.",
+            "subject",
+            "이 문장의 동사는 makes다."
+          ],
+          "correctAnswer": "이 문장의 동사는 makes다.",
+          "explanation": "핵심 의미는 ‘이 문장의 동사는 makes다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 문장의 동사는 makes다."
+          ],
+          "exampleSentence": "The young artist makes a simple plan at home.",
+          "koreanMeaning": "이 문장의 동사는 makes다."
+        },
+        {
+          "questionId": "EN-L09-C15-S13-Q02",
+          "stageId": "EN-L09-C15-S13",
+          "type": "multipleChoice",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 2번: The soccer player makes a simple plan ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "at home",
+            "near the school"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S13-Q03",
+          "stageId": "EN-L09-C15-S13",
+          "type": "trueFalse",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student makes a simple plan at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 주어-동사-목적어입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student makes a simple plan at home.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S13-Q04",
+          "stageId": "EN-L09-C15-S13",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 4번: Mina carefully finds the answer at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "Mina / finds / the answer",
+            "The young artist / writes / short notes",
+            "My brother / opens / the window",
+            "The new student / makes / a simple plan"
+          ],
+          "correctAnswer": "Mina / finds / the answer",
+          "explanation": "기본 구문 독해 문맥에 맞는 답은 Mina / finds / the answer입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina / finds / the answer",
+            "mina / finds / the answer"
+          ],
+          "exampleSentence": "Mina carefully finds the answer at home.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S13-Q05",
+          "stageId": "EN-L09-C15-S13",
+          "type": "matching",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 5번: Tom finds the answer at home, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "Tom finds the answer at home, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S13-Q06",
+          "stageId": "EN-L09-C15-S13",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 장문 독해 확장 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother finds the answer at home. This habit supports steady learning My.",
+            "subject",
+            "My brother finds the answer at home. This habit supports steady learning.",
+            "learning steady supports habit This home. at answer the finds brother My."
+          ],
+          "correctAnswer": "My brother finds the answer at home. This habit supports steady learning.",
+          "explanation": "바른 어순은 “My brother finds the answer at home. This habit supports steady learning.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 장문 독해 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother finds the answer at home. This habit supports steady learning.",
+            "My brother finds the answer at home. This habit supports steady learning"
+          ],
+          "exampleSentence": "My brother finds the answer at home. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C15-S14",
+      "questions": [
+        {
+          "questionId": "EN-L09-C15-S14-Q01",
+          "stageId": "EN-L09-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 1번: Tom plays soccer after class. This habit supports ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "steady learning"
+          ],
+          "correctAnswer": "steady learning",
+          "explanation": "문장 성분 문맥에 맞는 답은 steady learning입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "steady learning",
+            "steady learning"
+          ],
+          "exampleSentence": "Tom plays soccer after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q02",
+          "stageId": "EN-L09-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 2번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher arrived near the school.",
+            "Tom arrived during study time.",
+            "My brother arrived after class.",
+            "The new student arrived at home."
+          ],
+          "correctAnswer": "My brother arrived after class.",
+          "explanation": "들은 문장은 “My brother arrived after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "My brother arrived after class.",
+          "acceptedAnswers": [
+            "My brother arrived after class."
+          ],
+          "exampleSentence": "My brother arrived after class.",
+          "koreanMeaning": "My brother가 after class에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q03",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 3번: “The student is busy after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "My brother는 during study time에서 ready한 상태다.",
+            "The student는 after class에서 busy한 상태다.",
+            "Mina는 at home에서 helpful한 상태다.",
+            "The young artist는 near the school에서 happy한 상태다."
+          ],
+          "correctAnswer": "The student는 after class에서 busy한 상태다.",
+          "explanation": "핵심 의미는 ‘The student는 after class에서 busy한 상태다.’입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The student는 after class에서 busy한 상태다."
+          ],
+          "exampleSentence": "The student is busy after class.",
+          "koreanMeaning": "The student는 after class에서 busy한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q04",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 4번: Our teacher plays ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "soccer",
+            "a simple plan",
+            "books",
+            "subject"
+          ],
+          "correctAnswer": "soccer",
+          "explanation": "3형식 문맥에 맞는 답은 soccer입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "soccer",
+            "soccer"
+          ],
+          "exampleSentence": "Our teacher plays soccer after class.",
+          "koreanMeaning": "Our teacher는 after class에서 soccer을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q05",
+          "stageId": "EN-L09-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist gives a friend soccer after class.",
+          "explanation": "바른 문장은 “The young artist gives a friend soccer after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist gives a friend soccer after class.",
+          "acceptedAnswers": [
+            "The young artist gives a friend soccer after class.",
+            "The young artist gives a friend soccer after class"
+          ],
+          "exampleSentence": "The young artist gives a friend soccer after class.",
+          "koreanMeaning": "The young artist는 친구에게 soccer을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q06",
+          "stageId": "EN-L09-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player keeps the room busy after class The.",
+            "subject",
+            "The soccer player keeps the room busy after class.",
+            "class after busy room the keeps player soccer The."
+          ],
+          "correctAnswer": "The soccer player keeps the room busy after class.",
+          "explanation": "바른 어순은 “The soccer player keeps the room busy after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player keeps the room busy after class.",
+            "The soccer player keeps the room busy after class"
+          ],
+          "exampleSentence": "The soccer player keeps the room busy after class.",
+          "koreanMeaning": "The soccer player는 방을 busy하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q07",
+          "stageId": "EN-L09-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 7번: The new student calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the task easy",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The new student calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q08",
+          "stageId": "EN-L09-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 8번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina opens the window after class.",
+            "The young artist makes a simple plan at home.",
+            "My brother writes short notes near the school.",
+            "The new student plays soccer during study time."
+          ],
+          "correctAnswer": "Mina opens the window after class.",
+          "explanation": "들은 문장은 “Mina opens the window after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "주어 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina opens the window after class.",
+          "acceptedAnswers": [
+            "Mina opens the window after class."
+          ],
+          "exampleSentence": "Mina opens the window after class.",
+          "koreanMeaning": "이 문장의 주어는 Mina다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q09",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 9번: “Tom opens the window after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "이 문장의 동사는 makes다.",
+            "이 문장의 동사는 writes다.",
+            "subject",
+            "이 문장의 동사는 opens다."
+          ],
+          "correctAnswer": "이 문장의 동사는 opens다.",
+          "explanation": "핵심 의미는 ‘이 문장의 동사는 opens다.’입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "동사 찾기",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "이 문장의 동사는 opens다."
+          ],
+          "exampleSentence": "Tom opens the window after class.",
+          "koreanMeaning": "이 문장의 동사는 opens다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q10",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 10번: My brother opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "My brother opens the window after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q11",
+          "stageId": "EN-L09-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student opens the window after class.",
+          "explanation": "바른 문장은 “The student opens the window after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "문장 구조 분석",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student opens the window after class.",
+          "acceptedAnswers": [
+            "The student opens the window after class.",
+            "The student opens the window after class"
+          ],
+          "exampleSentence": "The student opens the window after class.",
+          "koreanMeaning": "핵심 구조는 주어-동사-목적어다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q12",
+          "stageId": "EN-L09-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 12번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Our teacher carefully opens the window after class.",
+            "class after window the opens carefully teacher Our.",
+            "teacher carefully opens the window after class Our.",
+            "subject"
+          ],
+          "correctAnswer": "Our teacher carefully opens the window after class.",
+          "explanation": "바른 어순은 “Our teacher carefully opens the window after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "기본 구문 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Our teacher carefully opens the window after class.",
+            "Our teacher carefully opens the window after class"
+          ],
+          "exampleSentence": "Our teacher carefully opens the window after class.",
+          "koreanMeaning": "주어, 동사, 목적어 단위로 끊어 읽는다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q13",
+          "stageId": "EN-L09-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 13번: The young artist opens the window after class, so ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the daily task is complete"
+          ],
+          "correctAnswer": "the daily task is complete",
+          "explanation": "짧은 문단 독해 문맥에 맞는 답은 the daily task is complete입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "짧은 문단 독해",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 13,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the daily task is complete",
+            "the daily task is complete"
+          ],
+          "exampleSentence": "The young artist opens the window after class, so the daily task is complete.",
+          "koreanMeaning": "핵심 행동이 끝나 하루 과제가 완료됐다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q14",
+          "stageId": "EN-L09-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 14번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Mina studies English near the school. This habit supports steady learning.",
+            "The young artist opens the window during study time. This habit supports steady learning.",
+            "The soccer player opens the window after class. This habit supports steady learning.",
+            "The student finds the answer at home. This habit supports steady learning."
+          ],
+          "correctAnswer": "The soccer player opens the window after class. This habit supports steady learning.",
+          "explanation": "들은 문장은 “The soccer player opens the window after class. This habit supports steady learning.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "문장 성분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 14,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player opens the window after class. This habit supports steady learning.",
+          "acceptedAnswers": [
+            "The soccer player opens the window after class. This habit supports steady learning."
+          ],
+          "exampleSentence": "The soccer player opens the window after class. This habit supports steady learning.",
+          "koreanMeaning": "꾸준한 습관이 안정적인 학습을 돕는다는 내용이다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q15",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceMeaning",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 15번: “The new student arrived after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "The soccer player가 during study time에 도착했다.",
+            "The new student가 after class에 도착했다.",
+            "Our teacher가 at home에 도착했다.",
+            "Tom가 near the school에 도착했다."
+          ],
+          "correctAnswer": "The new student가 after class에 도착했다.",
+          "explanation": "핵심 의미는 ‘The new student가 after class에 도착했다.’입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "1형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 15,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student가 after class에 도착했다."
+          ],
+          "exampleSentence": "The new student arrived after class.",
+          "koreanMeaning": "The new student가 after class에 도착했다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q16",
+          "stageId": "EN-L09-C15-S14",
+          "type": "sentenceCompletion",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 16번: Mina is ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident",
+            "helpful",
+            "ready",
+            "quiet"
+          ],
+          "correctAnswer": "confident",
+          "explanation": "2형식 문맥에 맞는 답은 confident입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "2형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 16,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident",
+            "confident"
+          ],
+          "exampleSentence": "Mina is confident after class.",
+          "koreanMeaning": "Mina는 after class에서 confident한 상태다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q17",
+          "stageId": "EN-L09-C15-S14",
+          "type": "dictation",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 17번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom carries a blue bag after class.",
+          "explanation": "바른 문장은 “Tom carries a blue bag after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "3형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 17,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom carries a blue bag after class.",
+          "acceptedAnswers": [
+            "Tom carries a blue bag after class.",
+            "Tom carries a blue bag after class"
+          ],
+          "exampleSentence": "Tom carries a blue bag after class.",
+          "koreanMeaning": "Tom는 after class에서 a blue bag을 대상으로 행동한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q18",
+          "stageId": "EN-L09-C15-S14",
+          "type": "ordering",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 18번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother gives a friend a blue bag after class My.",
+            "subject",
+            "My brother gives a friend a blue bag after class.",
+            "class after bag blue a friend a gives brother My."
+          ],
+          "correctAnswer": "My brother gives a friend a blue bag after class.",
+          "explanation": "바른 어순은 “My brother gives a friend a blue bag after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "4형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 18,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother gives a friend a blue bag after class.",
+            "My brother gives a friend a blue bag after class"
+          ],
+          "exampleSentence": "My brother gives a friend a blue bag after class.",
+          "koreanMeaning": "My brother는 친구에게 a blue bag을 준다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q19",
+          "stageId": "EN-L09-C15-S14",
+          "type": "bossMixed",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 19번: The student keeps ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the room quiet",
+            "the room confident",
+            "the room happy",
+            "the room ready"
+          ],
+          "correctAnswer": "the room confident",
+          "explanation": "5형식 문맥에 맞는 답은 the room confident입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "5형식",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 19,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room confident",
+            "the room confident"
+          ],
+          "exampleSentence": "The student keeps the room confident after class.",
+          "koreanMeaning": "The student는 방을 confident하게 유지한다."
+        },
+        {
+          "questionId": "EN-L09-C15-S14-Q20",
+          "stageId": "EN-L09-C15-S14",
+          "type": "listeningChoice",
+          "prompt": "고등 기초 보스 테스트: 레벨 보스 · 20번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Our teacher calls the task easy after class.",
+            "Tom calls the task easy in the library.",
+            "The soccer player calls the task easy near the school.",
+            "The student calls the task easy during study time."
+          ],
+          "correctAnswer": "Our teacher calls the task easy after class.",
+          "explanation": "들은 문장은 “Our teacher calls the task easy after class.”입니다.",
+          "difficulty": 11,
+          "skill": "boss",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "고등 기초 보스 테스트 내용을 활용해 레벨 보스 과제를 수행한다.",
+          "order": 20,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Our teacher calls the task easy after class.",
+          "acceptedAnswers": [
+            "Our teacher calls the task easy after class."
+          ],
+          "exampleSentence": "Our teacher calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C07",
+  "stages": [
+    {
+      "stageId": "EN-L09-C07-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S01-Q01",
+          "stageId": "EN-L09-C07-S01",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 1번: The young artist calls ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S01-Q02",
+          "stageId": "EN-L09-C07-S01",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 2번: 핵심 구조가 ‘the task easy’이면 O, 아니면 X를 고르세요: The soccer player calls the task easy at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S01-Q03",
+          "stageId": "EN-L09-C07-S01",
+          "type": "matching",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 3번: The new student calls ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the task easy",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The new student calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S01-Q04",
+          "stageId": "EN-L09-C07-S01",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 4번: “Mina calls the task easy at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "the task는 목적어이고 easy는 목적격 보어다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "Mina calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S01-Q05",
+          "stageId": "EN-L09-C07-S01",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 5번: Tom calls ___ at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S01-Q06",
+          "stageId": "EN-L09-C07-S01",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother calls the task easy at the community center My.",
+            "subject",
+            "My brother calls the task easy at the community center.",
+            "center community the at easy task the calls brother My."
+          ],
+          "correctAnswer": "My brother calls the task easy at the community center.",
+          "explanation": "바른 어순은 “My brother calls the task easy at the community center.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother calls the task easy at the community center.",
+            "My brother calls the task easy at the community center"
+          ],
+          "exampleSentence": "My brother calls the task easy at the community center.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S02-Q01",
+          "stageId": "EN-L09-C07-S02",
+          "type": "matching",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 1번: Tom calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S02-Q02",
+          "stageId": "EN-L09-C07-S02",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 2번: My brother calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S02-Q03",
+          "stageId": "EN-L09-C07-S02",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 3번: “The student calls the task easy during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "the task는 목적어이고 easy는 목적격 보어다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "The student calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S02-Q04",
+          "stageId": "EN-L09-C07-S02",
+          "type": "fillBlank",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 4번: Our teacher calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Our teacher calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S02-Q05",
+          "stageId": "EN-L09-C07-S02",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 5번: The young artist calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S02-Q06",
+          "stageId": "EN-L09-C07-S02",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘the task easy’이면 O, 아니면 X를 고르세요: The soccer player calls the task easy during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S03-Q01",
+          "stageId": "EN-L09-C07-S03",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 1번: The young artist calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S03-Q02",
+          "stageId": "EN-L09-C07-S03",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 2번: The soccer player calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The soccer player calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S03-Q03",
+          "stageId": "EN-L09-C07-S03",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student calls the task easy near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S03-Q04",
+          "stageId": "EN-L09-C07-S03",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina calls the task easy near the school.",
+            "school the near easy task the calls Mina.",
+            "calls the task easy near the school Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina calls the task easy near the school.",
+          "explanation": "바른 어순은 “Mina calls the task easy near the school.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina calls the task easy near the school.",
+            "Mina calls the task easy near the school"
+          ],
+          "exampleSentence": "Mina calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S03-Q05",
+          "stageId": "EN-L09-C07-S03",
+          "type": "matching",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 5번: Tom calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S03-Q06",
+          "stageId": "EN-L09-C07-S03",
+          "type": "fillBlank",
+          "prompt": "분사구문 기초: 문법 구조 분석 · 6번: My brother calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S04-Q01",
+          "stageId": "EN-L09-C07-S04",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 1번: Tom calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S04-Q02",
+          "stageId": "EN-L09-C07-S04",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother calls the task easy at home My.",
+            "subject",
+            "My brother calls the task easy at home.",
+            "home at easy task the calls brother My."
+          ],
+          "correctAnswer": "My brother calls the task easy at home.",
+          "explanation": "바른 어순은 “My brother calls the task easy at home.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother calls the task easy at home.",
+            "My brother calls the task easy at home"
+          ],
+          "exampleSentence": "My brother calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S04-Q03",
+          "stageId": "EN-L09-C07-S04",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 3번: The student calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the task easy",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The student calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S04-Q04",
+          "stageId": "EN-L09-C07-S04",
+          "type": "fillBlank",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 4번: Our teacher calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Our teacher calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S04-Q05",
+          "stageId": "EN-L09-C07-S04",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist calls the task easy at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S04-Q06",
+          "stageId": "EN-L09-C07-S04",
+          "type": "matching",
+          "prompt": "분사구문 기초: 문장 분석 연습 · 6번: The soccer player calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The soccer player calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S05-Q01",
+          "stageId": "EN-L09-C07-S05",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 1번: “The young artist calls the task easy after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "The young artist calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S05-Q02",
+          "stageId": "EN-L09-C07-S05",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 2번: The soccer player calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The soccer player calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S05-Q03",
+          "stageId": "EN-L09-C07-S05",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student calls the task easy after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S05-Q04",
+          "stageId": "EN-L09-C07-S05",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 4번: Mina calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Mina calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S05-Q05",
+          "stageId": "EN-L09-C07-S05",
+          "type": "matching",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 5번: Tom calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S05-Q06",
+          "stageId": "EN-L09-C07-S05",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother calls the task easy after class My.",
+            "subject",
+            "My brother calls the task easy after class.",
+            "class after easy task the calls brother My."
+          ],
+          "correctAnswer": "My brother calls the task easy after class.",
+          "explanation": "바른 어순은 “My brother calls the task easy after class.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother calls the task easy after class.",
+            "My brother calls the task easy after class"
+          ],
+          "exampleSentence": "My brother calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S06-Q01",
+          "stageId": "EN-L09-C07-S06",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 구문독해 적용 · 1번: “Tom calls the task easy before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "Tom calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S06-Q02",
+          "stageId": "EN-L09-C07-S06",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 구문독해 적용 · 2번: My brother calls ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S06-Q03",
+          "stageId": "EN-L09-C07-S06",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student calls the task easy before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S06-Q04",
+          "stageId": "EN-L09-C07-S06",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 구문독해 적용 · 4번: Our teacher calls ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Our teacher calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S06-Q05",
+          "stageId": "EN-L09-C07-S06",
+          "type": "matching",
+          "prompt": "분사구문 기초: 구문독해 적용 · 5번: The young artist calls ___ before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S06-Q06",
+          "stageId": "EN-L09-C07-S06",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player calls the task easy before lunch The.",
+            "subject",
+            "The soccer player calls the task easy before lunch.",
+            "lunch before easy task the calls player soccer The."
+          ],
+          "correctAnswer": "The soccer player calls the task easy before lunch.",
+          "explanation": "바른 어순은 “The soccer player calls the task easy before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player calls the task easy before lunch.",
+            "The soccer player calls the task easy before lunch"
+          ],
+          "exampleSentence": "The soccer player calls the task easy before lunch.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S07-Q01",
+          "stageId": "EN-L09-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother calls the task easy before lunch.",
+            "The new student calls the task easy after class.",
+            "Our teacher calls the task easy at home.",
+            "The young artist calls the task easy during study time."
+          ],
+          "correctAnswer": "The young artist calls the task easy during study time.",
+          "explanation": "들은 문장은 “The young artist calls the task easy during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist calls the task easy during study time.",
+          "acceptedAnswers": [
+            "The young artist calls the task easy during study time."
+          ],
+          "exampleSentence": "The young artist calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S07-Q02",
+          "stageId": "EN-L09-C07-S07",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 2번: The soccer player calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The soccer player calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S07-Q03",
+          "stageId": "EN-L09-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player calls the task easy at home.",
+            "The new student calls the task easy during study time.",
+            "Our teacher calls the task easy before lunch.",
+            "Tom calls the task easy after class."
+          ],
+          "correctAnswer": "The new student calls the task easy during study time.",
+          "explanation": "들은 문장은 “The new student calls the task easy during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student calls the task easy during study time.",
+          "acceptedAnswers": [
+            "The new student calls the task easy during study time."
+          ],
+          "exampleSentence": "The new student calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S07-Q04",
+          "stageId": "EN-L09-C07-S07",
+          "type": "dictation",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina calls the task easy during study time.",
+          "explanation": "바른 문장은 “Mina calls the task easy during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina calls the task easy during study time.",
+          "acceptedAnswers": [
+            "Mina calls the task easy during study time.",
+            "Mina calls the task easy during study time"
+          ],
+          "exampleSentence": "Mina calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S07-Q05",
+          "stageId": "EN-L09-C07-S07",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom calls the task easy during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S07-Q06",
+          "stageId": "EN-L09-C07-S07",
+          "type": "matching",
+          "prompt": "분사구문 기초: 핵심 정보 듣기 · 6번: My brother calls ___ during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy during study time.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S08-Q01",
+          "stageId": "EN-L09-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "분사구문 기초: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom calls the task easy near the school.",
+          "explanation": "“Tom calls the task easy near the school.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom calls the task easy near the school.",
+          "acceptedAnswers": [
+            "Tom calls the task easy near the school.",
+            "Tom calls the task easy near the school"
+          ],
+          "exampleSentence": "Tom calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S08-Q02",
+          "stageId": "EN-L09-C07-S08",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 근거 설명하기 · 2번: My brother calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S08-Q03",
+          "stageId": "EN-L09-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "분사구문 기초: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student calls the task easy near the school.",
+          "explanation": "“The student calls the task easy near the school.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student calls the task easy near the school.",
+          "acceptedAnswers": [
+            "The student calls the task easy near the school.",
+            "The student calls the task easy near the school"
+          ],
+          "exampleSentence": "The student calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S08-Q04",
+          "stageId": "EN-L09-C07-S08",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 근거 설명하기 · 4번: “Our teacher calls the task easy near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "the task는 목적어이고 easy는 목적격 보어다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "Our teacher calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S08-Q05",
+          "stageId": "EN-L09-C07-S08",
+          "type": "matching",
+          "prompt": "분사구문 기초: 근거 설명하기 · 5번: The young artist calls ___ near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S08-Q06",
+          "stageId": "EN-L09-C07-S08",
+          "type": "trueFalse",
+          "prompt": "분사구문 기초: 근거 설명하기 · 6번: 핵심 구조가 ‘the task easy’이면 O, 아니면 X를 고르세요: The soccer player calls the task easy near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player calls the task easy near the school.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S09-Q01",
+          "stageId": "EN-L09-C07-S09",
+          "type": "fillBlank",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 1번: The young artist calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The young artist calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S09-Q02",
+          "stageId": "EN-L09-C07-S09",
+          "type": "dictation",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player calls the task easy at home.",
+          "explanation": "바른 문장은 “The soccer player calls the task easy at home.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player calls the task easy at home.",
+          "acceptedAnswers": [
+            "The soccer player calls the task easy at home.",
+            "The soccer player calls the task easy at home"
+          ],
+          "exampleSentence": "The soccer player calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S09-Q03",
+          "stageId": "EN-L09-C07-S09",
+          "type": "ordering",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student calls the task easy at home.",
+            "home at easy task the calls student new The.",
+            "new student calls the task easy at home The."
+          ],
+          "correctAnswer": "The new student calls the task easy at home.",
+          "explanation": "바른 어순은 “The new student calls the task easy at home.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student calls the task easy at home.",
+            "The new student calls the task easy at home"
+          ],
+          "exampleSentence": "The new student calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S09-Q04",
+          "stageId": "EN-L09-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 4번: Mina calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Mina calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S09-Q05",
+          "stageId": "EN-L09-C07-S09",
+          "type": "fillBlank",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 5번: Tom calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S09-Q06",
+          "stageId": "EN-L09-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 논리 문장 쓰기 · 6번: My brother calls ___ at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy at home.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C07-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C07-S10-Q01",
+          "stageId": "EN-L09-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "분사구문 기초: 과정 평가 · 1번: Tom calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "the task easy"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Tom calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q02",
+          "stageId": "EN-L09-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 과정 평가 · 2번: My brother calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q03",
+          "stageId": "EN-L09-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "분사구문 기초: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother calls the task easy during study time.",
+            "The student calls the task easy after class.",
+            "Mina calls the task easy at home.",
+            "The young artist calls the task easy on Saturday morning."
+          ],
+          "correctAnswer": "The student calls the task easy after class.",
+          "explanation": "들은 문장은 “The student calls the task easy after class.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student calls the task easy after class.",
+          "acceptedAnswers": [
+            "The student calls the task easy after class."
+          ],
+          "exampleSentence": "The student calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q04",
+          "stageId": "EN-L09-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 과정 평가 · 4번: Our teacher calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Our teacher calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q05",
+          "stageId": "EN-L09-C07-S10",
+          "type": "dictation",
+          "prompt": "분사구문 기초: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist calls the task easy after class.",
+          "explanation": "바른 문장은 “The young artist calls the task easy after class.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist calls the task easy after class.",
+          "acceptedAnswers": [
+            "The young artist calls the task easy after class.",
+            "The young artist calls the task easy after class"
+          ],
+          "exampleSentence": "The young artist calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q06",
+          "stageId": "EN-L09-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 과정 평가 · 6번: “The soccer player calls the task easy after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task는 목적어이고 easy는 목적격 보어다.",
+            "subject"
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "The soccer player calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q07",
+          "stageId": "EN-L09-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "분사구문 기초: 과정 평가 · 7번: The new student calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "the task easy",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "The new student calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q08",
+          "stageId": "EN-L09-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "분사구문 기초: 과정 평가 · 8번: Mina calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "the task easy",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "Mina calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q09",
+          "stageId": "EN-L09-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "분사구문 기초: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player calls the task easy at home.",
+            "The student calls the task easy on Saturday morning.",
+            "Mina calls the task easy during study time.",
+            "Tom calls the task easy after class."
+          ],
+          "correctAnswer": "Tom calls the task easy after class.",
+          "explanation": "들은 문장은 “Tom calls the task easy after class.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom calls the task easy after class.",
+          "acceptedAnswers": [
+            "Tom calls the task easy after class."
+          ],
+          "exampleSentence": "Tom calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q10",
+          "stageId": "EN-L09-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "분사구문 기초: 과정 평가 · 10번: My brother calls ___ after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "the task easy",
+            "subject"
+          ],
+          "correctAnswer": "the task easy",
+          "explanation": "목적어와 보어 문맥에 맞는 답은 the task easy입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task easy",
+            "the task easy"
+          ],
+          "exampleSentence": "My brother calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q11",
+          "stageId": "EN-L09-C07-S10",
+          "type": "dictation",
+          "prompt": "분사구문 기초: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student calls the task easy after class.",
+          "explanation": "바른 문장은 “The student calls the task easy after class.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student calls the task easy after class.",
+          "acceptedAnswers": [
+            "The student calls the task easy after class.",
+            "The student calls the task easy after class"
+          ],
+          "exampleSentence": "The student calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        },
+        {
+          "questionId": "EN-L09-C07-S10-Q12",
+          "stageId": "EN-L09-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "분사구문 기초: 과정 평가 · 12번: “Our teacher calls the task easy after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "the task는 목적어이고 easy는 목적격 보어다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "the task는 목적어이고 easy는 목적격 보어다.",
+          "explanation": "핵심 의미는 ‘the task는 목적어이고 easy는 목적격 보어다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "목적어와 보어",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "분사구문 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the task는 목적어이고 easy는 목적격 보어다."
+          ],
+          "exampleSentence": "Our teacher calls the task easy after class.",
+          "koreanMeaning": "the task는 목적어이고 easy는 목적격 보어다."
+        }
+      ]
+    }
+  ]
+}

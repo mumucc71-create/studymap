@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C12",
+  "stages": [
+    {
+      "stageId": "EN-L12-C12-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S01-Q01",
+          "stageId": "EN-L12-C12-S01",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined in the environmental report.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S01-Q02",
+          "stageId": "EN-L12-C12-S01",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S01-Q03",
+          "stageId": "EN-L12-C12-S01",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined in the environmental report.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S01-Q04",
+          "stageId": "EN-L12-C12-S01",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S01-Q05",
+          "stageId": "EN-L12-C12-S01",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S01-Q06",
+          "stageId": "EN-L12-C12-S01",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S02-Q01",
+          "stageId": "EN-L12-C12-S02",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S02-Q02",
+          "stageId": "EN-L12-C12-S02",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S02-Q03",
+          "stageId": "EN-L12-C12-S02",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S02-Q04",
+          "stageId": "EN-L12-C12-S02",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S02-Q05",
+          "stageId": "EN-L12-C12-S02",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S02-Q06",
+          "stageId": "EN-L12-C12-S02",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S03-Q01",
+          "stageId": "EN-L12-C12-S03",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S03-Q02",
+          "stageId": "EN-L12-C12-S03",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S03-Q03",
+          "stageId": "EN-L12-C12-S03",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S03-Q04",
+          "stageId": "EN-L12-C12-S03",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined in a study about human behavior.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S03-Q05",
+          "stageId": "EN-L12-C12-S03",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined in a study about human behavior.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S03-Q06",
+          "stageId": "EN-L12-C12-S03",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined in a study about human behavior.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S04-Q01",
+          "stageId": "EN-L12-C12-S04",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S04-Q02",
+          "stageId": "EN-L12-C12-S04",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S04-Q03",
+          "stageId": "EN-L12-C12-S04",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S04-Q04",
+          "stageId": "EN-L12-C12-S04",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S04-Q05",
+          "stageId": "EN-L12-C12-S04",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S04-Q06",
+          "stageId": "EN-L12-C12-S04",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S05-Q01",
+          "stageId": "EN-L12-C12-S05",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined in a study about human behavior.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S05-Q02",
+          "stageId": "EN-L12-C12-S05",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in a study about human behavior.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S05-Q03",
+          "stageId": "EN-L12-C12-S05",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined in a study about human behavior.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S05-Q04",
+          "stageId": "EN-L12-C12-S05",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined during the community meeting.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S05-Q05",
+          "stageId": "EN-L12-C12-S05",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined during the community meeting.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S05-Q06",
+          "stageId": "EN-L12-C12-S05",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined during the community meeting.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S06-Q01",
+          "stageId": "EN-L12-C12-S06",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined during the science project.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S06-Q02",
+          "stageId": "EN-L12-C12-S06",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined during the science project.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S06-Q03",
+          "stageId": "EN-L12-C12-S06",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined during the science project.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S06-Q04",
+          "stageId": "EN-L12-C12-S06",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined during the science project.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S06-Q05",
+          "stageId": "EN-L12-C12-S06",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined during the science project.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S06-Q06",
+          "stageId": "EN-L12-C12-S06",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined during the science project.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S07-Q01",
+          "stageId": "EN-L12-C12-S07",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined during the community meeting.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S07-Q02",
+          "stageId": "EN-L12-C12-S07",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined during the community meeting.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S07-Q03",
+          "stageId": "EN-L12-C12-S07",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined during the community meeting.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S07-Q04",
+          "stageId": "EN-L12-C12-S07",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined in the school research paper.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S07-Q05",
+          "stageId": "EN-L12-C12-S07",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined in the school research paper.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S07-Q06",
+          "stageId": "EN-L12-C12-S07",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined in the school research paper.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S08-Q01",
+          "stageId": "EN-L12-C12-S08",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The team nearly completed every part of the project. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S08-Q02",
+          "stageId": "EN-L12-C12-S08",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Students carefully examined the first two examples. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S08-Q03",
+          "stageId": "EN-L12-C12-S08",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The report described the change in detail. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S08-Q04",
+          "stageId": "EN-L12-C12-S08",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Researchers observed the group during the morning session. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S08-Q05",
+          "stageId": "EN-L12-C12-S08",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The phrase clearly modifies the following noun. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S08-Q06",
+          "stageId": "EN-L12-C12-S08",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S09-Q01",
+          "stageId": "EN-L12-C12-S09",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined in the school research paper.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S09-Q02",
+          "stageId": "EN-L12-C12-S09",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in the school research paper.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S09-Q03",
+          "stageId": "EN-L12-C12-S09",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined in the school research paper.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S09-Q04",
+          "stageId": "EN-L12-C12-S09",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S09-Q05",
+          "stageId": "EN-L12-C12-S09",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S09-Q06",
+          "stageId": "EN-L12-C12-S09",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S10-Q01",
+          "stageId": "EN-L12-C12-S10",
+          "type": "ordering",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S10-Q02",
+          "stageId": "EN-L12-C12-S10",
+          "type": "grammarChoice",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S10-Q03",
+          "stageId": "EN-L12-C12-S10",
+          "type": "grammarError",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S10-Q04",
+          "stageId": "EN-L12-C12-S10",
+          "type": "sentenceTransformation",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S10-Q05",
+          "stageId": "EN-L12-C12-S10",
+          "type": "passageGrammar",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S10-Q06",
+          "stageId": "EN-L12-C12-S10",
+          "type": "multipleChoice",
+          "prompt": "수식 범위와 중의성: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C12-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C12-S11-Q01",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q02",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q03",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q04",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q05",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "nearly completed"
+          ],
+          "correctAnswer": "nearly completed",
+          "explanation": "문장 구조상 nearly completed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "nearly completed",
+            "nearly completed"
+          ],
+          "exampleSentence": "The team nearly completed every part of the project. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 nearly completed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q06",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students carefully examined the first two examples. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "carefully examined",
+          "explanation": "문장 구조상 carefully examined이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carefully examined",
+            "carefully examined"
+          ],
+          "exampleSentence": "Students carefully examined the first two examples. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 carefully examined이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q07",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The report described the change in detail. This structure is examined in a recent class discussion.",
+          "choices": [
+            "only the recent results",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "in detail",
+          "explanation": "문장 구조상 in detail이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "in detail",
+            "in detail"
+          ],
+          "exampleSentence": "The report described the change in detail. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 in detail이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q08",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Researchers observed the group during the morning session. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "nearly completed"
+          ],
+          "correctAnswer": "during the morning session",
+          "explanation": "문장 구조상 during the morning session이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during the morning session",
+            "during the morning session"
+          ],
+          "exampleSentence": "Researchers observed the group during the morning session. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 during the morning session이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q09",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The phrase clearly modifies the following noun. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "carefully examined",
+            "the following noun"
+          ],
+          "correctAnswer": "the following noun",
+          "explanation": "문장 구조상 the following noun이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the following noun",
+            "the following noun"
+          ],
+          "exampleSentence": "The phrase clearly modifies the following noun. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 the following noun이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q10",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The final paragraph mainly explains the result. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "in detail",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "mainly explains",
+          "explanation": "문장 구조상 mainly explains이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "mainly explains",
+            "mainly explains"
+          ],
+          "exampleSentence": "The final paragraph mainly explains the result. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 mainly explains이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q11",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer briefly mentions a possible cause. This structure is examined in a recent class discussion.",
+          "choices": [
+            "during the morning session",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "briefly mentions",
+          "explanation": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "briefly mentions",
+            "briefly mentions"
+          ],
+          "exampleSentence": "The writer briefly mentions a possible cause. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 briefly mentions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C12-S11-Q12",
+          "stageId": "EN-L12-C12-S11",
+          "type": "reviewMixed",
+          "prompt": "수식 범위와 중의성: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The teacher discussed only the recent results with the class. This structure is examined during the science project.",
+          "choices": [
+            "only the recent results",
+            "briefly mentions",
+            "mainly explains",
+            "the following noun"
+          ],
+          "correctAnswer": "only the recent results",
+          "explanation": "문장 구조상 only the recent results이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "수식 범위와 중의성",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "수식 범위와 중의성 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "only the recent results",
+            "only the recent results"
+          ],
+          "exampleSentence": "The teacher discussed only the recent results with the class. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 only the recent results이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

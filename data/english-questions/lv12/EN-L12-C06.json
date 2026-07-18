@@ -1,0 +1,2060 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C06",
+  "stages": [
+    {
+      "stageId": "EN-L12-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S01-Q01",
+          "stageId": "EN-L12-C06-S01",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in the school research paper.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S01-Q02",
+          "stageId": "EN-L12-C06-S01",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in the school research paper.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S01-Q03",
+          "stageId": "EN-L12-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined in the school research paper.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S01-Q04",
+          "stageId": "EN-L12-C06-S01",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S01-Q05",
+          "stageId": "EN-L12-C06-S01",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S01-Q06",
+          "stageId": "EN-L12-C06-S01",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S02-Q01",
+          "stageId": "EN-L12-C06-S02",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S02-Q02",
+          "stageId": "EN-L12-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S02-Q03",
+          "stageId": "EN-L12-C06-S02",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S02-Q04",
+          "stageId": "EN-L12-C06-S02",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Mina revised her conclusion. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S02-Q05",
+          "stageId": "EN-L12-C06-S02",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S02-Q06",
+          "stageId": "EN-L12-C06-S02",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S03-Q01",
+          "stageId": "EN-L12-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S03-Q02",
+          "stageId": "EN-L12-C06-S03",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S03-Q03",
+          "stageId": "EN-L12-C06-S03",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S03-Q04",
+          "stageId": "EN-L12-C06-S03",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined in a recent class discussion.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S03-Q05",
+          "stageId": "EN-L12-C06-S03",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined in a recent class discussion.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S03-Q06",
+          "stageId": "EN-L12-C06-S03",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined in a recent class discussion.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S04-Q01",
+          "stageId": "EN-L12-C06-S04",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S04-Q02",
+          "stageId": "EN-L12-C06-S04",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S04-Q03",
+          "stageId": "EN-L12-C06-S04",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S04-Q04",
+          "stageId": "EN-L12-C06-S04",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Mina revised her conclusion. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S04-Q05",
+          "stageId": "EN-L12-C06-S04",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S04-Q06",
+          "stageId": "EN-L12-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S05-Q01",
+          "stageId": "EN-L12-C06-S05",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in a recent class discussion.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S05-Q02",
+          "stageId": "EN-L12-C06-S05",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in a recent class discussion.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S05-Q03",
+          "stageId": "EN-L12-C06-S05",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined in a recent class discussion.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S05-Q04",
+          "stageId": "EN-L12-C06-S05",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined during the science project.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S05-Q05",
+          "stageId": "EN-L12-C06-S05",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined during the science project.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S05-Q06",
+          "stageId": "EN-L12-C06-S05",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined during the science project.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S06-Q01",
+          "stageId": "EN-L12-C06-S06",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined during the community meeting.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S06-Q02",
+          "stageId": "EN-L12-C06-S06",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined during the community meeting.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S06-Q03",
+          "stageId": "EN-L12-C06-S06",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined during the community meeting.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S06-Q04",
+          "stageId": "EN-L12-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Mina revised her conclusion. This structure is examined during the community meeting.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S06-Q05",
+          "stageId": "EN-L12-C06-S06",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined during the community meeting.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S06-Q06",
+          "stageId": "EN-L12-C06-S06",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined during the community meeting.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S07-Q01",
+          "stageId": "EN-L12-C06-S07",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined during the science project.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S07-Q02",
+          "stageId": "EN-L12-C06-S07",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined during the science project.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S07-Q03",
+          "stageId": "EN-L12-C06-S07",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined during the science project.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S07-Q04",
+          "stageId": "EN-L12-C06-S07",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined in the environmental report.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S07-Q05",
+          "stageId": "EN-L12-C06-S07",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined in the environmental report.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S07-Q06",
+          "stageId": "EN-L12-C06-S07",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined in the environmental report.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S08-Q01",
+          "stageId": "EN-L12-C06-S08",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The two groups shared their results. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S08-Q02",
+          "stageId": "EN-L12-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This evidence supports the first claim. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S08-Q03",
+          "stageId": "EN-L12-C06-S08",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Those findings require more study. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S08-Q04",
+          "stageId": "EN-L12-C06-S08",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina revised her conclusion. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S08-Q05",
+          "stageId": "EN-L12-C06-S08",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The device changed its settings. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S08-Q06",
+          "stageId": "EN-L12-C06-S08",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Researchers compared their methods. This structure is examined in the school research paper.",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S09-Q01",
+          "stageId": "EN-L12-C06-S09",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in the environmental report.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S09-Q02",
+          "stageId": "EN-L12-C06-S09",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in the environmental report.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S09-Q03",
+          "stageId": "EN-L12-C06-S09",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined in the environmental report.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S09-Q04",
+          "stageId": "EN-L12-C06-S09",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S09-Q05",
+          "stageId": "EN-L12-C06-S09",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S09-Q06",
+          "stageId": "EN-L12-C06-S09",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S10-Q01",
+          "stageId": "EN-L12-C06-S10",
+          "type": "ordering",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S10-Q02",
+          "stageId": "EN-L12-C06-S10",
+          "type": "grammarChoice",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S10-Q03",
+          "stageId": "EN-L12-C06-S10",
+          "type": "grammarError",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S10-Q04",
+          "stageId": "EN-L12-C06-S10",
+          "type": "sentenceTransformation",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Mina revised her conclusion. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S10-Q05",
+          "stageId": "EN-L12-C06-S10",
+          "type": "passageGrammar",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S10-Q06",
+          "stageId": "EN-L12-C06-S10",
+          "type": "multipleChoice",
+          "prompt": "대명사 지시 일치: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C06-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C06-S11-Q01",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q02",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q03",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q04",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q05",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The two groups shared their results. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "The two groups shared their results. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q06",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. This evidence supports the first claim. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "These",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "This",
+          "explanation": "문장 구조상 This이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "This",
+            "this"
+          ],
+          "exampleSentence": "This evidence supports the first claim. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 This이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q07",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Those findings require more study. This structure is examined in a study about human behavior.",
+          "choices": [
+            "its",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "Those",
+          "explanation": "문장 구조상 Those이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Those",
+            "those"
+          ],
+          "exampleSentence": "Those findings require more study. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 Those이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q08",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Mina revised her conclusion. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "their"
+          ],
+          "correctAnswer": "her",
+          "explanation": "문장 구조상 her이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "Mina revised her conclusion. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 her이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q09",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The device changed its settings. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "This",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "The device changed its settings. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q10",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. Researchers compared their methods. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "Those",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "Researchers compared their methods. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q11",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. These examples clarify the concept. This structure is examined in a study about human behavior.",
+          "choices": [
+            "her",
+            "These",
+            "their",
+            "its"
+          ],
+          "correctAnswer": "These",
+          "explanation": "문장 구조상 These이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "These",
+            "these"
+          ],
+          "exampleSentence": "These examples clarify the concept. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 These이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C06-S11-Q12",
+          "stageId": "EN-L12-C06-S11",
+          "type": "reviewMixed",
+          "prompt": "대명사 지시 일치: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. Each theory has its own limits. This structure is examined during the community meeting.",
+          "choices": [
+            "its",
+            "These",
+            "their"
+          ],
+          "correctAnswer": "its",
+          "explanation": "문장 구조상 its이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "대명사 지시 일치",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "대명사 지시 일치 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "Each theory has its own limits. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 its이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

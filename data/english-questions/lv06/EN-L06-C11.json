@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L06",
+  "courseId": "EN-L06-C11",
+  "stages": [
+    {
+      "stageId": "EN-L06-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S01-Q01",
+          "stageId": "EN-L06-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 1번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "After that",
+            "First"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S01-Q02",
+          "stageId": "EN-L06-C11-S01",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 2번: 핵심 표현이 ‘Next’이면 O, 아니면 X를 고르세요: Next I washed my face.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Next이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S01-Q03",
+          "stageId": "EN-L06-C11-S01",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 3번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "After that",
+            "Then",
+            "First",
+            "Next"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S01-Q04",
+          "stageId": "EN-L06-C11-S01",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 4번: “After that I went outside.”의 뜻을 고르세요.",
+          "choices": [
+            "그 다음 나는 밖으로 나갔다.",
+            "먼저 나는 일어났다.",
+            "다음으로 나는 얼굴을 씻었다.",
+            "그 후 나는 아침을 먹었다."
+          ],
+          "correctAnswer": "그 다음 나는 밖으로 나갔다.",
+          "explanation": "뜻은 ‘그 다음 나는 밖으로 나갔다.’입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그 다음 나는 밖으로 나갔다."
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S01-Q05",
+          "stageId": "EN-L06-C11-S01",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 5번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "Finally"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S01-Q06",
+          "stageId": "EN-L06-C11-S01",
+          "type": "ordering",
+          "prompt": "사건 순서 읽기: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I woke up First.",
+            "is",
+            "First I woke up.",
+            "up woke I First."
+          ],
+          "correctAnswer": "First I woke up.",
+          "explanation": "바른 어순은 “First I woke up.”입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First I woke up.",
+            "First I woke up"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S02-Q01",
+          "stageId": "EN-L06-C11-S02",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 1번: ___ I went outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "After that",
+          "explanation": "사건 순서 읽기에 맞는 표현은 After that입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "After that",
+            "after that"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S02-Q02",
+          "stageId": "EN-L06-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 2번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "Finally",
+            "First"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S02-Q03",
+          "stageId": "EN-L06-C11-S02",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 3번: “First I woke up.”의 뜻을 고르세요.",
+          "choices": [
+            "그 다음 나는 밖으로 나갔다.",
+            "먼저 나는 일어났다.",
+            "다음으로 나는 얼굴을 씻었다.",
+            "그 후 나는 아침을 먹었다."
+          ],
+          "correctAnswer": "먼저 나는 일어났다.",
+          "explanation": "뜻은 ‘먼저 나는 일어났다.’입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "먼저 나는 일어났다."
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S02-Q04",
+          "stageId": "EN-L06-C11-S02",
+          "type": "fillBlank",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 4번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "First",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S02-Q05",
+          "stageId": "EN-L06-C11-S02",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 5번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "After that",
+            "Then"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S02-Q06",
+          "stageId": "EN-L06-C11-S02",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘After that’이면 O, 아니면 X를 고르세요: After that I went outside.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 After that이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S03-Q01",
+          "stageId": "EN-L06-C11-S03",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 1번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Then",
+            "After that",
+            "Next"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S03-Q02",
+          "stageId": "EN-L06-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 2번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "After that",
+            "Then",
+            "First"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S03-Q03",
+          "stageId": "EN-L06-C11-S03",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 3번: 핵심 표현이 ‘First’이면 O, 아니면 X를 고르세요: After that I went outside.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 After that이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S03-Q04",
+          "stageId": "EN-L06-C11-S03",
+          "type": "ordering",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Finally I came home.",
+            "home came I Finally.",
+            "I came home Finally.",
+            "is"
+          ],
+          "correctAnswer": "Finally I came home.",
+          "explanation": "바른 어순은 “Finally I came home.”입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally I came home.",
+            "Finally I came home"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S03-Q05",
+          "stageId": "EN-L06-C11-S03",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 5번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "After that",
+            "First"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S03-Q06",
+          "stageId": "EN-L06-C11-S03",
+          "type": "fillBlank",
+          "prompt": "사건 순서 읽기: 문장 구조 발견 · 6번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "After that",
+            "Next",
+            "First"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S04-Q01",
+          "stageId": "EN-L06-C11-S04",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 1번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "Finally"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S04-Q02",
+          "stageId": "EN-L06-C11-S04",
+          "type": "ordering",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I woke up First.",
+            "is",
+            "First I woke up.",
+            "up woke I First."
+          ],
+          "correctAnswer": "First I woke up.",
+          "explanation": "바른 어순은 “First I woke up.”입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First I woke up.",
+            "First I woke up"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S04-Q03",
+          "stageId": "EN-L06-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 3번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "After that",
+            "Next",
+            "First",
+            "Then"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S04-Q04",
+          "stageId": "EN-L06-C11-S04",
+          "type": "fillBlank",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 4번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "First",
+            "Next",
+            "After that"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S04-Q05",
+          "stageId": "EN-L06-C11-S04",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 5번: 핵심 표현이 ‘First’이면 O, 아니면 X를 고르세요: After that I went outside.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 After that이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S04-Q06",
+          "stageId": "EN-L06-C11-S04",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 짧은 문장 연습 · 6번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "Finally",
+            "First"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S05-Q01",
+          "stageId": "EN-L06-C11-S05",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 1번: “Then I ate breakfast.”의 뜻을 고르세요.",
+          "choices": [
+            "먼저 나는 일어났다.",
+            "다음으로 나는 얼굴을 씻었다.",
+            "그 다음 나는 밖으로 나갔다.",
+            "그 후 나는 아침을 먹었다."
+          ],
+          "correctAnswer": "그 후 나는 아침을 먹었다.",
+          "explanation": "뜻은 ‘그 후 나는 아침을 먹었다.’입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그 후 나는 아침을 먹었다."
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S05-Q02",
+          "stageId": "EN-L06-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 2번: ___ I went outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "After that",
+            "First"
+          ],
+          "correctAnswer": "After that",
+          "explanation": "사건 순서 읽기에 맞는 표현은 After that입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "After that",
+            "after that"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S05-Q03",
+          "stageId": "EN-L06-C11-S05",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 3번: 핵심 표현이 ‘First’이면 O, 아니면 X를 고르세요: Finally I came home.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Finally이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S05-Q04",
+          "stageId": "EN-L06-C11-S05",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 4번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S05-Q05",
+          "stageId": "EN-L06-C11-S05",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 5번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Then",
+            "After that",
+            "Next"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S05-Q06",
+          "stageId": "EN-L06-C11-S05",
+          "type": "ordering",
+          "prompt": "사건 순서 읽기: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I ate breakfast Then.",
+            "is",
+            "Then I ate breakfast.",
+            "breakfast ate I Then."
+          ],
+          "correctAnswer": "Then I ate breakfast.",
+          "explanation": "바른 어순은 “Then I ate breakfast.”입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then I ate breakfast.",
+            "Then I ate breakfast"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S06-Q01",
+          "stageId": "EN-L06-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Next I washed my face.",
+            "Then I ate breakfast.",
+            "After that I went outside.",
+            "First I woke up."
+          ],
+          "correctAnswer": "First I woke up.",
+          "explanation": "들은 문장은 “First I woke up.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "First I woke up.",
+          "acceptedAnswers": [
+            "First I woke up."
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S06-Q02",
+          "stageId": "EN-L06-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 2번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "After that",
+            "Next",
+            "First"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S06-Q03",
+          "stageId": "EN-L06-C11-S06",
+          "type": "listeningChoice",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "After that I went outside.",
+            "Then I ate breakfast.",
+            "First I woke up.",
+            "Next I washed my face."
+          ],
+          "correctAnswer": "Then I ate breakfast.",
+          "explanation": "들은 문장은 “Then I ate breakfast.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Then I ate breakfast.",
+          "acceptedAnswers": [
+            "Then I ate breakfast."
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S06-Q04",
+          "stageId": "EN-L06-C11-S06",
+          "type": "dictation",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "After that I went outside.",
+          "explanation": "바른 문장은 “After that I went outside.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "After that I went outside.",
+          "acceptedAnswers": [
+            "After that I went outside.",
+            "After that I went outside"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S06-Q05",
+          "stageId": "EN-L06-C11-S06",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 5번: 핵심 표현이 ‘First’이면 O, 아니면 X를 고르세요: Finally I came home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Finally이므로 X가 정답입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S06-Q06",
+          "stageId": "EN-L06-C11-S06",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 생활 대화 듣기 · 6번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "After that",
+            "First",
+            "Next"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S07-Q01",
+          "stageId": "EN-L06-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "After that I went outside.",
+          "explanation": "“After that I went outside.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "After that I went outside.",
+          "acceptedAnswers": [
+            "After that I went outside.",
+            "After that I went outside"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S07-Q02",
+          "stageId": "EN-L06-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 2번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "Finally",
+            "First"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S07-Q03",
+          "stageId": "EN-L06-C11-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "First I woke up.",
+          "explanation": "“First I woke up.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "First I woke up.",
+          "acceptedAnswers": [
+            "First I woke up.",
+            "First I woke up"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S07-Q04",
+          "stageId": "EN-L06-C11-S07",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 4번: “Next I washed my face.”의 뜻을 고르세요.",
+          "choices": [
+            "다음으로 나는 얼굴을 씻었다.",
+            "먼저 나는 일어났다.",
+            "그 후 나는 아침을 먹었다.",
+            "그 다음 나는 밖으로 나갔다."
+          ],
+          "correctAnswer": "다음으로 나는 얼굴을 씻었다.",
+          "explanation": "뜻은 ‘다음으로 나는 얼굴을 씻었다.’입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "다음으로 나는 얼굴을 씻었다."
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S07-Q05",
+          "stageId": "EN-L06-C11-S07",
+          "type": "matching",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 5번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "After that",
+            "Then"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S07-Q06",
+          "stageId": "EN-L06-C11-S07",
+          "type": "trueFalse",
+          "prompt": "사건 순서 읽기: 표현 말하기 · 6번: 핵심 표현이 ‘After that’이면 O, 아니면 X를 고르세요: After that I went outside.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 After that이므로 O가 정답입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S08-Q01",
+          "stageId": "EN-L06-C11-S08",
+          "type": "fillBlank",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 1번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Then",
+            "After that",
+            "Next"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S08-Q02",
+          "stageId": "EN-L06-C11-S08",
+          "type": "dictation",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Then I ate breakfast.",
+          "explanation": "바른 문장은 “Then I ate breakfast.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Then I ate breakfast.",
+          "acceptedAnswers": [
+            "Then I ate breakfast.",
+            "Then I ate breakfast"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S08-Q03",
+          "stageId": "EN-L06-C11-S08",
+          "type": "ordering",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "After that I went outside.",
+            "outside went I that After.",
+            "that I went outside After."
+          ],
+          "correctAnswer": "After that I went outside.",
+          "explanation": "바른 어순은 “After that I went outside.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "After that I went outside.",
+            "After that I went outside"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S08-Q04",
+          "stageId": "EN-L06-C11-S08",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 4번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Finally",
+            "First",
+            "Next",
+            "Then"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S08-Q05",
+          "stageId": "EN-L06-C11-S08",
+          "type": "fillBlank",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 5번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "After that",
+            "First"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S08-Q06",
+          "stageId": "EN-L06-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 문장 쓰기 · 6번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "After that",
+            "Next",
+            "First"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C11-S09",
+      "questions": [
+        {
+          "questionId": "EN-L06-C11-S09-Q01",
+          "stageId": "EN-L06-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "사건 순서 읽기: 과정 평가 · 1번: ___ I came home. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "First",
+            "Next",
+            "Then",
+            "Finally"
+          ],
+          "correctAnswer": "Finally",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Finally입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Finally",
+            "finally"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q02",
+          "stageId": "EN-L06-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 과정 평가 · 2번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "After that",
+            "First",
+            "Next"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q03",
+          "stageId": "EN-L06-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "사건 순서 읽기: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "After that I went outside.",
+            "Next I washed my face.",
+            "First I woke up.",
+            "Then I ate breakfast."
+          ],
+          "correctAnswer": "Next I washed my face.",
+          "explanation": "들은 문장은 “Next I washed my face.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Next I washed my face.",
+          "acceptedAnswers": [
+            "Next I washed my face."
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q04",
+          "stageId": "EN-L06-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 과정 평가 · 4번: ___ I ate breakfast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Then",
+            "First",
+            "Next",
+            "After that"
+          ],
+          "correctAnswer": "Then",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Then입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Then",
+            "then"
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q05",
+          "stageId": "EN-L06-C11-S09",
+          "type": "dictation",
+          "prompt": "사건 순서 읽기: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "After that I went outside.",
+          "explanation": "바른 문장은 “After that I went outside.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "After that I went outside.",
+          "acceptedAnswers": [
+            "After that I went outside.",
+            "After that I went outside"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q06",
+          "stageId": "EN-L06-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 과정 평가 · 6번: “Finally I came home.”의 뜻을 고르세요.",
+          "choices": [
+            "다음으로 나는 얼굴을 씻었다.",
+            "그 후 나는 아침을 먹었다.",
+            "마지막으로 나는 집에 왔다.",
+            "먼저 나는 일어났다."
+          ],
+          "correctAnswer": "마지막으로 나는 집에 왔다.",
+          "explanation": "뜻은 ‘마지막으로 나는 집에 왔다.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "마지막으로 나는 집에 왔다."
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q07",
+          "stageId": "EN-L06-C11-S09",
+          "type": "reviewMixed",
+          "prompt": "사건 순서 읽기: 과정 평가 · 7번: ___ I woke up. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "After that",
+            "First",
+            "Next",
+            "Then"
+          ],
+          "correctAnswer": "First",
+          "explanation": "사건 순서 읽기에 맞는 표현은 First입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "First",
+            "first"
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q08",
+          "stageId": "EN-L06-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "사건 순서 읽기: 과정 평가 · 8번: ___ I washed my face. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "First",
+            "Then",
+            "After that"
+          ],
+          "correctAnswer": "Next",
+          "explanation": "사건 순서 읽기에 맞는 표현은 Next입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Next",
+            "next"
+          ],
+          "exampleSentence": "Next I washed my face.",
+          "koreanMeaning": "다음으로 나는 얼굴을 씻었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q09",
+          "stageId": "EN-L06-C11-S09",
+          "type": "listeningChoice",
+          "prompt": "사건 순서 읽기: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "First I woke up.",
+            "Next I washed my face.",
+            "After that I went outside.",
+            "Then I ate breakfast."
+          ],
+          "correctAnswer": "Then I ate breakfast.",
+          "explanation": "들은 문장은 “Then I ate breakfast.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Then I ate breakfast.",
+          "acceptedAnswers": [
+            "Then I ate breakfast."
+          ],
+          "exampleSentence": "Then I ate breakfast.",
+          "koreanMeaning": "그 후 나는 아침을 먹었다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q10",
+          "stageId": "EN-L06-C11-S09",
+          "type": "sentenceCompletion",
+          "prompt": "사건 순서 읽기: 과정 평가 · 10번: ___ I went outside. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Next",
+            "Then",
+            "After that",
+            "First"
+          ],
+          "correctAnswer": "After that",
+          "explanation": "사건 순서 읽기에 맞는 표현은 After that입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "After that",
+            "after that"
+          ],
+          "exampleSentence": "After that I went outside.",
+          "koreanMeaning": "그 다음 나는 밖으로 나갔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q11",
+          "stageId": "EN-L06-C11-S09",
+          "type": "dictation",
+          "prompt": "사건 순서 읽기: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Finally I came home.",
+          "explanation": "바른 문장은 “Finally I came home.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Finally I came home.",
+          "acceptedAnswers": [
+            "Finally I came home.",
+            "Finally I came home"
+          ],
+          "exampleSentence": "Finally I came home.",
+          "koreanMeaning": "마지막으로 나는 집에 왔다."
+        },
+        {
+          "questionId": "EN-L06-C11-S09-Q12",
+          "stageId": "EN-L06-C11-S09",
+          "type": "sentenceMeaning",
+          "prompt": "사건 순서 읽기: 과정 평가 · 12번: “First I woke up.”의 뜻을 고르세요.",
+          "choices": [
+            "먼저 나는 일어났다.",
+            "다음으로 나는 얼굴을 씻었다.",
+            "그 후 나는 아침을 먹었다.",
+            "그 다음 나는 밖으로 나갔다."
+          ],
+          "correctAnswer": "먼저 나는 일어났다.",
+          "explanation": "뜻은 ‘먼저 나는 일어났다.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "사건 순서 읽기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "사건 순서 읽기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "먼저 나는 일어났다."
+          ],
+          "exampleSentence": "First I woke up.",
+          "koreanMeaning": "먼저 나는 일어났다."
+        }
+      ]
+    }
+  ]
+}

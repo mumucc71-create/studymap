@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L07",
+  "courseId": "EN-L07-C03",
+  "stages": [
+    {
+      "stageId": "EN-L07-C03-S01",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S01-Q01",
+          "stageId": "EN-L07-C03-S01",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 1번: Have you ___ visited Jeju? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S01-Q02",
+          "stageId": "EN-L07-C03-S01",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 2번: 핵심 표현이 ‘ever’이면 O, 아니면 X를 고르세요: Have you ever finished the book?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S01-Q03",
+          "stageId": "EN-L07-C03-S01",
+          "type": "matching",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 3번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "never",
+            "ever",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S01-Q04",
+          "stageId": "EN-L07-C03-S01",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 4번: “Have you ever eaten lunch?”의 뜻을 고르세요.",
+          "choices": [
+            "lunch을 해 본 적이 있니?",
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "lunch을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘lunch을 해 본 적이 있니?’입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lunch을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S01-Q05",
+          "stageId": "EN-L07-C03-S01",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 5번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S01-Q06",
+          "stageId": "EN-L07-C03-S01",
+          "type": "ordering",
+          "prompt": "수동태 기초: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "you ever played this game Have?",
+            "have",
+            "Have you ever played this game?",
+            "game this played ever you Have?"
+          ],
+          "correctAnswer": "Have you ever played this game?",
+          "explanation": "바른 어순은 “Have you ever played this game?”입니다.",
+          "difficulty": 7,
+          "skill": "concept",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever played this game?",
+            "Have you ever played this game"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S02",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S02-Q01",
+          "stageId": "EN-L07-C03-S02",
+          "type": "matching",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 1번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S02-Q02",
+          "stageId": "EN-L07-C03-S02",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 2번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S02-Q03",
+          "stageId": "EN-L07-C03-S02",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 3번: “Have you ever played this game?”의 뜻을 고르세요.",
+          "choices": [
+            "that movie을 해 본 적이 있니?",
+            "this game을 해 본 적이 있니?",
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "this game을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘this game을 해 본 적이 있니?’입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "this game을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S02-Q04",
+          "stageId": "EN-L07-C03-S02",
+          "type": "fillBlank",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 4번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S02-Q05",
+          "stageId": "EN-L07-C03-S02",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 5번: Have you ___ read the story? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S02-Q06",
+          "stageId": "EN-L07-C03-S02",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘ever’이면 O, 아니면 X를 고르세요: Have you ever visited Jeju?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "vocabulary",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S03",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S03-Q01",
+          "stageId": "EN-L07-C03-S03",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 문법 구조 분석 · 1번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S03-Q02",
+          "stageId": "EN-L07-C03-S03",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 문법 구조 분석 · 2번: Have you ___ read the story? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S03-Q03",
+          "stageId": "EN-L07-C03-S03",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 문법 구조 분석 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Have you ever visited Jeju?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S03-Q04",
+          "stageId": "EN-L07-C03-S03",
+          "type": "ordering",
+          "prompt": "수동태 기초: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Have you ever finished the book?",
+            "book the finished ever you Have?",
+            "you ever finished the book Have?",
+            "have"
+          ],
+          "correctAnswer": "Have you ever finished the book?",
+          "explanation": "바른 어순은 “Have you ever finished the book?”입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever finished the book?",
+            "Have you ever finished the book"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S03-Q05",
+          "stageId": "EN-L07-C03-S03",
+          "type": "matching",
+          "prompt": "수동태 기초: 문법 구조 분석 · 5번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S03-Q06",
+          "stageId": "EN-L07-C03-S03",
+          "type": "fillBlank",
+          "prompt": "수동태 기초: 문법 구조 분석 · 6번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "grammar",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S04",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S04-Q01",
+          "stageId": "EN-L07-C03-S04",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 문장 분석 연습 · 1번: Have you ___ finished the book? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S04-Q02",
+          "stageId": "EN-L07-C03-S04",
+          "type": "ordering",
+          "prompt": "수동태 기초: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "you ever seen that movie Have?",
+            "have",
+            "Have you ever seen that movie?",
+            "movie that seen ever you Have?"
+          ],
+          "correctAnswer": "Have you ever seen that movie?",
+          "explanation": "바른 어순은 “Have you ever seen that movie?”입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever seen that movie?",
+            "Have you ever seen that movie"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S04-Q03",
+          "stageId": "EN-L07-C03-S04",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 문장 분석 연습 · 3번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "never",
+            "ever",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S04-Q04",
+          "stageId": "EN-L07-C03-S04",
+          "type": "fillBlank",
+          "prompt": "수동태 기초: 문장 분석 연습 · 4번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S04-Q05",
+          "stageId": "EN-L07-C03-S04",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 문장 분석 연습 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Have you ever played this game?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S04-Q06",
+          "stageId": "EN-L07-C03-S04",
+          "type": "matching",
+          "prompt": "수동태 기초: 문장 분석 연습 · 6번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "practice",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S05",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S05-Q01",
+          "stageId": "EN-L07-C03-S05",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 문단 구조 적용 · 1번: “Have you ever cleaned the room?”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?",
+            "the room을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "the room을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘the room을 해 본 적이 있니?’입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the room을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S05-Q02",
+          "stageId": "EN-L07-C03-S05",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 문단 구조 적용 · 2번: Have you ___ played this game? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S05-Q03",
+          "stageId": "EN-L07-C03-S05",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 문단 구조 적용 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Have you ever written the email?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S05-Q04",
+          "stageId": "EN-L07-C03-S05",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 문단 구조 적용 · 4번: Have you ___ read the story? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S05-Q05",
+          "stageId": "EN-L07-C03-S05",
+          "type": "matching",
+          "prompt": "수동태 기초: 문단 구조 적용 · 5번: Have you ___ visited Jeju? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S05-Q06",
+          "stageId": "EN-L07-C03-S05",
+          "type": "ordering",
+          "prompt": "수동태 기초: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "you ever finished the book Have?",
+            "have",
+            "Have you ever finished the book?",
+            "book the finished ever you Have?"
+          ],
+          "correctAnswer": "Have you ever finished the book?",
+          "explanation": "바른 어순은 “Have you ever finished the book?”입니다.",
+          "difficulty": 7,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever finished the book?",
+            "Have you ever finished the book"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S06",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S06-Q01",
+          "stageId": "EN-L07-C03-S06",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 구문독해 적용 · 1번: “Have you ever read the story?”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?",
+            "the story을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "the story을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘the story을 해 본 적이 있니?’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the story을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S06-Q02",
+          "stageId": "EN-L07-C03-S06",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 구문독해 적용 · 2번: Have you ___ visited Jeju? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S06-Q03",
+          "stageId": "EN-L07-C03-S06",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 구문독해 적용 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Have you ever finished the book?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S06-Q04",
+          "stageId": "EN-L07-C03-S06",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 구문독해 적용 · 4번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S06-Q05",
+          "stageId": "EN-L07-C03-S06",
+          "type": "matching",
+          "prompt": "수동태 기초: 구문독해 적용 · 5번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S06-Q06",
+          "stageId": "EN-L07-C03-S06",
+          "type": "ordering",
+          "prompt": "수동태 기초: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "you ever cleaned the room Have?",
+            "have",
+            "Have you ever cleaned the room?",
+            "room the cleaned ever you Have?"
+          ],
+          "correctAnswer": "Have you ever cleaned the room?",
+          "explanation": "바른 어순은 “Have you ever cleaned the room?”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever cleaned the room?",
+            "Have you ever cleaned the room"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S07",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S07-Q01",
+          "stageId": "EN-L07-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Have you ever visited Jeju?",
+            "Have you ever finished the book?",
+            "Have you ever eaten lunch?",
+            "Have you ever seen that movie?"
+          ],
+          "correctAnswer": "Have you ever seen that movie?",
+          "explanation": "들은 문장은 “Have you ever seen that movie?”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever seen that movie?",
+          "acceptedAnswers": [
+            "Have you ever seen that movie?"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S07-Q02",
+          "stageId": "EN-L07-C03-S07",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 2번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S07-Q03",
+          "stageId": "EN-L07-C03-S07",
+          "type": "listeningChoice",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Have you ever seen that movie?",
+            "Have you ever cleaned the room?",
+            "Have you ever visited Jeju?",
+            "Have you ever finished the book?"
+          ],
+          "correctAnswer": "Have you ever cleaned the room?",
+          "explanation": "들은 문장은 “Have you ever cleaned the room?”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever cleaned the room?",
+          "acceptedAnswers": [
+            "Have you ever cleaned the room?"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S07-Q04",
+          "stageId": "EN-L07-C03-S07",
+          "type": "dictation",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever played this game?",
+          "explanation": "바른 문장은 “Have you ever played this game?”입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever played this game?",
+          "acceptedAnswers": [
+            "Have you ever played this game?",
+            "Have you ever played this game"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S07-Q05",
+          "stageId": "EN-L07-C03-S07",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Have you ever written the email?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S07-Q06",
+          "stageId": "EN-L07-C03-S07",
+          "type": "matching",
+          "prompt": "수동태 기초: 핵심 정보 듣기 · 6번: Have you ___ read the story? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "listening",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S08",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S08-Q01",
+          "stageId": "EN-L07-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "수동태 기초: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever played this game?",
+          "explanation": "“Have you ever played this game?”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Have you ever played this game?",
+          "acceptedAnswers": [
+            "Have you ever played this game?",
+            "Have you ever played this game"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S08-Q02",
+          "stageId": "EN-L07-C03-S08",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 근거 설명하기 · 2번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S08-Q03",
+          "stageId": "EN-L07-C03-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "수동태 기초: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever read the story?",
+          "explanation": "“Have you ever read the story?”를 따라 읽으세요.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Have you ever read the story?",
+          "acceptedAnswers": [
+            "Have you ever read the story?",
+            "Have you ever read the story"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S08-Q04",
+          "stageId": "EN-L07-C03-S08",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 근거 설명하기 · 4번: “Have you ever visited Jeju?”의 뜻을 고르세요.",
+          "choices": [
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?",
+            "lunch을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "Jeju을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘Jeju을 해 본 적이 있니?’입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Jeju을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S08-Q05",
+          "stageId": "EN-L07-C03-S08",
+          "type": "matching",
+          "prompt": "수동태 기초: 근거 설명하기 · 5번: Have you ___ finished the book? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S08-Q06",
+          "stageId": "EN-L07-C03-S08",
+          "type": "trueFalse",
+          "prompt": "수동태 기초: 근거 설명하기 · 6번: 핵심 표현이 ‘ever’이면 O, 아니면 X를 고르세요: Have you ever seen that movie?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "speaking",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S09",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S09-Q01",
+          "stageId": "EN-L07-C03-S09",
+          "type": "fillBlank",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 1번: Have you ___ visited Jeju? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S09-Q02",
+          "stageId": "EN-L07-C03-S09",
+          "type": "dictation",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever finished the book?",
+          "explanation": "바른 문장은 “Have you ever finished the book?”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever finished the book?",
+          "acceptedAnswers": [
+            "Have you ever finished the book?",
+            "Have you ever finished the book"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S09-Q03",
+          "stageId": "EN-L07-C03-S09",
+          "type": "ordering",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "Have you ever seen that movie?",
+            "movie that seen ever you Have?",
+            "you ever seen that movie Have?"
+          ],
+          "correctAnswer": "Have you ever seen that movie?",
+          "explanation": "바른 어순은 “Have you ever seen that movie?”입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Have you ever seen that movie?",
+            "Have you ever seen that movie"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S09-Q04",
+          "stageId": "EN-L07-C03-S09",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 4번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S09-Q05",
+          "stageId": "EN-L07-C03-S09",
+          "type": "fillBlank",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 5번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S09-Q06",
+          "stageId": "EN-L07-C03-S09",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 논리 문장 쓰기 · 6번: Have you ___ played this game? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "writing",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L07-C03-S10",
+      "questions": [
+        {
+          "questionId": "EN-L07-C03-S10-Q01",
+          "stageId": "EN-L07-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "수동태 기초: 과정 평가 · 1번: Have you ___ eaten lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "never",
+            "ever"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q02",
+          "stageId": "EN-L07-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 과정 평가 · 2번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q03",
+          "stageId": "EN-L07-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "수동태 기초: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Have you ever seen that movie?",
+            "Have you ever played this game?",
+            "Have you ever visited Jeju?",
+            "Have you ever finished the book?"
+          ],
+          "correctAnswer": "Have you ever played this game?",
+          "explanation": "들은 문장은 “Have you ever played this game?”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever played this game?",
+          "acceptedAnswers": [
+            "Have you ever played this game?"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q04",
+          "stageId": "EN-L07-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 과정 평가 · 4번: Have you ___ written the email? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q05",
+          "stageId": "EN-L07-C03-S10",
+          "type": "dictation",
+          "prompt": "수동태 기초: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever read the story?",
+          "explanation": "바른 문장은 “Have you ever read the story?”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever read the story?",
+          "acceptedAnswers": [
+            "Have you ever read the story?",
+            "Have you ever read the story"
+          ],
+          "exampleSentence": "Have you ever read the story?",
+          "koreanMeaning": "the story을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q06",
+          "stageId": "EN-L07-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 과정 평가 · 6번: “Have you ever visited Jeju?”의 뜻을 고르세요.",
+          "choices": [
+            "that movie을 해 본 적이 있니?",
+            "lunch을 해 본 적이 있니?",
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "Jeju을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘Jeju을 해 본 적이 있니?’입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Jeju을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever visited Jeju?",
+          "koreanMeaning": "Jeju을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q07",
+          "stageId": "EN-L07-C03-S10",
+          "type": "reviewMixed",
+          "prompt": "수동태 기초: 과정 평가 · 7번: Have you ___ finished the book? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "never",
+            "ever",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever finished the book?",
+          "koreanMeaning": "the book을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q08",
+          "stageId": "EN-L07-C03-S10",
+          "type": "multipleChoice",
+          "prompt": "수동태 기초: 과정 평가 · 8번: Have you ___ seen that movie? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "have",
+            "has",
+            "never"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever seen that movie?",
+          "koreanMeaning": "that movie을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q09",
+          "stageId": "EN-L07-C03-S10",
+          "type": "listeningChoice",
+          "prompt": "수동태 기초: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Have you ever visited Jeju?",
+            "Have you ever finished the book?",
+            "Have you ever seen that movie?",
+            "Have you ever eaten lunch?"
+          ],
+          "correctAnswer": "Have you ever eaten lunch?",
+          "explanation": "들은 문장은 “Have you ever eaten lunch?”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever eaten lunch?",
+          "acceptedAnswers": [
+            "Have you ever eaten lunch?"
+          ],
+          "exampleSentence": "Have you ever eaten lunch?",
+          "koreanMeaning": "lunch을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q10",
+          "stageId": "EN-L07-C03-S10",
+          "type": "sentenceCompletion",
+          "prompt": "수동태 기초: 과정 평가 · 10번: Have you ___ cleaned the room? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "never",
+            "ever",
+            "have"
+          ],
+          "correctAnswer": "ever",
+          "explanation": "ever 경험 질문 문맥에 맞는 표현은 ever입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ever",
+            "ever"
+          ],
+          "exampleSentence": "Have you ever cleaned the room?",
+          "koreanMeaning": "the room을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q11",
+          "stageId": "EN-L07-C03-S10",
+          "type": "dictation",
+          "prompt": "수동태 기초: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Have you ever played this game?",
+          "explanation": "바른 문장은 “Have you ever played this game?”입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Have you ever played this game?",
+          "acceptedAnswers": [
+            "Have you ever played this game?",
+            "Have you ever played this game"
+          ],
+          "exampleSentence": "Have you ever played this game?",
+          "koreanMeaning": "this game을 해 본 적이 있니?"
+        },
+        {
+          "questionId": "EN-L07-C03-S10-Q12",
+          "stageId": "EN-L07-C03-S10",
+          "type": "sentenceMeaning",
+          "prompt": "수동태 기초: 과정 평가 · 12번: “Have you ever written the email?”의 뜻을 고르세요.",
+          "choices": [
+            "the email을 해 본 적이 있니?",
+            "Jeju을 해 본 적이 있니?",
+            "the book을 해 본 적이 있니?",
+            "that movie을 해 본 적이 있니?"
+          ],
+          "correctAnswer": "the email을 해 본 적이 있니?",
+          "explanation": "뜻은 ‘the email을 해 본 적이 있니?’입니다.",
+          "difficulty": 8,
+          "skill": "checkpoint",
+          "grammarFocus": "ever 경험 질문",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "수동태 기초 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the email을 해 본 적이 있니?"
+          ],
+          "exampleSentence": "Have you ever written the email?",
+          "koreanMeaning": "the email을 해 본 적이 있니?"
+        }
+      ]
+    }
+  ]
+}

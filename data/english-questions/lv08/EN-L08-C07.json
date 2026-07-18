@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C07",
+  "stages": [
+    {
+      "stageId": "EN-L08-C07-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S01-Q01",
+          "stageId": "EN-L08-C07-S01",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 1번: I have ___ visited Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S01-Q02",
+          "stageId": "EN-L08-C07-S01",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 2번: 핵심 표현이 ‘already’이면 O, 아니면 X를 고르세요: You have already finished the book.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S01-Q03",
+          "stageId": "EN-L08-C07-S01",
+          "type": "matching",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 3번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "just",
+            "already",
+            "have"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S01-Q04",
+          "stageId": "EN-L08-C07-S01",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 4번: “She has already eaten lunch.”의 뜻을 고르세요.",
+          "choices": [
+            "She는 방금 또는 이미 일을 마쳤다.",
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다.",
+            "He는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "She는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘She는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S01-Q05",
+          "stageId": "EN-L08-C07-S01",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 5번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S01-Q06",
+          "stageId": "EN-L08-C07-S01",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have already played this game They.",
+            "have",
+            "They have already played this game.",
+            "game this played already have They."
+          ],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "바른 어순은 “They have already played this game.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have already played this game.",
+            "They have already played this game"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S02-Q01",
+          "stageId": "EN-L08-C07-S02",
+          "type": "matching",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 1번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S02-Q02",
+          "stageId": "EN-L08-C07-S02",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 2번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S02-Q03",
+          "stageId": "EN-L08-C07-S02",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 3번: “They have already played this game.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 방금 또는 이미 일을 마쳤다.",
+            "They는 방금 또는 이미 일을 마쳤다.",
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "They는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘They는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S02-Q04",
+          "stageId": "EN-L08-C07-S02",
+          "type": "fillBlank",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 4번: Mina has ___ written the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S02-Q05",
+          "stageId": "EN-L08-C07-S02",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 5번: Tom has ___ read the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S02-Q06",
+          "stageId": "EN-L08-C07-S02",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘just’이면 O, 아니면 X를 고르세요: I have just visited Jeju.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S03-Q01",
+          "stageId": "EN-L08-C07-S03",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 1번: Mina has ___ written the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S03-Q02",
+          "stageId": "EN-L08-C07-S03",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 2번: Tom has ___ read the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S03-Q03",
+          "stageId": "EN-L08-C07-S03",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 3번: 핵심 표현이 ‘already’이면 O, 아니면 X를 고르세요: I have just visited Jeju.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S03-Q04",
+          "stageId": "EN-L08-C07-S03",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have already finished the book.",
+            "book the finished already have You.",
+            "have already finished the book You.",
+            "have"
+          ],
+          "correctAnswer": "You have already finished the book.",
+          "explanation": "바른 어순은 “You have already finished the book.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have already finished the book.",
+            "You have already finished the book"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S03-Q05",
+          "stageId": "EN-L08-C07-S03",
+          "type": "matching",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 5번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S03-Q06",
+          "stageId": "EN-L08-C07-S03",
+          "type": "fillBlank",
+          "prompt": "관계부사 when where: 문법 구조 분석 · 6번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S04-Q01",
+          "stageId": "EN-L08-C07-S04",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 1번: You have ___ finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S04-Q02",
+          "stageId": "EN-L08-C07-S04",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has just seen that movie He.",
+            "have",
+            "He has just seen that movie.",
+            "movie that seen just has He."
+          ],
+          "correctAnswer": "He has just seen that movie.",
+          "explanation": "바른 어순은 “He has just seen that movie.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has just seen that movie.",
+            "He has just seen that movie"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S04-Q03",
+          "stageId": "EN-L08-C07-S04",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 3번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "already",
+            "just",
+            "have"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S04-Q04",
+          "stageId": "EN-L08-C07-S04",
+          "type": "fillBlank",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 4번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S04-Q05",
+          "stageId": "EN-L08-C07-S04",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 5번: 핵심 표현이 ‘just’이면 O, 아니면 X를 고르세요: They have already played this game.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S04-Q06",
+          "stageId": "EN-L08-C07-S04",
+          "type": "matching",
+          "prompt": "관계부사 when where: 문장 분석 연습 · 6번: Mina has ___ written the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S05-Q01",
+          "stageId": "EN-L08-C07-S05",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 1번: “We have just cleaned the room.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다.",
+            "He는 방금 또는 이미 일을 마쳤다.",
+            "We는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "We는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘We는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S05-Q02",
+          "stageId": "EN-L08-C07-S05",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 2번: They have ___ played this game. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S05-Q03",
+          "stageId": "EN-L08-C07-S05",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 3번: 핵심 표현이 ‘already’이면 O, 아니면 X를 고르세요: Mina has just written the email.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S05-Q04",
+          "stageId": "EN-L08-C07-S05",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 4번: Tom has ___ read the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "just",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S05-Q05",
+          "stageId": "EN-L08-C07-S05",
+          "type": "matching",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 5번: I have ___ visited Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S05-Q06",
+          "stageId": "EN-L08-C07-S05",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have already finished the book You.",
+            "have",
+            "You have already finished the book.",
+            "book the finished already have You."
+          ],
+          "correctAnswer": "You have already finished the book.",
+          "explanation": "바른 어순은 “You have already finished the book.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have already finished the book.",
+            "You have already finished the book"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S06-Q01",
+          "stageId": "EN-L08-C07-S06",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 구문독해 적용 · 1번: “Tom has already read the story.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다.",
+            "He는 방금 또는 이미 일을 마쳤다.",
+            "Tom는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "Tom는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘Tom는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S06-Q02",
+          "stageId": "EN-L08-C07-S06",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 구문독해 적용 · 2번: I have ___ visited Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S06-Q03",
+          "stageId": "EN-L08-C07-S06",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 구문독해 적용 · 3번: 핵심 표현이 ‘just’이면 O, 아니면 X를 고르세요: You have already finished the book.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S06-Q04",
+          "stageId": "EN-L08-C07-S06",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 구문독해 적용 · 4번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S06-Q05",
+          "stageId": "EN-L08-C07-S06",
+          "type": "matching",
+          "prompt": "관계부사 when where: 구문독해 적용 · 5번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S06-Q06",
+          "stageId": "EN-L08-C07-S06",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have just cleaned the room We.",
+            "have",
+            "We have just cleaned the room.",
+            "room the cleaned just have We."
+          ],
+          "correctAnswer": "We have just cleaned the room.",
+          "explanation": "바른 어순은 “We have just cleaned the room.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have just cleaned the room.",
+            "We have just cleaned the room"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S07-Q01",
+          "stageId": "EN-L08-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have just visited Jeju.",
+            "You have already finished the book.",
+            "She has already eaten lunch.",
+            "He has just seen that movie."
+          ],
+          "correctAnswer": "He has just seen that movie.",
+          "explanation": "들은 문장은 “He has just seen that movie.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has just seen that movie.",
+          "acceptedAnswers": [
+            "He has just seen that movie."
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S07-Q02",
+          "stageId": "EN-L08-C07-S07",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 2번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S07-Q03",
+          "stageId": "EN-L08-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has just seen that movie.",
+            "We have just cleaned the room.",
+            "I have just visited Jeju.",
+            "You have already finished the book."
+          ],
+          "correctAnswer": "We have just cleaned the room.",
+          "explanation": "들은 문장은 “We have just cleaned the room.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have just cleaned the room.",
+          "acceptedAnswers": [
+            "We have just cleaned the room."
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S07-Q04",
+          "stageId": "EN-L08-C07-S07",
+          "type": "dictation",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "바른 문장은 “They have already played this game.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have already played this game.",
+          "acceptedAnswers": [
+            "They have already played this game.",
+            "They have already played this game"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S07-Q05",
+          "stageId": "EN-L08-C07-S07",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘already’이면 O, 아니면 X를 고르세요: Mina has just written the email.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S07-Q06",
+          "stageId": "EN-L08-C07-S07",
+          "type": "matching",
+          "prompt": "관계부사 when where: 핵심 정보 듣기 · 6번: Tom has ___ read the story. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S08-Q01",
+          "stageId": "EN-L08-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "관계부사 when where: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "“They have already played this game.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have already played this game.",
+          "acceptedAnswers": [
+            "They have already played this game.",
+            "They have already played this game"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S08-Q02",
+          "stageId": "EN-L08-C07-S08",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 근거 설명하기 · 2번: Mina has ___ written the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S08-Q03",
+          "stageId": "EN-L08-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "관계부사 when where: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has already read the story.",
+          "explanation": "“Tom has already read the story.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has already read the story.",
+          "acceptedAnswers": [
+            "Tom has already read the story.",
+            "Tom has already read the story"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S08-Q04",
+          "stageId": "EN-L08-C07-S08",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 근거 설명하기 · 4번: “I have just visited Jeju.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다.",
+            "He는 방금 또는 이미 일을 마쳤다.",
+            "She는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "I는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘I는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S08-Q05",
+          "stageId": "EN-L08-C07-S08",
+          "type": "matching",
+          "prompt": "관계부사 when where: 근거 설명하기 · 5번: You have ___ finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S08-Q06",
+          "stageId": "EN-L08-C07-S08",
+          "type": "trueFalse",
+          "prompt": "관계부사 when where: 근거 설명하기 · 6번: 핵심 표현이 ‘just’이면 O, 아니면 X를 고르세요: He has just seen that movie.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S09-Q01",
+          "stageId": "EN-L08-C07-S09",
+          "type": "fillBlank",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 1번: I have ___ visited Jeju. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S09-Q02",
+          "stageId": "EN-L08-C07-S09",
+          "type": "dictation",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have already finished the book.",
+          "explanation": "바른 문장은 “You have already finished the book.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have already finished the book.",
+          "acceptedAnswers": [
+            "You have already finished the book.",
+            "You have already finished the book"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S09-Q03",
+          "stageId": "EN-L08-C07-S09",
+          "type": "ordering",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has just seen that movie.",
+            "movie that seen just has He.",
+            "has just seen that movie He."
+          ],
+          "correctAnswer": "He has just seen that movie.",
+          "explanation": "바른 어순은 “He has just seen that movie.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has just seen that movie.",
+            "He has just seen that movie"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S09-Q04",
+          "stageId": "EN-L08-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 4번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "just",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S09-Q05",
+          "stageId": "EN-L08-C07-S09",
+          "type": "fillBlank",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 5번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "already",
+            "have",
+            "has",
+            "just"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S09-Q06",
+          "stageId": "EN-L08-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 논리 문장 쓰기 · 6번: They have ___ played this game. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "already",
+            "just"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C07-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C07-S10-Q01",
+          "stageId": "EN-L08-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "관계부사 when where: 과정 평가 · 1번: She has ___ eaten lunch. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "have",
+            "has",
+            "already"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q02",
+          "stageId": "EN-L08-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 과정 평가 · 2번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q03",
+          "stageId": "EN-L08-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "관계부사 when where: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has just seen that movie.",
+            "They have already played this game.",
+            "I have just visited Jeju.",
+            "You have already finished the book."
+          ],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "들은 문장은 “They have already played this game.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have already played this game.",
+          "acceptedAnswers": [
+            "They have already played this game."
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q04",
+          "stageId": "EN-L08-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 과정 평가 · 4번: Mina has ___ written the email. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q05",
+          "stageId": "EN-L08-C07-S10",
+          "type": "dictation",
+          "prompt": "관계부사 when where: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has already read the story.",
+          "explanation": "바른 문장은 “Tom has already read the story.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has already read the story.",
+          "acceptedAnswers": [
+            "Tom has already read the story.",
+            "Tom has already read the story"
+          ],
+          "exampleSentence": "Tom has already read the story.",
+          "koreanMeaning": "Tom는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q06",
+          "stageId": "EN-L08-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 과정 평가 · 6번: “I have just visited Jeju.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 방금 또는 이미 일을 마쳤다.",
+            "She는 방금 또는 이미 일을 마쳤다.",
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "I는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘I는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "I have just visited Jeju.",
+          "koreanMeaning": "I는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q07",
+          "stageId": "EN-L08-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "관계부사 when where: 과정 평가 · 7번: You have ___ finished the book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "already",
+            "just",
+            "have"
+          ],
+          "correctAnswer": "already",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 already입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "already",
+            "already"
+          ],
+          "exampleSentence": "You have already finished the book.",
+          "koreanMeaning": "You는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q08",
+          "stageId": "EN-L08-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "관계부사 when where: 과정 평가 · 8번: He has ___ seen that movie. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "just",
+            "already",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "He has just seen that movie.",
+          "koreanMeaning": "He는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q09",
+          "stageId": "EN-L08-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "관계부사 when where: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have just visited Jeju.",
+            "You have already finished the book.",
+            "He has just seen that movie.",
+            "She has already eaten lunch."
+          ],
+          "correctAnswer": "She has already eaten lunch.",
+          "explanation": "들은 문장은 “She has already eaten lunch.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has already eaten lunch.",
+          "acceptedAnswers": [
+            "She has already eaten lunch."
+          ],
+          "exampleSentence": "She has already eaten lunch.",
+          "koreanMeaning": "She는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q10",
+          "stageId": "EN-L08-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "관계부사 when where: 과정 평가 · 10번: We have ___ cleaned the room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "just",
+            "already"
+          ],
+          "correctAnswer": "just",
+          "explanation": "just already yet 회화 문맥에 맞는 표현은 just입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "just",
+            "just"
+          ],
+          "exampleSentence": "We have just cleaned the room.",
+          "koreanMeaning": "We는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q11",
+          "stageId": "EN-L08-C07-S10",
+          "type": "dictation",
+          "prompt": "관계부사 when where: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have already played this game.",
+          "explanation": "바른 문장은 “They have already played this game.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have already played this game.",
+          "acceptedAnswers": [
+            "They have already played this game.",
+            "They have already played this game"
+          ],
+          "exampleSentence": "They have already played this game.",
+          "koreanMeaning": "They는 방금 또는 이미 일을 마쳤다."
+        },
+        {
+          "questionId": "EN-L08-C07-S10-Q12",
+          "stageId": "EN-L08-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "관계부사 when where: 과정 평가 · 12번: “Mina has just written the email.”의 뜻을 고르세요.",
+          "choices": [
+            "Mina는 방금 또는 이미 일을 마쳤다.",
+            "I는 방금 또는 이미 일을 마쳤다.",
+            "You는 방금 또는 이미 일을 마쳤다.",
+            "He는 방금 또는 이미 일을 마쳤다."
+          ],
+          "correctAnswer": "Mina는 방금 또는 이미 일을 마쳤다.",
+          "explanation": "뜻은 ‘Mina는 방금 또는 이미 일을 마쳤다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "just already yet 회화",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "관계부사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 방금 또는 이미 일을 마쳤다."
+          ],
+          "exampleSentence": "Mina has just written the email.",
+          "koreanMeaning": "Mina는 방금 또는 이미 일을 마쳤다."
+        }
+      ]
+    }
+  ]
+}

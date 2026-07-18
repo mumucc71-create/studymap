@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L04",
+  "courseId": "EN-L04-C08",
+  "stages": [
+    {
+      "stageId": "EN-L04-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S01-Q01",
+          "stageId": "EN-L04-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 1번: I have ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "her",
+            "my"
+          ],
+          "correctAnswer": "my",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 my입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "my",
+            "my"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S01-Q02",
+          "stageId": "EN-L04-C08-S01",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 2번: “You have your bag.”의 핵심 문법 표현이 ‘your’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 your이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S01-Q03",
+          "stageId": "EN-L04-C08-S01",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 3번: He has ___ hat. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "her",
+            "his",
+            "my",
+            "your"
+          ],
+          "correctAnswer": "his",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 his입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "his",
+            "his"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S01-Q04",
+          "stageId": "EN-L04-C08-S01",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 4번: “She has her pen.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 자기 펜을 가지고 있다.",
+            "나는 내 책을 가지고 있다.",
+            "너는 네 가방을 가지고 있다.",
+            "그는 자기 모자를 가지고 있다."
+          ],
+          "correctAnswer": "그녀는 자기 펜을 가지고 있다.",
+          "explanation": "문장의 뜻은 ‘그녀는 자기 펜을 가지고 있다.’입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 자기 펜을 가지고 있다."
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S01-Q05",
+          "stageId": "EN-L04-C08-S01",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 5번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S01-Q06",
+          "stageId": "EN-L04-C08-S01",
+          "type": "ordering",
+          "prompt": "인칭대명사와 소유격: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have our room We.",
+            "We have our room.",
+            "room our have We."
+          ],
+          "correctAnswer": "We have our room.",
+          "explanation": "바른 어순은 “We have our room.”입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have our room.",
+            "We have our room"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S02-Q01",
+          "stageId": "EN-L04-C08-S02",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 1번: She has ___ pen. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "her"
+          ],
+          "correctAnswer": "her",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 her입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S02-Q02",
+          "stageId": "EN-L04-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 2번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "its",
+            "my"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S02-Q03",
+          "stageId": "EN-L04-C08-S02",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 3번: “We have our room.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 자기 모자를 가지고 있다.",
+            "우리는 우리 방이 있다.",
+            "나는 내 책을 가지고 있다.",
+            "너는 네 가방을 가지고 있다."
+          ],
+          "correctAnswer": "우리는 우리 방이 있다.",
+          "explanation": "문장의 뜻은 ‘우리는 우리 방이 있다.’입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 우리 방이 있다."
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S02-Q04",
+          "stageId": "EN-L04-C08-S02",
+          "type": "fillBlank",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 4번: They have ___ bikes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "their",
+            "my",
+            "your",
+            "his"
+          ],
+          "correctAnswer": "their",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 their입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S02-Q05",
+          "stageId": "EN-L04-C08-S02",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 5번: I have ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "her",
+            "my"
+          ],
+          "correctAnswer": "my",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 my입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "my",
+            "my"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S02-Q06",
+          "stageId": "EN-L04-C08-S02",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 생활 어휘 문맥 학습 · 6번: “You have your bag.”의 핵심 문법 표현이 ‘your’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 your이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S03-Q01",
+          "stageId": "EN-L04-C08-S03",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 1번: They have ___ bikes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "their"
+          ],
+          "correctAnswer": "their",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 their입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S03-Q02",
+          "stageId": "EN-L04-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 2번: I have ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "his",
+            "her",
+            "my",
+            "your"
+          ],
+          "correctAnswer": "my",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 my입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "my",
+            "my"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S03-Q03",
+          "stageId": "EN-L04-C08-S03",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 3번: “You have your bag.”의 핵심 문법 표현이 ‘my’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 your이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S03-Q04",
+          "stageId": "EN-L04-C08-S03",
+          "type": "ordering",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "He has his hat.",
+            "hat his has He.",
+            "has his hat He."
+          ],
+          "correctAnswer": "He has his hat.",
+          "explanation": "바른 어순은 “He has his hat.”입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has his hat.",
+            "He has his hat"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S03-Q05",
+          "stageId": "EN-L04-C08-S03",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 5번: She has ___ pen. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "her"
+          ],
+          "correctAnswer": "her",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 her입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S03-Q06",
+          "stageId": "EN-L04-C08-S03",
+          "type": "fillBlank",
+          "prompt": "인칭대명사와 소유격: 문장 구조 발견 · 6번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "its",
+            "my"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S04-Q01",
+          "stageId": "EN-L04-C08-S04",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 1번: He has ___ hat. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "her",
+            "his"
+          ],
+          "correctAnswer": "his",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 his입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "his",
+            "his"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S04-Q02",
+          "stageId": "EN-L04-C08-S04",
+          "type": "ordering",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has her pen She.",
+            "She has her pen.",
+            "pen her has She."
+          ],
+          "correctAnswer": "She has her pen.",
+          "explanation": "바른 어순은 “She has her pen.”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She has her pen.",
+            "She has her pen"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S04-Q03",
+          "stageId": "EN-L04-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 3번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "his",
+            "its",
+            "my",
+            "your"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S04-Q04",
+          "stageId": "EN-L04-C08-S04",
+          "type": "fillBlank",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 4번: We have ___ room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "our",
+            "my",
+            "your",
+            "his"
+          ],
+          "correctAnswer": "our",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 our입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "our",
+            "our"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S04-Q05",
+          "stageId": "EN-L04-C08-S04",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 5번: “They have their bikes.”의 핵심 문법 표현이 ‘my’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 their이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S04-Q06",
+          "stageId": "EN-L04-C08-S04",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 짧은 문장 연습 · 6번: I have ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "his",
+            "her",
+            "my",
+            "your"
+          ],
+          "correctAnswer": "my",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 my입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "my",
+            "my"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S05-Q01",
+          "stageId": "EN-L04-C08-S05",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 1번: “We have our room.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 내 책을 가지고 있다.",
+            "너는 네 가방을 가지고 있다.",
+            "그는 자기 모자를 가지고 있다.",
+            "우리는 우리 방이 있다."
+          ],
+          "correctAnswer": "우리는 우리 방이 있다.",
+          "explanation": "문장의 뜻은 ‘우리는 우리 방이 있다.’입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 우리 방이 있다."
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S05-Q02",
+          "stageId": "EN-L04-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 2번: They have ___ bikes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "their",
+            "my"
+          ],
+          "correctAnswer": "their",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 their입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S05-Q03",
+          "stageId": "EN-L04-C08-S05",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 3번: “I have my book.”의 핵심 문법 표현이 ‘your’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 my이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S05-Q04",
+          "stageId": "EN-L04-C08-S05",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 4번: You have ___ bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "my",
+            "his",
+            "her"
+          ],
+          "correctAnswer": "your",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 your입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "your",
+            "your"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S05-Q05",
+          "stageId": "EN-L04-C08-S05",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 5번: He has ___ hat. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "her",
+            "his"
+          ],
+          "correctAnswer": "his",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 his입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "his",
+            "his"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S05-Q06",
+          "stageId": "EN-L04-C08-S05",
+          "type": "ordering",
+          "prompt": "인칭대명사와 소유격: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has her pen She.",
+            "She has her pen.",
+            "pen her has She."
+          ],
+          "correctAnswer": "She has her pen.",
+          "explanation": "바른 어순은 “She has her pen.”입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She has her pen.",
+            "She has her pen"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S06-Q01",
+          "stageId": "EN-L04-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have my book.",
+            "He has his hat.",
+            "She has her pen.",
+            "You have your bag."
+          ],
+          "correctAnswer": "You have your bag.",
+          "explanation": "들은 문장은 “You have your bag.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have your bag.",
+          "acceptedAnswers": [
+            "You have your bag."
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S06-Q02",
+          "stageId": "EN-L04-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 2번: He has ___ hat. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "her",
+            "his",
+            "my"
+          ],
+          "correctAnswer": "his",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 his입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "his",
+            "his"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S06-Q03",
+          "stageId": "EN-L04-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has his hat.",
+            "She has her pen.",
+            "I have my book.",
+            "You have your bag."
+          ],
+          "correctAnswer": "She has her pen.",
+          "explanation": "들은 문장은 “She has her pen.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has her pen.",
+          "acceptedAnswers": [
+            "She has her pen."
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S06-Q04",
+          "stageId": "EN-L04-C08-S06",
+          "type": "dictation",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "It has its name.",
+          "explanation": "바른 문장은 “It has its name.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "It has its name.",
+          "acceptedAnswers": [
+            "It has its name.",
+            "It has its name"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S06-Q05",
+          "stageId": "EN-L04-C08-S06",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 5번: “We have our room.”의 핵심 문법 표현이 ‘my’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 our이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S06-Q06",
+          "stageId": "EN-L04-C08-S06",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 생활 대화 듣기 · 6번: They have ___ bikes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "their",
+            "my"
+          ],
+          "correctAnswer": "their",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 their입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S07-Q01",
+          "stageId": "EN-L04-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It has its name.",
+          "explanation": "“It has its name.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It has its name.",
+          "acceptedAnswers": [
+            "It has its name.",
+            "It has its name"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S07-Q02",
+          "stageId": "EN-L04-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 2번: We have ___ room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "our",
+            "my"
+          ],
+          "correctAnswer": "our",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 our입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "our",
+            "our"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S07-Q03",
+          "stageId": "EN-L04-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have their bikes.",
+          "explanation": "“They have their bikes.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have their bikes.",
+          "acceptedAnswers": [
+            "They have their bikes.",
+            "They have their bikes"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S07-Q04",
+          "stageId": "EN-L04-C08-S07",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 4번: “I have my book.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 내 책을 가지고 있다.",
+            "너는 네 가방을 가지고 있다.",
+            "그는 자기 모자를 가지고 있다.",
+            "그녀는 자기 펜을 가지고 있다."
+          ],
+          "correctAnswer": "나는 내 책을 가지고 있다.",
+          "explanation": "문장의 뜻은 ‘나는 내 책을 가지고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 내 책을 가지고 있다."
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S07-Q05",
+          "stageId": "EN-L04-C08-S07",
+          "type": "matching",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 5번: You have ___ bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "his",
+            "her",
+            "your"
+          ],
+          "correctAnswer": "your",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 your입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "your",
+            "your"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S07-Q06",
+          "stageId": "EN-L04-C08-S07",
+          "type": "trueFalse",
+          "prompt": "인칭대명사와 소유격: 표현 말하기 · 6번: “He has his hat.”의 핵심 문법 표현이 ‘his’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 his이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S08-Q01",
+          "stageId": "EN-L04-C08-S08",
+          "type": "fillBlank",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 1번: I have ___ book. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "her",
+            "my"
+          ],
+          "correctAnswer": "my",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 my입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "my",
+            "my"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S08-Q02",
+          "stageId": "EN-L04-C08-S08",
+          "type": "dictation",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have your bag.",
+          "explanation": "바른 문장은 “You have your bag.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have your bag.",
+          "acceptedAnswers": [
+            "You have your bag.",
+            "You have your bag"
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S08-Q03",
+          "stageId": "EN-L04-C08-S08",
+          "type": "ordering",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "He has his hat.",
+            "hat his has He.",
+            "has his hat He."
+          ],
+          "correctAnswer": "He has his hat.",
+          "explanation": "바른 어순은 “He has his hat.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has his hat.",
+            "He has his hat"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S08-Q04",
+          "stageId": "EN-L04-C08-S08",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 4번: She has ___ pen. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "her",
+            "my",
+            "your",
+            "his"
+          ],
+          "correctAnswer": "her",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 her입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S08-Q05",
+          "stageId": "EN-L04-C08-S08",
+          "type": "fillBlank",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 5번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "its"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S08-Q06",
+          "stageId": "EN-L04-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 문장 쓰기 · 6번: We have ___ room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "our",
+            "my"
+          ],
+          "correctAnswer": "our",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 our입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "our",
+            "our"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C08-S09",
+      "questions": [
+        {
+          "questionId": "EN-L04-C08-S09-Q01",
+          "stageId": "EN-L04-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 1번: She has ___ pen. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "my",
+            "your",
+            "his",
+            "her"
+          ],
+          "correctAnswer": "her",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 her입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q02",
+          "stageId": "EN-L04-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 2번: It has ___ name. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "its",
+            "my"
+          ],
+          "correctAnswer": "its",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 its입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "its",
+            "its"
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q03",
+          "stageId": "EN-L04-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has his hat.",
+            "We have our room.",
+            "I have my book.",
+            "You have your bag."
+          ],
+          "correctAnswer": "We have our room.",
+          "explanation": "들은 문장은 “We have our room.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have our room.",
+          "acceptedAnswers": [
+            "We have our room."
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q04",
+          "stageId": "EN-L04-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 4번: They have ___ bikes. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "their",
+            "my",
+            "your",
+            "his"
+          ],
+          "correctAnswer": "their",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 their입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q05",
+          "stageId": "EN-L04-C08-S09",
+          "type": "dictation",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "I have my book.",
+          "explanation": "바른 문장은 “I have my book.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have my book.",
+          "acceptedAnswers": [
+            "I have my book.",
+            "I have my book"
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q06",
+          "stageId": "EN-L04-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 6번: “You have your bag.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 자기 모자를 가지고 있다.",
+            "그녀는 자기 펜을 가지고 있다.",
+            "너는 네 가방을 가지고 있다.",
+            "나는 내 책을 가지고 있다."
+          ],
+          "correctAnswer": "너는 네 가방을 가지고 있다.",
+          "explanation": "문장의 뜻은 ‘너는 네 가방을 가지고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 네 가방을 가지고 있다."
+          ],
+          "exampleSentence": "You have your bag.",
+          "koreanMeaning": "너는 네 가방을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q07",
+          "stageId": "EN-L04-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 7번: He has ___ hat. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "her",
+            "his",
+            "my",
+            "your"
+          ],
+          "correctAnswer": "his",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 his입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "his",
+            "his"
+          ],
+          "exampleSentence": "He has his hat.",
+          "koreanMeaning": "그는 자기 모자를 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q08",
+          "stageId": "EN-L04-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 8번: She has ___ pen. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "her",
+            "my",
+            "your",
+            "his"
+          ],
+          "correctAnswer": "her",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 her입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "her",
+            "her"
+          ],
+          "exampleSentence": "She has her pen.",
+          "koreanMeaning": "그녀는 자기 펜을 가지고 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q09",
+          "stageId": "EN-L04-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have my book.",
+            "You have your bag.",
+            "He has his hat.",
+            "It has its name."
+          ],
+          "correctAnswer": "It has its name.",
+          "explanation": "들은 문장은 “It has its name.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "It has its name.",
+          "acceptedAnswers": [
+            "It has its name."
+          ],
+          "exampleSentence": "It has its name.",
+          "koreanMeaning": "그것에는 그것의 이름이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q10",
+          "stageId": "EN-L04-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 10번: We have ___ room. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "your",
+            "his",
+            "our",
+            "my"
+          ],
+          "correctAnswer": "our",
+          "explanation": "인칭대명사와 소유격 규칙에 맞는 표현은 our입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "our",
+            "our"
+          ],
+          "exampleSentence": "We have our room.",
+          "koreanMeaning": "우리는 우리 방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q11",
+          "stageId": "EN-L04-C08-S09",
+          "type": "dictation",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have their bikes.",
+          "explanation": "바른 문장은 “They have their bikes.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have their bikes.",
+          "acceptedAnswers": [
+            "They have their bikes.",
+            "They have their bikes"
+          ],
+          "exampleSentence": "They have their bikes.",
+          "koreanMeaning": "그들은 자기들 자전거가 있다."
+        },
+        {
+          "questionId": "EN-L04-C08-S09-Q12",
+          "stageId": "EN-L04-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "인칭대명사와 소유격: 과정 평가 · 12번: “I have my book.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 내 책을 가지고 있다.",
+            "너는 네 가방을 가지고 있다.",
+            "그는 자기 모자를 가지고 있다.",
+            "그녀는 자기 펜을 가지고 있다."
+          ],
+          "correctAnswer": "나는 내 책을 가지고 있다.",
+          "explanation": "문장의 뜻은 ‘나는 내 책을 가지고 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "인칭대명사와 소유격",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "인칭대명사와 소유격 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 내 책을 가지고 있다."
+          ],
+          "exampleSentence": "I have my book.",
+          "koreanMeaning": "나는 내 책을 가지고 있다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C08",
+  "stages": [
+    {
+      "stageId": "EN-L02-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S01-Q01",
+          "stageId": "EN-L02-C08-S01",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 1번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "clap",
+            "rat",
+            "tap",
+            "flag"
+          ],
+          "correctAnswer": "flag",
+          "explanation": "flag에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flag",
+            "FLAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S01-Q02",
+          "stageId": "EN-L02-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 2번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "clap",
+            "flag"
+          ],
+          "correctAnswer": "clap",
+          "explanation": "clap에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "clap",
+            "CLAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S01-Q03",
+          "stageId": "EN-L02-C08-S01",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 3번: plug에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "plug의 목표 규칙은 consonant-blend이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S01-Q04",
+          "stageId": "EN-L02-C08-S01",
+          "type": "matching",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 4번: drum와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "grin",
+            "rat",
+            "tap",
+            "ship"
+          ],
+          "correctAnswer": "grin",
+          "explanation": "drum와 grin에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "grin",
+            "GRIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S01-Q05",
+          "stageId": "EN-L02-C08-S01",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 5번: g_in에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "grin의 빠진 글자는 r입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S01-Q06",
+          "stageId": "EN-L02-C08-S01",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 frog를 만드세요.",
+          "choices": [
+            "rogf",
+            "fro",
+            "frog",
+            "gorf"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "f + r + o + g를 순서대로 놓으면 frog입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S02-Q01",
+          "stageId": "EN-L02-C08-S02",
+          "type": "matching",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 1번: plug와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "ship",
+            "drum"
+          ],
+          "correctAnswer": "drum",
+          "explanation": "plug와 drum에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drum",
+            "DRUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S02-Q02",
+          "stageId": "EN-L02-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 2번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "drum",
+            "flag"
+          ],
+          "correctAnswer": "drum",
+          "explanation": "drum에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drum",
+            "DRUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S02-Q03",
+          "stageId": "EN-L02-C08-S02",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 grin를 만드세요.",
+          "choices": [
+            "gri",
+            "grin",
+            "nirg",
+            "ring"
+          ],
+          "correctAnswer": "grin",
+          "explanation": "g + r + i + n를 순서대로 놓으면 grin입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "grin",
+            "GRIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S02-Q04",
+          "stageId": "EN-L02-C08-S02",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 4번: _rog에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "f",
+          "explanation": "frog의 빠진 글자는 f입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "f",
+            "F"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S02-Q05",
+          "stageId": "EN-L02-C08-S02",
+          "type": "spelling",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 5번: s_op에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "stop의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S02-Q06",
+          "stageId": "EN-L02-C08-S02",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 핵심 글자·철자 · 6번: swim에 consonant-blend 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "swim의 목표 규칙은 consonant-blend이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S03-Q01",
+          "stageId": "EN-L02-C08-S03",
+          "type": "listeningChoice",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "grin"
+          ],
+          "correctAnswer": "grin",
+          "explanation": "음성은 grin를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "grin",
+          "acceptedAnswers": [
+            "grin",
+            "GRIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S03-Q02",
+          "stageId": "EN-L02-C08-S03",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 2번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "frog",
+            "flag"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "frog에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S03-Q03",
+          "stageId": "EN-L02-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 3번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "stop",
+            "flag",
+            "rat"
+          ],
+          "correctAnswer": "stop",
+          "explanation": "stop에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "stop",
+            "STOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S03-Q04",
+          "stageId": "EN-L02-C08-S03",
+          "type": "listeningChoice",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "swim",
+            "flag",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "음성은 swim를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "swim",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S03-Q05",
+          "stageId": "EN-L02-C08-S03",
+          "type": "matching",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 5번: plan와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "ship",
+            "trip"
+          ],
+          "correctAnswer": "trip",
+          "explanation": "plan와 trip에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "trip",
+            "TRIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S03-Q06",
+          "stageId": "EN-L02-C08-S03",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 음가 듣고 구별하기 · 6번: trip에 consonant-blend 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "trip의 목표 규칙은 consonant-blend이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S04-Q01",
+          "stageId": "EN-L02-C08-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 1번: stop를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "stop",
+          "explanation": "stop에는 two blended consonant sounds 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "stop",
+          "acceptedAnswers": [
+            "stop",
+            "STOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S04-Q02",
+          "stageId": "EN-L02-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 2번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "swim",
+            "flag"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "swim에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S04-Q03",
+          "stageId": "EN-L02-C08-S04",
+          "type": "matching",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 3번: plan와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "trip",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "trip",
+          "explanation": "plan와 trip에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "trip",
+            "TRIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S04-Q04",
+          "stageId": "EN-L02-C08-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 4번: trip를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "trip",
+          "explanation": "trip에는 two blended consonant sounds 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "trip",
+          "acceptedAnswers": [
+            "trip",
+            "TRIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S04-Q05",
+          "stageId": "EN-L02-C08-S04",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 5번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "step"
+          ],
+          "correctAnswer": "step",
+          "explanation": "step에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "step",
+            "STEP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S04-Q06",
+          "stageId": "EN-L02-C08-S04",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 소리 내어 따라 읽기 · 6번: crab에 consonant-blend 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "crab의 목표 규칙은 consonant-blend이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S05-Q01",
+          "stageId": "EN-L02-C08-S05",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 1번: 글자를 바르게 배열해 plan를 만드세요.",
+          "choices": [
+            "nalp",
+            "lanp",
+            "pla",
+            "plan"
+          ],
+          "correctAnswer": "plan",
+          "explanation": "p + l + a + n를 순서대로 놓으면 plan입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plan",
+            "PLAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S05-Q02",
+          "stageId": "EN-L02-C08-S05",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 2번: tr_p에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "trip의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S05-Q03",
+          "stageId": "EN-L02-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 3번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "step",
+            "flag",
+            "rat"
+          ],
+          "correctAnswer": "step",
+          "explanation": "step에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "step",
+            "STEP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S05-Q04",
+          "stageId": "EN-L02-C08-S05",
+          "type": "matching",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 4번: crab와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "ship"
+          ],
+          "correctAnswer": "flag",
+          "explanation": "crab와 flag에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flag",
+            "FLAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S05-Q05",
+          "stageId": "EN-L02-C08-S05",
+          "type": "ordering",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 5번: 글자를 바르게 배열해 flag를 만드세요.",
+          "choices": [
+            "galf",
+            "lagf",
+            "fla",
+            "flag"
+          ],
+          "correctAnswer": "flag",
+          "explanation": "f + l + a + g를 순서대로 놓으면 flag입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flag",
+            "FLAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S05-Q06",
+          "stageId": "EN-L02-C08-S05",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 문자 인식 연습 · 6번: clap에 consonant-blend 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "clap의 목표 규칙은 consonant-blend이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S06-Q01",
+          "stageId": "EN-L02-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 1번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "step"
+          ],
+          "correctAnswer": "step",
+          "explanation": "step에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "step",
+            "STEP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S06-Q02",
+          "stageId": "EN-L02-C08-S06",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 2번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "crab",
+            "flag"
+          ],
+          "correctAnswer": "crab",
+          "explanation": "crab에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "crab",
+            "CRAB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S06-Q03",
+          "stageId": "EN-L02-C08-S06",
+          "type": "matching",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 3번: flag와 같은 two blended consonant sounds 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "clap",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "clap",
+          "explanation": "flag와 clap에는 모두 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "clap",
+            "CLAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S06-Q04",
+          "stageId": "EN-L02-C08-S06",
+          "type": "trueFalse",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 4번: clap에 consonant-blend 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "clap의 목표 규칙은 consonant-blend이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S06-Q05",
+          "stageId": "EN-L02-C08-S06",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 plug를 만드세요.",
+          "choices": [
+            "gulp",
+            "lugp",
+            "plu",
+            "plug"
+          ],
+          "correctAnswer": "plug",
+          "explanation": "p + l + u + g를 순서대로 놓으면 plug입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plug",
+            "PLUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S06-Q06",
+          "stageId": "EN-L02-C08-S06",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 단어 읽기 적용 · 6번: dr_m에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "drum의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S07-Q01",
+          "stageId": "EN-L02-C08-S07",
+          "type": "spelling",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 1번: f_ag에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "l",
+          "explanation": "flag의 빠진 글자는 l입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "l",
+            "L"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S07-Q02",
+          "stageId": "EN-L02-C08-S07",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 2번: cl_p에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "clap의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S07-Q03",
+          "stageId": "EN-L02-C08-S07",
+          "type": "dictation",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "plug",
+          "explanation": "plug의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "plug",
+          "acceptedAnswers": [
+            "plug",
+            "PLUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S07-Q04",
+          "stageId": "EN-L02-C08-S07",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 drum를 만드세요.",
+          "choices": [
+            "drum",
+            "murd",
+            "rumd",
+            "dru"
+          ],
+          "correctAnswer": "drum",
+          "explanation": "d + r + u + m를 순서대로 놓으면 drum입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drum",
+            "DRUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S07-Q05",
+          "stageId": "EN-L02-C08-S07",
+          "type": "spelling",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 5번: g_in에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "grin의 빠진 글자는 r입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S07-Q06",
+          "stageId": "EN-L02-C08-S07",
+          "type": "fillBlank",
+          "prompt": "자음 블렌드: 철자와 받아쓰기 · 6번: fr_g에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "frog의 빠진 글자는 o입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C08-S08-Q01",
+          "stageId": "EN-L02-C08-S08",
+          "type": "reviewMixed",
+          "prompt": "자음 블렌드: 과정 평가 · 1번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "plug"
+          ],
+          "correctAnswer": "plug",
+          "explanation": "plug에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plug",
+            "PLUG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q02",
+          "stageId": "EN-L02-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 과정 평가 · 2번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "drum",
+            "flag"
+          ],
+          "correctAnswer": "drum",
+          "explanation": "drum에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drum",
+            "DRUM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q03",
+          "stageId": "EN-L02-C08-S08",
+          "type": "listeningChoice",
+          "prompt": "자음 블렌드: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "grin",
+            "flag",
+            "rat"
+          ],
+          "correctAnswer": "grin",
+          "explanation": "음성은 grin를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "grin",
+          "acceptedAnswers": [
+            "grin",
+            "GRIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q04",
+          "stageId": "EN-L02-C08-S08",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 과정 평가 · 4번: 글자를 바르게 배열해 frog를 만드세요.",
+          "choices": [
+            "frog",
+            "gorf",
+            "rogf",
+            "fro"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "f + r + o + g를 순서대로 놓으면 frog입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q05",
+          "stageId": "EN-L02-C08-S08",
+          "type": "dictation",
+          "prompt": "자음 블렌드: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "stop",
+          "explanation": "stop의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "stop",
+          "acceptedAnswers": [
+            "stop",
+            "STOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q06",
+          "stageId": "EN-L02-C08-S08",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 과정 평가 · 6번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "swim",
+            "flag"
+          ],
+          "correctAnswer": "swim",
+          "explanation": "swim에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "swim",
+            "SWIM"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q07",
+          "stageId": "EN-L02-C08-S08",
+          "type": "reviewMixed",
+          "prompt": "자음 블렌드: 과정 평가 · 7번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "plan",
+            "flag",
+            "rat"
+          ],
+          "correctAnswer": "plan",
+          "explanation": "plan에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plan",
+            "PLAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q08",
+          "stageId": "EN-L02-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "자음 블렌드: 과정 평가 · 8번: consonant-blend 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "trip",
+            "flag",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "trip",
+          "explanation": "trip에는 consonant-blend 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "trip",
+            "TRIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q09",
+          "stageId": "EN-L02-C08-S08",
+          "type": "listeningChoice",
+          "prompt": "자음 블렌드: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "flag",
+            "rat",
+            "tap",
+            "step"
+          ],
+          "correctAnswer": "step",
+          "explanation": "음성은 step를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "step",
+          "acceptedAnswers": [
+            "step",
+            "STEP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q10",
+          "stageId": "EN-L02-C08-S08",
+          "type": "wordBuilding",
+          "prompt": "자음 블렌드: 과정 평가 · 10번: 글자를 바르게 배열해 crab를 만드세요.",
+          "choices": [
+            "rabc",
+            "cra",
+            "crab",
+            "barc"
+          ],
+          "correctAnswer": "crab",
+          "explanation": "c + r + a + b를 순서대로 놓으면 crab입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "crab",
+            "CRAB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q11",
+          "stageId": "EN-L02-C08-S08",
+          "type": "dictation",
+          "prompt": "자음 블렌드: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "flag",
+          "explanation": "flag의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "flag",
+          "acceptedAnswers": [
+            "flag",
+            "FLAG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C08-S08-Q12",
+          "stageId": "EN-L02-C08-S08",
+          "type": "soundDiscrimination",
+          "prompt": "자음 블렌드: 과정 평가 · 12번: two blended consonant sounds이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "clap",
+            "flag",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "clap",
+          "explanation": "clap에서 two blended consonant sounds을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-blend",
+          "targetSound": "two blended consonant sounds",
+          "sourceObjective": "자음 블렌드 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "clap",
+            "CLAP"
+          ]
+        }
+      ]
+    }
+  ]
+}

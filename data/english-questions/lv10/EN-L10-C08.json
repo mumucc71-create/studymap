@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C08",
+  "stages": [
+    {
+      "stageId": "EN-L10-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S01-Q01",
+          "stageId": "EN-L10-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 1번: The young artist notices the ___ studying English at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "ready student",
+            "busy student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "The young artist notices the busy student studying English at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S01-Q02",
+          "stageId": "EN-L10-C08-S01",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 2번: 핵심 구조가 ‘busy student’이면 O, 아니면 X를 고르세요: The soccer player notices the busy student studying English at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 busy student입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player notices the busy student studying English at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S01-Q03",
+          "stageId": "EN-L10-C08-S01",
+          "type": "matching",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 3번: The new student notices the ___ studying English at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready student",
+            "busy student",
+            "confident student",
+            "happy student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "The new student notices the busy student studying English at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S01-Q04",
+          "stageId": "EN-L10-C08-S01",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 4번: “Mina notices the busy student playing soccer at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "Mina notices the busy student playing soccer at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S01-Q05",
+          "stageId": "EN-L10-C08-S01",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 5번: Tom notices the ___ playing soccer at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "happy student",
+            "ready student",
+            "busy student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "Tom notices the busy student playing soccer at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S01-Q06",
+          "stageId": "EN-L10-C08-S01",
+          "type": "ordering",
+          "prompt": "병렬 구조: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother notices the busy student playing soccer at home My.",
+            "subject",
+            "My brother notices the busy student playing soccer at home.",
+            "home at soccer playing student busy the notices brother My."
+          ],
+          "correctAnswer": "My brother notices the busy student playing soccer at home.",
+          "explanation": "바른 어순은 “My brother notices the busy student playing soccer at home.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother notices the busy student playing soccer at home.",
+            "My brother notices the busy student playing soccer at home"
+          ],
+          "exampleSentence": "My brother notices the busy student playing soccer at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S02-Q01",
+          "stageId": "EN-L10-C08-S02",
+          "type": "matching",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 1번: Tom notices the ___ finding the answer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired student",
+            "confident student",
+            "helpful student",
+            "careful student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "Tom notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S02-Q02",
+          "stageId": "EN-L10-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 2번: My brother notices the ___ finding the answer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "careful student",
+            "tired student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "My brother notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S02-Q03",
+          "stageId": "EN-L10-C08-S02",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 3번: “The student notices the careful student finding the answer in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "The student notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S02-Q04",
+          "stageId": "EN-L10-C08-S02",
+          "type": "fillBlank",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 4번: Our teacher notices the ___ finding the answer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful student",
+            "busy student",
+            "confident student",
+            "helpful student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "Our teacher notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S02-Q05",
+          "stageId": "EN-L10-C08-S02",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 5번: The young artist notices the ___ finding the answer in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy student",
+            "confident student",
+            "helpful student",
+            "careful student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "The young artist notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S02-Q06",
+          "stageId": "EN-L10-C08-S02",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘careful student’이면 O, 아니면 X를 고르세요: The soccer player notices the careful student finding the answer in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 careful student입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player notices the careful student finding the answer in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S03-Q01",
+          "stageId": "EN-L10-C08-S03",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 문법 구조 분석 · 1번: The young artist notices the ___ playing soccer before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful student",
+            "tired student",
+            "busy student",
+            "ready student"
+          ],
+          "correctAnswer": "ready student",
+          "explanation": "분사 기초 문맥에 맞는 답은 ready student입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready student",
+            "ready student"
+          ],
+          "exampleSentence": "The young artist notices the ready student playing soccer before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S03-Q02",
+          "stageId": "EN-L10-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 문법 구조 분석 · 2번: The soccer player notices the ___ playing soccer before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired student",
+            "busy student",
+            "ready student",
+            "careful student"
+          ],
+          "correctAnswer": "ready student",
+          "explanation": "분사 기초 문맥에 맞는 답은 ready student입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready student",
+            "ready student"
+          ],
+          "exampleSentence": "The soccer player notices the ready student playing soccer before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S03-Q03",
+          "stageId": "EN-L10-C08-S03",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 문법 구조 분석 · 3번: 핵심 구조가 ‘careful student’이면 O, 아니면 X를 고르세요: The new student notices the ready student playing soccer before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 ready student입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student notices the ready student playing soccer before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S03-Q04",
+          "stageId": "EN-L10-C08-S03",
+          "type": "ordering",
+          "prompt": "병렬 구조: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina notices the quiet student opening the window before lunch.",
+            "lunch before window the opening student quiet the notices Mina.",
+            "notices the quiet student opening the window before lunch Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina notices the quiet student opening the window before lunch.",
+          "explanation": "바른 어순은 “Mina notices the quiet student opening the window before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina notices the quiet student opening the window before lunch.",
+            "Mina notices the quiet student opening the window before lunch"
+          ],
+          "exampleSentence": "Mina notices the quiet student opening the window before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S03-Q05",
+          "stageId": "EN-L10-C08-S03",
+          "type": "matching",
+          "prompt": "병렬 구조: 문법 구조 분석 · 5번: Tom notices the ___ opening the window before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful student",
+            "tired student",
+            "confident student",
+            "quiet student"
+          ],
+          "correctAnswer": "quiet student",
+          "explanation": "분사 기초 문맥에 맞는 답은 quiet student입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet student",
+            "quiet student"
+          ],
+          "exampleSentence": "Tom notices the quiet student opening the window before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S03-Q06",
+          "stageId": "EN-L10-C08-S03",
+          "type": "fillBlank",
+          "prompt": "병렬 구조: 문법 구조 분석 · 6번: My brother notices the ___ opening the window before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired student",
+            "confident student",
+            "quiet student",
+            "careful student"
+          ],
+          "correctAnswer": "quiet student",
+          "explanation": "분사 기초 문맥에 맞는 답은 quiet student입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet student",
+            "quiet student"
+          ],
+          "exampleSentence": "My brother notices the quiet student opening the window before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S04-Q01",
+          "stageId": "EN-L10-C08-S04",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 문장 분석 연습 · 1번: Tom notices the ___ reading books during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready student",
+            "quiet student",
+            "tired student",
+            "happy student"
+          ],
+          "correctAnswer": "happy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 happy student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy student",
+            "happy student"
+          ],
+          "exampleSentence": "Tom notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S04-Q02",
+          "stageId": "EN-L10-C08-S04",
+          "type": "ordering",
+          "prompt": "병렬 구조: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother notices the happy student reading books during study time My.",
+            "subject",
+            "My brother notices the happy student reading books during study time.",
+            "time study during books reading student happy the notices brother My."
+          ],
+          "correctAnswer": "My brother notices the happy student reading books during study time.",
+          "explanation": "바른 어순은 “My brother notices the happy student reading books during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother notices the happy student reading books during study time.",
+            "My brother notices the happy student reading books during study time"
+          ],
+          "exampleSentence": "My brother notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S04-Q03",
+          "stageId": "EN-L10-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 문장 분석 연습 · 3번: The student notices the ___ reading books during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired student",
+            "happy student",
+            "ready student",
+            "quiet student"
+          ],
+          "correctAnswer": "happy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 happy student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy student",
+            "happy student"
+          ],
+          "exampleSentence": "The student notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S04-Q04",
+          "stageId": "EN-L10-C08-S04",
+          "type": "fillBlank",
+          "prompt": "병렬 구조: 문장 분석 연습 · 4번: Our teacher notices the ___ reading books during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy student",
+            "ready student",
+            "quiet student",
+            "tired student"
+          ],
+          "correctAnswer": "happy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 happy student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy student",
+            "happy student"
+          ],
+          "exampleSentence": "Our teacher notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S04-Q05",
+          "stageId": "EN-L10-C08-S04",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 문장 분석 연습 · 5번: 핵심 구조가 ‘ready student’이면 O, 아니면 X를 고르세요: The young artist notices the happy student reading books during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 happy student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S04-Q06",
+          "stageId": "EN-L10-C08-S04",
+          "type": "matching",
+          "prompt": "병렬 구조: 문장 분석 연습 · 6번: The soccer player notices the ___ reading books during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful student",
+            "tired student",
+            "happy student",
+            "ready student"
+          ],
+          "correctAnswer": "happy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 happy student입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "happy student",
+            "happy student"
+          ],
+          "exampleSentence": "The soccer player notices the happy student reading books during study time.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S05-Q01",
+          "stageId": "EN-L10-C08-S05",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 문단 구조 적용 · 1번: “The young artist notices the confident student opening the window on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "The young artist notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S05-Q02",
+          "stageId": "EN-L10-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 문단 구조 적용 · 2번: The soccer player notices the ___ opening the window on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready student",
+            "quiet student",
+            "confident student",
+            "helpful student"
+          ],
+          "correctAnswer": "confident student",
+          "explanation": "분사 기초 문맥에 맞는 답은 confident student입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident student",
+            "confident student"
+          ],
+          "exampleSentence": "The soccer player notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S05-Q03",
+          "stageId": "EN-L10-C08-S05",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 문단 구조 적용 · 3번: 핵심 구조가 ‘helpful student’이면 O, 아니면 X를 고르세요: The new student notices the confident student opening the window on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 confident student입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S05-Q04",
+          "stageId": "EN-L10-C08-S05",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 문단 구조 적용 · 4번: Mina notices the ___ carrying a blue bag on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "ready student",
+            "quiet student"
+          ],
+          "correctAnswer": "confident student",
+          "explanation": "분사 기초 문맥에 맞는 답은 confident student입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident student",
+            "confident student"
+          ],
+          "exampleSentence": "Mina notices the confident student carrying a blue bag on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S05-Q05",
+          "stageId": "EN-L10-C08-S05",
+          "type": "matching",
+          "prompt": "병렬 구조: 문단 구조 적용 · 5번: Tom notices the ___ carrying a blue bag on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful student",
+            "ready student",
+            "quiet student",
+            "confident student"
+          ],
+          "correctAnswer": "confident student",
+          "explanation": "분사 기초 문맥에 맞는 답은 confident student입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident student",
+            "confident student"
+          ],
+          "exampleSentence": "Tom notices the confident student carrying a blue bag on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S05-Q06",
+          "stageId": "EN-L10-C08-S05",
+          "type": "ordering",
+          "prompt": "병렬 구조: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother notices the confident student carrying a blue bag on Saturday morning My.",
+            "subject",
+            "My brother notices the confident student carrying a blue bag on Saturday morning.",
+            "morning Saturday on bag blue a carrying student confident the notices brother My."
+          ],
+          "correctAnswer": "My brother notices the confident student carrying a blue bag on Saturday morning.",
+          "explanation": "바른 어순은 “My brother notices the confident student carrying a blue bag on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother notices the confident student carrying a blue bag on Saturday morning.",
+            "My brother notices the confident student carrying a blue bag on Saturday morning"
+          ],
+          "exampleSentence": "My brother notices the confident student carrying a blue bag on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S06-Q01",
+          "stageId": "EN-L10-C08-S06",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 구문독해 적용 · 1번: “Tom notices the tired student writing short notes at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "Tom notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S06-Q02",
+          "stageId": "EN-L10-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 구문독해 적용 · 2번: My brother notices the ___ writing short notes at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful student",
+            "happy student",
+            "tired student",
+            "busy student"
+          ],
+          "correctAnswer": "tired student",
+          "explanation": "분사 기초 문맥에 맞는 답은 tired student입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired student",
+            "tired student"
+          ],
+          "exampleSentence": "My brother notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S06-Q03",
+          "stageId": "EN-L10-C08-S06",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 구문독해 적용 · 3번: 핵심 구조가 ‘confident student’이면 O, 아니면 X를 고르세요: The student notices the tired student writing short notes at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 tired student입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S06-Q04",
+          "stageId": "EN-L10-C08-S06",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 구문독해 적용 · 4번: Our teacher notices the ___ writing short notes at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "tired student",
+            "confident student",
+            "helpful student",
+            "happy student"
+          ],
+          "correctAnswer": "tired student",
+          "explanation": "분사 기초 문맥에 맞는 답은 tired student입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired student",
+            "tired student"
+          ],
+          "exampleSentence": "Our teacher notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S06-Q05",
+          "stageId": "EN-L10-C08-S06",
+          "type": "matching",
+          "prompt": "병렬 구조: 구문독해 적용 · 5번: The young artist notices the ___ writing short notes at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "happy student",
+            "tired student"
+          ],
+          "correctAnswer": "tired student",
+          "explanation": "분사 기초 문맥에 맞는 답은 tired student입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tired student",
+            "tired student"
+          ],
+          "exampleSentence": "The young artist notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S06-Q06",
+          "stageId": "EN-L10-C08-S06",
+          "type": "ordering",
+          "prompt": "병렬 구조: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player notices the tired student writing short notes at home The.",
+            "subject",
+            "The soccer player notices the tired student writing short notes at home.",
+            "home at notes short writing student tired the notices player soccer The."
+          ],
+          "correctAnswer": "The soccer player notices the tired student writing short notes at home.",
+          "explanation": "바른 어순은 “The soccer player notices the tired student writing short notes at home.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player notices the tired student writing short notes at home.",
+            "The soccer player notices the tired student writing short notes at home"
+          ],
+          "exampleSentence": "The soccer player notices the tired student writing short notes at home.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S07-Q01",
+          "stageId": "EN-L10-C08-S07",
+          "type": "listeningChoice",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother notices the tired student reading books at home.",
+            "The new student notices the busy student studying English on Saturday morning.",
+            "Our teacher notices the confident student carrying a blue bag at the community center.",
+            "The young artist notices the quiet student carrying a blue bag in the library."
+          ],
+          "correctAnswer": "The young artist notices the quiet student carrying a blue bag in the library.",
+          "explanation": "들은 문장은 “The young artist notices the quiet student carrying a blue bag in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist notices the quiet student carrying a blue bag in the library.",
+          "acceptedAnswers": [
+            "The young artist notices the quiet student carrying a blue bag in the library."
+          ],
+          "exampleSentence": "The young artist notices the quiet student carrying a blue bag in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S07-Q02",
+          "stageId": "EN-L10-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 2번: The soccer player notices the ___ carrying a blue bag in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy student",
+            "confident student",
+            "quiet student",
+            "tired student"
+          ],
+          "correctAnswer": "quiet student",
+          "explanation": "분사 기초 문맥에 맞는 답은 quiet student입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "quiet student",
+            "quiet student"
+          ],
+          "exampleSentence": "The soccer player notices the quiet student carrying a blue bag in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S07-Q03",
+          "stageId": "EN-L10-C08-S07",
+          "type": "listeningChoice",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player notices the confident student carrying a blue bag at the community center.",
+            "The new student notices the quiet student carrying a blue bag in the library.",
+            "Our teacher notices the tired student reading books at home.",
+            "Tom notices the busy student playing soccer on Saturday morning."
+          ],
+          "correctAnswer": "The new student notices the quiet student carrying a blue bag in the library.",
+          "explanation": "들은 문장은 “The new student notices the quiet student carrying a blue bag in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student notices the quiet student carrying a blue bag in the library.",
+          "acceptedAnswers": [
+            "The new student notices the quiet student carrying a blue bag in the library."
+          ],
+          "exampleSentence": "The new student notices the quiet student carrying a blue bag in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S07-Q04",
+          "stageId": "EN-L10-C08-S07",
+          "type": "dictation",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina notices the careful student making a simple plan in the library.",
+          "explanation": "바른 문장은 “Mina notices the careful student making a simple plan in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina notices the careful student making a simple plan in the library.",
+          "acceptedAnswers": [
+            "Mina notices the careful student making a simple plan in the library.",
+            "Mina notices the careful student making a simple plan in the library"
+          ],
+          "exampleSentence": "Mina notices the careful student making a simple plan in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S07-Q05",
+          "stageId": "EN-L10-C08-S07",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘tired student’이면 O, 아니면 X를 고르세요: Tom notices the careful student making a simple plan in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 careful student입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom notices the careful student making a simple plan in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S07-Q06",
+          "stageId": "EN-L10-C08-S07",
+          "type": "matching",
+          "prompt": "병렬 구조: 핵심 정보 듣기 · 6번: My brother notices the ___ making a simple plan in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy student",
+            "helpful student",
+            "careful student",
+            "tired student"
+          ],
+          "correctAnswer": "careful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 careful student입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "careful student",
+            "careful student"
+          ],
+          "exampleSentence": "My brother notices the careful student making a simple plan in the library.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S08-Q01",
+          "stageId": "EN-L10-C08-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "병렬 구조: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom notices the ready student studying English before lunch.",
+          "explanation": "“Tom notices the ready student studying English before lunch.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom notices the ready student studying English before lunch.",
+          "acceptedAnswers": [
+            "Tom notices the ready student studying English before lunch.",
+            "Tom notices the ready student studying English before lunch"
+          ],
+          "exampleSentence": "Tom notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S08-Q02",
+          "stageId": "EN-L10-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 근거 설명하기 · 2번: My brother notices the ___ studying English before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "careful student",
+            "busy student",
+            "ready student",
+            "quiet student"
+          ],
+          "correctAnswer": "ready student",
+          "explanation": "분사 기초 문맥에 맞는 답은 ready student입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready student",
+            "ready student"
+          ],
+          "exampleSentence": "My brother notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S08-Q03",
+          "stageId": "EN-L10-C08-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "병렬 구조: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student notices the ready student studying English before lunch.",
+          "explanation": "“The student notices the ready student studying English before lunch.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student notices the ready student studying English before lunch.",
+          "acceptedAnswers": [
+            "The student notices the ready student studying English before lunch.",
+            "The student notices the ready student studying English before lunch"
+          ],
+          "exampleSentence": "The student notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S08-Q04",
+          "stageId": "EN-L10-C08-S08",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 근거 설명하기 · 4번: “Our teacher notices the ready student studying English before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "Our teacher notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S08-Q05",
+          "stageId": "EN-L10-C08-S08",
+          "type": "matching",
+          "prompt": "병렬 구조: 근거 설명하기 · 5번: The young artist notices the ___ studying English before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet student",
+            "careful student",
+            "busy student",
+            "ready student"
+          ],
+          "correctAnswer": "ready student",
+          "explanation": "분사 기초 문맥에 맞는 답은 ready student입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ready student",
+            "ready student"
+          ],
+          "exampleSentence": "The young artist notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S08-Q06",
+          "stageId": "EN-L10-C08-S08",
+          "type": "trueFalse",
+          "prompt": "병렬 구조: 근거 설명하기 · 6번: 핵심 구조가 ‘ready student’이면 O, 아니면 X를 고르세요: The soccer player notices the ready student studying English before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 ready student입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player notices the ready student studying English before lunch.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S09-Q01",
+          "stageId": "EN-L10-C08-S09",
+          "type": "fillBlank",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 1번: The young artist notices the ___ making a simple plan at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy student",
+            "ready student",
+            "careful student",
+            "helpful student"
+          ],
+          "correctAnswer": "helpful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 helpful student입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful student",
+            "helpful student"
+          ],
+          "exampleSentence": "The young artist notices the helpful student making a simple plan at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S09-Q02",
+          "stageId": "EN-L10-C08-S09",
+          "type": "dictation",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player notices the helpful student making a simple plan at the community center.",
+          "explanation": "바른 문장은 “The soccer player notices the helpful student making a simple plan at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player notices the helpful student making a simple plan at the community center.",
+          "acceptedAnswers": [
+            "The soccer player notices the helpful student making a simple plan at the community center.",
+            "The soccer player notices the helpful student making a simple plan at the community center"
+          ],
+          "exampleSentence": "The soccer player notices the helpful student making a simple plan at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S09-Q03",
+          "stageId": "EN-L10-C08-S09",
+          "type": "ordering",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student notices the helpful student making a simple plan at the community center.",
+            "center community the at plan simple a making student helpful the notices student new The.",
+            "new student notices the helpful student making a simple plan at the community center The."
+          ],
+          "correctAnswer": "The new student notices the helpful student making a simple plan at the community center.",
+          "explanation": "바른 어순은 “The new student notices the helpful student making a simple plan at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student notices the helpful student making a simple plan at the community center.",
+            "The new student notices the helpful student making a simple plan at the community center"
+          ],
+          "exampleSentence": "The new student notices the helpful student making a simple plan at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S09-Q04",
+          "stageId": "EN-L10-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 4번: Mina notices the ___ finding the answer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "helpful student",
+            "happy student",
+            "quiet student",
+            "careful student"
+          ],
+          "correctAnswer": "helpful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 helpful student입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful student",
+            "helpful student"
+          ],
+          "exampleSentence": "Mina notices the helpful student finding the answer at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S09-Q05",
+          "stageId": "EN-L10-C08-S09",
+          "type": "fillBlank",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 5번: Tom notices the ___ finding the answer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy student",
+            "quiet student",
+            "careful student",
+            "helpful student"
+          ],
+          "correctAnswer": "helpful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 helpful student입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful student",
+            "helpful student"
+          ],
+          "exampleSentence": "Tom notices the helpful student finding the answer at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S09-Q06",
+          "stageId": "EN-L10-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 논리 문장 쓰기 · 6번: My brother notices the ___ finding the answer at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "quiet student",
+            "careful student",
+            "helpful student",
+            "happy student"
+          ],
+          "correctAnswer": "helpful student",
+          "explanation": "분사 기초 문맥에 맞는 답은 helpful student입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "helpful student",
+            "helpful student"
+          ],
+          "exampleSentence": "My brother notices the helpful student finding the answer at the community center.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C08-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C08-S10-Q01",
+          "stageId": "EN-L10-C08-S10",
+          "type": "reviewMixed",
+          "prompt": "병렬 구조: 과정 평가 · 1번: Tom notices the ___ playing soccer on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "happy student",
+            "ready student",
+            "busy student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "Tom notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q02",
+          "stageId": "EN-L10-C08-S10",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 과정 평가 · 2번: My brother notices the ___ playing soccer on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy student",
+            "ready student",
+            "busy student",
+            "confident student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "My brother notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q03",
+          "stageId": "EN-L10-C08-S10",
+          "type": "listeningChoice",
+          "prompt": "병렬 구조: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother notices the ready student playing soccer in the library.",
+            "The student notices the busy student playing soccer on Saturday morning.",
+            "Mina notices the helpful student making a simple plan at the community center.",
+            "The young artist notices the happy student reading books before lunch."
+          ],
+          "correctAnswer": "The student notices the busy student playing soccer on Saturday morning.",
+          "explanation": "들은 문장은 “The student notices the busy student playing soccer on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student notices the busy student playing soccer on Saturday morning.",
+          "acceptedAnswers": [
+            "The student notices the busy student playing soccer on Saturday morning."
+          ],
+          "exampleSentence": "The student notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q04",
+          "stageId": "EN-L10-C08-S10",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 과정 평가 · 4번: Our teacher notices the ___ playing soccer on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "busy student",
+            "helpful student",
+            "happy student",
+            "ready student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "Our teacher notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q05",
+          "stageId": "EN-L10-C08-S10",
+          "type": "dictation",
+          "prompt": "병렬 구조: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist notices the busy student playing soccer on Saturday morning.",
+          "explanation": "바른 문장은 “The young artist notices the busy student playing soccer on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist notices the busy student playing soccer on Saturday morning.",
+          "acceptedAnswers": [
+            "The young artist notices the busy student playing soccer on Saturday morning.",
+            "The young artist notices the busy student playing soccer on Saturday morning"
+          ],
+          "exampleSentence": "The young artist notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q06",
+          "stageId": "EN-L10-C08-S10",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 과정 평가 · 6번: “The soccer player notices the busy student playing soccer on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "The soccer player notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q07",
+          "stageId": "EN-L10-C08-S10",
+          "type": "reviewMixed",
+          "prompt": "병렬 구조: 과정 평가 · 7번: The new student notices the ___ playing soccer on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "ready student",
+            "busy student",
+            "helpful student",
+            "happy student"
+          ],
+          "correctAnswer": "busy student",
+          "explanation": "분사 기초 문맥에 맞는 답은 busy student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "busy student",
+            "busy student"
+          ],
+          "exampleSentence": "The new student notices the busy student playing soccer on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q08",
+          "stageId": "EN-L10-C08-S10",
+          "type": "multipleChoice",
+          "prompt": "병렬 구조: 과정 평가 · 8번: Mina notices the ___ opening the window on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "confident student",
+            "helpful student",
+            "happy student",
+            "ready student"
+          ],
+          "correctAnswer": "confident student",
+          "explanation": "분사 기초 문맥에 맞는 답은 confident student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident student",
+            "confident student"
+          ],
+          "exampleSentence": "Mina notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q09",
+          "stageId": "EN-L10-C08-S10",
+          "type": "listeningChoice",
+          "prompt": "병렬 구조: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player notices the helpful student making a simple plan at the community center.",
+            "The student notices the happy student writing short notes before lunch.",
+            "Mina notices the quiet student opening the window in the library.",
+            "Tom notices the confident student opening the window on Saturday morning."
+          ],
+          "correctAnswer": "Tom notices the confident student opening the window on Saturday morning.",
+          "explanation": "들은 문장은 “Tom notices the confident student opening the window on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom notices the confident student opening the window on Saturday morning.",
+          "acceptedAnswers": [
+            "Tom notices the confident student opening the window on Saturday morning."
+          ],
+          "exampleSentence": "Tom notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q10",
+          "stageId": "EN-L10-C08-S10",
+          "type": "sentenceCompletion",
+          "prompt": "병렬 구조: 과정 평가 · 10번: My brother notices the ___ opening the window on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "happy student",
+            "quiet student",
+            "confident student",
+            "helpful student"
+          ],
+          "correctAnswer": "confident student",
+          "explanation": "분사 기초 문맥에 맞는 답은 confident student입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "confident student",
+            "confident student"
+          ],
+          "exampleSentence": "My brother notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q11",
+          "stageId": "EN-L10-C08-S10",
+          "type": "dictation",
+          "prompt": "병렬 구조: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student notices the confident student opening the window on Saturday morning.",
+          "explanation": "바른 문장은 “The student notices the confident student opening the window on Saturday morning.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student notices the confident student opening the window on Saturday morning.",
+          "acceptedAnswers": [
+            "The student notices the confident student opening the window on Saturday morning.",
+            "The student notices the confident student opening the window on Saturday morning"
+          ],
+          "exampleSentence": "The student notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        },
+        {
+          "questionId": "EN-L10-C08-S10-Q12",
+          "stageId": "EN-L10-C08-S10",
+          "type": "sentenceMeaning",
+          "prompt": "병렬 구조: 과정 평가 · 12번: “Our teacher notices the confident student opening the window on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다.",
+          "explanation": "핵심 의미는 ‘상태를 나타내는 수식어와 진행 중인 동작을 구분한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "분사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "병렬 구조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+          ],
+          "exampleSentence": "Our teacher notices the confident student opening the window on Saturday morning.",
+          "koreanMeaning": "상태를 나타내는 수식어와 진행 중인 동작을 구분한다."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C09",
+  "stages": [
+    {
+      "stageId": "EN-L03-C09-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S01-Q01",
+          "stageId": "EN-L03-C09-S01",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 1번: ‘화창한’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "windy",
+            "sunny"
+          ],
+          "correctAnswer": "sunny",
+          "explanation": "‘화창한’은 영어로 sunny입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunny",
+            "SUNNY"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C09-S01-Q02",
+          "stageId": "EN-L03-C09-S01",
+          "type": "sentenceMeaning",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 2번: “The day is rainy.”에서 rainy의 뜻을 고르세요.",
+          "choices": [
+            "흐린",
+            "바람 부는",
+            "비 오는",
+            "화창한"
+          ],
+          "correctAnswer": "비 오는",
+          "explanation": "rainy은 ‘비 오는’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "비 오는"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        },
+        {
+          "questionId": "EN-L03-C09-S01-Q03",
+          "stageId": "EN-L03-C09-S01",
+          "type": "trueFalse",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 3번: cloudy의 뜻이 ‘화창한’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "cloudy의 뜻은 ‘흐린’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S01-Q04",
+          "stageId": "EN-L03-C09-S01",
+          "type": "matching",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 4번: windy과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "바람 부는",
+            "화창한",
+            "비 오는",
+            "흐린"
+          ],
+          "correctAnswer": "바람 부는",
+          "explanation": "windy은 ‘바람 부는’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바람 부는"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S01-Q05",
+          "stageId": "EN-L03-C09-S01",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 5번: It is ___. 빈칸에 ‘더운’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "hot"
+          ],
+          "correctAnswer": "hot",
+          "explanation": "문맥과 뜻에 맞는 단어는 hot입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hot",
+            "HOT"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S01-Q06",
+          "stageId": "EN-L03-C09-S01",
+          "type": "categorization",
+          "prompt": "날씨와 계절: 핵심 표현 이해 · 6번: cold을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "동물과 자연",
+            "날씨와 계절",
+            "집"
+          ],
+          "correctAnswer": "날씨와 계절",
+          "explanation": "cold은 날씨와 계절 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "날씨와 계절"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S02-Q01",
+          "stageId": "EN-L03-C09-S02",
+          "type": "matching",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 1번: windy과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "화창한",
+            "비 오는",
+            "흐린",
+            "바람 부는"
+          ],
+          "correctAnswer": "바람 부는",
+          "explanation": "windy은 ‘바람 부는’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바람 부는"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S02-Q02",
+          "stageId": "EN-L03-C09-S02",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 2번: ‘더운’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "hot",
+            "sunny"
+          ],
+          "correctAnswer": "hot",
+          "explanation": "‘더운’은 영어로 hot입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hot",
+            "HOT"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S02-Q03",
+          "stageId": "EN-L03-C09-S02",
+          "type": "categorization",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 3번: cold을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "날씨와 계절",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "날씨와 계절",
+          "explanation": "cold은 날씨와 계절 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "날씨와 계절"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        },
+        {
+          "questionId": "EN-L03-C09-S02-Q04",
+          "stageId": "EN-L03-C09-S02",
+          "type": "spelling",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 4번: _pring에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "s",
+          "explanation": "spring의 빠진 글자는 s입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "s",
+            "S"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C09-S02-Q05",
+          "stageId": "EN-L03-C09-S02",
+          "type": "wordBuilding",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘여름’을 만드세요.",
+          "choices": [
+            "remmus",
+            "ummers",
+            "summe",
+            "summer"
+          ],
+          "correctAnswer": "summer",
+          "explanation": "바른 철자는 summer입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "summer",
+            "SUMMER"
+          ],
+          "koreanMeaning": "여름",
+          "exampleSentence": "It is summer."
+        },
+        {
+          "questionId": "EN-L03-C09-S02-Q06",
+          "stageId": "EN-L03-C09-S02",
+          "type": "fillBlank",
+          "prompt": "날씨와 계절: 생활 어휘 문맥 학습 · 6번: _all에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "f",
+          "explanation": "fall의 빠진 글자는 f입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "f",
+            "F"
+          ],
+          "koreanMeaning": "가을",
+          "exampleSentence": "I like fall."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S03-Q01",
+          "stageId": "EN-L03-C09-S03",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 1번: I like ___. 빈칸에 ‘봄’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "spring"
+          ],
+          "correctAnswer": "spring",
+          "explanation": "문맥과 뜻에 맞는 단어는 spring입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "spring",
+            "SPRING"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C09-S03-Q02",
+          "stageId": "EN-L03-C09-S03",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 2번: ‘여름’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "summer",
+            "sunny"
+          ],
+          "correctAnswer": "summer",
+          "explanation": "‘여름’은 영어로 summer입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "summer",
+            "SUMMER"
+          ],
+          "koreanMeaning": "여름",
+          "exampleSentence": "It is summer."
+        },
+        {
+          "questionId": "EN-L03-C09-S03-Q03",
+          "stageId": "EN-L03-C09-S03",
+          "type": "trueFalse",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 3번: fall의 뜻이 ‘화창한’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fall의 뜻은 ‘가을’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "가을",
+          "exampleSentence": "I like fall."
+        },
+        {
+          "questionId": "EN-L03-C09-S03-Q04",
+          "stageId": "EN-L03-C09-S03",
+          "type": "ordering",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "It is winter.",
+            "winter is It.",
+            "is winter It."
+          ],
+          "correctAnswer": "It is winter.",
+          "explanation": "바른 어순은 “It is winter.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is winter.",
+            "It is winter"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C09-S03-Q05",
+          "stageId": "EN-L03-C09-S03",
+          "type": "fillBlank",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 5번: sun_y에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "sunny의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C09-S03-Q06",
+          "stageId": "EN-L03-C09-S03",
+          "type": "matching",
+          "prompt": "날씨와 계절: 문장 구조 발견 · 6번: rainy과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "흐린",
+            "바람 부는",
+            "비 오는",
+            "화창한"
+          ],
+          "correctAnswer": "비 오는",
+          "explanation": "rainy은 ‘비 오는’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "비 오는"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S04-Q01",
+          "stageId": "EN-L03-C09-S04",
+          "type": "wordBuilding",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘겨울’을 만드세요.",
+          "choices": [
+            "retniw",
+            "interw",
+            "winte",
+            "winter"
+          ],
+          "correctAnswer": "winter",
+          "explanation": "바른 철자는 winter입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "winter",
+            "WINTER"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C09-S04-Q02",
+          "stageId": "EN-L03-C09-S04",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 2번: It is ___. 빈칸에 ‘화창한’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "cloudy",
+            "windy",
+            "sunny",
+            "rainy"
+          ],
+          "correctAnswer": "sunny",
+          "explanation": "문맥과 뜻에 맞는 단어는 sunny입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunny",
+            "SUNNY"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C09-S04-Q03",
+          "stageId": "EN-L03-C09-S04",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 3번: ‘비 오는’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "windy",
+            "rainy",
+            "sunny",
+            "cloudy"
+          ],
+          "correctAnswer": "rainy",
+          "explanation": "‘비 오는’은 영어로 rainy입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainy",
+            "RAINY"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        },
+        {
+          "questionId": "EN-L03-C09-S04-Q04",
+          "stageId": "EN-L03-C09-S04",
+          "type": "categorization",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 4번: cloudy을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "날씨와 계절",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "날씨와 계절",
+          "explanation": "cloudy은 날씨와 계절 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "날씨와 계절"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S04-Q05",
+          "stageId": "EN-L03-C09-S04",
+          "type": "ordering",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "windy is day The.",
+            "day is windy The.",
+            "The day is windy."
+          ],
+          "correctAnswer": "The day is windy.",
+          "explanation": "바른 어순은 “The day is windy.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The day is windy.",
+            "The day is windy"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S04-Q06",
+          "stageId": "EN-L03-C09-S04",
+          "type": "fillBlank",
+          "prompt": "날씨와 계절: 짧은 문장 연습 · 6번: h_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "hot의 빠진 글자는 o입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S05-Q01",
+          "stageId": "EN-L03-C09-S05",
+          "type": "sentenceMeaning",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 1번: “It is cloudy.”에서 cloudy의 뜻을 고르세요.",
+          "choices": [
+            "화창한",
+            "비 오는",
+            "바람 부는",
+            "흐린"
+          ],
+          "correctAnswer": "흐린",
+          "explanation": "cloudy은 ‘흐린’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "흐린"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S05-Q02",
+          "stageId": "EN-L03-C09-S05",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 2번: ‘바람 부는’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "windy",
+            "sunny"
+          ],
+          "correctAnswer": "windy",
+          "explanation": "‘바람 부는’은 영어로 windy입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "windy",
+            "WINDY"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S05-Q03",
+          "stageId": "EN-L03-C09-S05",
+          "type": "trueFalse",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 3번: hot의 뜻이 ‘화창한’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "hot의 뜻은 ‘더운’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S05-Q04",
+          "stageId": "EN-L03-C09-S05",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 4번: The day is ___. 빈칸에 ‘추운’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "cold",
+            "sunny",
+            "rainy",
+            "cloudy"
+          ],
+          "correctAnswer": "cold",
+          "explanation": "문맥과 뜻에 맞는 단어는 cold입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cold",
+            "COLD"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        },
+        {
+          "questionId": "EN-L03-C09-S05-Q05",
+          "stageId": "EN-L03-C09-S05",
+          "type": "matching",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 5번: spring과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "화창한",
+            "비 오는",
+            "흐린",
+            "봄"
+          ],
+          "correctAnswer": "봄",
+          "explanation": "spring은 ‘봄’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "봄"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C09-S05-Q06",
+          "stageId": "EN-L03-C09-S05",
+          "type": "ordering",
+          "prompt": "날씨와 계절: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is summer It.",
+            "It is summer.",
+            "summer is It."
+          ],
+          "correctAnswer": "It is summer.",
+          "explanation": "바른 어순은 “It is summer.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is summer.",
+            "It is summer"
+          ],
+          "koreanMeaning": "여름",
+          "exampleSentence": "It is summer."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S06-Q01",
+          "stageId": "EN-L03-C09-S06",
+          "type": "listeningChoice",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "cold"
+          ],
+          "correctAnswer": "cold",
+          "explanation": "음성의 핵심 단어는 cold입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cold",
+          "acceptedAnswers": [
+            "cold"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        },
+        {
+          "questionId": "EN-L03-C09-S06-Q02",
+          "stageId": "EN-L03-C09-S06",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 2번: ‘봄’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "spring",
+            "sunny"
+          ],
+          "correctAnswer": "spring",
+          "explanation": "‘봄’은 영어로 spring입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "spring",
+            "SPRING"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C09-S06-Q03",
+          "stageId": "EN-L03-C09-S06",
+          "type": "listeningChoice",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "cloudy",
+            "summer",
+            "sunny",
+            "rainy"
+          ],
+          "correctAnswer": "summer",
+          "explanation": "음성의 핵심 단어는 summer입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "summer",
+          "acceptedAnswers": [
+            "summer"
+          ],
+          "koreanMeaning": "여름",
+          "exampleSentence": "It is summer."
+        },
+        {
+          "questionId": "EN-L03-C09-S06-Q04",
+          "stageId": "EN-L03-C09-S06",
+          "type": "dictation",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fall",
+          "explanation": "가을은 영어로 fall입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fall",
+          "acceptedAnswers": [
+            "fall",
+            "FALL"
+          ],
+          "koreanMeaning": "가을",
+          "exampleSentence": "I like fall."
+        },
+        {
+          "questionId": "EN-L03-C09-S06-Q05",
+          "stageId": "EN-L03-C09-S06",
+          "type": "trueFalse",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 5번: winter의 뜻이 ‘화창한’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "winter의 뜻은 ‘겨울’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C09-S06-Q06",
+          "stageId": "EN-L03-C09-S06",
+          "type": "matching",
+          "prompt": "날씨와 계절: 생활 대화 듣기 · 6번: sunny과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "흐린",
+            "바람 부는",
+            "화창한",
+            "비 오는"
+          ],
+          "correctAnswer": "화창한",
+          "explanation": "sunny은 ‘화창한’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "화창한"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S07-Q01",
+          "stageId": "EN-L03-C09-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "날씨와 계절: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like fall.",
+          "explanation": "I like fall.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like fall.",
+          "acceptedAnswers": [
+            "I like fall.",
+            "I like fall"
+          ],
+          "koreanMeaning": "가을",
+          "exampleSentence": "I like fall."
+        },
+        {
+          "questionId": "EN-L03-C09-S07-Q02",
+          "stageId": "EN-L03-C09-S07",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 표현 말하기 · 2번: ‘겨울’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "winter",
+            "sunny"
+          ],
+          "correctAnswer": "winter",
+          "explanation": "‘겨울’은 영어로 winter입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "winter",
+            "WINTER"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C09-S07-Q03",
+          "stageId": "EN-L03-C09-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "날씨와 계절: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It is sunny.",
+          "explanation": "It is sunny.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It is sunny.",
+          "acceptedAnswers": [
+            "It is sunny.",
+            "It is sunny"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C09-S07-Q04",
+          "stageId": "EN-L03-C09-S07",
+          "type": "sentenceMeaning",
+          "prompt": "날씨와 계절: 표현 말하기 · 4번: “The day is rainy.”에서 rainy의 뜻을 고르세요.",
+          "choices": [
+            "비 오는",
+            "화창한",
+            "흐린",
+            "바람 부는"
+          ],
+          "correctAnswer": "비 오는",
+          "explanation": "rainy은 ‘비 오는’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "비 오는"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        },
+        {
+          "questionId": "EN-L03-C09-S07-Q05",
+          "stageId": "EN-L03-C09-S07",
+          "type": "matching",
+          "prompt": "날씨와 계절: 표현 말하기 · 5번: cloudy과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "화창한",
+            "비 오는",
+            "바람 부는",
+            "흐린"
+          ],
+          "correctAnswer": "흐린",
+          "explanation": "cloudy은 ‘흐린’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "흐린"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S07-Q06",
+          "stageId": "EN-L03-C09-S07",
+          "type": "trueFalse",
+          "prompt": "날씨와 계절: 표현 말하기 · 6번: windy의 뜻이 ‘바람 부는’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "windy의 뜻은 ‘바람 부는’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S08-Q01",
+          "stageId": "EN-L03-C09-S08",
+          "type": "spelling",
+          "prompt": "날씨와 계절: 문장 쓰기 · 1번: rain_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "y",
+          "explanation": "rainy의 빠진 글자는 y입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "y",
+            "Y"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        },
+        {
+          "questionId": "EN-L03-C09-S08-Q02",
+          "stageId": "EN-L03-C09-S08",
+          "type": "fillBlank",
+          "prompt": "날씨와 계절: 문장 쓰기 · 2번: clou_y에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "cloudy의 빠진 글자는 d입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S08-Q03",
+          "stageId": "EN-L03-C09-S08",
+          "type": "dictation",
+          "prompt": "날씨와 계절: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "windy",
+          "explanation": "바람 부는은 영어로 windy입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "windy",
+          "acceptedAnswers": [
+            "windy",
+            "WINDY"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S08-Q04",
+          "stageId": "EN-L03-C09-S08",
+          "type": "wordBuilding",
+          "prompt": "날씨와 계절: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘더운’을 만드세요.",
+          "choices": [
+            "hot",
+            "toh",
+            "oth",
+            "ho"
+          ],
+          "correctAnswer": "hot",
+          "explanation": "바른 철자는 hot입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hot",
+            "HOT"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S08-Q05",
+          "stageId": "EN-L03-C09-S08",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 문장 쓰기 · 5번: The day is ___. 빈칸에 ‘추운’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "cold"
+          ],
+          "correctAnswer": "cold",
+          "explanation": "문맥과 뜻에 맞는 단어는 cold입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cold",
+            "COLD"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        },
+        {
+          "questionId": "EN-L03-C09-S08-Q06",
+          "stageId": "EN-L03-C09-S08",
+          "type": "ordering",
+          "prompt": "날씨와 계절: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "like spring I.",
+            "I like spring.",
+            "spring like I."
+          ],
+          "correctAnswer": "I like spring.",
+          "explanation": "바른 어순은 “I like spring.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I like spring.",
+            "I like spring"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C09-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C09-S09-Q01",
+          "stageId": "EN-L03-C09-S09",
+          "type": "reviewMixed",
+          "prompt": "날씨와 계절: 과정 평가 · 1번: ‘더운’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "cloudy",
+            "hot"
+          ],
+          "correctAnswer": "hot",
+          "explanation": "‘더운’은 영어로 hot입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hot",
+            "HOT"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q02",
+          "stageId": "EN-L03-C09-S09",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 과정 평가 · 2번: ‘추운’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "cold",
+            "sunny"
+          ],
+          "correctAnswer": "cold",
+          "explanation": "‘추운’은 영어로 cold입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cold",
+            "COLD"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q03",
+          "stageId": "EN-L03-C09-S09",
+          "type": "listeningChoice",
+          "prompt": "날씨와 계절: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "cloudy",
+            "spring",
+            "sunny",
+            "rainy"
+          ],
+          "correctAnswer": "spring",
+          "explanation": "음성의 핵심 단어는 spring입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "spring",
+          "acceptedAnswers": [
+            "spring"
+          ],
+          "koreanMeaning": "봄",
+          "exampleSentence": "I like spring."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q04",
+          "stageId": "EN-L03-C09-S09",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 과정 평가 · 4번: It is ___. 빈칸에 ‘여름’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "summer",
+            "sunny",
+            "rainy",
+            "cloudy"
+          ],
+          "correctAnswer": "summer",
+          "explanation": "문맥과 뜻에 맞는 단어는 summer입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "summer",
+            "SUMMER"
+          ],
+          "koreanMeaning": "여름",
+          "exampleSentence": "It is summer."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q05",
+          "stageId": "EN-L03-C09-S09",
+          "type": "dictation",
+          "prompt": "날씨와 계절: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fall",
+          "explanation": "가을은 영어로 fall입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fall",
+          "acceptedAnswers": [
+            "fall",
+            "FALL"
+          ],
+          "koreanMeaning": "가을",
+          "exampleSentence": "I like fall."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q06",
+          "stageId": "EN-L03-C09-S09",
+          "type": "sentenceMeaning",
+          "prompt": "날씨와 계절: 과정 평가 · 6번: “It is winter.”에서 winter의 뜻을 고르세요.",
+          "choices": [
+            "비 오는",
+            "흐린",
+            "겨울",
+            "화창한"
+          ],
+          "correctAnswer": "겨울",
+          "explanation": "winter은 ‘겨울’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "겨울"
+          ],
+          "koreanMeaning": "겨울",
+          "exampleSentence": "It is winter."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q07",
+          "stageId": "EN-L03-C09-S09",
+          "type": "reviewMixed",
+          "prompt": "날씨와 계절: 과정 평가 · 7번: ‘화창한’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "windy",
+            "sunny",
+            "rainy",
+            "cloudy"
+          ],
+          "correctAnswer": "sunny",
+          "explanation": "‘화창한’은 영어로 sunny입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sunny",
+            "SUNNY"
+          ],
+          "koreanMeaning": "화창한",
+          "exampleSentence": "It is sunny."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q08",
+          "stageId": "EN-L03-C09-S09",
+          "type": "multipleChoice",
+          "prompt": "날씨와 계절: 과정 평가 · 8번: ‘비 오는’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "sunny",
+            "cloudy",
+            "windy"
+          ],
+          "correctAnswer": "rainy",
+          "explanation": "‘비 오는’은 영어로 rainy입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rainy",
+            "RAINY"
+          ],
+          "koreanMeaning": "비 오는",
+          "exampleSentence": "The day is rainy."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q09",
+          "stageId": "EN-L03-C09-S09",
+          "type": "listeningChoice",
+          "prompt": "날씨와 계절: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "sunny",
+            "rainy",
+            "windy",
+            "cloudy"
+          ],
+          "correctAnswer": "cloudy",
+          "explanation": "음성의 핵심 단어는 cloudy입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cloudy",
+          "acceptedAnswers": [
+            "cloudy"
+          ],
+          "koreanMeaning": "흐린",
+          "exampleSentence": "It is cloudy."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q10",
+          "stageId": "EN-L03-C09-S09",
+          "type": "sentenceCompletion",
+          "prompt": "날씨와 계절: 과정 평가 · 10번: The day is ___. 빈칸에 ‘바람 부는’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "rainy",
+            "cloudy",
+            "windy",
+            "sunny"
+          ],
+          "correctAnswer": "windy",
+          "explanation": "문맥과 뜻에 맞는 단어는 windy입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "windy",
+            "WINDY"
+          ],
+          "koreanMeaning": "바람 부는",
+          "exampleSentence": "The day is windy."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q11",
+          "stageId": "EN-L03-C09-S09",
+          "type": "dictation",
+          "prompt": "날씨와 계절: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "hot",
+          "explanation": "더운은 영어로 hot입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "hot",
+          "acceptedAnswers": [
+            "hot",
+            "HOT"
+          ],
+          "koreanMeaning": "더운",
+          "exampleSentence": "It is hot."
+        },
+        {
+          "questionId": "EN-L03-C09-S09-Q12",
+          "stageId": "EN-L03-C09-S09",
+          "type": "sentenceMeaning",
+          "prompt": "날씨와 계절: 과정 평가 · 12번: “The day is cold.”에서 cold의 뜻을 고르세요.",
+          "choices": [
+            "추운",
+            "화창한",
+            "비 오는",
+            "흐린"
+          ],
+          "correctAnswer": "추운",
+          "explanation": "cold은 ‘추운’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "날씨와 계절",
+          "grammarFocus": "It is + 날씨 형용사",
+          "sourceObjective": "날씨와 계절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "추운"
+          ],
+          "koreanMeaning": "추운",
+          "exampleSentence": "The day is cold."
+        }
+      ]
+    }
+  ]
+}

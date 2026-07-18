@@ -1,0 +1,2704 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C13",
+  "stages": [
+    {
+      "stageId": "EN-L12-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S01-Q01",
+          "stageId": "EN-L12-C13-S01",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in a study about human behavior.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S01-Q02",
+          "stageId": "EN-L12-C13-S01",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in a study about human behavior.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S01-Q03",
+          "stageId": "EN-L12-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in a study about human behavior.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S01-Q04",
+          "stageId": "EN-L12-C13-S01",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S01-Q05",
+          "stageId": "EN-L12-C13-S01",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S01-Q06",
+          "stageId": "EN-L12-C13-S01",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S02-Q01",
+          "stageId": "EN-L12-C13-S02",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S02-Q02",
+          "stageId": "EN-L12-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S02-Q03",
+          "stageId": "EN-L12-C13-S02",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S02-Q04",
+          "stageId": "EN-L12-C13-S02",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S02-Q05",
+          "stageId": "EN-L12-C13-S02",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S02-Q06",
+          "stageId": "EN-L12-C13-S02",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S03-Q01",
+          "stageId": "EN-L12-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S03-Q02",
+          "stageId": "EN-L12-C13-S03",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S03-Q03",
+          "stageId": "EN-L12-C13-S03",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S03-Q04",
+          "stageId": "EN-L12-C13-S03",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S03-Q05",
+          "stageId": "EN-L12-C13-S03",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S03-Q06",
+          "stageId": "EN-L12-C13-S03",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S04-Q01",
+          "stageId": "EN-L12-C13-S04",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S04-Q02",
+          "stageId": "EN-L12-C13-S04",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S04-Q03",
+          "stageId": "EN-L12-C13-S04",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S04-Q04",
+          "stageId": "EN-L12-C13-S04",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S04-Q05",
+          "stageId": "EN-L12-C13-S04",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S04-Q06",
+          "stageId": "EN-L12-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S05-Q01",
+          "stageId": "EN-L12-C13-S05",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S05-Q02",
+          "stageId": "EN-L12-C13-S05",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S05-Q03",
+          "stageId": "EN-L12-C13-S05",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S05-Q04",
+          "stageId": "EN-L12-C13-S05",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S05-Q05",
+          "stageId": "EN-L12-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S05-Q06",
+          "stageId": "EN-L12-C13-S05",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S06-Q01",
+          "stageId": "EN-L12-C13-S06",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S06-Q02",
+          "stageId": "EN-L12-C13-S06",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S06-Q03",
+          "stageId": "EN-L12-C13-S06",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S06-Q04",
+          "stageId": "EN-L12-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S06-Q05",
+          "stageId": "EN-L12-C13-S06",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S06-Q06",
+          "stageId": "EN-L12-C13-S06",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S07-Q01",
+          "stageId": "EN-L12-C13-S07",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S07-Q02",
+          "stageId": "EN-L12-C13-S07",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S07-Q03",
+          "stageId": "EN-L12-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S07-Q04",
+          "stageId": "EN-L12-C13-S07",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined in a recent class discussion.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S07-Q05",
+          "stageId": "EN-L12-C13-S07",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined in a recent class discussion.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S07-Q06",
+          "stageId": "EN-L12-C13-S07",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined in a recent class discussion.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S08-Q01",
+          "stageId": "EN-L12-C13-S08",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The data were carefully analyzed by the team. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S08-Q02",
+          "stageId": "EN-L12-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Students need to distinguish fact from opinion. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S08-Q03",
+          "stageId": "EN-L12-C13-S08",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The theory that explains the change is convincing. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S08-Q04",
+          "stageId": "EN-L12-C13-S08",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Despite limited time, the group completed the task. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S08-Q05",
+          "stageId": "EN-L12-C13-S08",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The method is more practical than the alternative. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S08-Q06",
+          "stageId": "EN-L12-C13-S08",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The report presents causes, effects, and solutions. This structure is examined in a study about human behavior.",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S09-Q01",
+          "stageId": "EN-L12-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in a recent class discussion.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S09-Q02",
+          "stageId": "EN-L12-C13-S09",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in a recent class discussion.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S09-Q03",
+          "stageId": "EN-L12-C13-S09",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in a recent class discussion.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S09-Q04",
+          "stageId": "EN-L12-C13-S09",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S09-Q05",
+          "stageId": "EN-L12-C13-S09",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S09-Q06",
+          "stageId": "EN-L12-C13-S09",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined during the science project.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S10-Q01",
+          "stageId": "EN-L12-C13-S10",
+          "type": "ordering",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S10-Q02",
+          "stageId": "EN-L12-C13-S10",
+          "type": "grammarChoice",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S10-Q03",
+          "stageId": "EN-L12-C13-S10",
+          "type": "grammarError",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined during the community meeting.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S10-Q04",
+          "stageId": "EN-L12-C13-S10",
+          "type": "sentenceTransformation",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S10-Q05",
+          "stageId": "EN-L12-C13-S10",
+          "type": "passageGrammar",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S10-Q06",
+          "stageId": "EN-L12-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "어법 오류 통합 판단: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined during the community meeting.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S11-Q01",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q02",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q03",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined during the science project.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q04",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q05",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q06",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q07",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined in the environmental report.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q08",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q09",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S11-Q10",
+          "stageId": "EN-L12-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 누적 어휘·구문 복습 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "review",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S12",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S12-Q01",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q02",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q03",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined in the school research paper.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q04",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q05",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q06",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q07",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in the school research paper.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q08",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q09",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q10",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q11",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S12-Q12",
+          "stageId": "EN-L12-C13-S12",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 시간 제한 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 시간 제한 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C13-S13",
+      "questions": [
+        {
+          "questionId": "EN-L12-C13-S13-Q01",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q02",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q03",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined in the environmental report.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q04",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q05",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The data were carefully analyzed by the team. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "were carefully analyzed",
+          "explanation": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "were carefully analyzed",
+            "were carefully analyzed"
+          ],
+          "exampleSentence": "The data were carefully analyzed by the team. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 were carefully analyzed이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q06",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. Students need to distinguish fact from opinion. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "their",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "to distinguish",
+          "explanation": "문장 구조상 to distinguish이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "to distinguish",
+            "to distinguish"
+          ],
+          "exampleSentence": "Students need to distinguish fact from opinion. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 to distinguish이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q07",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The theory that explains the change is convincing. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "provides",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "that",
+          "explanation": "문장 구조상 that이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "that",
+            "that"
+          ],
+          "exampleSentence": "The theory that explains the change is convincing. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 that이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q08",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. Despite limited time, the group completed the task. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "were carefully analyzed"
+          ],
+          "correctAnswer": "Despite",
+          "explanation": "문장 구조상 Despite이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Despite",
+            "despite"
+          ],
+          "exampleSentence": "Despite limited time, the group completed the task. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 Despite이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q09",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The method is more practical than the alternative. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "to distinguish",
+            "more practical"
+          ],
+          "correctAnswer": "more practical",
+          "explanation": "문장 구조상 more practical이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more practical",
+            "more practical"
+          ],
+          "exampleSentence": "The method is more practical than the alternative. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 more practical이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q10",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The report presents causes, effects, and solutions. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "that",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "causes, effects, and solutions",
+          "explanation": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "causes, effects, and solutions",
+            "causes, effects, and solutions"
+          ],
+          "exampleSentence": "The report presents causes, effects, and solutions. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 causes, effects, and solutions이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q11",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. These findings support their conclusion. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "Despite",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "their",
+          "explanation": "문장 구조상 their이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "their",
+            "their"
+          ],
+          "exampleSentence": "These findings support their conclusion. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 their이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C13-S13-Q12",
+          "stageId": "EN-L12-C13-S13",
+          "type": "reviewMixed",
+          "prompt": "어법 오류 통합 판단: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. Each of the results provides useful evidence. This structure is examined in a study about human behavior.",
+          "choices": [
+            "provides",
+            "their",
+            "causes, effects, and solutions",
+            "more practical"
+          ],
+          "correctAnswer": "provides",
+          "explanation": "문장 구조상 provides이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "어법 오류 통합 판단",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "어법 오류 통합 판단 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "provides",
+            "provides"
+          ],
+          "exampleSentence": "Each of the results provides useful evidence. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 provides이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

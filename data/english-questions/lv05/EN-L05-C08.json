@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C08",
+  "stages": [
+    {
+      "stageId": "EN-L05-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S01-Q01",
+          "stageId": "EN-L05-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 1번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S01-Q02",
+          "stageId": "EN-L05-C08-S01",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 2번: 핵심 표현이 ‘Where’이면 O, 아니면 X를 고르세요: Where is my bag?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Where이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S01-Q03",
+          "stageId": "EN-L05-C08-S01",
+          "type": "matching",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 3번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "When",
+            "Where",
+            "is"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S01-Q04",
+          "stageId": "EN-L05-C08-S01",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 4번: “Where do they play?”의 뜻을 고르세요.",
+          "choices": [
+            "그들은 어디에서 노니?",
+            "너는 언제 공부하니?",
+            "내 가방은 어디 있니?",
+            "학교는 언제 시작하니?"
+          ],
+          "correctAnswer": "그들은 어디에서 노니?",
+          "explanation": "뜻은 ‘그들은 어디에서 노니?’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 어디에서 노니?"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S01-Q05",
+          "stageId": "EN-L05-C08-S01",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 5번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S01-Q06",
+          "stageId": "EN-L05-C08-S01",
+          "type": "ordering",
+          "prompt": "의문사 when where: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "do you study When?",
+            "is",
+            "When do you study?",
+            "study you do When?"
+          ],
+          "correctAnswer": "When do you study?",
+          "explanation": "바른 어순은 “When do you study?”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When do you study?",
+            "When do you study"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S02-Q01",
+          "stageId": "EN-L05-C08-S02",
+          "type": "matching",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 1번: ___ do they play? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "is",
+            "are",
+            "Where"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S02-Q02",
+          "stageId": "EN-L05-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 2번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S02-Q03",
+          "stageId": "EN-L05-C08-S02",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 3번: “When do you study?”의 뜻을 고르세요.",
+          "choices": [
+            "그들은 어디에서 노니?",
+            "너는 언제 공부하니?",
+            "내 가방은 어디 있니?",
+            "학교는 언제 시작하니?"
+          ],
+          "correctAnswer": "너는 언제 공부하니?",
+          "explanation": "뜻은 ‘너는 언제 공부하니?’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 언제 공부하니?"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S02-Q04",
+          "stageId": "EN-L05-C08-S02",
+          "type": "fillBlank",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 4번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "When",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S02-Q05",
+          "stageId": "EN-L05-C08-S02",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 5번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S02-Q06",
+          "stageId": "EN-L05-C08-S02",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘Where’이면 O, 아니면 X를 고르세요: Where do they play?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Where이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S03-Q01",
+          "stageId": "EN-L05-C08-S03",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 문장 구조 발견 · 1번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "is",
+            "are",
+            "Where"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S03-Q02",
+          "stageId": "EN-L05-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 문장 구조 발견 · 2번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S03-Q03",
+          "stageId": "EN-L05-C08-S03",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 문장 구조 발견 · 3번: 핵심 표현이 ‘When’이면 O, 아니면 X를 고르세요: Where do they play?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Where이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S03-Q04",
+          "stageId": "EN-L05-C08-S03",
+          "type": "ordering",
+          "prompt": "의문사 when where: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "When is lunch?",
+            "lunch is When?",
+            "is lunch When?",
+            "is"
+          ],
+          "correctAnswer": "When is lunch?",
+          "explanation": "바른 어순은 “When is lunch?”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When is lunch?",
+            "When is lunch"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S03-Q05",
+          "stageId": "EN-L05-C08-S03",
+          "type": "matching",
+          "prompt": "의문사 when where: 문장 구조 발견 · 5번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S03-Q06",
+          "stageId": "EN-L05-C08-S03",
+          "type": "fillBlank",
+          "prompt": "의문사 when where: 문장 구조 발견 · 6번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Where",
+            "When"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S04-Q01",
+          "stageId": "EN-L05-C08-S04",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 1번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S04-Q02",
+          "stageId": "EN-L05-C08-S04",
+          "type": "ordering",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "do you study When?",
+            "is",
+            "When do you study?",
+            "study you do When?"
+          ],
+          "correctAnswer": "When do you study?",
+          "explanation": "바른 어순은 “When do you study?”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When do you study?",
+            "When do you study"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S04-Q03",
+          "stageId": "EN-L05-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 3번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "Where",
+            "When",
+            "is"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S04-Q04",
+          "stageId": "EN-L05-C08-S04",
+          "type": "fillBlank",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 4번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "Where",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S04-Q05",
+          "stageId": "EN-L05-C08-S04",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 5번: 핵심 표현이 ‘When’이면 O, 아니면 X를 고르세요: Where do they play?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Where이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S04-Q06",
+          "stageId": "EN-L05-C08-S04",
+          "type": "matching",
+          "prompt": "의문사 when where: 짧은 문장 연습 · 6번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S05-Q01",
+          "stageId": "EN-L05-C08-S05",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 1번: “When does school start?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 언제 공부하니?",
+            "내 가방은 어디 있니?",
+            "그들은 어디에서 노니?",
+            "학교는 언제 시작하니?"
+          ],
+          "correctAnswer": "학교는 언제 시작하니?",
+          "explanation": "뜻은 ‘학교는 언제 시작하니?’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "학교는 언제 시작하니?"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S05-Q02",
+          "stageId": "EN-L05-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 2번: ___ do they play? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Where",
+            "When"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S05-Q03",
+          "stageId": "EN-L05-C08-S05",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 3번: 핵심 표현이 ‘Where’이면 O, 아니면 X를 고르세요: When is lunch?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 When이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S05-Q04",
+          "stageId": "EN-L05-C08-S05",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 4번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "Where",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S05-Q05",
+          "stageId": "EN-L05-C08-S05",
+          "type": "matching",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 5번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "is",
+            "are",
+            "Where"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S05-Q06",
+          "stageId": "EN-L05-C08-S05",
+          "type": "ordering",
+          "prompt": "의문사 when where: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "does school start When?",
+            "is",
+            "When does school start?",
+            "start school does When?"
+          ],
+          "correctAnswer": "When does school start?",
+          "explanation": "바른 어순은 “When does school start?”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When does school start?",
+            "When does school start"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S06-Q01",
+          "stageId": "EN-L05-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Where is my bag?",
+            "When does school start?",
+            "Where do they play?",
+            "When do you study?"
+          ],
+          "correctAnswer": "When do you study?",
+          "explanation": "들은 문장은 “When do you study?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "When do you study?",
+          "acceptedAnswers": [
+            "When do you study?"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S06-Q02",
+          "stageId": "EN-L05-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 2번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Where",
+            "When"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S06-Q03",
+          "stageId": "EN-L05-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Where do they play?",
+            "When does school start?",
+            "When do you study?",
+            "Where is my bag?"
+          ],
+          "correctAnswer": "When does school start?",
+          "explanation": "들은 문장은 “When does school start?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "When does school start?",
+          "acceptedAnswers": [
+            "When does school start?"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S06-Q04",
+          "stageId": "EN-L05-C08-S06",
+          "type": "dictation",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Where do they play?",
+          "explanation": "바른 문장은 “Where do they play?”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Where do they play?",
+          "acceptedAnswers": [
+            "Where do they play?",
+            "Where do they play"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S06-Q05",
+          "stageId": "EN-L05-C08-S06",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 5번: 핵심 표현이 ‘Where’이면 O, 아니면 X를 고르세요: When is lunch?",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 When이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S06-Q06",
+          "stageId": "EN-L05-C08-S06",
+          "type": "matching",
+          "prompt": "의문사 when where: 생활 대화 듣기 · 6번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S07-Q01",
+          "stageId": "EN-L05-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "의문사 when where: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Where do they play?",
+          "explanation": "“Where do they play?”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Where do they play?",
+          "acceptedAnswers": [
+            "Where do they play?",
+            "Where do they play"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S07-Q02",
+          "stageId": "EN-L05-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 표현 말하기 · 2번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S07-Q03",
+          "stageId": "EN-L05-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "의문사 when where: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "When do you study?",
+          "explanation": "“When do you study?”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "When do you study?",
+          "acceptedAnswers": [
+            "When do you study?",
+            "When do you study"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S07-Q04",
+          "stageId": "EN-L05-C08-S07",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 표현 말하기 · 4번: “Where is my bag?”의 뜻을 고르세요.",
+          "choices": [
+            "내 가방은 어디 있니?",
+            "너는 언제 공부하니?",
+            "학교는 언제 시작하니?",
+            "그들은 어디에서 노니?"
+          ],
+          "correctAnswer": "내 가방은 어디 있니?",
+          "explanation": "뜻은 ‘내 가방은 어디 있니?’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내 가방은 어디 있니?"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S07-Q05",
+          "stageId": "EN-L05-C08-S07",
+          "type": "matching",
+          "prompt": "의문사 when where: 표현 말하기 · 5번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S07-Q06",
+          "stageId": "EN-L05-C08-S07",
+          "type": "trueFalse",
+          "prompt": "의문사 when where: 표현 말하기 · 6번: 핵심 표현이 ‘Where’이면 O, 아니면 X를 고르세요: Where do they play?",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 Where이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S08-Q01",
+          "stageId": "EN-L05-C08-S08",
+          "type": "fillBlank",
+          "prompt": "의문사 when where: 문장 쓰기 · 1번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "is",
+            "are",
+            "Where"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S08-Q02",
+          "stageId": "EN-L05-C08-S08",
+          "type": "dictation",
+          "prompt": "의문사 when where: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "When does school start?",
+          "explanation": "바른 문장은 “When does school start?”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "When does school start?",
+          "acceptedAnswers": [
+            "When does school start?",
+            "When does school start"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S08-Q03",
+          "stageId": "EN-L05-C08-S08",
+          "type": "ordering",
+          "prompt": "의문사 when where: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "Where do they play?",
+            "play they do Where?",
+            "do they play Where?"
+          ],
+          "correctAnswer": "Where do they play?",
+          "explanation": "바른 어순은 “Where do they play?”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where do they play?",
+            "Where do they play"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S08-Q04",
+          "stageId": "EN-L05-C08-S08",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 문장 쓰기 · 4번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "Where",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S08-Q05",
+          "stageId": "EN-L05-C08-S08",
+          "type": "fillBlank",
+          "prompt": "의문사 when where: 문장 쓰기 · 5번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S08-Q06",
+          "stageId": "EN-L05-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 문장 쓰기 · 6번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Where",
+            "When"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C08-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C08-S09-Q01",
+          "stageId": "EN-L05-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "의문사 when where: 과정 평가 · 1번: ___ is lunch? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "is",
+            "are",
+            "When"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q02",
+          "stageId": "EN-L05-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 과정 평가 · 2번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "When",
+            "Where"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q03",
+          "stageId": "EN-L05-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "의문사 when where: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Where do they play?",
+            "Where is my bag?",
+            "When do you study?",
+            "When does school start?"
+          ],
+          "correctAnswer": "Where is my bag?",
+          "explanation": "들은 문장은 “Where is my bag?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Where is my bag?",
+          "acceptedAnswers": [
+            "Where is my bag?"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q04",
+          "stageId": "EN-L05-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 과정 평가 · 4번: ___ does school start? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "When",
+            "Where",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q05",
+          "stageId": "EN-L05-C08-S09",
+          "type": "dictation",
+          "prompt": "의문사 when where: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Where do they play?",
+          "explanation": "바른 문장은 “Where do they play?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Where do they play?",
+          "acceptedAnswers": [
+            "Where do they play?",
+            "Where do they play"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q06",
+          "stageId": "EN-L05-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 과정 평가 · 6번: “When is lunch?”의 뜻을 고르세요.",
+          "choices": [
+            "내 가방은 어디 있니?",
+            "학교는 언제 시작하니?",
+            "점심은 언제니?",
+            "너는 언제 공부하니?"
+          ],
+          "correctAnswer": "점심은 언제니?",
+          "explanation": "뜻은 ‘점심은 언제니?’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "점심은 언제니?"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q07",
+          "stageId": "EN-L05-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "의문사 when where: 과정 평가 · 7번: ___ do you study? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "are",
+            "When",
+            "Where",
+            "is"
+          ],
+          "correctAnswer": "When",
+          "explanation": "의문사 when where에 맞는 표현은 When입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "When",
+            "when"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q08",
+          "stageId": "EN-L05-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "의문사 when where: 과정 평가 · 8번: ___ is my bag? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Where",
+            "When",
+            "is",
+            "are"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where is my bag?",
+          "koreanMeaning": "내 가방은 어디 있니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q09",
+          "stageId": "EN-L05-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "의문사 when where: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "When do you study?",
+            "Where is my bag?",
+            "Where do they play?",
+            "When does school start?"
+          ],
+          "correctAnswer": "When does school start?",
+          "explanation": "들은 문장은 “When does school start?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "When does school start?",
+          "acceptedAnswers": [
+            "When does school start?"
+          ],
+          "exampleSentence": "When does school start?",
+          "koreanMeaning": "학교는 언제 시작하니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q10",
+          "stageId": "EN-L05-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "의문사 when where: 과정 평가 · 10번: ___ do they play? 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "is",
+            "are",
+            "Where",
+            "When"
+          ],
+          "correctAnswer": "Where",
+          "explanation": "의문사 when where에 맞는 표현은 Where입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Where",
+            "where"
+          ],
+          "exampleSentence": "Where do they play?",
+          "koreanMeaning": "그들은 어디에서 노니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q11",
+          "stageId": "EN-L05-C08-S09",
+          "type": "dictation",
+          "prompt": "의문사 when where: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "When is lunch?",
+          "explanation": "바른 문장은 “When is lunch?”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "When is lunch?",
+          "acceptedAnswers": [
+            "When is lunch?",
+            "When is lunch"
+          ],
+          "exampleSentence": "When is lunch?",
+          "koreanMeaning": "점심은 언제니?"
+        },
+        {
+          "questionId": "EN-L05-C08-S09-Q12",
+          "stageId": "EN-L05-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "의문사 when where: 과정 평가 · 12번: “When do you study?”의 뜻을 고르세요.",
+          "choices": [
+            "너는 언제 공부하니?",
+            "내 가방은 어디 있니?",
+            "학교는 언제 시작하니?",
+            "그들은 어디에서 노니?"
+          ],
+          "correctAnswer": "너는 언제 공부하니?",
+          "explanation": "뜻은 ‘너는 언제 공부하니?’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "의문사 when where",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "의문사 when where 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "너는 언제 공부하니?"
+          ],
+          "exampleSentence": "When do you study?",
+          "koreanMeaning": "너는 언제 공부하니?"
+        }
+      ]
+    }
+  ]
+}

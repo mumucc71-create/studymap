@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C07",
+  "stages": [
+    {
+      "stageId": "EN-L10-C07-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S01-Q01",
+          "stageId": "EN-L10-C07-S01",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 1번: The young artist enjoys ___ books at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "carrying",
+            "subject",
+            "reading"
+          ],
+          "correctAnswer": "reading",
+          "explanation": "동명사 기초 문맥에 맞는 답은 reading입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reading",
+            "reading"
+          ],
+          "exampleSentence": "The young artist enjoys reading books at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S01-Q02",
+          "stageId": "EN-L10-C07-S01",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 2번: 핵심 구조가 ‘reading’이면 O, 아니면 X를 고르세요: The soccer player enjoys reading books at the community center.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 reading입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player enjoys reading books at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S01-Q03",
+          "stageId": "EN-L10-C07-S01",
+          "type": "matching",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 3번: The new student enjoys ___ books at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "reading",
+            "playing",
+            "making"
+          ],
+          "correctAnswer": "reading",
+          "explanation": "동명사 기초 문맥에 맞는 답은 reading입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reading",
+            "reading"
+          ],
+          "exampleSentence": "The new student enjoys reading books at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S01-Q04",
+          "stageId": "EN-L10-C07-S01",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 4번: “Mina enjoys writing short notes at the community center.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "동작을 명사처럼 목적어로 사용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "Mina enjoys writing short notes at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S01-Q05",
+          "stageId": "EN-L10-C07-S01",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 5번: Tom enjoys ___ short notes at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "making",
+            "subject",
+            "writing"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "Tom enjoys writing short notes at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S01-Q06",
+          "stageId": "EN-L10-C07-S01",
+          "type": "ordering",
+          "prompt": "도치와 생략: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother enjoys writing short notes at the community center My.",
+            "subject",
+            "My brother enjoys writing short notes at the community center.",
+            "center community the at notes short writing enjoys brother My."
+          ],
+          "correctAnswer": "My brother enjoys writing short notes at the community center.",
+          "explanation": "바른 어순은 “My brother enjoys writing short notes at the community center.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother enjoys writing short notes at the community center.",
+            "My brother enjoys writing short notes at the community center"
+          ],
+          "exampleSentence": "My brother enjoys writing short notes at the community center.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S02-Q01",
+          "stageId": "EN-L10-C07-S02",
+          "type": "matching",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 1번: Tom enjoys ___ a blue bag during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "studying",
+            "subject",
+            "carrying"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "Tom enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S02-Q02",
+          "stageId": "EN-L10-C07-S02",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 2번: My brother enjoys ___ a blue bag during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "subject",
+            "carrying",
+            "finding"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "My brother enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S02-Q03",
+          "stageId": "EN-L10-C07-S02",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 3번: “The student enjoys carrying a blue bag during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "동작을 명사처럼 목적어로 사용한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "The student enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S02-Q04",
+          "stageId": "EN-L10-C07-S02",
+          "type": "fillBlank",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 4번: Our teacher enjoys ___ a blue bag during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "carrying",
+            "reading",
+            "studying",
+            "subject"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "Our teacher enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S02-Q05",
+          "stageId": "EN-L10-C07-S02",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 5번: The young artist enjoys ___ a blue bag during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "reading",
+            "studying",
+            "subject",
+            "carrying"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "The young artist enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S02-Q06",
+          "stageId": "EN-L10-C07-S02",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘carrying’이면 O, 아니면 X를 고르세요: The soccer player enjoys carrying a blue bag during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 carrying입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player enjoys carrying a blue bag during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S03-Q01",
+          "stageId": "EN-L10-C07-S03",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 문법 구조 분석 · 1번: The young artist enjoys ___ short notes near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "opening",
+            "making",
+            "subject",
+            "writing"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "The young artist enjoys writing short notes near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S03-Q02",
+          "stageId": "EN-L10-C07-S03",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 문법 구조 분석 · 2번: The soccer player enjoys ___ short notes near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "subject",
+            "writing",
+            "opening"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "The soccer player enjoys writing short notes near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S03-Q03",
+          "stageId": "EN-L10-C07-S03",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 문법 구조 분석 · 3번: 핵심 구조가 ‘opening’이면 O, 아니면 X를 고르세요: The new student enjoys writing short notes near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 writing입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student enjoys writing short notes near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S03-Q04",
+          "stageId": "EN-L10-C07-S03",
+          "type": "ordering",
+          "prompt": "도치와 생략: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina enjoys studying English near the school.",
+            "school the near English studying enjoys Mina.",
+            "enjoys studying English near the school Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina enjoys studying English near the school.",
+          "explanation": "바른 어순은 “Mina enjoys studying English near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina enjoys studying English near the school.",
+            "Mina enjoys studying English near the school"
+          ],
+          "exampleSentence": "Mina enjoys studying English near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S03-Q05",
+          "stageId": "EN-L10-C07-S03",
+          "type": "matching",
+          "prompt": "도치와 생략: 문법 구조 분석 · 5번: Tom enjoys ___ English near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "opening",
+            "finding",
+            "subject",
+            "studying"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "Tom enjoys studying English near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S03-Q06",
+          "stageId": "EN-L10-C07-S03",
+          "type": "fillBlank",
+          "prompt": "도치와 생략: 문법 구조 분석 · 6번: My brother enjoys ___ English near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "subject",
+            "studying",
+            "opening"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "My brother enjoys studying English near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S04-Q01",
+          "stageId": "EN-L10-C07-S04",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 문장 분석 연습 · 1번: Tom enjoys ___ a simple plan at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "reading",
+            "playing",
+            "subject",
+            "making"
+          ],
+          "correctAnswer": "making",
+          "explanation": "동명사 기초 문맥에 맞는 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "making",
+            "making"
+          ],
+          "exampleSentence": "Tom enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S04-Q02",
+          "stageId": "EN-L10-C07-S04",
+          "type": "ordering",
+          "prompt": "도치와 생략: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother enjoys making a simple plan at home My.",
+            "subject",
+            "My brother enjoys making a simple plan at home.",
+            "home at plan simple a making enjoys brother My."
+          ],
+          "correctAnswer": "My brother enjoys making a simple plan at home.",
+          "explanation": "바른 어순은 “My brother enjoys making a simple plan at home.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother enjoys making a simple plan at home.",
+            "My brother enjoys making a simple plan at home"
+          ],
+          "exampleSentence": "My brother enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S04-Q03",
+          "stageId": "EN-L10-C07-S04",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 문장 분석 연습 · 3번: The student enjoys ___ a simple plan at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "making",
+            "writing",
+            "playing"
+          ],
+          "correctAnswer": "making",
+          "explanation": "동명사 기초 문맥에 맞는 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "making",
+            "making"
+          ],
+          "exampleSentence": "The student enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S04-Q04",
+          "stageId": "EN-L10-C07-S04",
+          "type": "fillBlank",
+          "prompt": "도치와 생략: 문장 분석 연습 · 4번: Our teacher enjoys ___ a simple plan at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "making",
+            "writing",
+            "playing",
+            "subject"
+          ],
+          "correctAnswer": "making",
+          "explanation": "동명사 기초 문맥에 맞는 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "making",
+            "making"
+          ],
+          "exampleSentence": "Our teacher enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S04-Q05",
+          "stageId": "EN-L10-C07-S04",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 문장 분석 연습 · 5번: 핵심 구조가 ‘writing’이면 O, 아니면 X를 고르세요: The young artist enjoys making a simple plan at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S04-Q06",
+          "stageId": "EN-L10-C07-S04",
+          "type": "matching",
+          "prompt": "도치와 생략: 문장 분석 연습 · 6번: The soccer player enjoys ___ a simple plan at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "opening",
+            "subject",
+            "making",
+            "writing"
+          ],
+          "correctAnswer": "making",
+          "explanation": "동명사 기초 문맥에 맞는 답은 making입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "making",
+            "making"
+          ],
+          "exampleSentence": "The soccer player enjoys making a simple plan at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S05-Q01",
+          "stageId": "EN-L10-C07-S05",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 문단 구조 적용 · 1번: “The young artist enjoys studying English after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "The young artist enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S05-Q02",
+          "stageId": "EN-L10-C07-S05",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 문단 구조 적용 · 2번: The soccer player enjoys ___ English after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "reading",
+            "subject",
+            "studying",
+            "carrying"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "The soccer player enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S05-Q03",
+          "stageId": "EN-L10-C07-S05",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 문단 구조 적용 · 3번: 핵심 구조가 ‘carrying’이면 O, 아니면 X를 고르세요: The new student enjoys studying English after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 studying입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S05-Q04",
+          "stageId": "EN-L10-C07-S05",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 문단 구조 적용 · 4번: Mina enjoys ___ soccer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "carrying",
+            "reading",
+            "studying"
+          ],
+          "correctAnswer": "playing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 playing입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "playing",
+            "playing"
+          ],
+          "exampleSentence": "Mina enjoys playing soccer after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S05-Q05",
+          "stageId": "EN-L10-C07-S05",
+          "type": "matching",
+          "prompt": "도치와 생략: 문단 구조 적용 · 5번: Tom enjoys ___ soccer after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "carrying",
+            "reading",
+            "subject",
+            "playing"
+          ],
+          "correctAnswer": "playing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 playing입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "playing",
+            "playing"
+          ],
+          "exampleSentence": "Tom enjoys playing soccer after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S05-Q06",
+          "stageId": "EN-L10-C07-S05",
+          "type": "ordering",
+          "prompt": "도치와 생략: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother enjoys playing soccer after class My.",
+            "subject",
+            "My brother enjoys playing soccer after class.",
+            "class after soccer playing enjoys brother My."
+          ],
+          "correctAnswer": "My brother enjoys playing soccer after class.",
+          "explanation": "바른 어순은 “My brother enjoys playing soccer after class.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother enjoys playing soccer after class.",
+            "My brother enjoys playing soccer after class"
+          ],
+          "exampleSentence": "My brother enjoys playing soccer after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S06-Q01",
+          "stageId": "EN-L10-C07-S06",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 구문독해 적용 · 1번: “Tom enjoys finding the answer before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "Tom enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S06-Q02",
+          "stageId": "EN-L10-C07-S06",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 구문독해 적용 · 2번: My brother enjoys ___ the answer before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "opening",
+            "subject",
+            "finding",
+            "writing"
+          ],
+          "correctAnswer": "finding",
+          "explanation": "동명사 기초 문맥에 맞는 답은 finding입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finding",
+            "finding"
+          ],
+          "exampleSentence": "My brother enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S06-Q03",
+          "stageId": "EN-L10-C07-S06",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 구문독해 적용 · 3번: 핵심 구조가 ‘studying’이면 O, 아니면 X를 고르세요: The student enjoys finding the answer before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 finding입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S06-Q04",
+          "stageId": "EN-L10-C07-S06",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 구문독해 적용 · 4번: Our teacher enjoys ___ the answer before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "studying",
+            "opening",
+            "subject"
+          ],
+          "correctAnswer": "finding",
+          "explanation": "동명사 기초 문맥에 맞는 답은 finding입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finding",
+            "finding"
+          ],
+          "exampleSentence": "Our teacher enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S06-Q05",
+          "stageId": "EN-L10-C07-S06",
+          "type": "matching",
+          "prompt": "도치와 생략: 구문독해 적용 · 5번: The young artist enjoys ___ the answer before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "opening",
+            "subject",
+            "finding"
+          ],
+          "correctAnswer": "finding",
+          "explanation": "동명사 기초 문맥에 맞는 답은 finding입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finding",
+            "finding"
+          ],
+          "exampleSentence": "The young artist enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S06-Q06",
+          "stageId": "EN-L10-C07-S06",
+          "type": "ordering",
+          "prompt": "도치와 생략: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player enjoys finding the answer before lunch The.",
+            "subject",
+            "The soccer player enjoys finding the answer before lunch.",
+            "lunch before answer the finding enjoys player soccer The."
+          ],
+          "correctAnswer": "The soccer player enjoys finding the answer before lunch.",
+          "explanation": "바른 어순은 “The soccer player enjoys finding the answer before lunch.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player enjoys finding the answer before lunch.",
+            "The soccer player enjoys finding the answer before lunch"
+          ],
+          "exampleSentence": "The soccer player enjoys finding the answer before lunch.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S07-Q01",
+          "stageId": "EN-L10-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother enjoys making a simple plan before lunch.",
+            "The new student enjoys reading books after class.",
+            "Our teacher enjoys playing soccer at home.",
+            "The young artist enjoys playing soccer during study time."
+          ],
+          "correctAnswer": "The young artist enjoys playing soccer during study time.",
+          "explanation": "들은 문장은 “The young artist enjoys playing soccer during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist enjoys playing soccer during study time.",
+          "acceptedAnswers": [
+            "The young artist enjoys playing soccer during study time."
+          ],
+          "exampleSentence": "The young artist enjoys playing soccer during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S07-Q02",
+          "stageId": "EN-L10-C07-S07",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 2번: The soccer player enjoys ___ soccer during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "writing",
+            "subject",
+            "playing",
+            "making"
+          ],
+          "correctAnswer": "playing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 playing입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "playing",
+            "playing"
+          ],
+          "exampleSentence": "The soccer player enjoys playing soccer during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S07-Q03",
+          "stageId": "EN-L10-C07-S07",
+          "type": "listeningChoice",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player enjoys playing soccer at home.",
+            "The new student enjoys playing soccer during study time.",
+            "Our teacher enjoys making a simple plan before lunch.",
+            "Tom enjoys writing short notes after class."
+          ],
+          "correctAnswer": "The new student enjoys playing soccer during study time.",
+          "explanation": "들은 문장은 “The new student enjoys playing soccer during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student enjoys playing soccer during study time.",
+          "acceptedAnswers": [
+            "The new student enjoys playing soccer during study time."
+          ],
+          "exampleSentence": "The new student enjoys playing soccer during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S07-Q04",
+          "stageId": "EN-L10-C07-S07",
+          "type": "dictation",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina enjoys opening the window during study time.",
+          "explanation": "바른 문장은 “Mina enjoys opening the window during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina enjoys opening the window during study time.",
+          "acceptedAnswers": [
+            "Mina enjoys opening the window during study time.",
+            "Mina enjoys opening the window during study time"
+          ],
+          "exampleSentence": "Mina enjoys opening the window during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S07-Q05",
+          "stageId": "EN-L10-C07-S07",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘making’이면 O, 아니면 X를 고르세요: Tom enjoys opening the window during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 opening입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom enjoys opening the window during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S07-Q06",
+          "stageId": "EN-L10-C07-S07",
+          "type": "matching",
+          "prompt": "도치와 생략: 핵심 정보 듣기 · 6번: My brother enjoys ___ the window during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "writing",
+            "subject",
+            "opening",
+            "making"
+          ],
+          "correctAnswer": "opening",
+          "explanation": "동명사 기초 문맥에 맞는 답은 opening입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "opening",
+            "opening"
+          ],
+          "exampleSentence": "My brother enjoys opening the window during study time.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S08-Q01",
+          "stageId": "EN-L10-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "도치와 생략: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom enjoys reading books near the school.",
+          "explanation": "“Tom enjoys reading books near the school.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom enjoys reading books near the school.",
+          "acceptedAnswers": [
+            "Tom enjoys reading books near the school.",
+            "Tom enjoys reading books near the school"
+          ],
+          "exampleSentence": "Tom enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S08-Q02",
+          "stageId": "EN-L10-C07-S08",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 근거 설명하기 · 2번: My brother enjoys ___ books near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "carrying",
+            "subject",
+            "reading",
+            "studying"
+          ],
+          "correctAnswer": "reading",
+          "explanation": "동명사 기초 문맥에 맞는 답은 reading입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reading",
+            "reading"
+          ],
+          "exampleSentence": "My brother enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S08-Q03",
+          "stageId": "EN-L10-C07-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "도치와 생략: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student enjoys reading books near the school.",
+          "explanation": "“The student enjoys reading books near the school.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student enjoys reading books near the school.",
+          "acceptedAnswers": [
+            "The student enjoys reading books near the school.",
+            "The student enjoys reading books near the school"
+          ],
+          "exampleSentence": "The student enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S08-Q04",
+          "stageId": "EN-L10-C07-S08",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 근거 설명하기 · 4번: “Our teacher enjoys reading books near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "동작을 명사처럼 목적어로 사용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "Our teacher enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S08-Q05",
+          "stageId": "EN-L10-C07-S08",
+          "type": "matching",
+          "prompt": "도치와 생략: 근거 설명하기 · 5번: The young artist enjoys ___ books near the school. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "carrying",
+            "subject",
+            "reading"
+          ],
+          "correctAnswer": "reading",
+          "explanation": "동명사 기초 문맥에 맞는 답은 reading입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reading",
+            "reading"
+          ],
+          "exampleSentence": "The young artist enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S08-Q06",
+          "stageId": "EN-L10-C07-S08",
+          "type": "trueFalse",
+          "prompt": "도치와 생략: 근거 설명하기 · 6번: 핵심 구조가 ‘reading’이면 O, 아니면 X를 고르세요: The soccer player enjoys reading books near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 reading입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player enjoys reading books near the school.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S09-Q01",
+          "stageId": "EN-L10-C07-S09",
+          "type": "fillBlank",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 1번: The young artist enjoys ___ the window at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "writing",
+            "subject",
+            "opening"
+          ],
+          "correctAnswer": "opening",
+          "explanation": "동명사 기초 문맥에 맞는 답은 opening입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "opening",
+            "opening"
+          ],
+          "exampleSentence": "The young artist enjoys opening the window at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S09-Q02",
+          "stageId": "EN-L10-C07-S09",
+          "type": "dictation",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player enjoys opening the window at home.",
+          "explanation": "바른 문장은 “The soccer player enjoys opening the window at home.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player enjoys opening the window at home.",
+          "acceptedAnswers": [
+            "The soccer player enjoys opening the window at home.",
+            "The soccer player enjoys opening the window at home"
+          ],
+          "exampleSentence": "The soccer player enjoys opening the window at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S09-Q03",
+          "stageId": "EN-L10-C07-S09",
+          "type": "ordering",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student enjoys opening the window at home.",
+            "home at window the opening enjoys student new The.",
+            "new student enjoys opening the window at home The."
+          ],
+          "correctAnswer": "The new student enjoys opening the window at home.",
+          "explanation": "바른 어순은 “The new student enjoys opening the window at home.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student enjoys opening the window at home.",
+            "The new student enjoys opening the window at home"
+          ],
+          "exampleSentence": "The new student enjoys opening the window at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S09-Q04",
+          "stageId": "EN-L10-C07-S09",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 4번: Mina enjoys ___ a blue bag at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "carrying",
+            "finding",
+            "studying",
+            "opening"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "Mina enjoys carrying a blue bag at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S09-Q05",
+          "stageId": "EN-L10-C07-S09",
+          "type": "fillBlank",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 5번: Tom enjoys ___ a blue bag at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "studying",
+            "subject",
+            "carrying"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "Tom enjoys carrying a blue bag at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S09-Q06",
+          "stageId": "EN-L10-C07-S09",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 논리 문장 쓰기 · 6번: My brother enjoys ___ a blue bag at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "subject",
+            "carrying",
+            "finding"
+          ],
+          "correctAnswer": "carrying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 carrying입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carrying",
+            "carrying"
+          ],
+          "exampleSentence": "My brother enjoys carrying a blue bag at home.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C07-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C07-S10-Q01",
+          "stageId": "EN-L10-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "도치와 생략: 과정 평가 · 1번: Tom enjoys ___ short notes after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "playing",
+            "making",
+            "subject",
+            "writing"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "Tom enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q02",
+          "stageId": "EN-L10-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 과정 평가 · 2번: My brother enjoys ___ short notes after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "making",
+            "subject",
+            "writing",
+            "playing"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "My brother enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q03",
+          "stageId": "EN-L10-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "도치와 생략: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother enjoys writing short notes during study time.",
+            "The student enjoys writing short notes after class.",
+            "Mina enjoys opening the window at home.",
+            "The young artist enjoys making a simple plan on Saturday morning."
+          ],
+          "correctAnswer": "The student enjoys writing short notes after class.",
+          "explanation": "들은 문장은 “The student enjoys writing short notes after class.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student enjoys writing short notes after class.",
+          "acceptedAnswers": [
+            "The student enjoys writing short notes after class."
+          ],
+          "exampleSentence": "The student enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q04",
+          "stageId": "EN-L10-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 과정 평가 · 4번: Our teacher enjoys ___ short notes after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "writing",
+            "opening",
+            "making",
+            "subject"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "Our teacher enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q05",
+          "stageId": "EN-L10-C07-S10",
+          "type": "dictation",
+          "prompt": "도치와 생략: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist enjoys writing short notes after class.",
+          "explanation": "바른 문장은 “The young artist enjoys writing short notes after class.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist enjoys writing short notes after class.",
+          "acceptedAnswers": [
+            "The young artist enjoys writing short notes after class.",
+            "The young artist enjoys writing short notes after class"
+          ],
+          "exampleSentence": "The young artist enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q06",
+          "stageId": "EN-L10-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 과정 평가 · 6번: “The soccer player enjoys writing short notes after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "동작을 명사처럼 목적어로 사용한다.",
+            "subject"
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "The soccer player enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q07",
+          "stageId": "EN-L10-C07-S10",
+          "type": "reviewMixed",
+          "prompt": "도치와 생략: 과정 평가 · 7번: The new student enjoys ___ short notes after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "writing",
+            "opening",
+            "finding"
+          ],
+          "correctAnswer": "writing",
+          "explanation": "동명사 기초 문맥에 맞는 답은 writing입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "writing",
+            "writing"
+          ],
+          "exampleSentence": "The new student enjoys writing short notes after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q08",
+          "stageId": "EN-L10-C07-S10",
+          "type": "multipleChoice",
+          "prompt": "도치와 생략: 과정 평가 · 8번: Mina enjoys ___ English after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "studying",
+            "opening",
+            "finding",
+            "writing"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "Mina enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q09",
+          "stageId": "EN-L10-C07-S10",
+          "type": "listeningChoice",
+          "prompt": "도치와 생략: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player enjoys opening the window at home.",
+            "The student enjoys finding the answer on Saturday morning.",
+            "Mina enjoys studying English during study time.",
+            "Tom enjoys studying English after class."
+          ],
+          "correctAnswer": "Tom enjoys studying English after class.",
+          "explanation": "들은 문장은 “Tom enjoys studying English after class.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom enjoys studying English after class.",
+          "acceptedAnswers": [
+            "Tom enjoys studying English after class."
+          ],
+          "exampleSentence": "Tom enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q10",
+          "stageId": "EN-L10-C07-S10",
+          "type": "sentenceCompletion",
+          "prompt": "도치와 생략: 과정 평가 · 10번: My brother enjoys ___ English after class. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "finding",
+            "subject",
+            "studying",
+            "opening"
+          ],
+          "correctAnswer": "studying",
+          "explanation": "동명사 기초 문맥에 맞는 답은 studying입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "studying",
+            "studying"
+          ],
+          "exampleSentence": "My brother enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q11",
+          "stageId": "EN-L10-C07-S10",
+          "type": "dictation",
+          "prompt": "도치와 생략: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student enjoys studying English after class.",
+          "explanation": "바른 문장은 “The student enjoys studying English after class.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student enjoys studying English after class.",
+          "acceptedAnswers": [
+            "The student enjoys studying English after class.",
+            "The student enjoys studying English after class"
+          ],
+          "exampleSentence": "The student enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        },
+        {
+          "questionId": "EN-L10-C07-S10-Q12",
+          "stageId": "EN-L10-C07-S10",
+          "type": "sentenceMeaning",
+          "prompt": "도치와 생략: 과정 평가 · 12번: “Our teacher enjoys studying English after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "동작을 명사처럼 목적어로 사용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "동작을 명사처럼 목적어로 사용한다.",
+          "explanation": "핵심 의미는 ‘동작을 명사처럼 목적어로 사용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "동명사 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "도치와 생략 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동작을 명사처럼 목적어로 사용한다."
+          ],
+          "exampleSentence": "Our teacher enjoys studying English after class.",
+          "koreanMeaning": "동작을 명사처럼 목적어로 사용한다."
+        }
+      ]
+    }
+  ]
+}

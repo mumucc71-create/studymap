@@ -1,0 +1,1362 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C06",
+  "stages": [
+    {
+      "stageId": "EN-L02-C06-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S01-Q01",
+          "stageId": "EN-L02-C06-S01",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 1번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "man",
+            "red",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "cat에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S01-Q02",
+          "stageId": "EN-L02-C06-S01",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 2번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "dog",
+            "cat"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "dog에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S01-Q03",
+          "stageId": "EN-L02-C06-S01",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 3번: fan에 final-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fan의 목표 규칙은 initial-consonant이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S01-Q04",
+          "stageId": "EN-L02-C06-S01",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 4번: hen와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "map",
+            "man",
+            "red",
+            "cat"
+          ],
+          "correctAnswer": "map",
+          "explanation": "hen와 map에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S01-Q05",
+          "stageId": "EN-L02-C06-S01",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 5번: ma_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "map의 빠진 글자는 p입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S01-Q06",
+          "stageId": "EN-L02-C06-S01",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 net를 만드세요.",
+          "choices": [
+            "etn",
+            "ne",
+            "net",
+            "ten"
+          ],
+          "correctAnswer": "net",
+          "explanation": "n + e + t를 순서대로 놓으면 net입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "net",
+            "NET"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S02-Q01",
+          "stageId": "EN-L02-C06-S02",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 1번: fan와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "cat",
+            "hen"
+          ],
+          "correctAnswer": "hen",
+          "explanation": "fan와 hen에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hen",
+            "HEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S02-Q02",
+          "stageId": "EN-L02-C06-S02",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 2번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "hen",
+            "cat"
+          ],
+          "correctAnswer": "hen",
+          "explanation": "hen에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hen",
+            "HEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S02-Q03",
+          "stageId": "EN-L02-C06-S02",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 map를 만드세요.",
+          "choices": [
+            "ma",
+            "map",
+            "pam",
+            "apm"
+          ],
+          "correctAnswer": "map",
+          "explanation": "m + a + p를 순서대로 놓으면 map입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S02-Q04",
+          "stageId": "EN-L02-C06-S02",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 4번: n_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "net의 빠진 글자는 e입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S02-Q05",
+          "stageId": "EN-L02-C06-S02",
+          "type": "spelling",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 5번: pi_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "g",
+          "explanation": "pig의 빠진 글자는 g입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "g",
+            "G"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S02-Q06",
+          "stageId": "EN-L02-C06-S02",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 핵심 글자·철자 · 6번: rat에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "rat의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S03-Q01",
+          "stageId": "EN-L02-C06-S03",
+          "type": "listeningChoice",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "man",
+            "red",
+            "map"
+          ],
+          "correctAnswer": "map",
+          "explanation": "음성은 map를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "map",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S03-Q02",
+          "stageId": "EN-L02-C06-S03",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 2번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "net",
+            "cat"
+          ],
+          "correctAnswer": "net",
+          "explanation": "net에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "net",
+            "NET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S03-Q03",
+          "stageId": "EN-L02-C06-S03",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 3번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "red",
+            "pig",
+            "cat",
+            "man"
+          ],
+          "correctAnswer": "pig",
+          "explanation": "pig에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S03-Q04",
+          "stageId": "EN-L02-C06-S03",
+          "type": "listeningChoice",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "cat",
+            "man",
+            "red"
+          ],
+          "correctAnswer": "rat",
+          "explanation": "음성은 rat를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rat",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S03-Q05",
+          "stageId": "EN-L02-C06-S03",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 5번: sun와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "cat",
+            "top"
+          ],
+          "correctAnswer": "top",
+          "explanation": "sun와 top에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "top",
+            "TOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S03-Q06",
+          "stageId": "EN-L02-C06-S03",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 음가 듣고 구별하기 · 6번: top에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "top의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S04-Q01",
+          "stageId": "EN-L02-C06-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 1번: pig를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "pig",
+          "explanation": "pig에는 first consonant sound 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "pig",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S04-Q02",
+          "stageId": "EN-L02-C06-S04",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 2번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "rat",
+            "cat"
+          ],
+          "correctAnswer": "rat",
+          "explanation": "rat에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S04-Q03",
+          "stageId": "EN-L02-C06-S04",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 3번: sun와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "top",
+            "man",
+            "red"
+          ],
+          "correctAnswer": "top",
+          "explanation": "sun와 top에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "top",
+            "TOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S04-Q04",
+          "stageId": "EN-L02-C06-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 4번: top를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "top",
+          "explanation": "top에는 first consonant sound 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "top",
+          "acceptedAnswers": [
+            "top",
+            "TOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S04-Q05",
+          "stageId": "EN-L02-C06-S04",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 5번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "man",
+            "red",
+            "van"
+          ],
+          "correctAnswer": "van",
+          "explanation": "van에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "van",
+            "VAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S04-Q06",
+          "stageId": "EN-L02-C06-S04",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 소리 내어 따라 읽기 · 6번: web에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "web의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S05-Q01",
+          "stageId": "EN-L02-C06-S05",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 1번: 글자를 바르게 배열해 sun를 만드세요.",
+          "choices": [
+            "nus",
+            "uns",
+            "su",
+            "sun"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "s + u + n를 순서대로 놓으면 sun입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S05-Q02",
+          "stageId": "EN-L02-C06-S05",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 2번: to_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "top의 빠진 글자는 p입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S05-Q03",
+          "stageId": "EN-L02-C06-S05",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 3번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "red",
+            "van",
+            "cat",
+            "man"
+          ],
+          "correctAnswer": "van",
+          "explanation": "van에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "van",
+            "VAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S05-Q04",
+          "stageId": "EN-L02-C06-S05",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 4번: web와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "web와 cat에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S05-Q05",
+          "stageId": "EN-L02-C06-S05",
+          "type": "ordering",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 5번: 글자를 바르게 배열해 cat를 만드세요.",
+          "choices": [
+            "tac",
+            "atc",
+            "ca",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "c + a + t를 순서대로 놓으면 cat입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S05-Q06",
+          "stageId": "EN-L02-C06-S05",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 문자 인식 연습 · 6번: dog에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "dog의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S06-Q01",
+          "stageId": "EN-L02-C06-S06",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 1번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "man",
+            "red",
+            "van"
+          ],
+          "correctAnswer": "van",
+          "explanation": "van에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "van",
+            "VAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S06-Q02",
+          "stageId": "EN-L02-C06-S06",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 2번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "web",
+            "cat"
+          ],
+          "correctAnswer": "web",
+          "explanation": "web에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "web",
+            "WEB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S06-Q03",
+          "stageId": "EN-L02-C06-S06",
+          "type": "matching",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 3번: cat와 같은 first consonant sound 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "man",
+            "red"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "cat와 dog에는 모두 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S06-Q04",
+          "stageId": "EN-L02-C06-S06",
+          "type": "trueFalse",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 4번: dog에 initial-consonant 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "dog의 목표 규칙은 initial-consonant이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S06-Q05",
+          "stageId": "EN-L02-C06-S06",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 fan를 만드세요.",
+          "choices": [
+            "naf",
+            "anf",
+            "fa",
+            "fan"
+          ],
+          "correctAnswer": "fan",
+          "explanation": "f + a + n를 순서대로 놓으면 fan입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S06-Q06",
+          "stageId": "EN-L02-C06-S06",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 단어 읽기 적용 · 6번: _en에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "hen의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S07-Q01",
+          "stageId": "EN-L02-C06-S07",
+          "type": "spelling",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 1번: c_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "cat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S07-Q02",
+          "stageId": "EN-L02-C06-S07",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 2번: do_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "g",
+          "explanation": "dog의 빠진 글자는 g입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "g",
+            "G"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S07-Q03",
+          "stageId": "EN-L02-C06-S07",
+          "type": "dictation",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fan",
+          "explanation": "fan의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fan",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S07-Q04",
+          "stageId": "EN-L02-C06-S07",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 hen를 만드세요.",
+          "choices": [
+            "hen",
+            "neh",
+            "enh",
+            "he"
+          ],
+          "correctAnswer": "hen",
+          "explanation": "h + e + n를 순서대로 놓으면 hen입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hen",
+            "HEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S07-Q05",
+          "stageId": "EN-L02-C06-S07",
+          "type": "spelling",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 5번: ma_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "map의 빠진 글자는 p입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S07-Q06",
+          "stageId": "EN-L02-C06-S07",
+          "type": "fillBlank",
+          "prompt": "초성 자음 소리: 철자와 받아쓰기 · 6번: _et에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "net의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C06-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C06-S08-Q01",
+          "stageId": "EN-L02-C06-S08",
+          "type": "reviewMixed",
+          "prompt": "초성 자음 소리: 과정 평가 · 1번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "man",
+            "red",
+            "fan"
+          ],
+          "correctAnswer": "fan",
+          "explanation": "fan에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fan",
+            "FAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q02",
+          "stageId": "EN-L02-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 과정 평가 · 2번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "hen",
+            "cat"
+          ],
+          "correctAnswer": "hen",
+          "explanation": "hen에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hen",
+            "HEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q03",
+          "stageId": "EN-L02-C06-S08",
+          "type": "listeningChoice",
+          "prompt": "초성 자음 소리: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "red",
+            "map",
+            "cat",
+            "man"
+          ],
+          "correctAnswer": "map",
+          "explanation": "음성은 map를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "map",
+          "acceptedAnswers": [
+            "map",
+            "MAP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q04",
+          "stageId": "EN-L02-C06-S08",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 과정 평가 · 4번: 글자를 바르게 배열해 net를 만드세요.",
+          "choices": [
+            "net",
+            "ten",
+            "etn",
+            "ne"
+          ],
+          "correctAnswer": "net",
+          "explanation": "n + e + t를 순서대로 놓으면 net입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "net",
+            "NET"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q05",
+          "stageId": "EN-L02-C06-S08",
+          "type": "dictation",
+          "prompt": "초성 자음 소리: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "pig",
+          "explanation": "pig의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "pig",
+          "acceptedAnswers": [
+            "pig",
+            "PIG"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q06",
+          "stageId": "EN-L02-C06-S08",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 과정 평가 · 6번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "man",
+            "red",
+            "rat",
+            "cat"
+          ],
+          "correctAnswer": "rat",
+          "explanation": "rat에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rat",
+            "RAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q07",
+          "stageId": "EN-L02-C06-S08",
+          "type": "reviewMixed",
+          "prompt": "초성 자음 소리: 과정 평가 · 7번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "red",
+            "sun",
+            "cat",
+            "man"
+          ],
+          "correctAnswer": "sun",
+          "explanation": "sun에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q08",
+          "stageId": "EN-L02-C06-S08",
+          "type": "multipleChoice",
+          "prompt": "초성 자음 소리: 과정 평가 · 8번: initial-consonant 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "top",
+            "cat",
+            "man",
+            "red"
+          ],
+          "correctAnswer": "top",
+          "explanation": "top에는 initial-consonant 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "top",
+            "TOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q09",
+          "stageId": "EN-L02-C06-S08",
+          "type": "listeningChoice",
+          "prompt": "초성 자음 소리: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "man",
+            "red",
+            "van"
+          ],
+          "correctAnswer": "van",
+          "explanation": "음성은 van를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "van",
+          "acceptedAnswers": [
+            "van",
+            "VAN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q10",
+          "stageId": "EN-L02-C06-S08",
+          "type": "wordBuilding",
+          "prompt": "초성 자음 소리: 과정 평가 · 10번: 글자를 바르게 배열해 web를 만드세요.",
+          "choices": [
+            "ebw",
+            "we",
+            "web",
+            "bew"
+          ],
+          "correctAnswer": "web",
+          "explanation": "w + e + b를 순서대로 놓으면 web입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "web",
+            "WEB"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q11",
+          "stageId": "EN-L02-C06-S08",
+          "type": "dictation",
+          "prompt": "초성 자음 소리: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "cat",
+          "explanation": "cat의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cat",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C06-S08-Q12",
+          "stageId": "EN-L02-C06-S08",
+          "type": "soundDiscrimination",
+          "prompt": "초성 자음 소리: 과정 평가 · 12번: first consonant sound이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "cat",
+            "man",
+            "red"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "dog에서 first consonant sound을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "initial-consonant",
+          "targetSound": "first consonant sound",
+          "sourceObjective": "초성 자음 소리 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ]
+        }
+      ]
+    }
+  ]
+}

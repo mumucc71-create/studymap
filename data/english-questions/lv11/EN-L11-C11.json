@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L11",
+  "courseId": "EN-L11-C11",
+  "stages": [
+    {
+      "stageId": "EN-L11-C11-S01",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S01-Q01",
+          "stageId": "EN-L11-C11-S01",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in a recent class discussion to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in a recent class discussion to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S01-Q02",
+          "stageId": "EN-L11-C11-S01",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” in a recent class discussion to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in a recent class discussion to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S01-Q03",
+          "stageId": "EN-L11-C11-S01",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” in a recent class discussion to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” in a recent class discussion to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S01-Q04",
+          "stageId": "EN-L11-C11-S01",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” during the science project to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” during the science project to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S01-Q05",
+          "stageId": "EN-L11-C11-S01",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” during the science project to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” during the science project to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S01-Q06",
+          "stageId": "EN-L11-C11-S01",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” during the science project to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” during the science project to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S02",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S02-Q01",
+          "stageId": "EN-L11-C11-S02",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” during the community meeting to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” during the community meeting to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S02-Q02",
+          "stageId": "EN-L11-C11-S02",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S02-Q03",
+          "stageId": "EN-L11-C11-S02",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” during the community meeting to express the idea of 이어지다.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” during the community meeting to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S02-Q04",
+          "stageId": "EN-L11-C11-S02",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “result in” during the community meeting to express the idea of 초래하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” during the community meeting to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S02-Q05",
+          "stageId": "EN-L11-C11-S02",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” during the community meeting to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” during the community meeting to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S02-Q06",
+          "stageId": "EN-L11-C11-S02",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” during the community meeting to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” during the community meeting to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S03",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S03-Q01",
+          "stageId": "EN-L11-C11-S03",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” during the science project to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” during the science project to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S03-Q02",
+          "stageId": "EN-L11-C11-S03",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” during the science project to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” during the science project to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S03-Q03",
+          "stageId": "EN-L11-C11-S03",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” during the science project to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” during the science project to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S03-Q04",
+          "stageId": "EN-L11-C11-S03",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” in the environmental report to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” in the environmental report to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S03-Q05",
+          "stageId": "EN-L11-C11-S03",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” in the environmental report to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” in the environmental report to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S03-Q06",
+          "stageId": "EN-L11-C11-S03",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” in the environmental report to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in the environmental report to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S04",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S04-Q01",
+          "stageId": "EN-L11-C11-S04",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” in the school research paper to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” in the school research paper to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S04-Q02",
+          "stageId": "EN-L11-C11-S04",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” in the school research paper to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in the school research paper to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S04-Q03",
+          "stageId": "EN-L11-C11-S04",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” in the school research paper to express the idea of 이어지다.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” in the school research paper to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S04-Q04",
+          "stageId": "EN-L11-C11-S04",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “result in” in the school research paper to express the idea of 초래하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” in the school research paper to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S04-Q05",
+          "stageId": "EN-L11-C11-S04",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in the school research paper to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in the school research paper to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S04-Q06",
+          "stageId": "EN-L11-C11-S04",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” in the school research paper to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in the school research paper to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S05",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S05-Q01",
+          "stageId": "EN-L11-C11-S05",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in the environmental report to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in the environmental report to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S05-Q02",
+          "stageId": "EN-L11-C11-S05",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” in the environmental report to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in the environmental report to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S05-Q03",
+          "stageId": "EN-L11-C11-S05",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” in the environmental report to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” in the environmental report to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S05-Q04",
+          "stageId": "EN-L11-C11-S05",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” while reviewing the social survey to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” while reviewing the social survey to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S05-Q05",
+          "stageId": "EN-L11-C11-S05",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” while reviewing the social survey to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” while reviewing the social survey to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S05-Q06",
+          "stageId": "EN-L11-C11-S05",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” while reviewing the social survey to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” while reviewing the social survey to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S06",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S06-Q01",
+          "stageId": "EN-L11-C11-S06",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” while analyzing the new evidence to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” while analyzing the new evidence to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S06-Q02",
+          "stageId": "EN-L11-C11-S06",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” while analyzing the new evidence to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” while analyzing the new evidence to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S06-Q03",
+          "stageId": "EN-L11-C11-S06",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” while analyzing the new evidence to express the idea of 이어지다.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” while analyzing the new evidence to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S06-Q04",
+          "stageId": "EN-L11-C11-S06",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “result in” while analyzing the new evidence to express the idea of 초래하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” while analyzing the new evidence to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S06-Q05",
+          "stageId": "EN-L11-C11-S06",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” while analyzing the new evidence to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” while analyzing the new evidence to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S06-Q06",
+          "stageId": "EN-L11-C11-S06",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” while analyzing the new evidence to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” while analyzing the new evidence to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S07",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S07-Q01",
+          "stageId": "EN-L11-C11-S07",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” while reviewing the social survey to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” while reviewing the social survey to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S07-Q02",
+          "stageId": "EN-L11-C11-S07",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” while reviewing the social survey to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” while reviewing the social survey to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S07-Q03",
+          "stageId": "EN-L11-C11-S07",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” while reviewing the social survey to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” while reviewing the social survey to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S07-Q04",
+          "stageId": "EN-L11-C11-S07",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” in a study about human behavior to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” in a study about human behavior to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S07-Q05",
+          "stageId": "EN-L11-C11-S07",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” in a study about human behavior to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” in a study about human behavior to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S07-Q06",
+          "stageId": "EN-L11-C11-S07",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” in a study about human behavior to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in a study about human behavior to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S08",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S08-Q01",
+          "stageId": "EN-L11-C11-S08",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “find out” in a recent class discussion to express the idea of 알아내다.",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” in a recent class discussion to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S08-Q02",
+          "stageId": "EN-L11-C11-S08",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “point out” in a recent class discussion to express the idea of 지적하다.",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in a recent class discussion to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S08-Q03",
+          "stageId": "EN-L11-C11-S08",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “lead to” in a recent class discussion to express the idea of 이어지다.",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” in a recent class discussion to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S08-Q04",
+          "stageId": "EN-L11-C11-S08",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “result in” in a recent class discussion to express the idea of 초래하다.",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” in a recent class discussion to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S08-Q05",
+          "stageId": "EN-L11-C11-S08",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “deal with” in a recent class discussion to express the idea of 다루다.",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in a recent class discussion to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S08-Q06",
+          "stageId": "EN-L11-C11-S08",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “rely on” in a recent class discussion to express the idea of 의존하다.",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in a recent class discussion to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S09",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S09-Q01",
+          "stageId": "EN-L11-C11-S09",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in a study about human behavior to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in a study about human behavior to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S09-Q02",
+          "stageId": "EN-L11-C11-S09",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” in a study about human behavior to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in a study about human behavior to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S09-Q03",
+          "stageId": "EN-L11-C11-S09",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” in a study about human behavior to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” in a study about human behavior to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S09-Q04",
+          "stageId": "EN-L11-C11-S09",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” during the community meeting to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” during the community meeting to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S09-Q05",
+          "stageId": "EN-L11-C11-S09",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” during the community meeting to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” during the community meeting to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S09-Q06",
+          "stageId": "EN-L11-C11-S09",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” during the community meeting to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S10",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S10-Q01",
+          "stageId": "EN-L11-C11-S10",
+          "type": "multipleChoice",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” during the science project to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” during the science project to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S10-Q02",
+          "stageId": "EN-L11-C11-S10",
+          "type": "vocabularyInContext",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” during the science project to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” during the science project to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S10-Q03",
+          "stageId": "EN-L11-C11-S10",
+          "type": "derivation",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” during the science project to express the idea of 이어지다.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” during the science project to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S10-Q04",
+          "stageId": "EN-L11-C11-S10",
+          "type": "synonymAntonym",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “result in” during the science project to express the idea of 초래하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” during the science project to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S10-Q05",
+          "stageId": "EN-L11-C11-S10",
+          "type": "collocation",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” during the science project to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” during the science project to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S10-Q06",
+          "stageId": "EN-L11-C11-S10",
+          "type": "phrasalVerb",
+          "prompt": "숙어와 구동사: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” during the science project to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” during the science project to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C11-S11",
+      "questions": [
+        {
+          "questionId": "EN-L11-C11-S11-Q01",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” during the community meeting to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” during the community meeting to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q02",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” during the community meeting to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” during the community meeting to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q03",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” during the community meeting to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” during the community meeting to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q04",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” in the school research paper to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” in the school research paper to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q05",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “find out” in the school research paper to express the idea of 알아내다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "find out"
+          ],
+          "correctAnswer": "find out",
+          "explanation": "문맥에서 find out은 ‘알아내다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "find out",
+            "find out"
+          ],
+          "exampleSentence": "The writer uses “find out” in the school research paper to express the idea of 알아내다.",
+          "koreanMeaning": "문맥에서 find out은 ‘알아내다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q06",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “point out” in the school research paper to express the idea of 지적하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "point out",
+          "explanation": "문맥에서 point out은 ‘지적하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "point out",
+            "point out"
+          ],
+          "exampleSentence": "The writer uses “point out” in the school research paper to express the idea of 지적하다.",
+          "koreanMeaning": "문맥에서 point out은 ‘지적하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q07",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “lead to” in the school research paper to express the idea of 이어지다.",
+          "choices": [
+            "carry out",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "lead to",
+          "explanation": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "lead to",
+            "lead to"
+          ],
+          "exampleSentence": "The writer uses “lead to” in the school research paper to express the idea of 이어지다.",
+          "koreanMeaning": "문맥에서 lead to은 ‘이어지다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q08",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “result in” in the school research paper to express the idea of 초래하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "find out"
+          ],
+          "correctAnswer": "result in",
+          "explanation": "문맥에서 result in은 ‘초래하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "result in",
+            "result in"
+          ],
+          "exampleSentence": "The writer uses “result in” in the school research paper to express the idea of 초래하다.",
+          "koreanMeaning": "문맥에서 result in은 ‘초래하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q09",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “deal with” in the school research paper to express the idea of 다루다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "point out",
+            "deal with"
+          ],
+          "correctAnswer": "deal with",
+          "explanation": "문맥에서 deal with은 ‘다루다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "deal with",
+            "deal with"
+          ],
+          "exampleSentence": "The writer uses “deal with” in the school research paper to express the idea of 다루다.",
+          "koreanMeaning": "문맥에서 deal with은 ‘다루다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q10",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “rely on” in the school research paper to express the idea of 의존하다.",
+          "choices": [
+            "result in",
+            "lead to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "rely on",
+          "explanation": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rely on",
+            "rely on"
+          ],
+          "exampleSentence": "The writer uses “rely on” in the school research paper to express the idea of 의존하다.",
+          "koreanMeaning": "문맥에서 rely on은 ‘의존하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q11",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “contribute to” in the school research paper to express the idea of 기여하다.",
+          "choices": [
+            "result in",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "contribute to",
+          "explanation": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "contribute to",
+            "contribute to"
+          ],
+          "exampleSentence": "The writer uses “contribute to” in the school research paper to express the idea of 기여하다.",
+          "koreanMeaning": "문맥에서 contribute to은 ‘기여하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C11-S11-Q12",
+          "stageId": "EN-L11-C11-S11",
+          "type": "reviewMixed",
+          "prompt": "숙어와 구동사: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “carry out” while analyzing the new evidence to express the idea of 수행하다.",
+          "choices": [
+            "carry out",
+            "contribute to",
+            "rely on",
+            "deal with"
+          ],
+          "correctAnswer": "carry out",
+          "explanation": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "숙어와 구동사",
+          "vocabularyTopic": "숙어와 구동사",
+          "sourceObjective": "숙어와 구동사 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "carry out",
+            "carry out"
+          ],
+          "exampleSentence": "The writer uses “carry out” while analyzing the new evidence to express the idea of 수행하다.",
+          "koreanMeaning": "문맥에서 carry out은 ‘수행하다’이라는 뜻이다."
+        }
+      ]
+    }
+  ]
+}

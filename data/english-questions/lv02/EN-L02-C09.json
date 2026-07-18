@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C09",
+  "stages": [
+    {
+      "stageId": "EN-L02-C09-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S01-Q01",
+          "stageId": "EN-L02-C09-S01",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 1번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "chip",
+            "rat",
+            "tap",
+            "ship"
+          ],
+          "correctAnswer": "ship",
+          "explanation": "ship에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ship",
+            "SHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S01-Q02",
+          "stageId": "EN-L02-C09-S01",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 2번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "chip",
+            "ship"
+          ],
+          "correctAnswer": "chip",
+          "explanation": "chip에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chip",
+            "CHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S01-Q03",
+          "stageId": "EN-L02-C09-S01",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 3번: thin에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "thin의 목표 규칙은 consonant-digraph이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S01-Q04",
+          "stageId": "EN-L02-C09-S01",
+          "type": "matching",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 4번: whip와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "shop",
+            "rat",
+            "tap",
+            "cake"
+          ],
+          "correctAnswer": "shop",
+          "explanation": "whip와 shop에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shop",
+            "SHOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S01-Q05",
+          "stageId": "EN-L02-C09-S01",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 5번: s_op에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "shop의 빠진 글자는 h입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S01-Q06",
+          "stageId": "EN-L02-C09-S01",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 chat를 만드세요.",
+          "choices": [
+            "hatc",
+            "cha",
+            "chat",
+            "tahc"
+          ],
+          "correctAnswer": "chat",
+          "explanation": "c + h + a + t를 순서대로 놓으면 chat입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chat",
+            "CHAT"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S02-Q01",
+          "stageId": "EN-L02-C09-S02",
+          "type": "matching",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 1번: thin와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "cake",
+            "whip"
+          ],
+          "correctAnswer": "whip",
+          "explanation": "thin와 whip에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "whip",
+            "WHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S02-Q02",
+          "stageId": "EN-L02-C09-S02",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 2번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "whip",
+            "ship"
+          ],
+          "correctAnswer": "whip",
+          "explanation": "whip에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "whip",
+            "WHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S02-Q03",
+          "stageId": "EN-L02-C09-S02",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 shop를 만드세요.",
+          "choices": [
+            "sho",
+            "shop",
+            "pohs",
+            "hops"
+          ],
+          "correctAnswer": "shop",
+          "explanation": "s + h + o + p를 순서대로 놓으면 shop입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shop",
+            "SHOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S02-Q04",
+          "stageId": "EN-L02-C09-S02",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 4번: _hat에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "chat의 빠진 글자는 c입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S02-Q05",
+          "stageId": "EN-L02-C09-S02",
+          "type": "spelling",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 5번: f_sh에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "fish의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S02-Q06",
+          "stageId": "EN-L02-C09-S02",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 핵심 글자·철자 · 6번: much에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "much의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S03-Q01",
+          "stageId": "EN-L02-C09-S03",
+          "type": "listeningChoice",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "shop"
+          ],
+          "correctAnswer": "shop",
+          "explanation": "음성은 shop를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "shop",
+          "acceptedAnswers": [
+            "shop",
+            "SHOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S03-Q02",
+          "stageId": "EN-L02-C09-S03",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 2번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "chat",
+            "ship"
+          ],
+          "correctAnswer": "chat",
+          "explanation": "chat에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chat",
+            "CHAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S03-Q03",
+          "stageId": "EN-L02-C09-S03",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 3번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "fish",
+            "ship",
+            "rat"
+          ],
+          "correctAnswer": "fish",
+          "explanation": "fish에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S03-Q04",
+          "stageId": "EN-L02-C09-S03",
+          "type": "listeningChoice",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "much",
+            "ship",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "much",
+          "explanation": "음성은 much를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "much",
+          "acceptedAnswers": [
+            "much",
+            "MUCH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S03-Q05",
+          "stageId": "EN-L02-C09-S03",
+          "type": "matching",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 5번: shed와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "cake",
+            "chin"
+          ],
+          "correctAnswer": "chin",
+          "explanation": "shed와 chin에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chin",
+            "CHIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S03-Q06",
+          "stageId": "EN-L02-C09-S03",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 음가 듣고 구별하기 · 6번: chin에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "chin의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S04-Q01",
+          "stageId": "EN-L02-C09-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 1번: fish를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "fish",
+          "explanation": "fish에는 one sound spelled with two consonants 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "fish",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S04-Q02",
+          "stageId": "EN-L02-C09-S04",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 2번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "much",
+            "ship"
+          ],
+          "correctAnswer": "much",
+          "explanation": "much에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "much",
+            "MUCH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S04-Q03",
+          "stageId": "EN-L02-C09-S04",
+          "type": "matching",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 3번: shed와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "chin",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "chin",
+          "explanation": "shed와 chin에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chin",
+            "CHIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S04-Q04",
+          "stageId": "EN-L02-C09-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 4번: chin를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "chin",
+          "explanation": "chin에는 one sound spelled with two consonants 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "chin",
+          "acceptedAnswers": [
+            "chin",
+            "CHIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S04-Q05",
+          "stageId": "EN-L02-C09-S04",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 5번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "bath"
+          ],
+          "correctAnswer": "bath",
+          "explanation": "bath에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bath",
+            "BATH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S04-Q06",
+          "stageId": "EN-L02-C09-S04",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 소리 내어 따라 읽기 · 6번: when에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "when의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S05-Q01",
+          "stageId": "EN-L02-C09-S05",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 문자 인식 연습 · 1번: 글자를 바르게 배열해 shed를 만드세요.",
+          "choices": [
+            "dehs",
+            "heds",
+            "she",
+            "shed"
+          ],
+          "correctAnswer": "shed",
+          "explanation": "s + h + e + d를 순서대로 놓으면 shed입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shed",
+            "SHED"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S05-Q02",
+          "stageId": "EN-L02-C09-S05",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 문자 인식 연습 · 2번: ch_n에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "chin의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S05-Q03",
+          "stageId": "EN-L02-C09-S05",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 문자 인식 연습 · 3번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "bath",
+            "ship",
+            "rat"
+          ],
+          "correctAnswer": "bath",
+          "explanation": "bath에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bath",
+            "BATH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S05-Q04",
+          "stageId": "EN-L02-C09-S05",
+          "type": "matching",
+          "prompt": "자음 이중자: 문자 인식 연습 · 4번: when와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "cake"
+          ],
+          "correctAnswer": "ship",
+          "explanation": "when와 ship에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ship",
+            "SHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S05-Q05",
+          "stageId": "EN-L02-C09-S05",
+          "type": "ordering",
+          "prompt": "자음 이중자: 문자 인식 연습 · 5번: 글자를 바르게 배열해 ship를 만드세요.",
+          "choices": [
+            "pihs",
+            "hips",
+            "shi",
+            "ship"
+          ],
+          "correctAnswer": "ship",
+          "explanation": "s + h + i + p를 순서대로 놓으면 ship입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ship",
+            "SHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S05-Q06",
+          "stageId": "EN-L02-C09-S05",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 문자 인식 연습 · 6번: chip에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "chip의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S06-Q01",
+          "stageId": "EN-L02-C09-S06",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 1번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "bath"
+          ],
+          "correctAnswer": "bath",
+          "explanation": "bath에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bath",
+            "BATH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S06-Q02",
+          "stageId": "EN-L02-C09-S06",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 2번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "when",
+            "ship"
+          ],
+          "correctAnswer": "when",
+          "explanation": "when에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "when",
+            "WHEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S06-Q03",
+          "stageId": "EN-L02-C09-S06",
+          "type": "matching",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 3번: ship와 같은 one sound spelled with two consonants 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "chip",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "chip",
+          "explanation": "ship와 chip에는 모두 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chip",
+            "CHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S06-Q04",
+          "stageId": "EN-L02-C09-S06",
+          "type": "trueFalse",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 4번: chip에 consonant-digraph 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "chip의 목표 규칙은 consonant-digraph이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S06-Q05",
+          "stageId": "EN-L02-C09-S06",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 thin를 만드세요.",
+          "choices": [
+            "niht",
+            "hint",
+            "thi",
+            "thin"
+          ],
+          "correctAnswer": "thin",
+          "explanation": "t + h + i + n를 순서대로 놓으면 thin입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "thin",
+            "THIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S06-Q06",
+          "stageId": "EN-L02-C09-S06",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 단어 읽기 적용 · 6번: wh_p에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "whip의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S07-Q01",
+          "stageId": "EN-L02-C09-S07",
+          "type": "spelling",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 1번: s_ip에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "ship의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S07-Q02",
+          "stageId": "EN-L02-C09-S07",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 2번: ch_p에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "chip의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S07-Q03",
+          "stageId": "EN-L02-C09-S07",
+          "type": "dictation",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "thin",
+          "explanation": "thin의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "thin",
+          "acceptedAnswers": [
+            "thin",
+            "THIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S07-Q04",
+          "stageId": "EN-L02-C09-S07",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 whip를 만드세요.",
+          "choices": [
+            "whip",
+            "pihw",
+            "hipw",
+            "whi"
+          ],
+          "correctAnswer": "whip",
+          "explanation": "w + h + i + p를 순서대로 놓으면 whip입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "whip",
+            "WHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S07-Q05",
+          "stageId": "EN-L02-C09-S07",
+          "type": "spelling",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 5번: s_op에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "shop의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S07-Q06",
+          "stageId": "EN-L02-C09-S07",
+          "type": "fillBlank",
+          "prompt": "자음 이중자: 철자와 받아쓰기 · 6번: ch_t에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "chat의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C09-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C09-S08-Q01",
+          "stageId": "EN-L02-C09-S08",
+          "type": "reviewMixed",
+          "prompt": "자음 이중자: 과정 평가 · 1번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "thin"
+          ],
+          "correctAnswer": "thin",
+          "explanation": "thin에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "thin",
+            "THIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q02",
+          "stageId": "EN-L02-C09-S08",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 과정 평가 · 2번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "whip",
+            "ship"
+          ],
+          "correctAnswer": "whip",
+          "explanation": "whip에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "whip",
+            "WHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q03",
+          "stageId": "EN-L02-C09-S08",
+          "type": "listeningChoice",
+          "prompt": "자음 이중자: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "shop",
+            "ship",
+            "rat"
+          ],
+          "correctAnswer": "shop",
+          "explanation": "음성은 shop를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "shop",
+          "acceptedAnswers": [
+            "shop",
+            "SHOP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q04",
+          "stageId": "EN-L02-C09-S08",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 과정 평가 · 4번: 글자를 바르게 배열해 chat를 만드세요.",
+          "choices": [
+            "chat",
+            "tahc",
+            "hatc",
+            "cha"
+          ],
+          "correctAnswer": "chat",
+          "explanation": "c + h + a + t를 순서대로 놓으면 chat입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chat",
+            "CHAT"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q05",
+          "stageId": "EN-L02-C09-S08",
+          "type": "dictation",
+          "prompt": "자음 이중자: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "fish",
+          "explanation": "fish의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "fish",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q06",
+          "stageId": "EN-L02-C09-S08",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 과정 평가 · 6번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "much",
+            "ship"
+          ],
+          "correctAnswer": "much",
+          "explanation": "much에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "much",
+            "MUCH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q07",
+          "stageId": "EN-L02-C09-S08",
+          "type": "reviewMixed",
+          "prompt": "자음 이중자: 과정 평가 · 7번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "shed",
+            "ship",
+            "rat"
+          ],
+          "correctAnswer": "shed",
+          "explanation": "shed에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "shed",
+            "SHED"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q08",
+          "stageId": "EN-L02-C09-S08",
+          "type": "multipleChoice",
+          "prompt": "자음 이중자: 과정 평가 · 8번: consonant-digraph 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "chin",
+            "ship",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "chin",
+          "explanation": "chin에는 consonant-digraph 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chin",
+            "CHIN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q09",
+          "stageId": "EN-L02-C09-S08",
+          "type": "listeningChoice",
+          "prompt": "자음 이중자: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "ship",
+            "rat",
+            "tap",
+            "bath"
+          ],
+          "correctAnswer": "bath",
+          "explanation": "음성은 bath를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bath",
+          "acceptedAnswers": [
+            "bath",
+            "BATH"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q10",
+          "stageId": "EN-L02-C09-S08",
+          "type": "wordBuilding",
+          "prompt": "자음 이중자: 과정 평가 · 10번: 글자를 바르게 배열해 when를 만드세요.",
+          "choices": [
+            "henw",
+            "whe",
+            "when",
+            "nehw"
+          ],
+          "correctAnswer": "when",
+          "explanation": "w + h + e + n를 순서대로 놓으면 when입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "when",
+            "WHEN"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q11",
+          "stageId": "EN-L02-C09-S08",
+          "type": "dictation",
+          "prompt": "자음 이중자: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "ship",
+          "explanation": "ship의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "ship",
+          "acceptedAnswers": [
+            "ship",
+            "SHIP"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C09-S08-Q12",
+          "stageId": "EN-L02-C09-S08",
+          "type": "soundDiscrimination",
+          "prompt": "자음 이중자: 과정 평가 · 12번: one sound spelled with two consonants이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "chip",
+            "ship",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "chip",
+          "explanation": "chip에서 one sound spelled with two consonants을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "consonant-digraph",
+          "targetSound": "one sound spelled with two consonants",
+          "sourceObjective": "자음 이중자 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "chip",
+            "CHIP"
+          ]
+        }
+      ]
+    }
+  ]
+}

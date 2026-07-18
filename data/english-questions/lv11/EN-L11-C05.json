@@ -1,0 +1,2363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L11",
+  "courseId": "EN-L11-C05",
+  "stages": [
+    {
+      "stageId": "EN-L11-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S01-Q01",
+          "stageId": "EN-L11-C05-S01",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in a study about human behavior to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in a study about human behavior to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S01-Q02",
+          "stageId": "EN-L11-C05-S01",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in a study about human behavior to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in a study about human behavior to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S01-Q03",
+          "stageId": "EN-L11-C05-S01",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” in a study about human behavior to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” in a study about human behavior to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S01-Q04",
+          "stageId": "EN-L11-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” during the community meeting to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” during the community meeting to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S01-Q05",
+          "stageId": "EN-L11-C05-S01",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” during the community meeting to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” during the community meeting to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S01-Q06",
+          "stageId": "EN-L11-C05-S01",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” during the community meeting to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "concept",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” during the community meeting to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S02-Q01",
+          "stageId": "EN-L11-C05-S02",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S02-Q02",
+          "stageId": "EN-L11-C05-S02",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” during the science project to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” during the science project to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S02-Q03",
+          "stageId": "EN-L11-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” during the science project to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” during the science project to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S02-Q04",
+          "stageId": "EN-L11-C05-S02",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” during the science project to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” during the science project to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S02-Q05",
+          "stageId": "EN-L11-C05-S02",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” during the science project to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” during the science project to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S02-Q06",
+          "stageId": "EN-L11-C05-S02",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” during the science project to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "vocabulary",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” during the science project to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S03-Q01",
+          "stageId": "EN-L11-C05-S03",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” during the community meeting to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” during the community meeting to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S03-Q02",
+          "stageId": "EN-L11-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” during the community meeting to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” during the community meeting to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S03-Q03",
+          "stageId": "EN-L11-C05-S03",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” during the community meeting to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” during the community meeting to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S03-Q04",
+          "stageId": "EN-L11-C05-S03",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” in the school research paper to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” in the school research paper to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S03-Q05",
+          "stageId": "EN-L11-C05-S03",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” in the school research paper to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in the school research paper to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S03-Q06",
+          "stageId": "EN-L11-C05-S03",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "grammar",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S04-Q01",
+          "stageId": "EN-L11-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” in the environmental report to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in the environmental report to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S04-Q02",
+          "stageId": "EN-L11-C05-S04",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in the environmental report to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in the environmental report to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S04-Q03",
+          "stageId": "EN-L11-C05-S04",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” in the environmental report to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” in the environmental report to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S04-Q04",
+          "stageId": "EN-L11-C05-S04",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” in the environmental report to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in the environmental report to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S04-Q05",
+          "stageId": "EN-L11-C05-S04",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in the environmental report to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in the environmental report to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S04-Q06",
+          "stageId": "EN-L11-C05-S04",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in the environmental report to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in the environmental report to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S05-Q01",
+          "stageId": "EN-L11-C05-S05",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S05-Q02",
+          "stageId": "EN-L11-C05-S05",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in the school research paper to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in the school research paper to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S05-Q03",
+          "stageId": "EN-L11-C05-S05",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” in the school research paper to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” in the school research paper to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S05-Q04",
+          "stageId": "EN-L11-C05-S05",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” while analyzing the new evidence to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” while analyzing the new evidence to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S05-Q05",
+          "stageId": "EN-L11-C05-S05",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” while analyzing the new evidence to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” while analyzing the new evidence to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S05-Q06",
+          "stageId": "EN-L11-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” while analyzing the new evidence to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 11,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” while analyzing the new evidence to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S06-Q01",
+          "stageId": "EN-L11-C05-S06",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” while reviewing the social survey to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” while reviewing the social survey to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S06-Q02",
+          "stageId": "EN-L11-C05-S06",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” while reviewing the social survey to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” while reviewing the social survey to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S06-Q03",
+          "stageId": "EN-L11-C05-S06",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” while reviewing the social survey to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” while reviewing the social survey to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S06-Q04",
+          "stageId": "EN-L11-C05-S06",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” while reviewing the social survey to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” while reviewing the social survey to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S06-Q05",
+          "stageId": "EN-L11-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” while reviewing the social survey to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” while reviewing the social survey to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S06-Q06",
+          "stageId": "EN-L11-C05-S06",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” while reviewing the social survey to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” while reviewing the social survey to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S07-Q01",
+          "stageId": "EN-L11-C05-S07",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” while analyzing the new evidence to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” while analyzing the new evidence to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S07-Q02",
+          "stageId": "EN-L11-C05-S07",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” while analyzing the new evidence to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” while analyzing the new evidence to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S07-Q03",
+          "stageId": "EN-L11-C05-S07",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” while analyzing the new evidence to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” while analyzing the new evidence to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S07-Q04",
+          "stageId": "EN-L11-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” in a recent class discussion to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” in a recent class discussion to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S07-Q05",
+          "stageId": "EN-L11-C05-S07",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” in a recent class discussion to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in a recent class discussion to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S07-Q06",
+          "stageId": "EN-L11-C05-S07",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in a recent class discussion to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in a recent class discussion to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S08-Q01",
+          "stageId": "EN-L11-C05-S08",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “adopt” in a study about human behavior to express the idea of 채택하다.",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in a study about human behavior to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S08-Q02",
+          "stageId": "EN-L11-C05-S08",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “economic” in a study about human behavior to express the idea of 경제의.",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in a study about human behavior to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S08-Q03",
+          "stageId": "EN-L11-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “economical” in a study about human behavior to express the idea of 경제적인.",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” in a study about human behavior to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S08-Q04",
+          "stageId": "EN-L11-C05-S08",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “effective” in a study about human behavior to express the idea of 효과적인.",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in a study about human behavior to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S08-Q05",
+          "stageId": "EN-L11-C05-S08",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “affective” in a study about human behavior to express the idea of 정서적인.",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in a study about human behavior to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S08-Q06",
+          "stageId": "EN-L11-C05-S08",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "listening",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The writer uses “respectful” in a study about human behavior to express the idea of 존중하는.",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in a study about human behavior to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S09-Q01",
+          "stageId": "EN-L11-C05-S09",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in a recent class discussion to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in a recent class discussion to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S09-Q02",
+          "stageId": "EN-L11-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in a recent class discussion to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in a recent class discussion to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S09-Q03",
+          "stageId": "EN-L11-C05-S09",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” in a recent class discussion to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” in a recent class discussion to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S09-Q04",
+          "stageId": "EN-L11-C05-S09",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” during the science project to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” during the science project to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S09-Q05",
+          "stageId": "EN-L11-C05-S09",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” during the science project to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S09-Q06",
+          "stageId": "EN-L11-C05-S09",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” during the science project to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "writing",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” during the science project to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S10",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S10-Q01",
+          "stageId": "EN-L11-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” during the community meeting to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” during the community meeting to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S10-Q02",
+          "stageId": "EN-L11-C05-S10",
+          "type": "vocabularyInContext",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” during the community meeting to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” during the community meeting to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S10-Q03",
+          "stageId": "EN-L11-C05-S10",
+          "type": "derivation",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” during the community meeting to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” during the community meeting to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S10-Q04",
+          "stageId": "EN-L11-C05-S10",
+          "type": "synonymAntonym",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” during the community meeting to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” during the community meeting to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S10-Q05",
+          "stageId": "EN-L11-C05-S10",
+          "type": "collocation",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” during the community meeting to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” during the community meeting to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S10-Q06",
+          "stageId": "EN-L11-C05-S10",
+          "type": "phrasalVerb",
+          "prompt": "혼동 어휘 구별: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” during the community meeting to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” during the community meeting to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S11",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S11-Q01",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” during the science project to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” during the science project to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q02",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” during the science project to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” during the science project to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q03",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” during the science project to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” during the science project to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q04",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” in the environmental report to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” in the environmental report to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q05",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” in the environmental report to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in the environmental report to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q06",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in the environmental report to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in the environmental report to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q07",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” in the environmental report to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” in the environmental report to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q08",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” in the environmental report to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in the environmental report to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q09",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in the environmental report to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in the environmental report to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S11-Q10",
+          "stageId": "EN-L11-C05-S11",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 누적 어휘·구문 복습 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in the environmental report to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "review",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 누적 어휘·구문 복습 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in the environmental report to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L11-C05-S12",
+      "questions": [
+        {
+          "questionId": "EN-L11-C05-S12-Q01",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” in the school research paper to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” in the school research paper to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q02",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” in the school research paper to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q03",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” in the school research paper to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” in the school research paper to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q04",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” in the school research paper to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” in the school research paper to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q05",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "affective"
+          ],
+          "correctAnswer": "affective",
+          "explanation": "문맥에서 affective은 ‘정서적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "affective",
+            "affective"
+          ],
+          "exampleSentence": "The writer uses “affective” in the school research paper to express the idea of 정서적인.",
+          "koreanMeaning": "문맥에서 affective은 ‘정서적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q06",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respectful” in the school research paper to express the idea of 존중하는.",
+          "choices": [
+            "effective",
+            "economical",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respectful",
+          "explanation": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respectful",
+            "respectful"
+          ],
+          "exampleSentence": "The writer uses “respectful” in the school research paper to express the idea of 존중하는.",
+          "koreanMeaning": "문맥에서 respectful은 ‘존중하는’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q07",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “respective” in the school research paper to express the idea of 각각의.",
+          "choices": [
+            "effective",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "respective",
+          "explanation": "문맥에서 respective은 ‘각각의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "respective",
+            "respective"
+          ],
+          "exampleSentence": "The writer uses “respective” in the school research paper to express the idea of 각각의.",
+          "koreanMeaning": "문맥에서 respective은 ‘각각의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q08",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adapt” while analyzing the new evidence to express the idea of 적응하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "affective"
+          ],
+          "correctAnswer": "adapt",
+          "explanation": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adapt",
+            "adapt"
+          ],
+          "exampleSentence": "The writer uses “adapt” while analyzing the new evidence to express the idea of 적응하다.",
+          "koreanMeaning": "문맥에서 adapt은 ‘적응하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q09",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “adopt” while analyzing the new evidence to express the idea of 채택하다.",
+          "choices": [
+            "adapt",
+            "respective",
+            "respectful",
+            "adopt"
+          ],
+          "correctAnswer": "adopt",
+          "explanation": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "adopt",
+            "adopt"
+          ],
+          "exampleSentence": "The writer uses “adopt” while analyzing the new evidence to express the idea of 채택하다.",
+          "koreanMeaning": "문맥에서 adopt은 ‘채택하다’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q10",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economic” while analyzing the new evidence to express the idea of 경제의.",
+          "choices": [
+            "adapt",
+            "respective",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economic",
+          "explanation": "문맥에서 economic은 ‘경제의’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economic",
+            "economic"
+          ],
+          "exampleSentence": "The writer uses “economic” while analyzing the new evidence to express the idea of 경제의.",
+          "koreanMeaning": "문맥에서 economic은 ‘경제의’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q11",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “economical” while analyzing the new evidence to express the idea of 경제적인.",
+          "choices": [
+            "adapt",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "economical",
+          "explanation": "문맥에서 economical은 ‘경제적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "economical",
+            "economical"
+          ],
+          "exampleSentence": "The writer uses “economical” while analyzing the new evidence to express the idea of 경제적인.",
+          "koreanMeaning": "문맥에서 economical은 ‘경제적인’이라는 뜻이다."
+        },
+        {
+          "questionId": "EN-L11-C05-S12-Q12",
+          "stageId": "EN-L11-C05-S12",
+          "type": "reviewMixed",
+          "prompt": "혼동 어휘 구별: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. The writer uses “effective” while analyzing the new evidence to express the idea of 효과적인.",
+          "choices": [
+            "effective",
+            "economical",
+            "economic",
+            "adopt"
+          ],
+          "correctAnswer": "effective",
+          "explanation": "문맥에서 effective은 ‘효과적인’이라는 뜻이다.",
+          "difficulty": 13,
+          "skill": "checkpoint",
+          "grammarFocus": "혼동 어휘 구별",
+          "vocabularyTopic": "혼동 어휘 구별",
+          "sourceObjective": "혼동 어휘 구별 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "effective",
+            "effective"
+          ],
+          "exampleSentence": "The writer uses “effective” while analyzing the new evidence to express the idea of 효과적인.",
+          "koreanMeaning": "문맥에서 effective은 ‘효과적인’이라는 뜻이다."
+        }
+      ]
+    }
+  ]
+}

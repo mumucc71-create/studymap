@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C05",
+  "stages": [
+    {
+      "stageId": "EN-L10-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S01-Q01",
+          "stageId": "EN-L10-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 1번: The window ___ by The young artist before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "is written",
+            "subject",
+            "is opened"
+          ],
+          "correctAnswer": "is opened",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is opened입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is opened",
+            "is opened"
+          ],
+          "exampleSentence": "The window is opened by The young artist before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S01-Q02",
+          "stageId": "EN-L10-C05-S01",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 2번: 핵심 구조가 ‘is opened’이면 O, 아니면 X를 고르세요: The window is opened by The soccer player before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 is opened입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The window is opened by The soccer player before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S01-Q03",
+          "stageId": "EN-L10-C05-S01",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 3번: The window ___ by The new student before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "is opened",
+            "is found",
+            "is studied"
+          ],
+          "correctAnswer": "is opened",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is opened입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is opened",
+            "is opened"
+          ],
+          "exampleSentence": "The window is opened by The new student before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S01-Q04",
+          "stageId": "EN-L10-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 4번: “A blue bag is carried by Mina before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "A blue bag is carried by Mina before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S01-Q05",
+          "stageId": "EN-L10-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 5번: A blue bag ___ by Tom before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "is studied",
+            "subject",
+            "is carried"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by Tom before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S01-Q06",
+          "stageId": "EN-L10-C05-S01",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "blue bag is carried by My brother before lunch A.",
+            "subject",
+            "A blue bag is carried by My brother before lunch.",
+            "lunch before brother My by carried is bag blue A."
+          ],
+          "correctAnswer": "A blue bag is carried by My brother before lunch.",
+          "explanation": "바른 어순은 “A blue bag is carried by My brother before lunch.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A blue bag is carried by My brother before lunch.",
+            "A blue bag is carried by My brother before lunch"
+          ],
+          "exampleSentence": "A blue bag is carried by My brother before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S02-Q01",
+          "stageId": "EN-L10-C05-S02",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 1번: Short notes ___ by Tom during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "is made",
+            "subject",
+            "is written"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by Tom during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S02-Q02",
+          "stageId": "EN-L10-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 2번: Short notes ___ by My brother during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is made",
+            "subject",
+            "is written",
+            "is played"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by My brother during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S02-Q03",
+          "stageId": "EN-L10-C05-S02",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 3번: “Short notes is written by The student during study time.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "Short notes is written by The student during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S02-Q04",
+          "stageId": "EN-L10-C05-S02",
+          "type": "fillBlank",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 4번: Short notes ___ by Our teacher during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is written",
+            "is opened",
+            "is made",
+            "subject"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by Our teacher during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S02-Q05",
+          "stageId": "EN-L10-C05-S02",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 5번: Short notes ___ by The young artist during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is opened",
+            "is made",
+            "subject",
+            "is written"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by The young artist during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S02-Q06",
+          "stageId": "EN-L10-C05-S02",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘is written’이면 O, 아니면 X를 고르세요: Short notes is written by The soccer player during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 is written입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Short notes is written by The soccer player during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S03-Q01",
+          "stageId": "EN-L10-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 1번: A blue bag ___ by The young artist on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is read",
+            "is studied",
+            "subject",
+            "is carried"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by The young artist on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S03-Q02",
+          "stageId": "EN-L10-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 2번: A blue bag ___ by The soccer player on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "subject",
+            "is carried",
+            "is read"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by The soccer player on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S03-Q03",
+          "stageId": "EN-L10-C05-S03",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 3번: 핵심 구조가 ‘is read’이면 O, 아니면 X를 고르세요: A blue bag is carried by The new student on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 is carried입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "A blue bag is carried by The new student on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S03-Q04",
+          "stageId": "EN-L10-C05-S03",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "A simple plan is made by Mina on Saturday morning.",
+            "morning Saturday on Mina by made is plan simple A.",
+            "simple plan is made by Mina on Saturday morning A.",
+            "subject"
+          ],
+          "correctAnswer": "A simple plan is made by Mina on Saturday morning.",
+          "explanation": "바른 어순은 “A simple plan is made by Mina on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A simple plan is made by Mina on Saturday morning.",
+            "A simple plan is made by Mina on Saturday morning"
+          ],
+          "exampleSentence": "A simple plan is made by Mina on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S03-Q05",
+          "stageId": "EN-L10-C05-S03",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 5번: A simple plan ___ by Tom on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is read",
+            "is played",
+            "subject",
+            "is made"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by Tom on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S03-Q06",
+          "stageId": "EN-L10-C05-S03",
+          "type": "fillBlank",
+          "prompt": "가정법 과거와 과거완료: 문법 구조 분석 · 6번: A simple plan ___ by My brother on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "subject",
+            "is made",
+            "is read"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by My brother on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S04-Q01",
+          "stageId": "EN-L10-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 1번: English ___ by Tom at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is opened",
+            "is found",
+            "subject",
+            "is studied"
+          ],
+          "correctAnswer": "is studied",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is studied입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is studied",
+            "is studied"
+          ],
+          "exampleSentence": "English is studied by Tom at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S04-Q02",
+          "stageId": "EN-L10-C05-S04",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is studied by My brother at home English.",
+            "subject",
+            "English is studied by My brother at home.",
+            "home at brother My by studied is English."
+          ],
+          "correctAnswer": "English is studied by My brother at home.",
+          "explanation": "바른 어순은 “English is studied by My brother at home.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "English is studied by My brother at home.",
+            "English is studied by My brother at home"
+          ],
+          "exampleSentence": "English is studied by My brother at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S04-Q03",
+          "stageId": "EN-L10-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 3번: English ___ by The student at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "is studied",
+            "is carried",
+            "is found"
+          ],
+          "correctAnswer": "is studied",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is studied입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is studied",
+            "is studied"
+          ],
+          "exampleSentence": "English is studied by The student at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S04-Q04",
+          "stageId": "EN-L10-C05-S04",
+          "type": "fillBlank",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 4번: English ___ by Our teacher at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is studied",
+            "is carried",
+            "is found",
+            "subject"
+          ],
+          "correctAnswer": "is studied",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is studied입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is studied",
+            "is studied"
+          ],
+          "exampleSentence": "English is studied by Our teacher at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S04-Q05",
+          "stageId": "EN-L10-C05-S04",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 5번: 핵심 구조가 ‘is carried’이면 O, 아니면 X를 고르세요: English is studied by The young artist at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 is studied입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "English is studied by The young artist at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S04-Q06",
+          "stageId": "EN-L10-C05-S04",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 문장 분석 연습 · 6번: English ___ by The soccer player at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is read",
+            "subject",
+            "is studied",
+            "is carried"
+          ],
+          "correctAnswer": "is studied",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is studied입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is studied",
+            "is studied"
+          ],
+          "exampleSentence": "English is studied by The soccer player at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S05-Q01",
+          "stageId": "EN-L10-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 1번: “A simple plan is made by The young artist in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "A simple plan is made by The young artist in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S05-Q02",
+          "stageId": "EN-L10-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 2번: A simple plan ___ by The soccer player in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is opened",
+            "subject",
+            "is made",
+            "is written"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by The soccer player in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S05-Q03",
+          "stageId": "EN-L10-C05-S05",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 3번: 핵심 구조가 ‘is written’이면 O, 아니면 X를 고르세요: A simple plan is made by The new student in the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 is made입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "A simple plan is made by The new student in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S05-Q04",
+          "stageId": "EN-L10-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 4번: The answer ___ by Mina in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "is written",
+            "is opened",
+            "is made"
+          ],
+          "correctAnswer": "is found",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is found입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is found",
+            "is found"
+          ],
+          "exampleSentence": "The answer is found by Mina in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S05-Q05",
+          "stageId": "EN-L10-C05-S05",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 5번: The answer ___ by Tom in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is written",
+            "is opened",
+            "subject",
+            "is found"
+          ],
+          "correctAnswer": "is found",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is found입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is found",
+            "is found"
+          ],
+          "exampleSentence": "The answer is found by Tom in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S05-Q06",
+          "stageId": "EN-L10-C05-S05",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "answer is found by My brother in the library The.",
+            "subject",
+            "The answer is found by My brother in the library.",
+            "library the in brother My by found is answer The."
+          ],
+          "correctAnswer": "The answer is found by My brother in the library.",
+          "explanation": "바른 어순은 “The answer is found by My brother in the library.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The answer is found by My brother in the library.",
+            "The answer is found by My brother in the library"
+          ],
+          "exampleSentence": "The answer is found by My brother in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S06-Q01",
+          "stageId": "EN-L10-C05-S06",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 1번: “Soccer is played by Tom before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "Soccer is played by Tom before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S06-Q02",
+          "stageId": "EN-L10-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 2번: Soccer ___ by My brother before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is read",
+            "subject",
+            "is played",
+            "is carried"
+          ],
+          "correctAnswer": "is played",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is played입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is played",
+            "is played"
+          ],
+          "exampleSentence": "Soccer is played by My brother before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S06-Q03",
+          "stageId": "EN-L10-C05-S06",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 3번: 핵심 구조가 ‘is made’이면 O, 아니면 X를 고르세요: Soccer is played by The student before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 is played입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Soccer is played by The student before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S06-Q04",
+          "stageId": "EN-L10-C05-S06",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 4번: Soccer ___ by Our teacher before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "is made",
+            "is read",
+            "subject"
+          ],
+          "correctAnswer": "is played",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is played입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is played",
+            "is played"
+          ],
+          "exampleSentence": "Soccer is played by Our teacher before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S06-Q05",
+          "stageId": "EN-L10-C05-S06",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 5번: Soccer ___ by The young artist before lunch. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is made",
+            "is read",
+            "subject",
+            "is played"
+          ],
+          "correctAnswer": "is played",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is played입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is played",
+            "is played"
+          ],
+          "exampleSentence": "Soccer is played by The young artist before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S06-Q06",
+          "stageId": "EN-L10-C05-S06",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is played by The soccer player before lunch Soccer.",
+            "subject",
+            "Soccer is played by The soccer player before lunch.",
+            "lunch before player soccer The by played is Soccer."
+          ],
+          "correctAnswer": "Soccer is played by The soccer player before lunch.",
+          "explanation": "바른 어순은 “Soccer is played by The soccer player before lunch.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Soccer is played by The soccer player before lunch.",
+            "Soccer is played by The soccer player before lunch"
+          ],
+          "exampleSentence": "Soccer is played by The soccer player before lunch.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S07-Q01",
+          "stageId": "EN-L10-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "English is studied by My brother before lunch.",
+            "The window is opened by The new student in the library.",
+            "The answer is found by Our teacher near the school.",
+            "The answer is found by The young artist at the community center."
+          ],
+          "correctAnswer": "The answer is found by The young artist at the community center.",
+          "explanation": "들은 문장은 “The answer is found by The young artist at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The answer is found by The young artist at the community center.",
+          "acceptedAnswers": [
+            "The answer is found by The young artist at the community center."
+          ],
+          "exampleSentence": "The answer is found by The young artist at the community center.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S07-Q02",
+          "stageId": "EN-L10-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 2번: The answer ___ by The soccer player at the community center. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is carried",
+            "subject",
+            "is found",
+            "is studied"
+          ],
+          "correctAnswer": "is found",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is found입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is found",
+            "is found"
+          ],
+          "exampleSentence": "The answer is found by The soccer player at the community center.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S07-Q03",
+          "stageId": "EN-L10-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The answer is found by The soccer player near the school.",
+            "The answer is found by The new student at the community center.",
+            "English is studied by Our teacher before lunch.",
+            "A blue bag is carried by Tom in the library."
+          ],
+          "correctAnswer": "The answer is found by The new student at the community center.",
+          "explanation": "들은 문장은 “The answer is found by The new student at the community center.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The answer is found by The new student at the community center.",
+          "acceptedAnswers": [
+            "The answer is found by The new student at the community center."
+          ],
+          "exampleSentence": "The answer is found by The new student at the community center.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S07-Q04",
+          "stageId": "EN-L10-C05-S07",
+          "type": "dictation",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Books is read by Mina during study time.",
+          "explanation": "바른 문장은 “Books is read by Mina during study time.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Books is read by Mina during study time.",
+          "acceptedAnswers": [
+            "Books is read by Mina during study time.",
+            "Books is read by Mina during study time"
+          ],
+          "exampleSentence": "Books is read by Mina during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S07-Q05",
+          "stageId": "EN-L10-C05-S07",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘is studied’이면 O, 아니면 X를 고르세요: Books is read by Tom during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 is read입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Books is read by Tom during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S07-Q06",
+          "stageId": "EN-L10-C05-S07",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 핵심 정보 듣기 · 6번: Books ___ by My brother during study time. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is carried",
+            "subject",
+            "is read",
+            "is studied"
+          ],
+          "correctAnswer": "is read",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is read입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is read",
+            "is read"
+          ],
+          "exampleSentence": "Books is read by My brother during study time.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S08-Q01",
+          "stageId": "EN-L10-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The window is opened by Tom on Saturday morning.",
+          "explanation": "“The window is opened by Tom on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The window is opened by Tom on Saturday morning.",
+          "acceptedAnswers": [
+            "The window is opened by Tom on Saturday morning.",
+            "The window is opened by Tom on Saturday morning"
+          ],
+          "exampleSentence": "The window is opened by Tom on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S08-Q02",
+          "stageId": "EN-L10-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 2번: The window ___ by My brother on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is written",
+            "subject",
+            "is opened",
+            "is made"
+          ],
+          "correctAnswer": "is opened",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is opened입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is opened",
+            "is opened"
+          ],
+          "exampleSentence": "The window is opened by My brother on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S08-Q03",
+          "stageId": "EN-L10-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The window is opened by The student on Saturday morning.",
+          "explanation": "“The window is opened by The student on Saturday morning.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The window is opened by The student on Saturday morning.",
+          "acceptedAnswers": [
+            "The window is opened by The student on Saturday morning.",
+            "The window is opened by The student on Saturday morning"
+          ],
+          "exampleSentence": "The window is opened by The student on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S08-Q04",
+          "stageId": "EN-L10-C05-S08",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 4번: “The window is opened by Our teacher on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "The window is opened by Our teacher on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S08-Q05",
+          "stageId": "EN-L10-C05-S08",
+          "type": "matching",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 5번: The window ___ by The young artist on Saturday morning. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "is written",
+            "subject",
+            "is opened"
+          ],
+          "correctAnswer": "is opened",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is opened입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is opened",
+            "is opened"
+          ],
+          "exampleSentence": "The window is opened by The young artist on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S08-Q06",
+          "stageId": "EN-L10-C05-S08",
+          "type": "trueFalse",
+          "prompt": "가정법 과거와 과거완료: 근거 설명하기 · 6번: 핵심 구조가 ‘is opened’이면 O, 아니면 X를 고르세요: The window is opened by The soccer player on Saturday morning.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 is opened입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The window is opened by The soccer player on Saturday morning.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S09-Q01",
+          "stageId": "EN-L10-C05-S09",
+          "type": "fillBlank",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 1번: Books ___ by The young artist at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "is carried",
+            "subject",
+            "is read"
+          ],
+          "correctAnswer": "is read",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is read입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is read",
+            "is read"
+          ],
+          "exampleSentence": "Books is read by The young artist at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S09-Q02",
+          "stageId": "EN-L10-C05-S09",
+          "type": "dictation",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Books is read by The soccer player at home.",
+          "explanation": "바른 문장은 “Books is read by The soccer player at home.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Books is read by The soccer player at home.",
+          "acceptedAnswers": [
+            "Books is read by The soccer player at home.",
+            "Books is read by The soccer player at home"
+          ],
+          "exampleSentence": "Books is read by The soccer player at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S09-Q03",
+          "stageId": "EN-L10-C05-S09",
+          "type": "ordering",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "Books is read by The new student at home.",
+            "home at student new The by read is Books.",
+            "is read by The new student at home Books."
+          ],
+          "correctAnswer": "Books is read by The new student at home.",
+          "explanation": "바른 어순은 “Books is read by The new student at home.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Books is read by The new student at home.",
+            "Books is read by The new student at home"
+          ],
+          "exampleSentence": "Books is read by The new student at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S09-Q04",
+          "stageId": "EN-L10-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 4번: Short notes ___ by Mina at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is written",
+            "is played",
+            "is made",
+            "is read"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by Mina at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S09-Q05",
+          "stageId": "EN-L10-C05-S09",
+          "type": "fillBlank",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 5번: Short notes ___ by Tom at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "is made",
+            "subject",
+            "is written"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by Tom at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S09-Q06",
+          "stageId": "EN-L10-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 논리 문장 쓰기 · 6번: Short notes ___ by My brother at home. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is made",
+            "subject",
+            "is written",
+            "is played"
+          ],
+          "correctAnswer": "is written",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is written입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is written",
+            "is written"
+          ],
+          "exampleSentence": "Short notes is written by My brother at home.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C05-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C05-S10-Q01",
+          "stageId": "EN-L10-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 1번: A blue bag ___ by Tom in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is found",
+            "is studied",
+            "subject",
+            "is carried"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by Tom in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q02",
+          "stageId": "EN-L10-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 2번: A blue bag ___ by My brother in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is studied",
+            "subject",
+            "is carried",
+            "is found"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by My brother in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q03",
+          "stageId": "EN-L10-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "A blue bag is carried by My brother at the community center.",
+            "A blue bag is carried by The student in the library.",
+            "Books is read by Mina at home.",
+            "English is studied by The young artist on Saturday morning."
+          ],
+          "correctAnswer": "A blue bag is carried by The student in the library.",
+          "explanation": "들은 문장은 “A blue bag is carried by The student in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A blue bag is carried by The student in the library.",
+          "acceptedAnswers": [
+            "A blue bag is carried by The student in the library."
+          ],
+          "exampleSentence": "A blue bag is carried by The student in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q04",
+          "stageId": "EN-L10-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 4번: A blue bag ___ by Our teacher in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is carried",
+            "is read",
+            "is studied",
+            "subject"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by Our teacher in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q05",
+          "stageId": "EN-L10-C05-S10",
+          "type": "dictation",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A blue bag is carried by The young artist in the library.",
+          "explanation": "바른 문장은 “A blue bag is carried by The young artist in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A blue bag is carried by The young artist in the library.",
+          "acceptedAnswers": [
+            "A blue bag is carried by The young artist in the library.",
+            "A blue bag is carried by The young artist in the library"
+          ],
+          "exampleSentence": "A blue bag is carried by The young artist in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q06",
+          "stageId": "EN-L10-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 6번: “A blue bag is carried by The soccer player in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+            "subject"
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "A blue bag is carried by The soccer player in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q07",
+          "stageId": "EN-L10-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 7번: A blue bag ___ by The new student in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "is carried",
+            "is read",
+            "is played"
+          ],
+          "correctAnswer": "is carried",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is carried입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is carried",
+            "is carried"
+          ],
+          "exampleSentence": "A blue bag is carried by The new student in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q08",
+          "stageId": "EN-L10-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 8번: A simple plan ___ by Mina in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is made",
+            "is read",
+            "is played",
+            "is carried"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by Mina in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q09",
+          "stageId": "EN-L10-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Books is read by The soccer player at home.",
+            "Soccer is played by The student on Saturday morning.",
+            "A simple plan is made by Mina at the community center.",
+            "A simple plan is made by Tom in the library."
+          ],
+          "correctAnswer": "A simple plan is made by Tom in the library.",
+          "explanation": "들은 문장은 “A simple plan is made by Tom in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A simple plan is made by Tom in the library.",
+          "acceptedAnswers": [
+            "A simple plan is made by Tom in the library."
+          ],
+          "exampleSentence": "A simple plan is made by Tom in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q10",
+          "stageId": "EN-L10-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 10번: A simple plan ___ by My brother in the library. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "is played",
+            "subject",
+            "is made",
+            "is read"
+          ],
+          "correctAnswer": "is made",
+          "explanation": "수동태 기초 문맥에 맞는 답은 is made입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "is made",
+            "is made"
+          ],
+          "exampleSentence": "A simple plan is made by My brother in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q11",
+          "stageId": "EN-L10-C05-S10",
+          "type": "dictation",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "A simple plan is made by The student in the library.",
+          "explanation": "바른 문장은 “A simple plan is made by The student in the library.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "A simple plan is made by The student in the library.",
+          "acceptedAnswers": [
+            "A simple plan is made by The student in the library.",
+            "A simple plan is made by The student in the library"
+          ],
+          "exampleSentence": "A simple plan is made by The student in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        },
+        {
+          "questionId": "EN-L10-C05-S10-Q12",
+          "stageId": "EN-L10-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "가정법 과거와 과거완료: 과정 평가 · 12번: “A simple plan is made by Our teacher in the library.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "행동을 받는 대상을 주어로 둔 기초 수동태다.",
+          "explanation": "핵심 의미는 ‘행동을 받는 대상을 주어로 둔 기초 수동태다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "수동태 기초",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "가정법 과거와 과거완료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "행동을 받는 대상을 주어로 둔 기초 수동태다."
+          ],
+          "exampleSentence": "A simple plan is made by Our teacher in the library.",
+          "koreanMeaning": "행동을 받는 대상을 주어로 둔 기초 수동태다."
+        }
+      ]
+    }
+  ]
+}

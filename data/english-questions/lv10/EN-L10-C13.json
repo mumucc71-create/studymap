@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L10",
+  "courseId": "EN-L10-C13",
+  "stages": [
+    {
+      "stageId": "EN-L10-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S01-Q01",
+          "stageId": "EN-L10-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 1번: The young artist has been opening the window during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been opening the window during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S01-Q02",
+          "stageId": "EN-L10-C13-S01",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 2번: 핵심 구조가 ‘a clear result’이면 O, 아니면 X를 고르세요: The soccer player has been opening the window during study time, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has been opening the window during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S01-Q03",
+          "stageId": "EN-L10-C13-S01",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 3번: The new student has been opening the window during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "a clear result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The new student has been opening the window during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S01-Q04",
+          "stageId": "EN-L10-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 4번: “Mina has been carrying a blue bag during study time, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Mina has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S01-Q05",
+          "stageId": "EN-L10-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 5번: Tom has been carrying a blue bag during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S01-Q06",
+          "stageId": "EN-L10-C13-S01",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has been carrying a blue bag during study time, and the effort has produced a clear result My.",
+            "subject",
+            "My brother has been carrying a blue bag during study time, and the effort has produced a clear result.",
+            "result clear a produced has effort the and time, study during bag blue a carrying been has brother My."
+          ],
+          "correctAnswer": "My brother has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “My brother has been carrying a blue bag during study time, and the effort has produced a clear result.”입니다.",
+          "difficulty": 10,
+          "skill": "concept",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has been carrying a blue bag during study time, and the effort has produced a clear result.",
+            "My brother has been carrying a blue bag during study time, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "My brother has been carrying a blue bag during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S02-Q01",
+          "stageId": "EN-L10-C13-S02",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 1번: Tom has been writing short notes near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S02-Q02",
+          "stageId": "EN-L10-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 2번: My brother has been writing short notes near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S02-Q03",
+          "stageId": "EN-L10-C13-S02",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 3번: “The student has been writing short notes near the school, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "object",
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "The student has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S02-Q04",
+          "stageId": "EN-L10-C13-S02",
+          "type": "fillBlank",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 4번: Our teacher has been writing short notes near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Our teacher has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S02-Q05",
+          "stageId": "EN-L10-C13-S02",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 5번: The young artist has been writing short notes near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S02-Q06",
+          "stageId": "EN-L10-C13-S02",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘a clear result’이면 O, 아니면 X를 고르세요: The soccer player has been writing short notes near the school, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "vocabulary",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has been writing short notes near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S03-Q01",
+          "stageId": "EN-L10-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 1번: The young artist has been carrying a blue bag at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been carrying a blue bag at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S03-Q02",
+          "stageId": "EN-L10-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 2번: The soccer player has been carrying a blue bag at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The soccer player has been carrying a blue bag at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S03-Q03",
+          "stageId": "EN-L10-C13-S03",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student has been carrying a blue bag at home, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student has been carrying a blue bag at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S03-Q04",
+          "stageId": "EN-L10-C13-S03",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina has been making a simple plan at home, and the effort has produced a clear result.",
+            "result clear a produced has effort the and home, at plan simple a making been has Mina.",
+            "has been making a simple plan at home, and the effort has produced a clear result Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina has been making a simple plan at home, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “Mina has been making a simple plan at home, and the effort has produced a clear result.”입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina has been making a simple plan at home, and the effort has produced a clear result.",
+            "Mina has been making a simple plan at home, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "Mina has been making a simple plan at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S03-Q05",
+          "stageId": "EN-L10-C13-S03",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 5번: Tom has been making a simple plan at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been making a simple plan at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S03-Q06",
+          "stageId": "EN-L10-C13-S03",
+          "type": "fillBlank",
+          "prompt": "필자의 태도와 어조: 문법 구조 분석 · 6번: My brother has been making a simple plan at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "grammar",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been making a simple plan at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S04-Q01",
+          "stageId": "EN-L10-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 1번: Tom has been studying English after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S04-Q02",
+          "stageId": "EN-L10-C13-S04",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has been studying English after class, and the effort has produced a clear result My.",
+            "subject",
+            "My brother has been studying English after class, and the effort has produced a clear result.",
+            "result clear a produced has effort the and class, after English studying been has brother My."
+          ],
+          "correctAnswer": "My brother has been studying English after class, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “My brother has been studying English after class, and the effort has produced a clear result.”입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has been studying English after class, and the effort has produced a clear result.",
+            "My brother has been studying English after class, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "My brother has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S04-Q03",
+          "stageId": "EN-L10-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 3번: The student has been studying English after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "a clear result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The student has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S04-Q04",
+          "stageId": "EN-L10-C13-S04",
+          "type": "fillBlank",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 4번: Our teacher has been studying English after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Our teacher has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S04-Q05",
+          "stageId": "EN-L10-C13-S04",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The young artist has been studying English after class, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S04-Q06",
+          "stageId": "EN-L10-C13-S04",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 문장 분석 연습 · 6번: The soccer player has been studying English after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "practice",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The soccer player has been studying English after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S05-Q01",
+          "stageId": "EN-L10-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 1번: “The young artist has been making a simple plan before lunch, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "The young artist has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S05-Q02",
+          "stageId": "EN-L10-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 2번: The soccer player has been making a simple plan before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The soccer player has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S05-Q03",
+          "stageId": "EN-L10-C13-S05",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The new student has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S05-Q04",
+          "stageId": "EN-L10-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 4번: Mina has been finding the answer before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Mina has been finding the answer before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S05-Q05",
+          "stageId": "EN-L10-C13-S05",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 5번: Tom has been finding the answer before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been finding the answer before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S05-Q06",
+          "stageId": "EN-L10-C13-S05",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother has been finding the answer before lunch, and the effort has produced a clear result My.",
+            "subject",
+            "My brother has been finding the answer before lunch, and the effort has produced a clear result.",
+            "result clear a produced has effort the and lunch, before answer the finding been has brother My."
+          ],
+          "correctAnswer": "My brother has been finding the answer before lunch, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “My brother has been finding the answer before lunch, and the effort has produced a clear result.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother has been finding the answer before lunch, and the effort has produced a clear result.",
+            "My brother has been finding the answer before lunch, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "My brother has been finding the answer before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S06-Q01",
+          "stageId": "EN-L10-C13-S06",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 1번: “Tom has been playing soccer during study time, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Tom has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S06-Q02",
+          "stageId": "EN-L10-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 2번: My brother has been playing soccer during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S06-Q03",
+          "stageId": "EN-L10-C13-S06",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 3번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: The student has been playing soccer during study time, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S06-Q04",
+          "stageId": "EN-L10-C13-S06",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 4번: Our teacher has been playing soccer during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Our teacher has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S06-Q05",
+          "stageId": "EN-L10-C13-S06",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 5번: The young artist has been playing soccer during study time, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S06-Q06",
+          "stageId": "EN-L10-C13-S06",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player has been playing soccer during study time, and the effort has produced a clear result The.",
+            "subject",
+            "The soccer player has been playing soccer during study time, and the effort has produced a clear result.",
+            "result clear a produced has effort the and time, study during soccer playing been has player soccer The."
+          ],
+          "correctAnswer": "The soccer player has been playing soccer during study time, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “The soccer player has been playing soccer during study time, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "reading",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player has been playing soccer during study time, and the effort has produced a clear result.",
+            "The soccer player has been playing soccer during study time, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The soccer player has been playing soccer during study time, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S07-Q01",
+          "stageId": "EN-L10-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother has been studying English during study time, and the effort has produced a clear result.",
+            "The new student has been opening the window before lunch, and the effort has produced a clear result.",
+            "Our teacher has been finding the answer in the library, and the effort has produced a clear result.",
+            "The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result."
+          ],
+          "correctAnswer": "The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "explanation": "들은 문장은 “The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result."
+          ],
+          "exampleSentence": "The young artist has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S07-Q02",
+          "stageId": "EN-L10-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 2번: The soccer player has been finding the answer on Saturday morning, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The soccer player has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S07-Q03",
+          "stageId": "EN-L10-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player has been finding the answer in the library, and the effort has produced a clear result.",
+            "The new student has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+            "Our teacher has been studying English during study time, and the effort has produced a clear result.",
+            "Tom has been carrying a blue bag before lunch, and the effort has produced a clear result."
+          ],
+          "correctAnswer": "The new student has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "explanation": "들은 문장은 “The new student has been finding the answer on Saturday morning, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The new student has been finding the answer on Saturday morning, and the effort has produced a clear result."
+          ],
+          "exampleSentence": "The new student has been finding the answer on Saturday morning, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S07-Q04",
+          "stageId": "EN-L10-C13-S07",
+          "type": "dictation",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina has been reading books near the school, and the effort has produced a clear result.",
+          "explanation": "바른 문장은 “Mina has been reading books near the school, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina has been reading books near the school, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "Mina has been reading books near the school, and the effort has produced a clear result.",
+            "Mina has been reading books near the school, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "Mina has been reading books near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S07-Q05",
+          "stageId": "EN-L10-C13-S07",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘modifier’이면 O, 아니면 X를 고르세요: Tom has been reading books near the school, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom has been reading books near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S07-Q06",
+          "stageId": "EN-L10-C13-S07",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 핵심 정보 듣기 · 6번: My brother has been reading books near the school, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "listening",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been reading books near the school, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S08-Q01",
+          "stageId": "EN-L10-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been opening the window at home, and the effort has produced a clear result.",
+          "explanation": "“Tom has been opening the window at home, and the effort has produced a clear result.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has been opening the window at home, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "Tom has been opening the window at home, and the effort has produced a clear result.",
+            "Tom has been opening the window at home, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "Tom has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S08-Q02",
+          "stageId": "EN-L10-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 2번: My brother has been opening the window at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S08-Q03",
+          "stageId": "EN-L10-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student has been opening the window at home, and the effort has produced a clear result.",
+          "explanation": "“The student has been opening the window at home, and the effort has produced a clear result.”를 따라 읽으세요.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student has been opening the window at home, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The student has been opening the window at home, and the effort has produced a clear result.",
+            "The student has been opening the window at home, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The student has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S08-Q04",
+          "stageId": "EN-L10-C13-S08",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 4번: “Our teacher has been opening the window at home, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Our teacher has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S08-Q05",
+          "stageId": "EN-L10-C13-S08",
+          "type": "matching",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 5번: The young artist has been opening the window at home, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S08-Q06",
+          "stageId": "EN-L10-C13-S08",
+          "type": "trueFalse",
+          "prompt": "필자의 태도와 어조: 근거 설명하기 · 6번: 핵심 구조가 ‘a clear result’이면 O, 아니면 X를 고르세요: The soccer player has been opening the window at home, and the effort has produced a clear result.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "speaking",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player has been opening the window at home, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S09-Q01",
+          "stageId": "EN-L10-C13-S09",
+          "type": "fillBlank",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 1번: The young artist has been reading books after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The young artist has been reading books after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S09-Q02",
+          "stageId": "EN-L10-C13-S09",
+          "type": "dictation",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player has been reading books after class, and the effort has produced a clear result.",
+          "explanation": "바른 문장은 “The soccer player has been reading books after class, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player has been reading books after class, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The soccer player has been reading books after class, and the effort has produced a clear result.",
+            "The soccer player has been reading books after class, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The soccer player has been reading books after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S09-Q03",
+          "stageId": "EN-L10-C13-S09",
+          "type": "ordering",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student has been reading books after class, and the effort has produced a clear result.",
+            "result clear a produced has effort the and class, after books reading been has student new The.",
+            "new student has been reading books after class, and the effort has produced a clear result The."
+          ],
+          "correctAnswer": "The new student has been reading books after class, and the effort has produced a clear result.",
+          "explanation": "바른 어순은 “The new student has been reading books after class, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student has been reading books after class, and the effort has produced a clear result.",
+            "The new student has been reading books after class, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The new student has been reading books after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S09-Q04",
+          "stageId": "EN-L10-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 4번: Mina has been writing short notes after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Mina has been writing short notes after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S09-Q05",
+          "stageId": "EN-L10-C13-S09",
+          "type": "fillBlank",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 5번: Tom has been writing short notes after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been writing short notes after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S09-Q06",
+          "stageId": "EN-L10-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 논리 문장 쓰기 · 6번: My brother has been writing short notes after class, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "writing",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been writing short notes after class, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L10-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L10-C13-S10-Q01",
+          "stageId": "EN-L10-C13-S10",
+          "type": "reviewMixed",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 1번: Tom has been carrying a blue bag before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "subject",
+            "verb",
+            "object",
+            "a clear result"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Tom has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q02",
+          "stageId": "EN-L10-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 2번: My brother has been carrying a blue bag before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q03",
+          "stageId": "EN-L10-C13-S10",
+          "type": "listeningChoice",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother has been carrying a blue bag on Saturday morning, and the effort has produced a clear result.",
+            "The student has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+            "Mina has been reading books after class, and the effort has produced a clear result.",
+            "The young artist has been studying English at home, and the effort has produced a clear result."
+          ],
+          "correctAnswer": "The student has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "explanation": "들은 문장은 “The student has been carrying a blue bag before lunch, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The student has been carrying a blue bag before lunch, and the effort has produced a clear result."
+          ],
+          "exampleSentence": "The student has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q04",
+          "stageId": "EN-L10-C13-S10",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 4번: Our teacher has been carrying a blue bag before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Our teacher has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q05",
+          "stageId": "EN-L10-C13-S10",
+          "type": "dictation",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "explanation": "바른 문장은 “The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+            "The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The young artist has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q06",
+          "stageId": "EN-L10-C13-S10",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 6번: “The soccer player has been carrying a blue bag before lunch, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "The soccer player has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q07",
+          "stageId": "EN-L10-C13-S10",
+          "type": "reviewMixed",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 7번: The new student has been carrying a blue bag before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "object",
+            "a clear result",
+            "subject",
+            "verb"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "The new student has been carrying a blue bag before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q08",
+          "stageId": "EN-L10-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 8번: Mina has been making a simple plan before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "a clear result",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "Mina has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q09",
+          "stageId": "EN-L10-C13-S10",
+          "type": "listeningChoice",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player has been reading books after class, and the effort has produced a clear result.",
+            "The student has been playing soccer at home, and the effort has produced a clear result.",
+            "Mina has been making a simple plan on Saturday morning, and the effort has produced a clear result.",
+            "Tom has been making a simple plan before lunch, and the effort has produced a clear result."
+          ],
+          "correctAnswer": "Tom has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "explanation": "들은 문장은 “Tom has been making a simple plan before lunch, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "Tom has been making a simple plan before lunch, and the effort has produced a clear result."
+          ],
+          "exampleSentence": "Tom has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q10",
+          "stageId": "EN-L10-C13-S10",
+          "type": "sentenceCompletion",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 10번: My brother has been making a simple plan before lunch, and the effort has produced ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "verb",
+            "object",
+            "a clear result",
+            "subject"
+          ],
+          "correctAnswer": "a clear result",
+          "explanation": "누적 복습 문맥에 맞는 답은 a clear result입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a clear result",
+            "a clear result"
+          ],
+          "exampleSentence": "My brother has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q11",
+          "stageId": "EN-L10-C13-S10",
+          "type": "dictation",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "explanation": "바른 문장은 “The student has been making a simple plan before lunch, and the effort has produced a clear result.”입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "acceptedAnswers": [
+            "The student has been making a simple plan before lunch, and the effort has produced a clear result.",
+            "The student has been making a simple plan before lunch, and the effort has produced a clear result"
+          ],
+          "exampleSentence": "The student has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        },
+        {
+          "questionId": "EN-L10-C13-S10-Q12",
+          "stageId": "EN-L10-C13-S10",
+          "type": "sentenceMeaning",
+          "prompt": "필자의 태도와 어조: 과정 평가 · 12번: “Our teacher has been making a simple plan before lunch, and the effort has produced a clear result.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+            "subject",
+            "verb",
+            "object"
+          ],
+          "correctAnswer": "앞에서 배운 시제와 문장 연결을 함께 적용한다.",
+          "explanation": "핵심 의미는 ‘앞에서 배운 시제와 문장 연결을 함께 적용한다.’입니다.",
+          "difficulty": 11,
+          "skill": "checkpoint",
+          "grammarFocus": "누적 복습",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "필자의 태도와 어조 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+          ],
+          "exampleSentence": "Our teacher has been making a simple plan before lunch, and the effort has produced a clear result.",
+          "koreanMeaning": "앞에서 배운 시제와 문장 연결을 함께 적용한다."
+        }
+      ]
+    }
+  ]
+}

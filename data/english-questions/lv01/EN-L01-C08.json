@@ -1,0 +1,1336 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L01",
+  "courseId": "EN-L01-C08",
+  "stages": [
+    {
+      "stageId": "EN-L01-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S01-Q01",
+          "stageId": "EN-L01-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "I"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S01-Q02",
+          "stageId": "EN-L01-C08-S01",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "O",
+            "D"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S01-Q03",
+          "stageId": "EN-L01-C08-S01",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 3번: I와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "q",
+            "i",
+            "k",
+            "n"
+          ],
+          "correctAnswer": "i",
+          "explanation": "I와 i는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S01-Q04",
+          "stageId": "EN-L01-C08-S01",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "A",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S01-Q05",
+          "stageId": "EN-L01-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "E"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S01-Q06",
+          "stageId": "EN-L01-C08-S01",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 문자와 소리 발견 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "I",
+            "J"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "concept",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S02-Q01",
+          "stageId": "EN-L01-C08-S02",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 1번: O와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "q",
+            "t",
+            "w",
+            "o"
+          ],
+          "correctAnswer": "o",
+          "explanation": "O와 o는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S02-Q02",
+          "stageId": "EN-L01-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "U",
+            "D"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S02-Q03",
+          "stageId": "EN-L01-C08-S02",
+          "type": "spelling",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 3번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "A",
+            "F",
+            "J"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S02-Q04",
+          "stageId": "EN-L01-C08-S02",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "E",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S02-Q05",
+          "stageId": "EN-L01-C08-S02",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 5번: I와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "k",
+            "n",
+            "q",
+            "i"
+          ],
+          "correctAnswer": "i",
+          "explanation": "I와 i는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S02-Q06",
+          "stageId": "EN-L01-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 핵심 글자·철자 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "O",
+            "J"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "vocabulary",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S03-Q01",
+          "stageId": "EN-L01-C08-S03",
+          "type": "listeningChoice",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "U"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S03-Q02",
+          "stageId": "EN-L01-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "A",
+            "D"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S03-Q03",
+          "stageId": "EN-L01-C08-S03",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 3번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "E",
+            "F",
+            "J"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S03-Q04",
+          "stageId": "EN-L01-C08-S03",
+          "type": "listeningChoice",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "I",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S03-Q05",
+          "stageId": "EN-L01-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S03-Q06",
+          "stageId": "EN-L01-C08-S03",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 음가 듣고 구별하기 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "U",
+            "J"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "listening",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S04-Q01",
+          "stageId": "EN-L01-C08-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "A"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S04-Q02",
+          "stageId": "EN-L01-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "E",
+            "D"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S04-Q03",
+          "stageId": "EN-L01-C08-S04",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 3번: E와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "m",
+            "e",
+            "g",
+            "j"
+          ],
+          "correctAnswer": "e",
+          "explanation": "E와 e는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S04-Q04",
+          "stageId": "EN-L01-C08-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "O",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S04-Q05",
+          "stageId": "EN-L01-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "U"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S04-Q06",
+          "stageId": "EN-L01-C08-S04",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 소리 내어 따라 읽기 · 6번: U와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "z",
+            "c",
+            "u",
+            "w"
+          ],
+          "correctAnswer": "u",
+          "explanation": "U와 u는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "speaking",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S05-Q01",
+          "stageId": "EN-L01-C08-S05",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 1번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "L-N-M",
+            "M-L-N",
+            "N-M-L",
+            "L-M-N"
+          ],
+          "correctAnswer": "L-M-N",
+          "explanation": "L, M, N 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "L-M-N",
+            "LMN"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S05-Q02",
+          "stageId": "EN-L01-C08-S05",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "I",
+            "D"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S05-Q03",
+          "stageId": "EN-L01-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 3번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "O",
+            "F",
+            "J"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S05-Q04",
+          "stageId": "EN-L01-C08-S05",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 4번: A와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "a",
+            "c",
+            "f",
+            "i"
+          ],
+          "correctAnswer": "a",
+          "explanation": "A와 a는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S05-Q05",
+          "stageId": "EN-L01-C08-S05",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 5번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-R-Q",
+            "Q-P-R",
+            "R-Q-P",
+            "P-Q-R"
+          ],
+          "correctAnswer": "P-Q-R",
+          "explanation": "P, Q, R 순서로 이어집니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "P-Q-R",
+            "PQR"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S05-Q06",
+          "stageId": "EN-L01-C08-S05",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 문자 인식 연습 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "E",
+            "J"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 1,
+          "skill": "practice",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S06-Q01",
+          "stageId": "EN-L01-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "I"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S06-Q02",
+          "stageId": "EN-L01-C08-S06",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 2번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "P-O-Q",
+            "Q-P-O",
+            "O-P-Q",
+            "O-Q-P"
+          ],
+          "correctAnswer": "O-P-Q",
+          "explanation": "O, P, Q 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O-P-Q",
+            "OPQ"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S06-Q03",
+          "stageId": "EN-L01-C08-S06",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 3번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "U",
+            "F",
+            "J"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S06-Q04",
+          "stageId": "EN-L01-C08-S06",
+          "type": "trueFalse",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "A",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S06-Q05",
+          "stageId": "EN-L01-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "E"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S06-Q06",
+          "stageId": "EN-L01-C08-S06",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 단어 읽기 적용 · 6번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "T-S-U",
+            "U-T-S",
+            "S-T-U",
+            "S-U-T"
+          ],
+          "correctAnswer": "S-T-U",
+          "explanation": "S, T, U 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "reading",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "S-T-U",
+            "STU"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S07-Q01",
+          "stageId": "EN-L01-C08-S07",
+          "type": "spelling",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S07-Q02",
+          "stageId": "EN-L01-C08-S07",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "U",
+            "D"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S07-Q03",
+          "stageId": "EN-L01-C08-S07",
+          "type": "matching",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 3번: A와 같은 글자의 짝을 고르세요.",
+          "choices": [
+            "i",
+            "a",
+            "c",
+            "f"
+          ],
+          "correctAnswer": "a",
+          "explanation": "A와 a는 같은 알파벳의 대문자·소문자 짝입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S07-Q04",
+          "stageId": "EN-L01-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "E",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "E",
+          "explanation": "E는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "E",
+            "e"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S07-Q05",
+          "stageId": "EN-L01-C08-S07",
+          "type": "spelling",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "I"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S07-Q06",
+          "stageId": "EN-L01-C08-S07",
+          "type": "fillBlank",
+          "prompt": "모음 글자 찾기: 철자와 받아쓰기 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "O",
+            "J"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "writing",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L01-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L01-C08-S08-Q01",
+          "stageId": "EN-L01-C08-S08",
+          "type": "reviewMixed",
+          "prompt": "모음 글자 찾기: 과정 평가 · 1번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "C",
+            "G",
+            "K",
+            "U"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q02",
+          "stageId": "EN-L01-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 과정 평가 · 2번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "A",
+            "D"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q03",
+          "stageId": "EN-L01-C08-S08",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 과정 평가 · 3번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "V-U-T",
+            "T-U-V",
+            "T-V-U",
+            "U-T-V"
+          ],
+          "correctAnswer": "T-U-V",
+          "explanation": "T, U, V 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "T-U-V",
+            "TUV"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q04",
+          "stageId": "EN-L01-C08-S08",
+          "type": "listeningChoice",
+          "prompt": "모음 글자 찾기: 과정 평가 · 4번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "I",
+            "G",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q05",
+          "stageId": "EN-L01-C08-S08",
+          "type": "spelling",
+          "prompt": "모음 글자 찾기: 과정 평가 · 5번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "H",
+            "L",
+            "P",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q06",
+          "stageId": "EN-L01-C08-S08",
+          "type": "reviewMixed",
+          "prompt": "모음 글자 찾기: 과정 평가 · 6번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "U",
+            "J"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q07",
+          "stageId": "EN-L01-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 과정 평가 · 7번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "R",
+            "A",
+            "K",
+            "N"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q08",
+          "stageId": "EN-L01-C08-S08",
+          "type": "ordering",
+          "prompt": "모음 글자 찾기: 과정 평가 · 8번: 알파벳 순서가 바른 것을 고르세요.",
+          "choices": [
+            "B-C-D",
+            "B-D-C",
+            "C-B-D",
+            "D-C-B"
+          ],
+          "correctAnswer": "B-C-D",
+          "explanation": "B, C, D 순서로 이어집니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "B-C-D",
+            "BCD"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q09",
+          "stageId": "EN-L01-C08-S08",
+          "type": "listeningChoice",
+          "prompt": "모음 글자 찾기: 과정 평가 · 9번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "M",
+            "Q",
+            "T",
+            "I"
+          ],
+          "correctAnswer": "I",
+          "explanation": "I는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I",
+            "i"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q10",
+          "stageId": "EN-L01-C08-S08",
+          "type": "spelling",
+          "prompt": "모음 글자 찾기: 과정 평가 · 10번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "R",
+            "V",
+            "O",
+            "N"
+          ],
+          "correctAnswer": "O",
+          "explanation": "O는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O",
+            "o"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q11",
+          "stageId": "EN-L01-C08-S08",
+          "type": "reviewMixed",
+          "prompt": "모음 글자 찾기: 과정 평가 · 11번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "W",
+            "U",
+            "P",
+            "S"
+          ],
+          "correctAnswer": "U",
+          "explanation": "U는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "U",
+            "u"
+          ]
+        },
+        {
+          "questionId": "EN-L01-C08-S08-Q12",
+          "stageId": "EN-L01-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "모음 글자 찾기: 과정 평가 · 12번: 다음 중 모음 글자를 고르세요.",
+          "choices": [
+            "A",
+            "Q",
+            "T",
+            "X"
+          ],
+          "correctAnswer": "A",
+          "explanation": "A는 모음 글자입니다.",
+          "difficulty": 2,
+          "skill": "checkpoint",
+          "sourceObjective": "모음 글자 찾기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "A",
+            "a"
+          ]
+        }
+      ]
+    }
+  ]
+}

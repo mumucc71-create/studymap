@@ -1,0 +1,1634 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C05",
+  "stages": [
+    {
+      "stageId": "EN-L03-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S01-Q01",
+          "stageId": "EN-L03-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 1번: ‘사과’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "rice",
+            "apple"
+          ],
+          "correctAnswer": "apple",
+          "explanation": "‘사과’은 영어로 apple입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "apple",
+            "APPLE"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        },
+        {
+          "questionId": "EN-L03-C05-S01-Q02",
+          "stageId": "EN-L03-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 2번: “I have banana.”에서 banana의 뜻을 고르세요.",
+          "choices": [
+            "빵",
+            "밥",
+            "바나나",
+            "사과"
+          ],
+          "correctAnswer": "바나나",
+          "explanation": "banana은 ‘바나나’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바나나"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C05-S01-Q03",
+          "stageId": "EN-L03-C05-S01",
+          "type": "trueFalse",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 3번: bread의 뜻이 ‘사과’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "bread의 뜻은 ‘빵’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S01-Q04",
+          "stageId": "EN-L03-C05-S01",
+          "type": "matching",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 4번: rice과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "밥",
+            "사과",
+            "바나나",
+            "빵"
+          ],
+          "correctAnswer": "밥",
+          "explanation": "rice은 ‘밥’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "밥"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S01-Q05",
+          "stageId": "EN-L03-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 5번: I like ___. 빈칸에 ‘달걀’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "egg"
+          ],
+          "correctAnswer": "egg",
+          "explanation": "문맥과 뜻에 맞는 단어는 egg입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S01-Q06",
+          "stageId": "EN-L03-C05-S01",
+          "type": "categorization",
+          "prompt": "음식과 음료: 핵심 표현 이해 · 6번: milk을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "날씨와 계절",
+            "음식과 음료",
+            "학교"
+          ],
+          "correctAnswer": "음식과 음료",
+          "explanation": "milk은 음식과 음료 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음식과 음료"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S02-Q01",
+          "stageId": "EN-L03-C05-S02",
+          "type": "matching",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 1번: rice과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "사과",
+            "바나나",
+            "빵",
+            "밥"
+          ],
+          "correctAnswer": "밥",
+          "explanation": "rice은 ‘밥’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "밥"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S02-Q02",
+          "stageId": "EN-L03-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 2번: ‘달걀’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "egg",
+            "apple"
+          ],
+          "correctAnswer": "egg",
+          "explanation": "‘달걀’은 영어로 egg입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S02-Q03",
+          "stageId": "EN-L03-C05-S02",
+          "type": "categorization",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 3번: milk을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "집",
+            "음식과 음료",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "음식과 음료",
+          "explanation": "milk은 음식과 음료 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음식과 음료"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        },
+        {
+          "questionId": "EN-L03-C05-S02-Q04",
+          "stageId": "EN-L03-C05-S02",
+          "type": "spelling",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 4번: w_ter에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "water의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C05-S02-Q05",
+          "stageId": "EN-L03-C05-S02",
+          "type": "wordBuilding",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘주스’을 만드세요.",
+          "choices": [
+            "eciuj",
+            "uicej",
+            "juic",
+            "juice"
+          ],
+          "correctAnswer": "juice",
+          "explanation": "바른 철자는 juice입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "juice",
+            "JUICE"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        },
+        {
+          "questionId": "EN-L03-C05-S02-Q06",
+          "stageId": "EN-L03-C05-S02",
+          "type": "fillBlank",
+          "prompt": "음식과 음료: 생활 어휘 문맥 학습 · 6번: _ake에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "cake의 빠진 글자는 c입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S03-Q01",
+          "stageId": "EN-L03-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 문장 구조 발견 · 1번: I like ___. 빈칸에 ‘물’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "water"
+          ],
+          "correctAnswer": "water",
+          "explanation": "문맥과 뜻에 맞는 단어는 water입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "water",
+            "WATER"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C05-S03-Q02",
+          "stageId": "EN-L03-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 문장 구조 발견 · 2번: ‘주스’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "juice",
+            "apple"
+          ],
+          "correctAnswer": "juice",
+          "explanation": "‘주스’은 영어로 juice입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "juice",
+            "JUICE"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        },
+        {
+          "questionId": "EN-L03-C05-S03-Q03",
+          "stageId": "EN-L03-C05-S03",
+          "type": "trueFalse",
+          "prompt": "음식과 음료: 문장 구조 발견 · 3번: cake의 뜻이 ‘사과’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "cake의 뜻은 ‘케이크’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        },
+        {
+          "questionId": "EN-L03-C05-S03-Q04",
+          "stageId": "EN-L03-C05-S03",
+          "type": "ordering",
+          "prompt": "음식과 음료: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I have fish.",
+            "fish have I.",
+            "have fish I."
+          ],
+          "correctAnswer": "I have fish.",
+          "explanation": "바른 어순은 “I have fish.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have fish.",
+            "I have fish"
+          ],
+          "koreanMeaning": "생선",
+          "exampleSentence": "I have fish."
+        },
+        {
+          "questionId": "EN-L03-C05-S03-Q05",
+          "stageId": "EN-L03-C05-S03",
+          "type": "fillBlank",
+          "prompt": "음식과 음료: 문장 구조 발견 · 5번: app_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "l",
+          "explanation": "apple의 빠진 글자는 l입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "l",
+            "L"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        },
+        {
+          "questionId": "EN-L03-C05-S03-Q06",
+          "stageId": "EN-L03-C05-S03",
+          "type": "matching",
+          "prompt": "음식과 음료: 문장 구조 발견 · 6번: banana과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빵",
+            "밥",
+            "바나나",
+            "사과"
+          ],
+          "correctAnswer": "바나나",
+          "explanation": "banana은 ‘바나나’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바나나"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S04-Q01",
+          "stageId": "EN-L03-C05-S04",
+          "type": "wordBuilding",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘생선’을 만드세요.",
+          "choices": [
+            "hsif",
+            "ishf",
+            "fis",
+            "fish"
+          ],
+          "correctAnswer": "fish",
+          "explanation": "바른 철자는 fish입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ],
+          "koreanMeaning": "생선",
+          "exampleSentence": "I have fish."
+        },
+        {
+          "questionId": "EN-L03-C05-S04-Q02",
+          "stageId": "EN-L03-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 2번: I like ___. 빈칸에 ‘사과’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "bread",
+            "rice",
+            "apple",
+            "banana"
+          ],
+          "correctAnswer": "apple",
+          "explanation": "문맥과 뜻에 맞는 단어는 apple입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "apple",
+            "APPLE"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        },
+        {
+          "questionId": "EN-L03-C05-S04-Q03",
+          "stageId": "EN-L03-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 3번: ‘바나나’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rice",
+            "banana",
+            "apple",
+            "bread"
+          ],
+          "correctAnswer": "banana",
+          "explanation": "‘바나나’은 영어로 banana입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "banana",
+            "BANANA"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C05-S04-Q04",
+          "stageId": "EN-L03-C05-S04",
+          "type": "categorization",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 4번: bread을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "신체",
+            "집",
+            "학교"
+          ],
+          "correctAnswer": "음식과 음료",
+          "explanation": "bread은 음식과 음료 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "음식과 음료"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S04-Q05",
+          "stageId": "EN-L03-C05-S04",
+          "type": "ordering",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "rice have I.",
+            "have rice I.",
+            "I have rice."
+          ],
+          "correctAnswer": "I have rice.",
+          "explanation": "바른 어순은 “I have rice.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have rice.",
+            "I have rice"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S04-Q06",
+          "stageId": "EN-L03-C05-S04",
+          "type": "fillBlank",
+          "prompt": "음식과 음료: 짧은 문장 연습 · 6번: e_g에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "g",
+          "explanation": "egg의 빠진 글자는 g입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "g",
+            "G"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S05-Q01",
+          "stageId": "EN-L03-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 1번: “I like bread.”에서 bread의 뜻을 고르세요.",
+          "choices": [
+            "사과",
+            "바나나",
+            "밥",
+            "빵"
+          ],
+          "correctAnswer": "빵",
+          "explanation": "bread은 ‘빵’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "빵"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S05-Q02",
+          "stageId": "EN-L03-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 2번: ‘밥’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "rice",
+            "apple"
+          ],
+          "correctAnswer": "rice",
+          "explanation": "‘밥’은 영어로 rice입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rice",
+            "RICE"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S05-Q03",
+          "stageId": "EN-L03-C05-S05",
+          "type": "trueFalse",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 3번: egg의 뜻이 ‘사과’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "egg의 뜻은 ‘달걀’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S05-Q04",
+          "stageId": "EN-L03-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 4번: I have ___. 빈칸에 ‘우유’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "milk",
+            "apple",
+            "banana",
+            "bread"
+          ],
+          "correctAnswer": "milk",
+          "explanation": "문맥과 뜻에 맞는 단어는 milk입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "milk",
+            "MILK"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        },
+        {
+          "questionId": "EN-L03-C05-S05-Q05",
+          "stageId": "EN-L03-C05-S05",
+          "type": "matching",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 5번: water과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "사과",
+            "바나나",
+            "빵",
+            "물"
+          ],
+          "correctAnswer": "물",
+          "explanation": "water은 ‘물’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "물"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C05-S05-Q06",
+          "stageId": "EN-L03-C05-S05",
+          "type": "ordering",
+          "prompt": "음식과 음료: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have juice I.",
+            "I have juice.",
+            "juice have I."
+          ],
+          "correctAnswer": "I have juice.",
+          "explanation": "바른 어순은 “I have juice.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I have juice.",
+            "I have juice"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S06-Q01",
+          "stageId": "EN-L03-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "milk"
+          ],
+          "correctAnswer": "milk",
+          "explanation": "음성의 핵심 단어는 milk입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "milk",
+          "acceptedAnswers": [
+            "milk"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        },
+        {
+          "questionId": "EN-L03-C05-S06-Q02",
+          "stageId": "EN-L03-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 2번: ‘물’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "water",
+            "apple"
+          ],
+          "correctAnswer": "water",
+          "explanation": "‘물’은 영어로 water입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "water",
+            "WATER"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C05-S06-Q03",
+          "stageId": "EN-L03-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "bread",
+            "juice",
+            "apple",
+            "banana"
+          ],
+          "correctAnswer": "juice",
+          "explanation": "음성의 핵심 단어는 juice입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "juice",
+          "acceptedAnswers": [
+            "juice"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        },
+        {
+          "questionId": "EN-L03-C05-S06-Q04",
+          "stageId": "EN-L03-C05-S06",
+          "type": "dictation",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "cake",
+          "explanation": "케이크은 영어로 cake입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cake",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        },
+        {
+          "questionId": "EN-L03-C05-S06-Q05",
+          "stageId": "EN-L03-C05-S06",
+          "type": "trueFalse",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 5번: fish의 뜻이 ‘사과’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "fish의 뜻은 ‘생선’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "생선",
+          "exampleSentence": "I have fish."
+        },
+        {
+          "questionId": "EN-L03-C05-S06-Q06",
+          "stageId": "EN-L03-C05-S06",
+          "type": "matching",
+          "prompt": "음식과 음료: 생활 대화 듣기 · 6번: apple과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "빵",
+            "밥",
+            "사과",
+            "바나나"
+          ],
+          "correctAnswer": "사과",
+          "explanation": "apple은 ‘사과’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "사과"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S07-Q01",
+          "stageId": "EN-L03-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "음식과 음료: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like cake.",
+          "explanation": "I like cake.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like cake.",
+          "acceptedAnswers": [
+            "I like cake.",
+            "I like cake"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        },
+        {
+          "questionId": "EN-L03-C05-S07-Q02",
+          "stageId": "EN-L03-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 표현 말하기 · 2번: ‘생선’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "fish",
+            "apple"
+          ],
+          "correctAnswer": "fish",
+          "explanation": "‘생선’은 영어로 fish입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "fish",
+            "FISH"
+          ],
+          "koreanMeaning": "생선",
+          "exampleSentence": "I have fish."
+        },
+        {
+          "questionId": "EN-L03-C05-S07-Q03",
+          "stageId": "EN-L03-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "음식과 음료: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I like apple.",
+          "explanation": "I like apple.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I like apple.",
+          "acceptedAnswers": [
+            "I like apple.",
+            "I like apple"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        },
+        {
+          "questionId": "EN-L03-C05-S07-Q04",
+          "stageId": "EN-L03-C05-S07",
+          "type": "sentenceMeaning",
+          "prompt": "음식과 음료: 표현 말하기 · 4번: “I have banana.”에서 banana의 뜻을 고르세요.",
+          "choices": [
+            "바나나",
+            "사과",
+            "빵",
+            "밥"
+          ],
+          "correctAnswer": "바나나",
+          "explanation": "banana은 ‘바나나’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "바나나"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C05-S07-Q05",
+          "stageId": "EN-L03-C05-S07",
+          "type": "matching",
+          "prompt": "음식과 음료: 표현 말하기 · 5번: bread과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "사과",
+            "바나나",
+            "밥",
+            "빵"
+          ],
+          "correctAnswer": "빵",
+          "explanation": "bread은 ‘빵’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "빵"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S07-Q06",
+          "stageId": "EN-L03-C05-S07",
+          "type": "trueFalse",
+          "prompt": "음식과 음료: 표현 말하기 · 6번: rice의 뜻이 ‘밥’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "rice의 뜻은 ‘밥’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S08-Q01",
+          "stageId": "EN-L03-C05-S08",
+          "type": "spelling",
+          "prompt": "음식과 음료: 문장 쓰기 · 1번: ban_na에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "banana의 빠진 글자는 a입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C05-S08-Q02",
+          "stageId": "EN-L03-C05-S08",
+          "type": "fillBlank",
+          "prompt": "음식과 음료: 문장 쓰기 · 2번: _read에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "b",
+          "explanation": "bread의 빠진 글자는 b입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "b",
+            "B"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S08-Q03",
+          "stageId": "EN-L03-C05-S08",
+          "type": "dictation",
+          "prompt": "음식과 음료: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "rice",
+          "explanation": "밥은 영어로 rice입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rice",
+          "acceptedAnswers": [
+            "rice",
+            "RICE"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S08-Q04",
+          "stageId": "EN-L03-C05-S08",
+          "type": "wordBuilding",
+          "prompt": "음식과 음료: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘달걀’을 만드세요.",
+          "choices": [
+            "egg",
+            "gge",
+            "eg"
+          ],
+          "correctAnswer": "egg",
+          "explanation": "바른 철자는 egg입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S08-Q05",
+          "stageId": "EN-L03-C05-S08",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 문장 쓰기 · 5번: I have ___. 빈칸에 ‘우유’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "milk"
+          ],
+          "correctAnswer": "milk",
+          "explanation": "문맥과 뜻에 맞는 단어는 milk입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "milk",
+            "MILK"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        },
+        {
+          "questionId": "EN-L03-C05-S08-Q06",
+          "stageId": "EN-L03-C05-S08",
+          "type": "ordering",
+          "prompt": "음식과 음료: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "like water I.",
+            "I like water.",
+            "water like I."
+          ],
+          "correctAnswer": "I like water.",
+          "explanation": "바른 어순은 “I like water.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I like water.",
+            "I like water"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C05-S09-Q01",
+          "stageId": "EN-L03-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "음식과 음료: 과정 평가 · 1번: ‘달걀’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "bread",
+            "egg"
+          ],
+          "correctAnswer": "egg",
+          "explanation": "‘달걀’은 영어로 egg입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q02",
+          "stageId": "EN-L03-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 과정 평가 · 2번: ‘우유’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "milk",
+            "apple"
+          ],
+          "correctAnswer": "milk",
+          "explanation": "‘우유’은 영어로 milk입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "milk",
+            "MILK"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q03",
+          "stageId": "EN-L03-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "음식과 음료: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "bread",
+            "water",
+            "apple",
+            "banana"
+          ],
+          "correctAnswer": "water",
+          "explanation": "음성의 핵심 단어는 water입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "water",
+          "acceptedAnswers": [
+            "water"
+          ],
+          "koreanMeaning": "물",
+          "exampleSentence": "I like water."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q04",
+          "stageId": "EN-L03-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 과정 평가 · 4번: I have ___. 빈칸에 ‘주스’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "juice",
+            "apple",
+            "banana",
+            "bread"
+          ],
+          "correctAnswer": "juice",
+          "explanation": "문맥과 뜻에 맞는 단어는 juice입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "juice",
+            "JUICE"
+          ],
+          "koreanMeaning": "주스",
+          "exampleSentence": "I have juice."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q05",
+          "stageId": "EN-L03-C05-S09",
+          "type": "dictation",
+          "prompt": "음식과 음료: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "cake",
+          "explanation": "케이크은 영어로 cake입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cake",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ],
+          "koreanMeaning": "케이크",
+          "exampleSentence": "I like cake."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q06",
+          "stageId": "EN-L03-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "음식과 음료: 과정 평가 · 6번: “I have fish.”에서 fish의 뜻을 고르세요.",
+          "choices": [
+            "바나나",
+            "빵",
+            "생선",
+            "사과"
+          ],
+          "correctAnswer": "생선",
+          "explanation": "fish은 ‘생선’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "생선"
+          ],
+          "koreanMeaning": "생선",
+          "exampleSentence": "I have fish."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q07",
+          "stageId": "EN-L03-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "음식과 음료: 과정 평가 · 7번: ‘사과’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rice",
+            "apple",
+            "banana",
+            "bread"
+          ],
+          "correctAnswer": "apple",
+          "explanation": "‘사과’은 영어로 apple입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "apple",
+            "APPLE"
+          ],
+          "koreanMeaning": "사과",
+          "exampleSentence": "I like apple."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q08",
+          "stageId": "EN-L03-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "음식과 음료: 과정 평가 · 8번: ‘바나나’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "apple",
+            "bread",
+            "rice"
+          ],
+          "correctAnswer": "banana",
+          "explanation": "‘바나나’은 영어로 banana입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "banana",
+            "BANANA"
+          ],
+          "koreanMeaning": "바나나",
+          "exampleSentence": "I have banana."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q09",
+          "stageId": "EN-L03-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "음식과 음료: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "apple",
+            "banana",
+            "rice",
+            "bread"
+          ],
+          "correctAnswer": "bread",
+          "explanation": "음성의 핵심 단어는 bread입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bread",
+          "acceptedAnswers": [
+            "bread"
+          ],
+          "koreanMeaning": "빵",
+          "exampleSentence": "I like bread."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q10",
+          "stageId": "EN-L03-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "음식과 음료: 과정 평가 · 10번: I have ___. 빈칸에 ‘밥’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "banana",
+            "bread",
+            "rice",
+            "apple"
+          ],
+          "correctAnswer": "rice",
+          "explanation": "문맥과 뜻에 맞는 단어는 rice입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rice",
+            "RICE"
+          ],
+          "koreanMeaning": "밥",
+          "exampleSentence": "I have rice."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q11",
+          "stageId": "EN-L03-C05-S09",
+          "type": "dictation",
+          "prompt": "음식과 음료: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "egg",
+          "explanation": "달걀은 영어로 egg입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "egg",
+          "acceptedAnswers": [
+            "egg",
+            "EGG"
+          ],
+          "koreanMeaning": "달걀",
+          "exampleSentence": "I like egg."
+        },
+        {
+          "questionId": "EN-L03-C05-S09-Q12",
+          "stageId": "EN-L03-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "음식과 음료: 과정 평가 · 12번: “I have milk.”에서 milk의 뜻을 고르세요.",
+          "choices": [
+            "우유",
+            "사과",
+            "바나나",
+            "빵"
+          ],
+          "correctAnswer": "우유",
+          "explanation": "milk은 ‘우유’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "음식과 음료",
+          "grammarFocus": "I like + 명사",
+          "sourceObjective": "음식과 음료 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우유"
+          ],
+          "koreanMeaning": "우유",
+          "exampleSentence": "I have milk."
+        }
+      ]
+    }
+  ]
+}

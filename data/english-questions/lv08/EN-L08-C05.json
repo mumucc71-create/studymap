@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C05",
+  "stages": [
+    {
+      "stageId": "EN-L08-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S01-Q01",
+          "stageId": "EN-L08-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 핵심 구문 이해 · 1번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "visited Jeju last year",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 visited Jeju last year입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "visited Jeju last year",
+            "visited jeju last year"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S01-Q02",
+          "stageId": "EN-L08-C05-S01",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 핵심 구문 이해 · 2번: 핵심 표현이 ‘finished the book yesterday’이면 O, 아니면 X를 고르세요: You finished the book yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 finished the book yesterday입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S01-Q03",
+          "stageId": "EN-L08-C05-S01",
+          "type": "matching",
+          "prompt": "간접의문문: 핵심 구문 이해 · 3번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ate lunch at noon",
+            "saw that movie on Monday",
+            "visited Jeju last year",
+            "finished the book yesterday"
+          ],
+          "correctAnswer": "saw that movie on Monday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 saw that movie on Monday입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "saw that movie on Monday",
+            "saw that movie on monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S01-Q04",
+          "stageId": "EN-L08-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 핵심 구문 이해 · 4번: “She ate lunch at noon.”의 뜻을 고르세요.",
+          "choices": [
+            "끝난 과거 시점의 일이다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S01-Q05",
+          "stageId": "EN-L08-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 핵심 구문 이해 · 5번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "cleaned the room this morning"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S01-Q06",
+          "stageId": "EN-L08-C05-S01",
+          "type": "ordering",
+          "prompt": "간접의문문: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "played this game yesterday They.",
+            "have",
+            "They played this game yesterday.",
+            "yesterday game this played They."
+          ],
+          "correctAnswer": "They played this game yesterday.",
+          "explanation": "바른 어순은 “They played this game yesterday.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They played this game yesterday.",
+            "They played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S02-Q01",
+          "stageId": "EN-L08-C05-S02",
+          "type": "matching",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S02-Q02",
+          "stageId": "EN-L08-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 2번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "cleaned the room this morning",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S02-Q03",
+          "stageId": "EN-L08-C05-S02",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 3번: “They played this game yesterday.”의 뜻을 고르세요.",
+          "choices": [
+            "ever",
+            "끝난 과거 시점의 일이다.",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S02-Q04",
+          "stageId": "EN-L08-C05-S02",
+          "type": "fillBlank",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 4번: Mina ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "wrote the email at nine",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "wrote the email at nine",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 wrote the email at nine입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wrote the email at nine",
+            "wrote the email at nine"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S02-Q05",
+          "stageId": "EN-L08-C05-S02",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 5번: Tom ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "read the story last night"
+          ],
+          "correctAnswer": "read the story last night",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 read the story last night입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read the story last night",
+            "read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S02-Q06",
+          "stageId": "EN-L08-C05-S02",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘visited Jeju last year’이면 O, 아니면 X를 고르세요: I visited Jeju last year.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 visited Jeju last year입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S03-Q01",
+          "stageId": "EN-L08-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 문법 구조 분석 · 1번: Mina ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "wrote the email at nine"
+          ],
+          "correctAnswer": "wrote the email at nine",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 wrote the email at nine입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wrote the email at nine",
+            "wrote the email at nine"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S03-Q02",
+          "stageId": "EN-L08-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 문법 구조 분석 · 2번: Tom ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "read the story last night",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "read the story last night",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 read the story last night입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read the story last night",
+            "read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S03-Q03",
+          "stageId": "EN-L08-C05-S03",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 문법 구조 분석 · 3번: 핵심 표현이 ‘finished the book yesterday’이면 O, 아니면 X를 고르세요: I visited Jeju last year.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 visited Jeju last year입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S03-Q04",
+          "stageId": "EN-L08-C05-S03",
+          "type": "ordering",
+          "prompt": "간접의문문: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You finished the book yesterday.",
+            "yesterday book the finished You.",
+            "finished the book yesterday You.",
+            "have"
+          ],
+          "correctAnswer": "You finished the book yesterday.",
+          "explanation": "바른 어순은 “You finished the book yesterday.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You finished the book yesterday.",
+            "You finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S03-Q05",
+          "stageId": "EN-L08-C05-S03",
+          "type": "matching",
+          "prompt": "간접의문문: 문법 구조 분석 · 5번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "ate lunch at noon",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "saw that movie on Monday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 saw that movie on Monday입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "saw that movie on Monday",
+            "saw that movie on monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S03-Q06",
+          "stageId": "EN-L08-C05-S03",
+          "type": "fillBlank",
+          "prompt": "간접의문문: 문법 구조 분석 · 6번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S04-Q01",
+          "stageId": "EN-L08-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 문장 분석 연습 · 1번: You ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "finished the book yesterday"
+          ],
+          "correctAnswer": "finished the book yesterday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 finished the book yesterday입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finished the book yesterday",
+            "finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S04-Q02",
+          "stageId": "EN-L08-C05-S04",
+          "type": "ordering",
+          "prompt": "간접의문문: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "saw that movie on Monday He.",
+            "have",
+            "He saw that movie on Monday.",
+            "Monday on movie that saw He."
+          ],
+          "correctAnswer": "He saw that movie on Monday.",
+          "explanation": "바른 어순은 “He saw that movie on Monday.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He saw that movie on Monday.",
+            "He saw that movie on Monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S04-Q03",
+          "stageId": "EN-L08-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 문장 분석 연습 · 3번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year",
+            "finished the book yesterday"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S04-Q04",
+          "stageId": "EN-L08-C05-S04",
+          "type": "fillBlank",
+          "prompt": "간접의문문: 문장 분석 연습 · 4번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "cleaned the room this morning",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S04-Q05",
+          "stageId": "EN-L08-C05-S04",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 문장 분석 연습 · 5번: 핵심 표현이 ‘visited Jeju last year’이면 O, 아니면 X를 고르세요: They played this game yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 played this game yesterday입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S04-Q06",
+          "stageId": "EN-L08-C05-S04",
+          "type": "matching",
+          "prompt": "간접의문문: 문장 분석 연습 · 6번: Mina ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "wrote the email at nine",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "wrote the email at nine",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 wrote the email at nine입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wrote the email at nine",
+            "wrote the email at nine"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S05-Q01",
+          "stageId": "EN-L08-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 문단 구조 적용 · 1번: “We cleaned the room this morning.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "끝난 과거 시점의 일이다."
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S05-Q02",
+          "stageId": "EN-L08-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 문단 구조 적용 · 2번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "played this game yesterday",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "played this game yesterday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 played this game yesterday입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "played this game yesterday",
+            "played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S05-Q03",
+          "stageId": "EN-L08-C05-S05",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 문단 구조 적용 · 3번: 핵심 표현이 ‘visited Jeju last year’이면 O, 아니면 X를 고르세요: Mina wrote the email at nine.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 wrote the email at nine입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S05-Q04",
+          "stageId": "EN-L08-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 문단 구조 적용 · 4번: Tom ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "read the story last night",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "read the story last night",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 read the story last night입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read the story last night",
+            "read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S05-Q05",
+          "stageId": "EN-L08-C05-S05",
+          "type": "matching",
+          "prompt": "간접의문문: 문단 구조 적용 · 5번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "visited Jeju last year",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 visited Jeju last year입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "visited Jeju last year",
+            "visited jeju last year"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S05-Q06",
+          "stageId": "EN-L08-C05-S05",
+          "type": "ordering",
+          "prompt": "간접의문문: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "finished the book yesterday You.",
+            "have",
+            "You finished the book yesterday.",
+            "yesterday book the finished You."
+          ],
+          "correctAnswer": "You finished the book yesterday.",
+          "explanation": "바른 어순은 “You finished the book yesterday.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You finished the book yesterday.",
+            "You finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S06-Q01",
+          "stageId": "EN-L08-C05-S06",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 구문독해 적용 · 1번: “Tom read the story last night.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "끝난 과거 시점의 일이다."
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S06-Q02",
+          "stageId": "EN-L08-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 구문독해 적용 · 2번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year",
+            "finished the book yesterday"
+          ],
+          "correctAnswer": "visited Jeju last year",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 visited Jeju last year입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "visited Jeju last year",
+            "visited jeju last year"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S06-Q03",
+          "stageId": "EN-L08-C05-S06",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 구문독해 적용 · 3번: 핵심 표현이 ‘visited Jeju last year’이면 O, 아니면 X를 고르세요: You finished the book yesterday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 finished the book yesterday입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S06-Q04",
+          "stageId": "EN-L08-C05-S06",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 구문독해 적용 · 4번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "saw that movie on Monday",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "ate lunch at noon"
+          ],
+          "correctAnswer": "saw that movie on Monday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 saw that movie on Monday입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "saw that movie on Monday",
+            "saw that movie on monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S06-Q05",
+          "stageId": "EN-L08-C05-S06",
+          "type": "matching",
+          "prompt": "간접의문문: 구문독해 적용 · 5번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S06-Q06",
+          "stageId": "EN-L08-C05-S06",
+          "type": "ordering",
+          "prompt": "간접의문문: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "cleaned the room this morning We.",
+            "have",
+            "We cleaned the room this morning.",
+            "morning this room the cleaned We."
+          ],
+          "correctAnswer": "We cleaned the room this morning.",
+          "explanation": "바른 어순은 “We cleaned the room this morning.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We cleaned the room this morning.",
+            "We cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S07-Q01",
+          "stageId": "EN-L08-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I visited Jeju last year.",
+            "You finished the book yesterday.",
+            "She ate lunch at noon.",
+            "He saw that movie on Monday."
+          ],
+          "correctAnswer": "He saw that movie on Monday.",
+          "explanation": "들은 문장은 “He saw that movie on Monday.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He saw that movie on Monday.",
+          "acceptedAnswers": [
+            "He saw that movie on Monday."
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S07-Q02",
+          "stageId": "EN-L08-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 2번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S07-Q03",
+          "stageId": "EN-L08-C05-S07",
+          "type": "listeningChoice",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He saw that movie on Monday.",
+            "We cleaned the room this morning.",
+            "I visited Jeju last year.",
+            "You finished the book yesterday."
+          ],
+          "correctAnswer": "We cleaned the room this morning.",
+          "explanation": "들은 문장은 “We cleaned the room this morning.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We cleaned the room this morning.",
+          "acceptedAnswers": [
+            "We cleaned the room this morning."
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S07-Q04",
+          "stageId": "EN-L08-C05-S07",
+          "type": "dictation",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They played this game yesterday.",
+          "explanation": "바른 문장은 “They played this game yesterday.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They played this game yesterday.",
+          "acceptedAnswers": [
+            "They played this game yesterday.",
+            "They played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S07-Q05",
+          "stageId": "EN-L08-C05-S07",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘visited Jeju last year’이면 O, 아니면 X를 고르세요: Mina wrote the email at nine.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 wrote the email at nine입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S07-Q06",
+          "stageId": "EN-L08-C05-S07",
+          "type": "matching",
+          "prompt": "간접의문문: 핵심 정보 듣기 · 6번: Tom ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "read the story last night",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "read the story last night",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 read the story last night입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "read the story last night",
+            "read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S08-Q01",
+          "stageId": "EN-L08-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "간접의문문: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They played this game yesterday.",
+          "explanation": "“They played this game yesterday.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They played this game yesterday.",
+          "acceptedAnswers": [
+            "They played this game yesterday.",
+            "They played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S08-Q02",
+          "stageId": "EN-L08-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 근거 설명하기 · 2번: Mina ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "wrote the email at nine",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "wrote the email at nine",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 wrote the email at nine입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wrote the email at nine",
+            "wrote the email at nine"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S08-Q03",
+          "stageId": "EN-L08-C05-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "간접의문문: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom read the story last night.",
+          "explanation": "“Tom read the story last night.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom read the story last night.",
+          "acceptedAnswers": [
+            "Tom read the story last night.",
+            "Tom read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S08-Q04",
+          "stageId": "EN-L08-C05-S08",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 근거 설명하기 · 4번: “I visited Jeju last year.”의 뜻을 고르세요.",
+          "choices": [
+            "끝난 과거 시점의 일이다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S08-Q05",
+          "stageId": "EN-L08-C05-S08",
+          "type": "matching",
+          "prompt": "간접의문문: 근거 설명하기 · 5번: You ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "finished the book yesterday"
+          ],
+          "correctAnswer": "finished the book yesterday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 finished the book yesterday입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finished the book yesterday",
+            "finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S08-Q06",
+          "stageId": "EN-L08-C05-S08",
+          "type": "trueFalse",
+          "prompt": "간접의문문: 근거 설명하기 · 6번: 핵심 표현이 ‘saw that movie on Monday’이면 O, 아니면 X를 고르세요: He saw that movie on Monday.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 saw that movie on Monday입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S09-Q01",
+          "stageId": "EN-L08-C05-S09",
+          "type": "fillBlank",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 1번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "visited Jeju last year",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 visited Jeju last year입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "visited Jeju last year",
+            "visited jeju last year"
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S09-Q02",
+          "stageId": "EN-L08-C05-S09",
+          "type": "dictation",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You finished the book yesterday.",
+          "explanation": "바른 문장은 “You finished the book yesterday.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You finished the book yesterday.",
+          "acceptedAnswers": [
+            "You finished the book yesterday.",
+            "You finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S09-Q03",
+          "stageId": "EN-L08-C05-S09",
+          "type": "ordering",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He saw that movie on Monday.",
+            "Monday on movie that saw He.",
+            "saw that movie on Monday He."
+          ],
+          "correctAnswer": "He saw that movie on Monday.",
+          "explanation": "바른 어순은 “He saw that movie on Monday.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He saw that movie on Monday.",
+            "He saw that movie on Monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S09-Q04",
+          "stageId": "EN-L08-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 4번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ate lunch at noon",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S09-Q05",
+          "stageId": "EN-L08-C05-S09",
+          "type": "fillBlank",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 5번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "cleaned the room this morning"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S09-Q06",
+          "stageId": "EN-L08-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 논리 문장 쓰기 · 6번: They ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "played this game yesterday",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "played this game yesterday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 played this game yesterday입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "played this game yesterday",
+            "played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C05-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C05-S10-Q01",
+          "stageId": "EN-L08-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "간접의문문: 과정 평가 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "ate lunch at noon"
+          ],
+          "correctAnswer": "ate lunch at noon",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 ate lunch at noon입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "ate lunch at noon",
+            "ate lunch at noon"
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q02",
+          "stageId": "EN-L08-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 과정 평가 · 2번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "cleaned the room this morning",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q03",
+          "stageId": "EN-L08-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "간접의문문: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He saw that movie on Monday.",
+            "They played this game yesterday.",
+            "I visited Jeju last year.",
+            "You finished the book yesterday."
+          ],
+          "correctAnswer": "They played this game yesterday.",
+          "explanation": "들은 문장은 “They played this game yesterday.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They played this game yesterday.",
+          "acceptedAnswers": [
+            "They played this game yesterday."
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q04",
+          "stageId": "EN-L08-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 과정 평가 · 4번: Mina ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "wrote the email at nine",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "wrote the email at nine",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 wrote the email at nine입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "wrote the email at nine",
+            "wrote the email at nine"
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q05",
+          "stageId": "EN-L08-C05-S10",
+          "type": "dictation",
+          "prompt": "간접의문문: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom read the story last night.",
+          "explanation": "바른 문장은 “Tom read the story last night.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom read the story last night.",
+          "acceptedAnswers": [
+            "Tom read the story last night.",
+            "Tom read the story last night"
+          ],
+          "exampleSentence": "Tom read the story last night.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q06",
+          "stageId": "EN-L08-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 과정 평가 · 6번: “I visited Jeju last year.”의 뜻을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "끝난 과거 시점의 일이다.",
+            "have"
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "I visited Jeju last year.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q07",
+          "stageId": "EN-L08-C05-S10",
+          "type": "reviewMixed",
+          "prompt": "간접의문문: 과정 평가 · 7번: You ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ate lunch at noon",
+            "finished the book yesterday",
+            "visited Jeju last year",
+            "saw that movie on Monday"
+          ],
+          "correctAnswer": "finished the book yesterday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 finished the book yesterday입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "finished the book yesterday",
+            "finished the book yesterday"
+          ],
+          "exampleSentence": "You finished the book yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q08",
+          "stageId": "EN-L08-C05-S10",
+          "type": "multipleChoice",
+          "prompt": "간접의문문: 과정 평가 · 8번: He ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "saw that movie on Monday",
+            "visited Jeju last year",
+            "finished the book yesterday",
+            "ate lunch at noon"
+          ],
+          "correctAnswer": "saw that movie on Monday",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 saw that movie on Monday입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "saw that movie on Monday",
+            "saw that movie on monday"
+          ],
+          "exampleSentence": "He saw that movie on Monday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q09",
+          "stageId": "EN-L08-C05-S10",
+          "type": "listeningChoice",
+          "prompt": "간접의문문: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I visited Jeju last year.",
+            "You finished the book yesterday.",
+            "He saw that movie on Monday.",
+            "She ate lunch at noon."
+          ],
+          "correctAnswer": "She ate lunch at noon.",
+          "explanation": "들은 문장은 “She ate lunch at noon.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She ate lunch at noon.",
+          "acceptedAnswers": [
+            "She ate lunch at noon."
+          ],
+          "exampleSentence": "She ate lunch at noon.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q10",
+          "stageId": "EN-L08-C05-S10",
+          "type": "sentenceCompletion",
+          "prompt": "간접의문문: 과정 평가 · 10번: We ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "finished the book yesterday",
+            "saw that movie on Monday",
+            "cleaned the room this morning",
+            "visited Jeju last year"
+          ],
+          "correctAnswer": "cleaned the room this morning",
+          "explanation": "과거와 현재완료 구별 문맥에 맞는 표현은 cleaned the room this morning입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cleaned the room this morning",
+            "cleaned the room this morning"
+          ],
+          "exampleSentence": "We cleaned the room this morning.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q11",
+          "stageId": "EN-L08-C05-S10",
+          "type": "dictation",
+          "prompt": "간접의문문: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They played this game yesterday.",
+          "explanation": "바른 문장은 “They played this game yesterday.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They played this game yesterday.",
+          "acceptedAnswers": [
+            "They played this game yesterday.",
+            "They played this game yesterday"
+          ],
+          "exampleSentence": "They played this game yesterday.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        },
+        {
+          "questionId": "EN-L08-C05-S10-Q12",
+          "stageId": "EN-L08-C05-S10",
+          "type": "sentenceMeaning",
+          "prompt": "간접의문문: 과정 평가 · 12번: “Mina wrote the email at nine.”의 뜻을 고르세요.",
+          "choices": [
+            "끝난 과거 시점의 일이다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "끝난 과거 시점의 일이다.",
+          "explanation": "뜻은 ‘끝난 과거 시점의 일이다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "과거와 현재완료 구별",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "간접의문문 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "끝난 과거 시점의 일이다."
+          ],
+          "exampleSentence": "Mina wrote the email at nine.",
+          "koreanMeaning": "끝난 과거 시점의 일이다."
+        }
+      ]
+    }
+  ]
+}

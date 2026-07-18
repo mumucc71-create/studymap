@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L05",
+  "courseId": "EN-L05-C05",
+  "stages": [
+    {
+      "stageId": "EN-L05-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S01-Q01",
+          "stageId": "EN-L05-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 1번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can read",
+            "can swim"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S01-Q02",
+          "stageId": "EN-L05-C05-S01",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 2번: 핵심 표현이 ‘can sing’이면 O, 아니면 X를 고르세요: She can sing.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 can sing이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S01-Q03",
+          "stageId": "EN-L05-C05-S01",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 3번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can read",
+            "can run",
+            "can swim",
+            "can sing"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S01-Q04",
+          "stageId": "EN-L05-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 4번: “We can read English.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 영어를 읽을 수 있다.",
+            "나는 수영할 수 있다.",
+            "그녀는 노래할 수 있다.",
+            "그는 빨리 달릴 수 있다."
+          ],
+          "correctAnswer": "우리는 영어를 읽을 수 있다.",
+          "explanation": "뜻은 ‘우리는 영어를 읽을 수 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "우리는 영어를 읽을 수 있다."
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S01-Q05",
+          "stageId": "EN-L05-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 5번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can run",
+            "can play"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S01-Q06",
+          "stageId": "EN-L05-C05-S01",
+          "type": "ordering",
+          "prompt": "can과 능력 표현: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "can swim I.",
+            "is",
+            "I can swim.",
+            "swim can I."
+          ],
+          "correctAnswer": "I can swim.",
+          "explanation": "바른 어순은 “I can swim.”입니다.",
+          "difficulty": 5,
+          "skill": "concept",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I can swim.",
+            "I can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S02-Q01",
+          "stageId": "EN-L05-C05-S02",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 1번: We ___ English. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can run",
+            "can read"
+          ],
+          "correctAnswer": "can read",
+          "explanation": "can과 능력 표현에 맞는 표현은 can read입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can read",
+            "can read"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S02-Q02",
+          "stageId": "EN-L05-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 2번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can play",
+            "can swim"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S02-Q03",
+          "stageId": "EN-L05-C05-S02",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 3번: “I can swim.”의 뜻을 고르세요.",
+          "choices": [
+            "우리는 영어를 읽을 수 있다.",
+            "나는 수영할 수 있다.",
+            "그녀는 노래할 수 있다.",
+            "그는 빨리 달릴 수 있다."
+          ],
+          "correctAnswer": "나는 수영할 수 있다.",
+          "explanation": "뜻은 ‘나는 수영할 수 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 수영할 수 있다."
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S02-Q04",
+          "stageId": "EN-L05-C05-S02",
+          "type": "fillBlank",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 4번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can swim",
+            "can run",
+            "can read"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S02-Q05",
+          "stageId": "EN-L05-C05-S02",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 5번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can read",
+            "can run"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S02-Q06",
+          "stageId": "EN-L05-C05-S02",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘can read’이면 O, 아니면 X를 고르세요: We can read English.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 can read이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "vocabulary",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S03-Q01",
+          "stageId": "EN-L05-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can run",
+            "can read",
+            "can sing"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S03-Q02",
+          "stageId": "EN-L05-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 2번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can read",
+            "can run",
+            "can swim"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S03-Q03",
+          "stageId": "EN-L05-C05-S03",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 3번: 핵심 표현이 ‘can swim’이면 O, 아니면 X를 고르세요: We can read English.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 can read이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S03-Q04",
+          "stageId": "EN-L05-C05-S03",
+          "type": "ordering",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "They can play soccer.",
+            "soccer play can They.",
+            "can play soccer They.",
+            "is"
+          ],
+          "correctAnswer": "They can play soccer.",
+          "explanation": "바른 어순은 “They can play soccer.”입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They can play soccer.",
+            "They can play soccer"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S03-Q05",
+          "stageId": "EN-L05-C05-S03",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 5번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can read",
+            "can swim"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S03-Q06",
+          "stageId": "EN-L05-C05-S03",
+          "type": "fillBlank",
+          "prompt": "can과 능력 표현: 문장 구조 발견 · 6번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can read",
+            "can sing",
+            "can swim"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 5,
+          "skill": "grammar",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S04-Q01",
+          "stageId": "EN-L05-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 1번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can run",
+            "can play"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S04-Q02",
+          "stageId": "EN-L05-C05-S04",
+          "type": "ordering",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "can swim I.",
+            "is",
+            "I can swim.",
+            "swim can I."
+          ],
+          "correctAnswer": "I can swim.",
+          "explanation": "바른 어순은 “I can swim.”입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I can swim.",
+            "I can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S04-Q03",
+          "stageId": "EN-L05-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 3번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can read",
+            "can sing",
+            "can swim",
+            "can run"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S04-Q04",
+          "stageId": "EN-L05-C05-S04",
+          "type": "fillBlank",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 4번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can swim",
+            "can sing",
+            "can read"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S04-Q05",
+          "stageId": "EN-L05-C05-S04",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 5번: 핵심 표현이 ‘can swim’이면 O, 아니면 X를 고르세요: We can read English.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 can read이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S04-Q06",
+          "stageId": "EN-L05-C05-S04",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 짧은 문장 연습 · 6번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can play",
+            "can swim"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 5,
+          "skill": "practice",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S05-Q01",
+          "stageId": "EN-L05-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 1번: “He can run fast.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 수영할 수 있다.",
+            "그녀는 노래할 수 있다.",
+            "우리는 영어를 읽을 수 있다.",
+            "그는 빨리 달릴 수 있다."
+          ],
+          "correctAnswer": "그는 빨리 달릴 수 있다.",
+          "explanation": "뜻은 ‘그는 빨리 달릴 수 있다.’입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 빨리 달릴 수 있다."
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S05-Q02",
+          "stageId": "EN-L05-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 2번: We ___ English. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can read",
+            "can swim"
+          ],
+          "correctAnswer": "can read",
+          "explanation": "can과 능력 표현에 맞는 표현은 can read입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can read",
+            "can read"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S05-Q03",
+          "stageId": "EN-L05-C05-S05",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 3번: 핵심 표현이 ‘can swim’이면 O, 아니면 X를 고르세요: They can play soccer.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 can play이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S05-Q04",
+          "stageId": "EN-L05-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 4번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can run",
+            "can read"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S05-Q05",
+          "stageId": "EN-L05-C05-S05",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 5번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can run",
+            "can read",
+            "can sing"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S05-Q06",
+          "stageId": "EN-L05-C05-S05",
+          "type": "ordering",
+          "prompt": "can과 능력 표현: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "can run fast He.",
+            "is",
+            "He can run fast.",
+            "fast run can He."
+          ],
+          "correctAnswer": "He can run fast.",
+          "explanation": "바른 어순은 “He can run fast.”입니다.",
+          "difficulty": 5,
+          "skill": "reading",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He can run fast.",
+            "He can run fast"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S06-Q01",
+          "stageId": "EN-L05-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "She can sing.",
+            "He can run fast.",
+            "We can read English.",
+            "I can swim."
+          ],
+          "correctAnswer": "I can swim.",
+          "explanation": "들은 문장은 “I can swim.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I can swim.",
+          "acceptedAnswers": [
+            "I can swim."
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S06-Q02",
+          "stageId": "EN-L05-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 2번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can read",
+            "can sing",
+            "can swim"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S06-Q03",
+          "stageId": "EN-L05-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We can read English.",
+            "He can run fast.",
+            "I can swim.",
+            "She can sing."
+          ],
+          "correctAnswer": "He can run fast.",
+          "explanation": "들은 문장은 “He can run fast.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He can run fast.",
+          "acceptedAnswers": [
+            "He can run fast."
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S06-Q04",
+          "stageId": "EN-L05-C05-S06",
+          "type": "dictation",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We can read English.",
+          "explanation": "바른 문장은 “We can read English.”입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We can read English.",
+          "acceptedAnswers": [
+            "We can read English.",
+            "We can read English"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S06-Q05",
+          "stageId": "EN-L05-C05-S06",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 5번: 핵심 표현이 ‘can swim’이면 O, 아니면 X를 고르세요: They can play soccer.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 can play이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S06-Q06",
+          "stageId": "EN-L05-C05-S06",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 생활 대화 듣기 · 6번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can read",
+            "can swim",
+            "can sing"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 6,
+          "skill": "listening",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S07-Q01",
+          "stageId": "EN-L05-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "can과 능력 표현: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "We can read English.",
+          "explanation": "“We can read English.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "We can read English.",
+          "acceptedAnswers": [
+            "We can read English.",
+            "We can read English"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S07-Q02",
+          "stageId": "EN-L05-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 표현 말하기 · 2번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can play",
+            "can swim"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S07-Q03",
+          "stageId": "EN-L05-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "can과 능력 표현: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I can swim.",
+          "explanation": "“I can swim.”를 따라 읽으세요.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I can swim.",
+          "acceptedAnswers": [
+            "I can swim.",
+            "I can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S07-Q04",
+          "stageId": "EN-L05-C05-S07",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 표현 말하기 · 4번: “She can sing.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 노래할 수 있다.",
+            "나는 수영할 수 있다.",
+            "그는 빨리 달릴 수 있다.",
+            "우리는 영어를 읽을 수 있다."
+          ],
+          "correctAnswer": "그녀는 노래할 수 있다.",
+          "explanation": "뜻은 ‘그녀는 노래할 수 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 노래할 수 있다."
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S07-Q05",
+          "stageId": "EN-L05-C05-S07",
+          "type": "matching",
+          "prompt": "can과 능력 표현: 표현 말하기 · 5번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can read",
+            "can run"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S07-Q06",
+          "stageId": "EN-L05-C05-S07",
+          "type": "trueFalse",
+          "prompt": "can과 능력 표현: 표현 말하기 · 6번: 핵심 표현이 ‘can read’이면 O, 아니면 X를 고르세요: We can read English.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 can read이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "speaking",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S08-Q01",
+          "stageId": "EN-L05-C05-S08",
+          "type": "fillBlank",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 1번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can run",
+            "can read",
+            "can sing"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S08-Q02",
+          "stageId": "EN-L05-C05-S08",
+          "type": "dictation",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He can run fast.",
+          "explanation": "바른 문장은 “He can run fast.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He can run fast.",
+          "acceptedAnswers": [
+            "He can run fast.",
+            "He can run fast"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S08-Q03",
+          "stageId": "EN-L05-C05-S08",
+          "type": "ordering",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "We can read English.",
+            "English read can We.",
+            "can read English We."
+          ],
+          "correctAnswer": "We can read English.",
+          "explanation": "바른 어순은 “We can read English.”입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We can read English.",
+            "We can read English"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S08-Q04",
+          "stageId": "EN-L05-C05-S08",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 4번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can play",
+            "can swim",
+            "can sing",
+            "can run"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S08-Q05",
+          "stageId": "EN-L05-C05-S08",
+          "type": "fillBlank",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 5번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can read",
+            "can swim"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S08-Q06",
+          "stageId": "EN-L05-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 문장 쓰기 · 6번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can read",
+            "can sing",
+            "can swim"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 6,
+          "skill": "writing",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L05-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L05-C05-S09-Q01",
+          "stageId": "EN-L05-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "can과 능력 표현: 과정 평가 · 1번: They ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can swim",
+            "can sing",
+            "can run",
+            "can play"
+          ],
+          "correctAnswer": "can play",
+          "explanation": "can과 능력 표현에 맞는 표현은 can play입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can play",
+            "can play"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q02",
+          "stageId": "EN-L05-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 과정 평가 · 2번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can read",
+            "can swim",
+            "can sing"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q03",
+          "stageId": "EN-L05-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "can과 능력 표현: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "We can read English.",
+            "She can sing.",
+            "I can swim.",
+            "He can run fast."
+          ],
+          "correctAnswer": "She can sing.",
+          "explanation": "들은 문장은 “She can sing.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She can sing.",
+          "acceptedAnswers": [
+            "She can sing."
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q04",
+          "stageId": "EN-L05-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 과정 평가 · 4번: He ___ fast. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can run",
+            "can swim",
+            "can sing",
+            "can read"
+          ],
+          "correctAnswer": "can run",
+          "explanation": "can과 능력 표현에 맞는 표현은 can run입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can run",
+            "can run"
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q05",
+          "stageId": "EN-L05-C05-S09",
+          "type": "dictation",
+          "prompt": "can과 능력 표현: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "We can read English.",
+          "explanation": "바른 문장은 “We can read English.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We can read English.",
+          "acceptedAnswers": [
+            "We can read English.",
+            "We can read English"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q06",
+          "stageId": "EN-L05-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 과정 평가 · 6번: “They can play soccer.”의 뜻을 고르세요.",
+          "choices": [
+            "그녀는 노래할 수 있다.",
+            "그는 빨리 달릴 수 있다.",
+            "그들은 축구를 할 수 있다.",
+            "나는 수영할 수 있다."
+          ],
+          "correctAnswer": "그들은 축구를 할 수 있다.",
+          "explanation": "뜻은 ‘그들은 축구를 할 수 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그들은 축구를 할 수 있다."
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q07",
+          "stageId": "EN-L05-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "can과 능력 표현: 과정 평가 · 7번: I ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can read",
+            "can swim",
+            "can sing",
+            "can run"
+          ],
+          "correctAnswer": "can swim",
+          "explanation": "can과 능력 표현에 맞는 표현은 can swim입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can swim",
+            "can swim"
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q08",
+          "stageId": "EN-L05-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "can과 능력 표현: 과정 평가 · 8번: She ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can swim",
+            "can run",
+            "can read"
+          ],
+          "correctAnswer": "can sing",
+          "explanation": "can과 능력 표현에 맞는 표현은 can sing입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can sing",
+            "can sing"
+          ],
+          "exampleSentence": "She can sing.",
+          "koreanMeaning": "그녀는 노래할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q09",
+          "stageId": "EN-L05-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "can과 능력 표현: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I can swim.",
+            "She can sing.",
+            "We can read English.",
+            "He can run fast."
+          ],
+          "correctAnswer": "He can run fast.",
+          "explanation": "들은 문장은 “He can run fast.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He can run fast.",
+          "acceptedAnswers": [
+            "He can run fast."
+          ],
+          "exampleSentence": "He can run fast.",
+          "koreanMeaning": "그는 빨리 달릴 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q10",
+          "stageId": "EN-L05-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "can과 능력 표현: 과정 평가 · 10번: We ___ English. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "can sing",
+            "can run",
+            "can read",
+            "can swim"
+          ],
+          "correctAnswer": "can read",
+          "explanation": "can과 능력 표현에 맞는 표현은 can read입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "can read",
+            "can read"
+          ],
+          "exampleSentence": "We can read English.",
+          "koreanMeaning": "우리는 영어를 읽을 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q11",
+          "stageId": "EN-L05-C05-S09",
+          "type": "dictation",
+          "prompt": "can과 능력 표현: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They can play soccer.",
+          "explanation": "바른 문장은 “They can play soccer.”입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They can play soccer.",
+          "acceptedAnswers": [
+            "They can play soccer.",
+            "They can play soccer"
+          ],
+          "exampleSentence": "They can play soccer.",
+          "koreanMeaning": "그들은 축구를 할 수 있다."
+        },
+        {
+          "questionId": "EN-L05-C05-S09-Q12",
+          "stageId": "EN-L05-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "can과 능력 표현: 과정 평가 · 12번: “I can swim.”의 뜻을 고르세요.",
+          "choices": [
+            "나는 수영할 수 있다.",
+            "그녀는 노래할 수 있다.",
+            "그는 빨리 달릴 수 있다.",
+            "우리는 영어를 읽을 수 있다."
+          ],
+          "correctAnswer": "나는 수영할 수 있다.",
+          "explanation": "뜻은 ‘나는 수영할 수 있다.’입니다.",
+          "difficulty": 6,
+          "skill": "checkpoint",
+          "grammarFocus": "can과 능력 표현",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "can과 능력 표현 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나는 수영할 수 있다."
+          ],
+          "exampleSentence": "I can swim.",
+          "koreanMeaning": "나는 수영할 수 있다."
+        }
+      ]
+    }
+  ]
+}

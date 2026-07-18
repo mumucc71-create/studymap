@@ -1,0 +1,2010 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C13",
+  "stages": [
+    {
+      "stageId": "EN-L08-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S01-Q01",
+          "stageId": "EN-L08-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 1번: I have not visited Jeju ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S01-Q02",
+          "stageId": "EN-L08-C13-S01",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 2번: 핵심 표현이 ‘yet’이면 O, 아니면 X를 고르세요: You have not finished the book yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S01-Q03",
+          "stageId": "EN-L08-C13-S01",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 3번: He has not seen that movie ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "yet",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S01-Q04",
+          "stageId": "EN-L08-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 4번: “She has not eaten lunch yet.”의 뜻을 고르세요.",
+          "choices": [
+            "아직 완료되지 않은 일을 쓴다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S01-Q05",
+          "stageId": "EN-L08-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 5번: We have not cleaned the room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S01-Q06",
+          "stageId": "EN-L08-C13-S01",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have not played this game yet They.",
+            "have",
+            "They have not played this game yet.",
+            "yet game this played not have They."
+          ],
+          "correctAnswer": "They have not played this game yet.",
+          "explanation": "바른 어순은 “They have not played this game yet.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have not played this game yet.",
+            "They have not played this game yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S02-Q01",
+          "stageId": "EN-L08-C13-S02",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 1번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S02-Q02",
+          "stageId": "EN-L08-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 2번: We have not cleaned the room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S02-Q03",
+          "stageId": "EN-L08-C13-S02",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 3번: “They have not played this game yet.”의 뜻을 고르세요.",
+          "choices": [
+            "ever",
+            "아직 완료되지 않은 일을 쓴다.",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S02-Q04",
+          "stageId": "EN-L08-C13-S02",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 4번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S02-Q05",
+          "stageId": "EN-L08-C13-S02",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 5번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S02-Q06",
+          "stageId": "EN-L08-C13-S02",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘yet’이면 O, 아니면 X를 고르세요: I have not visited Jeju yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S03-Q01",
+          "stageId": "EN-L08-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 1번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S03-Q02",
+          "stageId": "EN-L08-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 2번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S03-Q03",
+          "stageId": "EN-L08-C13-S03",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: I have not visited Jeju yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S03-Q04",
+          "stageId": "EN-L08-C13-S03",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have not finished the book yet.",
+            "yet book the finished not have You.",
+            "have not finished the book yet You.",
+            "have"
+          ],
+          "correctAnswer": "You have not finished the book yet.",
+          "explanation": "바른 어순은 “You have not finished the book yet.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have not finished the book yet.",
+            "You have not finished the book yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S03-Q05",
+          "stageId": "EN-L08-C13-S03",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 5번: He has not seen that movie ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S03-Q06",
+          "stageId": "EN-L08-C13-S03",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 문법 구조 분석 · 6번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S04-Q01",
+          "stageId": "EN-L08-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 1번: You have not finished the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S04-Q02",
+          "stageId": "EN-L08-C13-S04",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has not seen that movie yet He.",
+            "have",
+            "He has not seen that movie yet.",
+            "yet movie that seen not has He."
+          ],
+          "correctAnswer": "He has not seen that movie yet.",
+          "explanation": "바른 어순은 “He has not seen that movie yet.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has not seen that movie yet.",
+            "He has not seen that movie yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S04-Q03",
+          "stageId": "EN-L08-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 3번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "yet",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S04-Q04",
+          "stageId": "EN-L08-C13-S04",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 4번: We have not cleaned the room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S04-Q05",
+          "stageId": "EN-L08-C13-S04",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: They have not played this game yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S04-Q06",
+          "stageId": "EN-L08-C13-S04",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 문장 분석 연습 · 6번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S05-Q01",
+          "stageId": "EN-L08-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 1번: “We have not cleaned the room yet.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S05-Q02",
+          "stageId": "EN-L08-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 2번: They have not played this game ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S05-Q03",
+          "stageId": "EN-L08-C13-S05",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Mina has not written the email yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S05-Q04",
+          "stageId": "EN-L08-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 4번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S05-Q05",
+          "stageId": "EN-L08-C13-S05",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 5번: I have not visited Jeju ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S05-Q06",
+          "stageId": "EN-L08-C13-S05",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have not finished the book yet You.",
+            "have",
+            "You have not finished the book yet.",
+            "yet book the finished not have You."
+          ],
+          "correctAnswer": "You have not finished the book yet.",
+          "explanation": "바른 어순은 “You have not finished the book yet.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have not finished the book yet.",
+            "You have not finished the book yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S06-Q01",
+          "stageId": "EN-L08-C13-S06",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 1번: “Tom has not read the story yet.”의 뜻을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S06-Q02",
+          "stageId": "EN-L08-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 2번: I have not visited Jeju ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S06-Q03",
+          "stageId": "EN-L08-C13-S06",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 3번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: You have not finished the book yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S06-Q04",
+          "stageId": "EN-L08-C13-S06",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 4번: He has not seen that movie ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S06-Q05",
+          "stageId": "EN-L08-C13-S06",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 5번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S06-Q06",
+          "stageId": "EN-L08-C13-S06",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have not cleaned the room yet We.",
+            "have",
+            "We have not cleaned the room yet.",
+            "yet room the cleaned not have We."
+          ],
+          "correctAnswer": "We have not cleaned the room yet.",
+          "explanation": "바른 어순은 “We have not cleaned the room yet.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have not cleaned the room yet.",
+            "We have not cleaned the room yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S07-Q01",
+          "stageId": "EN-L08-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have not visited Jeju yet.",
+            "You have not finished the book yet.",
+            "She has not eaten lunch yet.",
+            "He has not seen that movie yet."
+          ],
+          "correctAnswer": "He has not seen that movie yet.",
+          "explanation": "들은 문장은 “He has not seen that movie yet.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has not seen that movie yet.",
+          "acceptedAnswers": [
+            "He has not seen that movie yet."
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S07-Q02",
+          "stageId": "EN-L08-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 2번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S07-Q03",
+          "stageId": "EN-L08-C13-S07",
+          "type": "listeningChoice",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has not seen that movie yet.",
+            "We have not cleaned the room yet.",
+            "I have not visited Jeju yet.",
+            "You have not finished the book yet."
+          ],
+          "correctAnswer": "We have not cleaned the room yet.",
+          "explanation": "들은 문장은 “We have not cleaned the room yet.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have not cleaned the room yet.",
+          "acceptedAnswers": [
+            "We have not cleaned the room yet."
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S07-Q04",
+          "stageId": "EN-L08-C13-S07",
+          "type": "dictation",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have not played this game yet.",
+          "explanation": "바른 문장은 “They have not played this game yet.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have not played this game yet.",
+          "acceptedAnswers": [
+            "They have not played this game yet.",
+            "They have not played this game yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S07-Q05",
+          "stageId": "EN-L08-C13-S07",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Mina has not written the email yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S07-Q06",
+          "stageId": "EN-L08-C13-S07",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 핵심 정보 듣기 · 6번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S08-Q01",
+          "stageId": "EN-L08-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have not played this game yet.",
+          "explanation": "“They have not played this game yet.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have not played this game yet.",
+          "acceptedAnswers": [
+            "They have not played this game yet.",
+            "They have not played this game yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S08-Q02",
+          "stageId": "EN-L08-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 2번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S08-Q03",
+          "stageId": "EN-L08-C13-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has not read the story yet.",
+          "explanation": "“Tom has not read the story yet.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has not read the story yet.",
+          "acceptedAnswers": [
+            "Tom has not read the story yet.",
+            "Tom has not read the story yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S08-Q04",
+          "stageId": "EN-L08-C13-S08",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 4번: “I have not visited Jeju yet.”의 뜻을 고르세요.",
+          "choices": [
+            "아직 완료되지 않은 일을 쓴다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S08-Q05",
+          "stageId": "EN-L08-C13-S08",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 5번: You have not finished the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S08-Q06",
+          "stageId": "EN-L08-C13-S08",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 근거 설명하기 · 6번: 핵심 표현이 ‘yet’이면 O, 아니면 X를 고르세요: He has not seen that movie yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S09-Q01",
+          "stageId": "EN-L08-C13-S09",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 1번: I have not visited Jeju ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S09-Q02",
+          "stageId": "EN-L08-C13-S09",
+          "type": "dictation",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have not finished the book yet.",
+          "explanation": "바른 문장은 “You have not finished the book yet.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have not finished the book yet.",
+          "acceptedAnswers": [
+            "You have not finished the book yet.",
+            "You have not finished the book yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S09-Q03",
+          "stageId": "EN-L08-C13-S09",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has not seen that movie yet.",
+            "yet movie that seen not has He.",
+            "has not seen that movie yet He."
+          ],
+          "correctAnswer": "He has not seen that movie yet.",
+          "explanation": "바른 어순은 “He has not seen that movie yet.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has not seen that movie yet.",
+            "He has not seen that movie yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S09-Q04",
+          "stageId": "EN-L08-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 4번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S09-Q05",
+          "stageId": "EN-L08-C13-S09",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 5번: We have not cleaned the room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S09-Q06",
+          "stageId": "EN-L08-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 논리 문장 쓰기 · 6번: They have not played this game ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S10-Q01",
+          "stageId": "EN-L08-C13-S10",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 1번: She has not eaten lunch ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S10-Q02",
+          "stageId": "EN-L08-C13-S10",
+          "type": "ordering",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have not cleaned the room yet We.",
+            "have",
+            "We have not cleaned the room yet.",
+            "yet room the cleaned not have We."
+          ],
+          "correctAnswer": "We have not cleaned the room yet.",
+          "explanation": "바른 어순은 “We have not cleaned the room yet.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have not cleaned the room yet.",
+            "We have not cleaned the room yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S10-Q03",
+          "stageId": "EN-L08-C13-S10",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 3번: They have not played this game ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "yet",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S10-Q04",
+          "stageId": "EN-L08-C13-S10",
+          "type": "fillBlank",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 4번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S10-Q05",
+          "stageId": "EN-L08-C13-S10",
+          "type": "trueFalse",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 5번: 핵심 표현이 ‘never’이면 O, 아니면 X를 고르세요: Tom has not read the story yet.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S10-Q06",
+          "stageId": "EN-L08-C13-S10",
+          "type": "matching",
+          "prompt": "듣기 의도 추론: 혼합 문제 적용 · 6번: I have not visited Jeju ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 혼합 문제 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C13-S11",
+      "questions": [
+        {
+          "questionId": "EN-L08-C13-S11-Q01",
+          "stageId": "EN-L08-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "듣기 의도 추론: 과정 평가 · 1번: Mina has not written the email ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "have",
+            "has",
+            "ever",
+            "yet"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q02",
+          "stageId": "EN-L08-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 과정 평가 · 2번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q03",
+          "stageId": "EN-L08-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "듣기 의도 추론: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "She has not eaten lunch yet.",
+            "I have not visited Jeju yet.",
+            "You have not finished the book yet.",
+            "He has not seen that movie yet."
+          ],
+          "correctAnswer": "I have not visited Jeju yet.",
+          "explanation": "들은 문장은 “I have not visited Jeju yet.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have not visited Jeju yet.",
+          "acceptedAnswers": [
+            "I have not visited Jeju yet."
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q04",
+          "stageId": "EN-L08-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 과정 평가 · 4번: You have not finished the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q05",
+          "stageId": "EN-L08-C13-S11",
+          "type": "dictation",
+          "prompt": "듣기 의도 추론: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He has not seen that movie yet.",
+          "explanation": "바른 문장은 “He has not seen that movie yet.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has not seen that movie yet.",
+          "acceptedAnswers": [
+            "He has not seen that movie yet.",
+            "He has not seen that movie yet"
+          ],
+          "exampleSentence": "He has not seen that movie yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q06",
+          "stageId": "EN-L08-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 과정 평가 · 6번: “She has not eaten lunch yet.”의 뜻을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "아직 완료되지 않은 일을 쓴다.",
+            "have"
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "She has not eaten lunch yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q07",
+          "stageId": "EN-L08-C13-S11",
+          "type": "reviewMixed",
+          "prompt": "듣기 의도 추론: 과정 평가 · 7번: We have not cleaned the room ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "ever",
+            "yet",
+            "have",
+            "has"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "We have not cleaned the room yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q08",
+          "stageId": "EN-L08-C13-S11",
+          "type": "multipleChoice",
+          "prompt": "듣기 의도 추론: 과정 평가 · 8번: They have not played this game ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "yet",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "They have not played this game yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q09",
+          "stageId": "EN-L08-C13-S11",
+          "type": "listeningChoice",
+          "prompt": "듣기 의도 추론: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have not visited Jeju yet.",
+            "You have not finished the book yet.",
+            "He has not seen that movie yet.",
+            "Mina has not written the email yet."
+          ],
+          "correctAnswer": "Mina has not written the email yet.",
+          "explanation": "들은 문장은 “Mina has not written the email yet.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina has not written the email yet.",
+          "acceptedAnswers": [
+            "Mina has not written the email yet."
+          ],
+          "exampleSentence": "Mina has not written the email yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q10",
+          "stageId": "EN-L08-C13-S11",
+          "type": "sentenceCompletion",
+          "prompt": "듣기 의도 추론: 과정 평가 · 10번: Tom has not read the story ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "has",
+            "ever",
+            "yet",
+            "have"
+          ],
+          "correctAnswer": "yet",
+          "explanation": "현재완료 쓰기 문맥에 맞는 표현은 yet입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "yet",
+            "yet"
+          ],
+          "exampleSentence": "Tom has not read the story yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q11",
+          "stageId": "EN-L08-C13-S11",
+          "type": "dictation",
+          "prompt": "듣기 의도 추론: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "I have not visited Jeju yet.",
+          "explanation": "바른 문장은 “I have not visited Jeju yet.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "I have not visited Jeju yet.",
+          "acceptedAnswers": [
+            "I have not visited Jeju yet.",
+            "I have not visited Jeju yet"
+          ],
+          "exampleSentence": "I have not visited Jeju yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        },
+        {
+          "questionId": "EN-L08-C13-S11-Q12",
+          "stageId": "EN-L08-C13-S11",
+          "type": "sentenceMeaning",
+          "prompt": "듣기 의도 추론: 과정 평가 · 12번: “You have not finished the book yet.”의 뜻을 고르세요.",
+          "choices": [
+            "아직 완료되지 않은 일을 쓴다.",
+            "have",
+            "has",
+            "ever"
+          ],
+          "correctAnswer": "아직 완료되지 않은 일을 쓴다.",
+          "explanation": "뜻은 ‘아직 완료되지 않은 일을 쓴다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 쓰기",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "듣기 의도 추론 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "아직 완료되지 않은 일을 쓴다."
+          ],
+          "exampleSentence": "You have not finished the book yet.",
+          "koreanMeaning": "아직 완료되지 않은 일을 쓴다."
+        }
+      ]
+    }
+  ]
+}

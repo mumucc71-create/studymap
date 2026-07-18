@@ -1,0 +1,2078 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L12",
+  "courseId": "EN-L12-C08",
+  "stages": [
+    {
+      "stageId": "EN-L12-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S01-Q01",
+          "stageId": "EN-L12-C08-S01",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in the environmental report.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S01-Q02",
+          "stageId": "EN-L12-C08-S01",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined in the environmental report.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S01-Q03",
+          "stageId": "EN-L12-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined in the environmental report.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S01-Q04",
+          "stageId": "EN-L12-C08-S01",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S01-Q05",
+          "stageId": "EN-L12-C08-S01",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S01-Q06",
+          "stageId": "EN-L12-C08-S01",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 출제 개념과 독해 원리 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "concept",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 출제 개념과 독해 원리 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S02-Q01",
+          "stageId": "EN-L12-C08-S02",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S02-Q02",
+          "stageId": "EN-L12-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S02-Q03",
+          "stageId": "EN-L12-C08-S02",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina worked as carefully as Tom. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S02-Q04",
+          "stageId": "EN-L12-C08-S02",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The new model is better than the first. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S02-Q05",
+          "stageId": "EN-L12-C08-S02",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 5번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S02-Q06",
+          "stageId": "EN-L12-C08-S02",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 수능 문맥 어휘 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "vocabulary",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 수능 문맥 어휘 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S03-Q01",
+          "stageId": "EN-L12-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S03-Q02",
+          "stageId": "EN-L12-C08-S03",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S03-Q03",
+          "stageId": "EN-L12-C08-S03",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S03-Q04",
+          "stageId": "EN-L12-C08-S03",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined in a study about human behavior.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S03-Q05",
+          "stageId": "EN-L12-C08-S03",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined in a study about human behavior.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S03-Q06",
+          "stageId": "EN-L12-C08-S03",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 어법·구문 분석 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined in a study about human behavior.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "grammar",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 어법·구문 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S04-Q01",
+          "stageId": "EN-L12-C08-S04",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S04-Q02",
+          "stageId": "EN-L12-C08-S04",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S04-Q03",
+          "stageId": "EN-L12-C08-S04",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina worked as carefully as Tom. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S04-Q04",
+          "stageId": "EN-L12-C08-S04",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The new model is better than the first. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S04-Q05",
+          "stageId": "EN-L12-C08-S04",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 5번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S04-Q06",
+          "stageId": "EN-L12-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 근거 문장 찾기 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 근거 문장 찾기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S05-Q01",
+          "stageId": "EN-L12-C08-S05",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in a study about human behavior.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S05-Q02",
+          "stageId": "EN-L12-C08-S05",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined in a study about human behavior.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S05-Q03",
+          "stageId": "EN-L12-C08-S05",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined in a study about human behavior.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined in a study about human behavior.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S05-Q04",
+          "stageId": "EN-L12-C08-S05",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined during the community meeting.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S05-Q05",
+          "stageId": "EN-L12-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined during the community meeting.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S05-Q06",
+          "stageId": "EN-L12-C08-S05",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 유형 기초 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined during the community meeting.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 12,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형 기초 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S06-Q01",
+          "stageId": "EN-L12-C08-S06",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S06-Q02",
+          "stageId": "EN-L12-C08-S06",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S06-Q03",
+          "stageId": "EN-L12-C08-S06",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina worked as carefully as Tom. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S06-Q04",
+          "stageId": "EN-L12-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The new model is better than the first. This structure is examined during the science project.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S06-Q05",
+          "stageId": "EN-L12-C08-S06",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 5번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined during the science project.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S06-Q06",
+          "stageId": "EN-L12-C08-S06",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 유형별 독해 적용 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined during the science project.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "reading",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 유형별 독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S07-Q01",
+          "stageId": "EN-L12-C08-S07",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined during the community meeting.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S07-Q02",
+          "stageId": "EN-L12-C08-S07",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined during the community meeting.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S07-Q03",
+          "stageId": "EN-L12-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined during the community meeting.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined during the community meeting.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S07-Q04",
+          "stageId": "EN-L12-C08-S07",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined in the school research paper.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S07-Q05",
+          "stageId": "EN-L12-C08-S07",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined in the school research paper.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S07-Q06",
+          "stageId": "EN-L12-C08-S07",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 선택지 판단 훈련 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined in the school research paper.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 선택지 판단 훈련 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S08-Q01",
+          "stageId": "EN-L12-C08-S08",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 1번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The second result is the most accurate. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S08-Q02",
+          "stageId": "EN-L12-C08-S08",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 2번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The task became less difficult with practice. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S08-Q03",
+          "stageId": "EN-L12-C08-S08",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 3번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina worked as carefully as Tom. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S08-Q04",
+          "stageId": "EN-L12-C08-S08",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 4번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new model is better than the first. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S08-Q05",
+          "stageId": "EN-L12-C08-S08",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 5번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "This sample is twice as large as that one. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S08-Q06",
+          "stageId": "EN-L12-C08-S08",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 핵심 신호 포착 · 6번: 문장을 듣고 핵심 표현을 고르세요.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "listening",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 핵심 신호 포착 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The issue is more complex than it seems. This structure is examined in the environmental report.",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in the environmental report.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S09",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S09-Q01",
+          "stageId": "EN-L12-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in the school research paper.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S09-Q02",
+          "stageId": "EN-L12-C08-S09",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined in the school research paper.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S09-Q03",
+          "stageId": "EN-L12-C08-S09",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined in the school research paper.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined in the school research paper.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S09-Q04",
+          "stageId": "EN-L12-C08-S09",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S09-Q05",
+          "stageId": "EN-L12-C08-S09",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S09-Q06",
+          "stageId": "EN-L12-C08-S09",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 요약과 근거 기록 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "writing",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 요약과 근거 기록 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S10",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S10-Q01",
+          "stageId": "EN-L12-C08-S10",
+          "type": "ordering",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 1번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S10-Q02",
+          "stageId": "EN-L12-C08-S10",
+          "type": "grammarChoice",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S10-Q03",
+          "stageId": "EN-L12-C08-S10",
+          "type": "grammarError",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 3번: 문맥에 가장 알맞은 표현을 고르세요. Mina worked as carefully as Tom. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S10-Q04",
+          "stageId": "EN-L12-C08-S10",
+          "type": "sentenceTransformation",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 4번: 문맥에 가장 알맞은 표현을 고르세요. The new model is better than the first. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S10-Q05",
+          "stageId": "EN-L12-C08-S10",
+          "type": "passageGrammar",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 5번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S10-Q06",
+          "stageId": "EN-L12-C08-S10",
+          "type": "multipleChoice",
+          "prompt": "비교 구문 어법: 기출형 혼합 문제 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined while reviewing the social survey.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 13,
+          "skill": "practice",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 기출형 혼합 문제 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined while reviewing the social survey.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L12-C08-S11",
+      "questions": [
+        {
+          "questionId": "EN-L12-C08-S11-Q01",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 1번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q02",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 2번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q03",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 3번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined while analyzing the new evidence.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined while analyzing the new evidence.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q04",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 4번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q05",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 5번: 문맥에 가장 알맞은 표현을 고르세요. The second result is the most accurate. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "the most accurate"
+          ],
+          "correctAnswer": "the most accurate",
+          "explanation": "문장 구조상 the most accurate이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the most accurate",
+            "the most accurate"
+          ],
+          "exampleSentence": "The second result is the most accurate. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 the most accurate이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q06",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 6번: 문맥에 가장 알맞은 표현을 고르세요. The task became less difficult with practice. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "less difficult",
+          "explanation": "문장 구조상 less difficult이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "less difficult",
+            "less difficult"
+          ],
+          "exampleSentence": "The task became less difficult with practice. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 less difficult이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q07",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 7번: 문맥에 가장 알맞은 표현을 고르세요. Mina worked as carefully as Tom. This structure is examined in a recent class discussion.",
+          "choices": [
+            "more reliable",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "as carefully as",
+          "explanation": "문장 구조상 as carefully as이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "as carefully as",
+            "as carefully as"
+          ],
+          "exampleSentence": "Mina worked as carefully as Tom. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 as carefully as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q08",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 8번: 문맥에 가장 알맞은 표현을 고르세요. The new model is better than the first. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "the most accurate"
+          ],
+          "correctAnswer": "better",
+          "explanation": "문장 구조상 better이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "better",
+            "better"
+          ],
+          "exampleSentence": "The new model is better than the first. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 better이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q09",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 9번: 문맥에 가장 알맞은 표현을 고르세요. This sample is twice as large as that one. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "less difficult",
+            "twice as large as"
+          ],
+          "correctAnswer": "twice as large as",
+          "explanation": "문장 구조상 twice as large as이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "twice as large as",
+            "twice as large as"
+          ],
+          "exampleSentence": "This sample is twice as large as that one. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 twice as large as이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q10",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 10번: 문맥에 가장 알맞은 표현을 고르세요. The issue is more complex than it seems. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "as carefully as",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more complex",
+          "explanation": "문장 구조상 more complex이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more complex",
+            "more complex"
+          ],
+          "exampleSentence": "The issue is more complex than it seems. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 more complex이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q11",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 11번: 문맥에 가장 알맞은 표현을 고르세요. The final test was the easiest. This structure is examined in a recent class discussion.",
+          "choices": [
+            "better",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "the easiest",
+          "explanation": "문장 구조상 the easiest이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "the easiest",
+            "the easiest"
+          ],
+          "exampleSentence": "The final test was the easiest. This structure is examined in a recent class discussion.",
+          "koreanMeaning": "문장 구조상 the easiest이 문맥에 맞는 표현이다."
+        },
+        {
+          "questionId": "EN-L12-C08-S11-Q12",
+          "stageId": "EN-L12-C08-S11",
+          "type": "reviewMixed",
+          "prompt": "비교 구문 어법: 과정 평가 · 12번: 문맥에 가장 알맞은 표현을 고르세요. This method is more reliable than the old one. This structure is examined during the science project.",
+          "choices": [
+            "more reliable",
+            "the easiest",
+            "more complex",
+            "twice as large as"
+          ],
+          "correctAnswer": "more reliable",
+          "explanation": "문장 구조상 more reliable이 문맥에 맞는 표현이다.",
+          "difficulty": 14,
+          "skill": "checkpoint",
+          "grammarFocus": "비교 구문 어법",
+          "vocabularyTopic": "수능 어법",
+          "sourceObjective": "비교 구문 어법 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "more reliable",
+            "more reliable"
+          ],
+          "exampleSentence": "This method is more reliable than the old one. This structure is examined during the science project.",
+          "koreanMeaning": "문장 구조상 more reliable이 문맥에 맞는 표현이다."
+        }
+      ]
+    }
+  ]
+}

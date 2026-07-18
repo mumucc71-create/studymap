@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C13",
+  "stages": [
+    {
+      "stageId": "EN-L03-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S01-Q01",
+          "stageId": "EN-L03-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 1번: ‘공원’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "hospital",
+            "park"
+          ],
+          "correctAnswer": "park",
+          "explanation": "‘공원’은 영어로 park입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        },
+        {
+          "questionId": "EN-L03-C13-S01-Q02",
+          "stageId": "EN-L03-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 2번: “There is a store.”에서 store의 뜻을 고르세요.",
+          "choices": [
+            "도서관",
+            "병원",
+            "가게",
+            "공원"
+          ],
+          "correctAnswer": "가게",
+          "explanation": "store은 ‘가게’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "가게"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C13-S01-Q03",
+          "stageId": "EN-L03-C13-S01",
+          "type": "trueFalse",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 3번: library의 뜻이 ‘공원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "library의 뜻은 ‘도서관’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S01-Q04",
+          "stageId": "EN-L03-C13-S01",
+          "type": "matching",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 4번: hospital과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "병원",
+            "공원",
+            "가게",
+            "도서관"
+          ],
+          "correctAnswer": "병원",
+          "explanation": "hospital은 ‘병원’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "병원"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S01-Q05",
+          "stageId": "EN-L03-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 5번: I go by ___. 빈칸에 ‘버스’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "bus"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "문맥과 뜻에 맞는 단어는 bus입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S01-Q06",
+          "stageId": "EN-L03-C13-S01",
+          "type": "categorization",
+          "prompt": "장소와 이동: 핵심 표현 이해 · 6번: car을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "동물과 자연",
+            "장소와 이동",
+            "집"
+          ],
+          "correctAnswer": "장소와 이동",
+          "explanation": "car은 장소와 이동 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "장소와 이동"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S02-Q01",
+          "stageId": "EN-L03-C13-S02",
+          "type": "matching",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 1번: hospital과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "공원",
+            "가게",
+            "도서관",
+            "병원"
+          ],
+          "correctAnswer": "병원",
+          "explanation": "hospital은 ‘병원’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "병원"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S02-Q02",
+          "stageId": "EN-L03-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 2번: ‘버스’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "bus",
+            "park"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "‘버스’은 영어로 bus입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S02-Q03",
+          "stageId": "EN-L03-C13-S02",
+          "type": "categorization",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 3번: car을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "장소와 이동",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "장소와 이동",
+          "explanation": "car은 장소와 이동 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "장소와 이동"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C13-S02-Q04",
+          "stageId": "EN-L03-C13-S02",
+          "type": "spelling",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 4번: bi_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "k",
+          "explanation": "bike의 빠진 글자는 k입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "k",
+            "K"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        },
+        {
+          "questionId": "EN-L03-C13-S02-Q05",
+          "stageId": "EN-L03-C13-S02",
+          "type": "wordBuilding",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘걷다’을 만드세요.",
+          "choices": [
+            "klaw",
+            "alkw",
+            "wal",
+            "walk"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "바른 철자는 walk입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "walk",
+            "WALK"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        },
+        {
+          "questionId": "EN-L03-C13-S02-Q06",
+          "stageId": "EN-L03-C13-S02",
+          "type": "fillBlank",
+          "prompt": "장소와 이동: 생활 어휘 문맥 학습 · 6번: _ere에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "h",
+          "explanation": "here의 빠진 글자는 h입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "h",
+            "H"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S03-Q01",
+          "stageId": "EN-L03-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 문장 구조 발견 · 1번: I go by ___. 빈칸에 ‘자전거’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "bike"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "문맥과 뜻에 맞는 단어는 bike입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        },
+        {
+          "questionId": "EN-L03-C13-S03-Q02",
+          "stageId": "EN-L03-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 문장 구조 발견 · 2번: ‘걷다’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "walk",
+            "park"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "‘걷다’은 영어로 walk입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "walk",
+            "WALK"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        },
+        {
+          "questionId": "EN-L03-C13-S03-Q03",
+          "stageId": "EN-L03-C13-S03",
+          "type": "trueFalse",
+          "prompt": "장소와 이동: 문장 구조 발견 · 3번: here의 뜻이 ‘공원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "here의 뜻은 ‘여기’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        },
+        {
+          "questionId": "EN-L03-C13-S03-Q04",
+          "stageId": "EN-L03-C13-S03",
+          "type": "ordering",
+          "prompt": "장소와 이동: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "I am there.",
+            "there am I.",
+            "am there I."
+          ],
+          "correctAnswer": "I am there.",
+          "explanation": "바른 어순은 “I am there.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I am there.",
+            "I am there"
+          ],
+          "koreanMeaning": "저기",
+          "exampleSentence": "I am there."
+        },
+        {
+          "questionId": "EN-L03-C13-S03-Q05",
+          "stageId": "EN-L03-C13-S03",
+          "type": "fillBlank",
+          "prompt": "장소와 이동: 문장 구조 발견 · 5번: _ark에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "p",
+          "explanation": "park의 빠진 글자는 p입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "p",
+            "P"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        },
+        {
+          "questionId": "EN-L03-C13-S03-Q06",
+          "stageId": "EN-L03-C13-S03",
+          "type": "matching",
+          "prompt": "장소와 이동: 문장 구조 발견 · 6번: store과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "도서관",
+            "병원",
+            "가게",
+            "공원"
+          ],
+          "correctAnswer": "가게",
+          "explanation": "store은 ‘가게’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "가게"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S04-Q01",
+          "stageId": "EN-L03-C13-S04",
+          "type": "wordBuilding",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘저기’을 만드세요.",
+          "choices": [
+            "ereht",
+            "heret",
+            "ther",
+            "there"
+          ],
+          "correctAnswer": "there",
+          "explanation": "바른 철자는 there입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "there",
+            "THERE"
+          ],
+          "koreanMeaning": "저기",
+          "exampleSentence": "I am there."
+        },
+        {
+          "questionId": "EN-L03-C13-S04-Q02",
+          "stageId": "EN-L03-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 2번: I go to the ___. 빈칸에 ‘공원’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "library",
+            "hospital",
+            "park",
+            "store"
+          ],
+          "correctAnswer": "park",
+          "explanation": "문맥과 뜻에 맞는 단어는 park입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        },
+        {
+          "questionId": "EN-L03-C13-S04-Q03",
+          "stageId": "EN-L03-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 3번: ‘가게’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hospital",
+            "store",
+            "park",
+            "library"
+          ],
+          "correctAnswer": "store",
+          "explanation": "‘가게’은 영어로 store입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "store",
+            "STORE"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C13-S04-Q04",
+          "stageId": "EN-L03-C13-S04",
+          "type": "categorization",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 4번: library을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "장소와 이동",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "장소와 이동",
+          "explanation": "library은 장소와 이동 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "장소와 이동"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S04-Q05",
+          "stageId": "EN-L03-C13-S04",
+          "type": "ordering",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "hospital a is There.",
+            "is a hospital There.",
+            "There is a hospital."
+          ],
+          "correctAnswer": "There is a hospital.",
+          "explanation": "바른 어순은 “There is a hospital.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "There is a hospital.",
+            "There is a hospital"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S04-Q06",
+          "stageId": "EN-L03-C13-S04",
+          "type": "fillBlank",
+          "prompt": "장소와 이동: 짧은 문장 연습 · 6번: b_s에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "u",
+          "explanation": "bus의 빠진 글자는 u입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "u",
+            "U"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S05-Q01",
+          "stageId": "EN-L03-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 1번: “I go to the library.”에서 library의 뜻을 고르세요.",
+          "choices": [
+            "공원",
+            "가게",
+            "병원",
+            "도서관"
+          ],
+          "correctAnswer": "도서관",
+          "explanation": "library은 ‘도서관’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "도서관"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S05-Q02",
+          "stageId": "EN-L03-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 2번: ‘병원’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "hospital",
+            "park"
+          ],
+          "correctAnswer": "hospital",
+          "explanation": "‘병원’은 영어로 hospital입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hospital",
+            "HOSPITAL"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S05-Q03",
+          "stageId": "EN-L03-C13-S05",
+          "type": "trueFalse",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 3번: bus의 뜻이 ‘공원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "bus의 뜻은 ‘버스’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S05-Q04",
+          "stageId": "EN-L03-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 4번: I see a ___. 빈칸에 ‘자동차’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "car",
+            "park",
+            "store",
+            "library"
+          ],
+          "correctAnswer": "car",
+          "explanation": "문맥과 뜻에 맞는 단어는 car입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C13-S05-Q05",
+          "stageId": "EN-L03-C13-S05",
+          "type": "matching",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 5번: bike과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "공원",
+            "가게",
+            "도서관",
+            "자전거"
+          ],
+          "correctAnswer": "자전거",
+          "explanation": "bike은 ‘자전거’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "자전거"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        },
+        {
+          "questionId": "EN-L03-C13-S05-Q06",
+          "stageId": "EN-L03-C13-S05",
+          "type": "ordering",
+          "prompt": "장소와 이동: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "like to walk I.",
+            "I like to walk.",
+            "walk to like I."
+          ],
+          "correctAnswer": "I like to walk.",
+          "explanation": "바른 어순은 “I like to walk.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I like to walk.",
+            "I like to walk"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S06-Q01",
+          "stageId": "EN-L03-C13-S06",
+          "type": "listeningChoice",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "car"
+          ],
+          "correctAnswer": "car",
+          "explanation": "음성의 핵심 단어는 car입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "car",
+          "acceptedAnswers": [
+            "car"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C13-S06-Q02",
+          "stageId": "EN-L03-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 2번: ‘자전거’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "bike",
+            "park"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "‘자전거’은 영어로 bike입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        },
+        {
+          "questionId": "EN-L03-C13-S06-Q03",
+          "stageId": "EN-L03-C13-S06",
+          "type": "listeningChoice",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "library",
+            "walk",
+            "park",
+            "store"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "음성의 핵심 단어는 walk입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "walk",
+          "acceptedAnswers": [
+            "walk"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        },
+        {
+          "questionId": "EN-L03-C13-S06-Q04",
+          "stageId": "EN-L03-C13-S06",
+          "type": "dictation",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "here",
+          "explanation": "여기은 영어로 here입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "here",
+          "acceptedAnswers": [
+            "here",
+            "HERE"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        },
+        {
+          "questionId": "EN-L03-C13-S06-Q05",
+          "stageId": "EN-L03-C13-S06",
+          "type": "trueFalse",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 5번: there의 뜻이 ‘공원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "there의 뜻은 ‘저기’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "저기",
+          "exampleSentence": "I am there."
+        },
+        {
+          "questionId": "EN-L03-C13-S06-Q06",
+          "stageId": "EN-L03-C13-S06",
+          "type": "matching",
+          "prompt": "장소와 이동: 생활 대화 듣기 · 6번: park과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "도서관",
+            "병원",
+            "공원",
+            "가게"
+          ],
+          "correctAnswer": "공원",
+          "explanation": "park은 ‘공원’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "공원"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S07-Q01",
+          "stageId": "EN-L03-C13-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "장소와 이동: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "It is here.",
+          "explanation": "It is here.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "It is here.",
+          "acceptedAnswers": [
+            "It is here.",
+            "It is here"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        },
+        {
+          "questionId": "EN-L03-C13-S07-Q02",
+          "stageId": "EN-L03-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 표현 말하기 · 2번: ‘저기’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "there",
+            "park"
+          ],
+          "correctAnswer": "there",
+          "explanation": "‘저기’은 영어로 there입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "there",
+            "THERE"
+          ],
+          "koreanMeaning": "저기",
+          "exampleSentence": "I am there."
+        },
+        {
+          "questionId": "EN-L03-C13-S07-Q03",
+          "stageId": "EN-L03-C13-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "장소와 이동: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I go to the park.",
+          "explanation": "I go to the park.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I go to the park.",
+          "acceptedAnswers": [
+            "I go to the park.",
+            "I go to the park"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        },
+        {
+          "questionId": "EN-L03-C13-S07-Q04",
+          "stageId": "EN-L03-C13-S07",
+          "type": "sentenceMeaning",
+          "prompt": "장소와 이동: 표현 말하기 · 4번: “There is a store.”에서 store의 뜻을 고르세요.",
+          "choices": [
+            "가게",
+            "공원",
+            "도서관",
+            "병원"
+          ],
+          "correctAnswer": "가게",
+          "explanation": "store은 ‘가게’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "가게"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C13-S07-Q05",
+          "stageId": "EN-L03-C13-S07",
+          "type": "matching",
+          "prompt": "장소와 이동: 표현 말하기 · 5번: library과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "공원",
+            "가게",
+            "병원",
+            "도서관"
+          ],
+          "correctAnswer": "도서관",
+          "explanation": "library은 ‘도서관’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "도서관"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S07-Q06",
+          "stageId": "EN-L03-C13-S07",
+          "type": "trueFalse",
+          "prompt": "장소와 이동: 표현 말하기 · 6번: hospital의 뜻이 ‘병원’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "hospital의 뜻은 ‘병원’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S08-Q01",
+          "stageId": "EN-L03-C13-S08",
+          "type": "spelling",
+          "prompt": "장소와 이동: 문장 쓰기 · 1번: stor_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "store의 빠진 글자는 e입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C13-S08-Q02",
+          "stageId": "EN-L03-C13-S08",
+          "type": "fillBlank",
+          "prompt": "장소와 이동: 문장 쓰기 · 2번: lib_ary에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "library의 빠진 글자는 r입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S08-Q03",
+          "stageId": "EN-L03-C13-S08",
+          "type": "dictation",
+          "prompt": "장소와 이동: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "hospital",
+          "explanation": "병원은 영어로 hospital입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "hospital",
+          "acceptedAnswers": [
+            "hospital",
+            "HOSPITAL"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S08-Q04",
+          "stageId": "EN-L03-C13-S08",
+          "type": "wordBuilding",
+          "prompt": "장소와 이동: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘버스’을 만드세요.",
+          "choices": [
+            "bus",
+            "sub",
+            "usb",
+            "bu"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "바른 철자는 bus입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S08-Q05",
+          "stageId": "EN-L03-C13-S08",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 문장 쓰기 · 5번: I see a ___. 빈칸에 ‘자동차’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "car"
+          ],
+          "correctAnswer": "car",
+          "explanation": "문맥과 뜻에 맞는 단어는 car입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C13-S08-Q06",
+          "stageId": "EN-L03-C13-S08",
+          "type": "ordering",
+          "prompt": "장소와 이동: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "go by bike I.",
+            "I go by bike.",
+            "bike by go I."
+          ],
+          "correctAnswer": "I go by bike.",
+          "explanation": "바른 어순은 “I go by bike.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I go by bike.",
+            "I go by bike"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C13-S09-Q01",
+          "stageId": "EN-L03-C13-S09",
+          "type": "reviewMixed",
+          "prompt": "장소와 이동: 과정 평가 · 1번: ‘버스’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "library",
+            "bus"
+          ],
+          "correctAnswer": "bus",
+          "explanation": "‘버스’은 영어로 bus입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q02",
+          "stageId": "EN-L03-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 과정 평가 · 2번: ‘자동차’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "car",
+            "park"
+          ],
+          "correctAnswer": "car",
+          "explanation": "‘자동차’은 영어로 car입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "car",
+            "CAR"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q03",
+          "stageId": "EN-L03-C13-S09",
+          "type": "listeningChoice",
+          "prompt": "장소와 이동: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "library",
+            "bike",
+            "park",
+            "store"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "음성의 핵심 단어는 bike입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bike",
+          "acceptedAnswers": [
+            "bike"
+          ],
+          "koreanMeaning": "자전거",
+          "exampleSentence": "I go by bike."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q04",
+          "stageId": "EN-L03-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 과정 평가 · 4번: I like to ___. 빈칸에 ‘걷다’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "walk",
+            "park",
+            "store",
+            "library"
+          ],
+          "correctAnswer": "walk",
+          "explanation": "문맥과 뜻에 맞는 단어는 walk입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "walk",
+            "WALK"
+          ],
+          "koreanMeaning": "걷다",
+          "exampleSentence": "I like to walk."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q05",
+          "stageId": "EN-L03-C13-S09",
+          "type": "dictation",
+          "prompt": "장소와 이동: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "here",
+          "explanation": "여기은 영어로 here입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "here",
+          "acceptedAnswers": [
+            "here",
+            "HERE"
+          ],
+          "koreanMeaning": "여기",
+          "exampleSentence": "It is here."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q06",
+          "stageId": "EN-L03-C13-S09",
+          "type": "sentenceMeaning",
+          "prompt": "장소와 이동: 과정 평가 · 6번: “I am there.”에서 there의 뜻을 고르세요.",
+          "choices": [
+            "가게",
+            "도서관",
+            "저기",
+            "공원"
+          ],
+          "correctAnswer": "저기",
+          "explanation": "there은 ‘저기’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "저기"
+          ],
+          "koreanMeaning": "저기",
+          "exampleSentence": "I am there."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q07",
+          "stageId": "EN-L03-C13-S09",
+          "type": "reviewMixed",
+          "prompt": "장소와 이동: 과정 평가 · 7번: ‘공원’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "hospital",
+            "park",
+            "store",
+            "library"
+          ],
+          "correctAnswer": "park",
+          "explanation": "‘공원’은 영어로 park입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "park",
+            "PARK"
+          ],
+          "koreanMeaning": "공원",
+          "exampleSentence": "I go to the park."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q08",
+          "stageId": "EN-L03-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "장소와 이동: 과정 평가 · 8번: ‘가게’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "store",
+            "park",
+            "library",
+            "hospital"
+          ],
+          "correctAnswer": "store",
+          "explanation": "‘가게’은 영어로 store입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "store",
+            "STORE"
+          ],
+          "koreanMeaning": "가게",
+          "exampleSentence": "There is a store."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q09",
+          "stageId": "EN-L03-C13-S09",
+          "type": "listeningChoice",
+          "prompt": "장소와 이동: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "park",
+            "store",
+            "hospital",
+            "library"
+          ],
+          "correctAnswer": "library",
+          "explanation": "음성의 핵심 단어는 library입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "library",
+          "acceptedAnswers": [
+            "library"
+          ],
+          "koreanMeaning": "도서관",
+          "exampleSentence": "I go to the library."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q10",
+          "stageId": "EN-L03-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "장소와 이동: 과정 평가 · 10번: There is a ___. 빈칸에 ‘병원’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "store",
+            "library",
+            "hospital",
+            "park"
+          ],
+          "correctAnswer": "hospital",
+          "explanation": "문맥과 뜻에 맞는 단어는 hospital입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "hospital",
+            "HOSPITAL"
+          ],
+          "koreanMeaning": "병원",
+          "exampleSentence": "There is a hospital."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q11",
+          "stageId": "EN-L03-C13-S09",
+          "type": "dictation",
+          "prompt": "장소와 이동: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "bus",
+          "explanation": "버스은 영어로 bus입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bus",
+          "acceptedAnswers": [
+            "bus",
+            "BUS"
+          ],
+          "koreanMeaning": "버스",
+          "exampleSentence": "I go by bus."
+        },
+        {
+          "questionId": "EN-L03-C13-S09-Q12",
+          "stageId": "EN-L03-C13-S09",
+          "type": "sentenceMeaning",
+          "prompt": "장소와 이동: 과정 평가 · 12번: “I see a car.”에서 car의 뜻을 고르세요.",
+          "choices": [
+            "자동차",
+            "공원",
+            "가게",
+            "도서관"
+          ],
+          "correctAnswer": "자동차",
+          "explanation": "car은 ‘자동차’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "장소와 이동",
+          "grammarFocus": "There is + 장소 / I go",
+          "sourceObjective": "장소와 이동 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "자동차"
+          ],
+          "koreanMeaning": "자동차",
+          "exampleSentence": "I see a car."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L08",
+  "courseId": "EN-L08-C04",
+  "stages": [
+    {
+      "stageId": "EN-L08-C04-S01",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S01-Q01",
+          "stageId": "EN-L08-C04-S01",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 1번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since breakfast",
+            "since 2024"
+          ],
+          "correctAnswer": "since 2024",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2024입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2024",
+            "since 2024"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S01-Q02",
+          "stageId": "EN-L08-C04-S01",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 2번: 핵심 표현이 ‘since May’이면 O, 아니면 X를 고르세요: You have been living here since May.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 since May입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S01-Q03",
+          "stageId": "EN-L08-C04-S01",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 3번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since breakfast",
+            "since noon",
+            "since 2024",
+            "since May"
+          ],
+          "correctAnswer": "since noon",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since noon입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since noon",
+            "since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S01-Q04",
+          "stageId": "EN-L08-C04-S01",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 4번: “She has been reading the book since breakfast.”의 뜻을 고르세요.",
+          "choices": [
+            "She는 특정 시점부터 계속하고 있다.",
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다.",
+            "He는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "She는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘She는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S01-Q05",
+          "stageId": "EN-L08-C04-S01",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 5번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since ten"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S01-Q06",
+          "stageId": "EN-L08-C04-S01",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been working together since spring They.",
+            "have",
+            "They have been working together since spring.",
+            "spring since together working been have They."
+          ],
+          "correctAnswer": "They have been working together since spring.",
+          "explanation": "바른 어순은 “They have been working together since spring.”입니다.",
+          "difficulty": 8,
+          "skill": "concept",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They have been working together since spring.",
+            "They have been working together since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S02",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S02-Q01",
+          "stageId": "EN-L08-C04-S02",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 1번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since breakfast"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S02-Q02",
+          "stageId": "EN-L08-C04-S02",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 2번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since ten",
+            "since 2024"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S02-Q03",
+          "stageId": "EN-L08-C04-S02",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 3번: “They have been working together since spring.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 특정 시점부터 계속하고 있다.",
+            "They는 특정 시점부터 계속하고 있다.",
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "They는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘They는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "They는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S02-Q04",
+          "stageId": "EN-L08-C04-S02",
+          "type": "fillBlank",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 4번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2020",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S02-Q05",
+          "stageId": "EN-L08-C04-S02",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 5번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since Monday"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S02-Q06",
+          "stageId": "EN-L08-C04-S02",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 문맥 어휘 확장 · 6번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: I have been studying English since 2024.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 since 2024입니다.",
+          "difficulty": 8,
+          "skill": "vocabulary",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S03",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S03-Q01",
+          "stageId": "EN-L08-C04-S03",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 1번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since 2020"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S03-Q02",
+          "stageId": "EN-L08-C04-S03",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 2번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since Monday",
+            "since 2024"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S03-Q03",
+          "stageId": "EN-L08-C04-S03",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 3번: 핵심 표현이 ‘since May’이면 O, 아니면 X를 고르세요: I have been studying English since 2024.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since 2024입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S03-Q04",
+          "stageId": "EN-L08-C04-S03",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "You have been living here since May.",
+            "May since here living been have You.",
+            "have been living here since May You.",
+            "have"
+          ],
+          "correctAnswer": "You have been living here since May.",
+          "explanation": "바른 어순은 “You have been living here since May.”입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here since May.",
+            "You have been living here since May"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S03-Q05",
+          "stageId": "EN-L08-C04-S03",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 5번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since breakfast",
+            "since noon"
+          ],
+          "correctAnswer": "since noon",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since noon입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since noon",
+            "since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S03-Q06",
+          "stageId": "EN-L08-C04-S03",
+          "type": "fillBlank",
+          "prompt": "분사와 명사 수식: 문법 구조 분석 · 6번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since breakfast",
+            "since 2024"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 8,
+          "skill": "grammar",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S04",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S04-Q01",
+          "stageId": "EN-L08-C04-S04",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 1번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since noon",
+            "since breakfast",
+            "since May"
+          ],
+          "correctAnswer": "since May",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since May입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since May",
+            "since may"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S04-Q02",
+          "stageId": "EN-L08-C04-S04",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "has been playing soccer since noon He.",
+            "have",
+            "He has been playing soccer since noon.",
+            "noon since soccer playing been has He."
+          ],
+          "correctAnswer": "He has been playing soccer since noon.",
+          "explanation": "바른 어순은 “He has been playing soccer since noon.”입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer since noon.",
+            "He has been playing soccer since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S04-Q03",
+          "stageId": "EN-L08-C04-S04",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 3번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since breakfast",
+            "since 2024",
+            "since May"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S04-Q04",
+          "stageId": "EN-L08-C04-S04",
+          "type": "fillBlank",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 4번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since ten",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S04-Q05",
+          "stageId": "EN-L08-C04-S04",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 5번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: They have been working together since spring.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since spring입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S04-Q06",
+          "stageId": "EN-L08-C04-S04",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 문장 분석 연습 · 6번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since 2020",
+            "since 2024"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 8,
+          "skill": "practice",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S05",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S05-Q01",
+          "stageId": "EN-L08-C04-S05",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 1번: “We have been waiting here since ten.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다.",
+            "He는 특정 시점부터 계속하고 있다.",
+            "We는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "We는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘We는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S05-Q02",
+          "stageId": "EN-L08-C04-S05",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 2번: They have been working together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since spring",
+            "since 2024"
+          ],
+          "correctAnswer": "since spring",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since spring입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since spring",
+            "since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S05-Q03",
+          "stageId": "EN-L08-C04-S05",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 3번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: Mina has been studying math since 2020.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since 2020입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S05-Q04",
+          "stageId": "EN-L08-C04-S05",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 4번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since Monday",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S05-Q05",
+          "stageId": "EN-L08-C04-S05",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 5번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since breakfast",
+            "since 2024"
+          ],
+          "correctAnswer": "since 2024",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2024입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2024",
+            "since 2024"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S05-Q06",
+          "stageId": "EN-L08-C04-S05",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been living here since May You.",
+            "have",
+            "You have been living here since May.",
+            "May since here living been have You."
+          ],
+          "correctAnswer": "You have been living here since May.",
+          "explanation": "바른 어순은 “You have been living here since May.”입니다.",
+          "difficulty": 8,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "You have been living here since May.",
+            "You have been living here since May"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S06",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S06-Q01",
+          "stageId": "EN-L08-C04-S06",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 1번: “Tom has been using this bike since Monday.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다.",
+            "He는 특정 시점부터 계속하고 있다.",
+            "Tom는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "Tom는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘Tom는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S06-Q02",
+          "stageId": "EN-L08-C04-S06",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 2번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since breakfast",
+            "since 2024",
+            "since May"
+          ],
+          "correctAnswer": "since 2024",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2024입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2024",
+            "since 2024"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S06-Q03",
+          "stageId": "EN-L08-C04-S06",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 3번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: You have been living here since May.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since May입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S06-Q04",
+          "stageId": "EN-L08-C04-S06",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 4번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since 2024",
+            "since May",
+            "since breakfast"
+          ],
+          "correctAnswer": "since noon",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since noon입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since noon",
+            "since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S06-Q05",
+          "stageId": "EN-L08-C04-S06",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 5번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since breakfast"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S06-Q06",
+          "stageId": "EN-L08-C04-S06",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have been waiting here since ten We.",
+            "have",
+            "We have been waiting here since ten.",
+            "ten since here waiting been have We."
+          ],
+          "correctAnswer": "We have been waiting here since ten.",
+          "explanation": "바른 어순은 “We have been waiting here since ten.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "We have been waiting here since ten.",
+            "We have been waiting here since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S07",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S07-Q01",
+          "stageId": "EN-L08-C04-S07",
+          "type": "listeningChoice",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English since 2024.",
+            "You have been living here since May.",
+            "She has been reading the book since breakfast.",
+            "He has been playing soccer since noon."
+          ],
+          "correctAnswer": "He has been playing soccer since noon.",
+          "explanation": "들은 문장은 “He has been playing soccer since noon.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has been playing soccer since noon.",
+          "acceptedAnswers": [
+            "He has been playing soccer since noon."
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S07-Q02",
+          "stageId": "EN-L08-C04-S07",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 2번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since breakfast",
+            "since 2024"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S07-Q03",
+          "stageId": "EN-L08-C04-S07",
+          "type": "listeningChoice",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer since noon.",
+            "We have been waiting here since ten.",
+            "I have been studying English since 2024.",
+            "You have been living here since May."
+          ],
+          "correctAnswer": "We have been waiting here since ten.",
+          "explanation": "들은 문장은 “We have been waiting here since ten.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "We have been waiting here since ten.",
+          "acceptedAnswers": [
+            "We have been waiting here since ten."
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S07-Q04",
+          "stageId": "EN-L08-C04-S07",
+          "type": "dictation",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together since spring.",
+          "explanation": "바른 문장은 “They have been working together since spring.”입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together since spring.",
+          "acceptedAnswers": [
+            "They have been working together since spring.",
+            "They have been working together since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S07-Q05",
+          "stageId": "EN-L08-C04-S07",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 5번: 핵심 표현이 ‘since 2024’이면 O, 아니면 X를 고르세요: Mina has been studying math since 2020.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 since 2020입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S07-Q06",
+          "stageId": "EN-L08-C04-S07",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 핵심 정보 듣기 · 6번: Tom has been using this bike ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since Monday",
+            "since 2024"
+          ],
+          "correctAnswer": "since Monday",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since Monday입니다.",
+          "difficulty": 9,
+          "skill": "listening",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since Monday",
+            "since monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S08",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S08-Q01",
+          "stageId": "EN-L08-C04-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together since spring.",
+          "explanation": "“They have been working together since spring.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "They have been working together since spring.",
+          "acceptedAnswers": [
+            "They have been working together since spring.",
+            "They have been working together since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S08-Q02",
+          "stageId": "EN-L08-C04-S08",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 2번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since 2020",
+            "since 2024"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S08-Q03",
+          "stageId": "EN-L08-C04-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike since Monday.",
+          "explanation": "“Tom has been using this bike since Monday.”를 따라 읽으세요.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom has been using this bike since Monday.",
+          "acceptedAnswers": [
+            "Tom has been using this bike since Monday.",
+            "Tom has been using this bike since Monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S08-Q04",
+          "stageId": "EN-L08-C04-S08",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 4번: “I have been studying English since 2024.”의 뜻을 고르세요.",
+          "choices": [
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다.",
+            "He는 특정 시점부터 계속하고 있다.",
+            "She는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "I는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘I는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S08-Q05",
+          "stageId": "EN-L08-C04-S08",
+          "type": "matching",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 5번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since noon",
+            "since breakfast",
+            "since May"
+          ],
+          "correctAnswer": "since May",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since May입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since May",
+            "since may"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S08-Q06",
+          "stageId": "EN-L08-C04-S08",
+          "type": "trueFalse",
+          "prompt": "분사와 명사 수식: 근거 설명하기 · 6번: 핵심 표현이 ‘since noon’이면 O, 아니면 X를 고르세요: He has been playing soccer since noon.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 since noon입니다.",
+          "difficulty": 9,
+          "skill": "speaking",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S09",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S09-Q01",
+          "stageId": "EN-L08-C04-S09",
+          "type": "fillBlank",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 1번: I have been studying English ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since breakfast",
+            "since 2024"
+          ],
+          "correctAnswer": "since 2024",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2024입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2024",
+            "since 2024"
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S09-Q02",
+          "stageId": "EN-L08-C04-S09",
+          "type": "dictation",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "You have been living here since May.",
+          "explanation": "바른 문장은 “You have been living here since May.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "You have been living here since May.",
+          "acceptedAnswers": [
+            "You have been living here since May.",
+            "You have been living here since May"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S09-Q03",
+          "stageId": "EN-L08-C04-S09",
+          "type": "ordering",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "have",
+            "He has been playing soccer since noon.",
+            "noon since soccer playing been has He.",
+            "has been playing soccer since noon He."
+          ],
+          "correctAnswer": "He has been playing soccer since noon.",
+          "explanation": "바른 어순은 “He has been playing soccer since noon.”입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "He has been playing soccer since noon.",
+            "He has been playing soccer since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S09-Q04",
+          "stageId": "EN-L08-C04-S09",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 4번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since breakfast",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S09-Q05",
+          "stageId": "EN-L08-C04-S09",
+          "type": "fillBlank",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 5번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since ten"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S09-Q06",
+          "stageId": "EN-L08-C04-S09",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 논리 문장 쓰기 · 6번: They have been working together ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since spring",
+            "since 2024"
+          ],
+          "correctAnswer": "since spring",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since spring입니다.",
+          "difficulty": 9,
+          "skill": "writing",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since spring",
+            "since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L08-C04-S10",
+      "questions": [
+        {
+          "questionId": "EN-L08-C04-S10-Q01",
+          "stageId": "EN-L08-C04-S10",
+          "type": "reviewMixed",
+          "prompt": "분사와 명사 수식: 과정 평가 · 1번: She has been reading the book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2024",
+            "since May",
+            "since noon",
+            "since breakfast"
+          ],
+          "correctAnswer": "since breakfast",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since breakfast입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since breakfast",
+            "since breakfast"
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q02",
+          "stageId": "EN-L08-C04-S10",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 과정 평가 · 2번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since ten",
+            "since 2024"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q03",
+          "stageId": "EN-L08-C04-S10",
+          "type": "listeningChoice",
+          "prompt": "분사와 명사 수식: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He has been playing soccer since noon.",
+            "They have been working together since spring.",
+            "I have been studying English since 2024.",
+            "You have been living here since May."
+          ],
+          "correctAnswer": "They have been working together since spring.",
+          "explanation": "들은 문장은 “They have been working together since spring.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together since spring.",
+          "acceptedAnswers": [
+            "They have been working together since spring."
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q04",
+          "stageId": "EN-L08-C04-S10",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 과정 평가 · 4번: Mina has been studying math ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since 2020",
+            "since 2024",
+            "since May",
+            "since noon"
+          ],
+          "correctAnswer": "since 2020",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since 2020입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since 2020",
+            "since 2020"
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q05",
+          "stageId": "EN-L08-C04-S10",
+          "type": "dictation",
+          "prompt": "분사와 명사 수식: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom has been using this bike since Monday.",
+          "explanation": "바른 문장은 “Tom has been using this bike since Monday.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom has been using this bike since Monday.",
+          "acceptedAnswers": [
+            "Tom has been using this bike since Monday.",
+            "Tom has been using this bike since Monday"
+          ],
+          "exampleSentence": "Tom has been using this bike since Monday.",
+          "koreanMeaning": "Tom는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q06",
+          "stageId": "EN-L08-C04-S10",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 과정 평가 · 6번: “I have been studying English since 2024.”의 뜻을 고르세요.",
+          "choices": [
+            "He는 특정 시점부터 계속하고 있다.",
+            "She는 특정 시점부터 계속하고 있다.",
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "I는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘I는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "I have been studying English since 2024.",
+          "koreanMeaning": "I는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q07",
+          "stageId": "EN-L08-C04-S10",
+          "type": "reviewMixed",
+          "prompt": "분사와 명사 수식: 과정 평가 · 7번: You have been living here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since breakfast",
+            "since May",
+            "since 2024",
+            "since noon"
+          ],
+          "correctAnswer": "since May",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since May입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since May",
+            "since may"
+          ],
+          "exampleSentence": "You have been living here since May.",
+          "koreanMeaning": "You는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q08",
+          "stageId": "EN-L08-C04-S10",
+          "type": "multipleChoice",
+          "prompt": "분사와 명사 수식: 과정 평가 · 8번: He has been playing soccer ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since noon",
+            "since 2024",
+            "since May",
+            "since breakfast"
+          ],
+          "correctAnswer": "since noon",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since noon입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since noon",
+            "since noon"
+          ],
+          "exampleSentence": "He has been playing soccer since noon.",
+          "koreanMeaning": "He는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q09",
+          "stageId": "EN-L08-C04-S10",
+          "type": "listeningChoice",
+          "prompt": "분사와 명사 수식: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "I have been studying English since 2024.",
+            "You have been living here since May.",
+            "He has been playing soccer since noon.",
+            "She has been reading the book since breakfast."
+          ],
+          "correctAnswer": "She has been reading the book since breakfast.",
+          "explanation": "들은 문장은 “She has been reading the book since breakfast.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She has been reading the book since breakfast.",
+          "acceptedAnswers": [
+            "She has been reading the book since breakfast."
+          ],
+          "exampleSentence": "She has been reading the book since breakfast.",
+          "koreanMeaning": "She는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q10",
+          "stageId": "EN-L08-C04-S10",
+          "type": "sentenceCompletion",
+          "prompt": "분사와 명사 수식: 과정 평가 · 10번: We have been waiting here ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "since May",
+            "since noon",
+            "since ten",
+            "since 2024"
+          ],
+          "correctAnswer": "since ten",
+          "explanation": "현재완료 진행형 since 문맥에 맞는 표현은 since ten입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "since ten",
+            "since ten"
+          ],
+          "exampleSentence": "We have been waiting here since ten.",
+          "koreanMeaning": "We는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q11",
+          "stageId": "EN-L08-C04-S10",
+          "type": "dictation",
+          "prompt": "분사와 명사 수식: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "They have been working together since spring.",
+          "explanation": "바른 문장은 “They have been working together since spring.”입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "They have been working together since spring.",
+          "acceptedAnswers": [
+            "They have been working together since spring.",
+            "They have been working together since spring"
+          ],
+          "exampleSentence": "They have been working together since spring.",
+          "koreanMeaning": "They는 특정 시점부터 계속하고 있다."
+        },
+        {
+          "questionId": "EN-L08-C04-S10-Q12",
+          "stageId": "EN-L08-C04-S10",
+          "type": "sentenceMeaning",
+          "prompt": "분사와 명사 수식: 과정 평가 · 12번: “Mina has been studying math since 2020.”의 뜻을 고르세요.",
+          "choices": [
+            "Mina는 특정 시점부터 계속하고 있다.",
+            "I는 특정 시점부터 계속하고 있다.",
+            "You는 특정 시점부터 계속하고 있다.",
+            "He는 특정 시점부터 계속하고 있다."
+          ],
+          "correctAnswer": "Mina는 특정 시점부터 계속하고 있다.",
+          "explanation": "뜻은 ‘Mina는 특정 시점부터 계속하고 있다.’입니다.",
+          "difficulty": 9,
+          "skill": "checkpoint",
+          "grammarFocus": "현재완료 진행형 since",
+          "vocabularyTopic": "현재완료 생활 적용",
+          "sourceObjective": "분사와 명사 수식 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 특정 시점부터 계속하고 있다."
+          ],
+          "exampleSentence": "Mina has been studying math since 2020.",
+          "koreanMeaning": "Mina는 특정 시점부터 계속하고 있다."
+        }
+      ]
+    }
+  ]
+}

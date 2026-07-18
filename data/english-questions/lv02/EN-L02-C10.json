@@ -1,0 +1,1363 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L02",
+  "courseId": "EN-L02-C10",
+  "stages": [
+    {
+      "stageId": "EN-L02-C10-S01",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S01-Q01",
+          "stageId": "EN-L02-C10-S01",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 1번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "make",
+            "rat",
+            "tap",
+            "cake"
+          ],
+          "correctAnswer": "cake",
+          "explanation": "cake에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S01-Q02",
+          "stageId": "EN-L02-C10-S01",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 2번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "make",
+            "cake"
+          ],
+          "correctAnswer": "make",
+          "explanation": "make에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "make",
+            "MAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S01-Q03",
+          "stageId": "EN-L02-C10-S01",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 3번: name에 vowel-team 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "name의 목표 규칙은 silent-e이므로 X가 정답입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S01-Q04",
+          "stageId": "EN-L02-C10-S01",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 4번: game와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "bike",
+            "rat",
+            "tap",
+            "rain"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "game와 bike에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S01-Q05",
+          "stageId": "EN-L02-C10-S01",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 5번: b_ke에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "bike의 빠진 글자는 i입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S01-Q06",
+          "stageId": "EN-L02-C10-S01",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 문자와 소리 발견 · 6번: 글자를 바르게 배열해 time를 만드세요.",
+          "choices": [
+            "imet",
+            "tim",
+            "time",
+            "emit"
+          ],
+          "correctAnswer": "time",
+          "explanation": "t + i + m + e를 순서대로 놓으면 time입니다.",
+          "difficulty": 2,
+          "skill": "concept",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자와 소리 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "time",
+            "TIME"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S02",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S02-Q01",
+          "stageId": "EN-L02-C10-S02",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 1번: name와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "rain",
+            "game"
+          ],
+          "correctAnswer": "game",
+          "explanation": "name와 game에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S02-Q02",
+          "stageId": "EN-L02-C10-S02",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 2번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "game",
+            "cake"
+          ],
+          "correctAnswer": "game",
+          "explanation": "game에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S02-Q03",
+          "stageId": "EN-L02-C10-S02",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 3번: 글자를 바르게 배열해 bike를 만드세요.",
+          "choices": [
+            "bik",
+            "bike",
+            "ekib",
+            "ikeb"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "b + i + k + e를 순서대로 놓으면 bike입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S02-Q04",
+          "stageId": "EN-L02-C10-S02",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 4번: _ime에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "time의 빠진 글자는 t입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S02-Q05",
+          "stageId": "EN-L02-C10-S02",
+          "type": "spelling",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 5번: h_me에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "o",
+          "explanation": "home의 빠진 글자는 o입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "o",
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S02-Q06",
+          "stageId": "EN-L02-C10-S02",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 핵심 글자·철자 · 6번: rope에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "rope의 목표 규칙은 silent-e이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "vocabulary",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 핵심 글자·철자 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S03",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S03-Q01",
+          "stageId": "EN-L02-C10-S03",
+          "type": "listeningChoice",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 1번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "bike"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "음성은 bike를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bike",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S03-Q02",
+          "stageId": "EN-L02-C10-S03",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 2번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "time",
+            "cake"
+          ],
+          "correctAnswer": "time",
+          "explanation": "time에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "time",
+            "TIME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S03-Q03",
+          "stageId": "EN-L02-C10-S03",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 3번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "home",
+            "cake",
+            "rat"
+          ],
+          "correctAnswer": "home",
+          "explanation": "home에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "home",
+            "HOME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S03-Q04",
+          "stageId": "EN-L02-C10-S03",
+          "type": "listeningChoice",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 4번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "rope",
+            "cake",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "rope",
+          "explanation": "음성은 rope를 읽었습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rope",
+          "acceptedAnswers": [
+            "rope",
+            "ROPE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S03-Q05",
+          "stageId": "EN-L02-C10-S03",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 5번: cube와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "rain",
+            "tune"
+          ],
+          "correctAnswer": "tune",
+          "explanation": "cube와 tune에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tune",
+            "TUNE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S03-Q06",
+          "stageId": "EN-L02-C10-S03",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 음가 듣고 구별하기 · 6번: tune에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "tune의 목표 규칙은 silent-e이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "listening",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 음가 듣고 구별하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S04",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S04-Q01",
+          "stageId": "EN-L02-C10-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 1번: home를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "home",
+          "explanation": "home에는 long vowel with silent e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "home",
+          "acceptedAnswers": [
+            "home",
+            "HOME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S04-Q02",
+          "stageId": "EN-L02-C10-S04",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 2번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "rope",
+            "cake"
+          ],
+          "correctAnswer": "rope",
+          "explanation": "rope에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rope",
+            "ROPE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S04-Q03",
+          "stageId": "EN-L02-C10-S04",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 3번: cube와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rain",
+            "tune",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "tune",
+          "explanation": "cube와 tune에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tune",
+            "TUNE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S04-Q04",
+          "stageId": "EN-L02-C10-S04",
+          "type": "pronunciationPrompt",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 4번: tune를 소리 내어 읽어 보세요. 연습을 마치면 단어를 입력하세요.",
+          "choices": [],
+          "correctAnswer": "tune",
+          "explanation": "tune에는 long vowel with silent e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "tune",
+          "acceptedAnswers": [
+            "tune",
+            "TUNE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S04-Q05",
+          "stageId": "EN-L02-C10-S04",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 5번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "late"
+          ],
+          "correctAnswer": "late",
+          "explanation": "late에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "late",
+            "LATE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S04-Q06",
+          "stageId": "EN-L02-C10-S04",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 소리 내어 따라 읽기 · 6번: five에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "five의 목표 규칙은 silent-e이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "speaking",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 소리 내어 따라 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S05",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S05-Q01",
+          "stageId": "EN-L02-C10-S05",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 1번: 글자를 바르게 배열해 cube를 만드세요.",
+          "choices": [
+            "ebuc",
+            "ubec",
+            "cub",
+            "cube"
+          ],
+          "correctAnswer": "cube",
+          "explanation": "c + u + b + e를 순서대로 놓으면 cube입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cube",
+            "CUBE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S05-Q02",
+          "stageId": "EN-L02-C10-S05",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 2번: tu_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "tune의 빠진 글자는 n입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S05-Q03",
+          "stageId": "EN-L02-C10-S05",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 3번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "late",
+            "cake",
+            "rat"
+          ],
+          "correctAnswer": "late",
+          "explanation": "late에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "late",
+            "LATE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S05-Q04",
+          "stageId": "EN-L02-C10-S05",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 4번: five와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "rain"
+          ],
+          "correctAnswer": "cake",
+          "explanation": "five와 cake에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S05-Q05",
+          "stageId": "EN-L02-C10-S05",
+          "type": "ordering",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 5번: 글자를 바르게 배열해 cake를 만드세요.",
+          "choices": [
+            "ekac",
+            "akec",
+            "cak",
+            "cake"
+          ],
+          "correctAnswer": "cake",
+          "explanation": "c + a + k + e를 순서대로 놓으면 cake입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S05-Q06",
+          "stageId": "EN-L02-C10-S05",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 문자 인식 연습 · 6번: make에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "make의 목표 규칙은 silent-e이므로 O가 정답입니다.",
+          "difficulty": 2,
+          "skill": "practice",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 문자 인식 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S06",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S06-Q01",
+          "stageId": "EN-L02-C10-S06",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 1번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "late"
+          ],
+          "correctAnswer": "late",
+          "explanation": "late에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "late",
+            "LATE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S06-Q02",
+          "stageId": "EN-L02-C10-S06",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 2번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "five",
+            "cake"
+          ],
+          "correctAnswer": "five",
+          "explanation": "five에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S06-Q03",
+          "stageId": "EN-L02-C10-S06",
+          "type": "matching",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 3번: cake와 같은 long vowel with silent e 규칙을 가진 단어를 고르세요.",
+          "choices": [
+            "rain",
+            "make",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "make",
+          "explanation": "cake와 make에는 모두 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "make",
+            "MAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S06-Q04",
+          "stageId": "EN-L02-C10-S06",
+          "type": "trueFalse",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 4번: make에 silent-e 규칙이 쓰였다면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "make의 목표 규칙은 silent-e이므로 O가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S06-Q05",
+          "stageId": "EN-L02-C10-S06",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 5번: 글자를 바르게 배열해 name를 만드세요.",
+          "choices": [
+            "eman",
+            "amen",
+            "nam",
+            "name"
+          ],
+          "correctAnswer": "name",
+          "explanation": "n + a + m + e를 순서대로 놓으면 name입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "name",
+            "NAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S06-Q06",
+          "stageId": "EN-L02-C10-S06",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 단어 읽기 적용 · 6번: ga_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "m",
+          "explanation": "game의 빠진 글자는 m입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 단어 읽기 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "m",
+            "M"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S07",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S07-Q01",
+          "stageId": "EN-L02-C10-S07",
+          "type": "spelling",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 1번: c_ke에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "a",
+          "explanation": "cake의 빠진 글자는 a입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "a",
+            "A"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S07-Q02",
+          "stageId": "EN-L02-C10-S07",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 2번: ma_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "k",
+          "explanation": "make의 빠진 글자는 k입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "k",
+            "K"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S07-Q03",
+          "stageId": "EN-L02-C10-S07",
+          "type": "dictation",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 3번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "name",
+          "explanation": "name의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "name",
+          "acceptedAnswers": [
+            "name",
+            "NAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S07-Q04",
+          "stageId": "EN-L02-C10-S07",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 4번: 글자를 바르게 배열해 game를 만드세요.",
+          "choices": [
+            "game",
+            "emag",
+            "ameg",
+            "gam"
+          ],
+          "correctAnswer": "game",
+          "explanation": "g + a + m + e를 순서대로 놓으면 game입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S07-Q05",
+          "stageId": "EN-L02-C10-S07",
+          "type": "spelling",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 5번: b_ke에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "i",
+          "explanation": "bike의 빠진 글자는 i입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "i",
+            "I"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S07-Q06",
+          "stageId": "EN-L02-C10-S07",
+          "type": "fillBlank",
+          "prompt": "장모음과 silent e: 철자와 받아쓰기 · 6번: ti_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "m",
+          "explanation": "time의 빠진 글자는 m입니다.",
+          "difficulty": 3,
+          "skill": "writing",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 철자와 받아쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "m",
+            "M"
+          ]
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L02-C10-S08",
+      "questions": [
+        {
+          "questionId": "EN-L02-C10-S08-Q01",
+          "stageId": "EN-L02-C10-S08",
+          "type": "reviewMixed",
+          "prompt": "장모음과 silent e: 과정 평가 · 1번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "name"
+          ],
+          "correctAnswer": "name",
+          "explanation": "name에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "name",
+            "NAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q02",
+          "stageId": "EN-L02-C10-S08",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 과정 평가 · 2번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "game",
+            "cake"
+          ],
+          "correctAnswer": "game",
+          "explanation": "game에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "game",
+            "GAME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q03",
+          "stageId": "EN-L02-C10-S08",
+          "type": "listeningChoice",
+          "prompt": "장모음과 silent e: 과정 평가 · 3번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "bike",
+            "cake",
+            "rat"
+          ],
+          "correctAnswer": "bike",
+          "explanation": "음성은 bike를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bike",
+          "acceptedAnswers": [
+            "bike",
+            "BIKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q04",
+          "stageId": "EN-L02-C10-S08",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 과정 평가 · 4번: 글자를 바르게 배열해 time를 만드세요.",
+          "choices": [
+            "time",
+            "emit",
+            "imet",
+            "tim"
+          ],
+          "correctAnswer": "time",
+          "explanation": "t + i + m + e를 순서대로 놓으면 time입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "time",
+            "TIME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q05",
+          "stageId": "EN-L02-C10-S08",
+          "type": "dictation",
+          "prompt": "장모음과 silent e: 과정 평가 · 5번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "home",
+          "explanation": "home의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "home",
+          "acceptedAnswers": [
+            "home",
+            "HOME"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q06",
+          "stageId": "EN-L02-C10-S08",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 과정 평가 · 6번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "rat",
+            "tap",
+            "rope",
+            "cake"
+          ],
+          "correctAnswer": "rope",
+          "explanation": "rope에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rope",
+            "ROPE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q07",
+          "stageId": "EN-L02-C10-S08",
+          "type": "reviewMixed",
+          "prompt": "장모음과 silent e: 과정 평가 · 7번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tap",
+            "cube",
+            "cake",
+            "rat"
+          ],
+          "correctAnswer": "cube",
+          "explanation": "cube에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cube",
+            "CUBE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q08",
+          "stageId": "EN-L02-C10-S08",
+          "type": "multipleChoice",
+          "prompt": "장모음과 silent e: 과정 평가 · 8번: silent-e 규칙에 맞는 단어를 고르세요.",
+          "choices": [
+            "tune",
+            "cake",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "tune",
+          "explanation": "tune에는 silent-e 규칙이 쓰였습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tune",
+            "TUNE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q09",
+          "stageId": "EN-L02-C10-S08",
+          "type": "listeningChoice",
+          "prompt": "장모음과 silent e: 과정 평가 · 9번: 음성을 듣고 같은 단어를 고르세요.",
+          "choices": [
+            "cake",
+            "rat",
+            "tap",
+            "late"
+          ],
+          "correctAnswer": "late",
+          "explanation": "음성은 late를 읽었습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "late",
+          "acceptedAnswers": [
+            "late",
+            "LATE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q10",
+          "stageId": "EN-L02-C10-S08",
+          "type": "wordBuilding",
+          "prompt": "장모음과 silent e: 과정 평가 · 10번: 글자를 바르게 배열해 five를 만드세요.",
+          "choices": [
+            "ivef",
+            "fiv",
+            "five",
+            "evif"
+          ],
+          "correctAnswer": "five",
+          "explanation": "f + i + v + e를 순서대로 놓으면 five입니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "five",
+            "FIVE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q11",
+          "stageId": "EN-L02-C10-S08",
+          "type": "dictation",
+          "prompt": "장모음과 silent e: 과정 평가 · 11번: 음성을 듣고 단어의 철자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "cake",
+          "explanation": "cake의 철자를 소리와 연결해 확인하세요.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "cake",
+          "acceptedAnswers": [
+            "cake",
+            "CAKE"
+          ]
+        },
+        {
+          "questionId": "EN-L02-C10-S08-Q12",
+          "stageId": "EN-L02-C10-S08",
+          "type": "soundDiscrimination",
+          "prompt": "장모음과 silent e: 과정 평가 · 12번: long vowel with silent e이 들어 있는 단어를 고르세요.",
+          "choices": [
+            "make",
+            "cake",
+            "rat",
+            "tap"
+          ],
+          "correctAnswer": "make",
+          "explanation": "make에서 long vowel with silent e을 들을 수 있습니다.",
+          "difficulty": 3,
+          "skill": "checkpoint",
+          "phonicsRule": "silent-e",
+          "targetSound": "long vowel with silent e",
+          "sourceObjective": "장모음과 silent e 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "make",
+            "MAKE"
+          ]
+        }
+      ]
+    }
+  ]
+}

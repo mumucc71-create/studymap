@@ -1,0 +1,1635 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L03",
+  "courseId": "EN-L03-C08",
+  "stages": [
+    {
+      "stageId": "EN-L03-C08-S01",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S01-Q01",
+          "stageId": "EN-L03-C08-S01",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 1번: ‘고양이’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "rabbit",
+            "cat"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "‘고양이’은 영어로 cat입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        },
+        {
+          "questionId": "EN-L03-C08-S01-Q02",
+          "stageId": "EN-L03-C08-S01",
+          "type": "sentenceMeaning",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 2번: “It is a dog.”에서 dog의 뜻을 고르세요.",
+          "choices": [
+            "새",
+            "토끼",
+            "개",
+            "고양이"
+          ],
+          "correctAnswer": "개",
+          "explanation": "dog은 ‘개’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C08-S01-Q03",
+          "stageId": "EN-L03-C08-S01",
+          "type": "trueFalse",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 3번: bird의 뜻이 ‘고양이’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "bird의 뜻은 ‘새’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S01-Q04",
+          "stageId": "EN-L03-C08-S01",
+          "type": "matching",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 4번: rabbit과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "토끼",
+            "고양이",
+            "개",
+            "새"
+          ],
+          "correctAnswer": "토끼",
+          "explanation": "rabbit은 ‘토끼’입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "토끼"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S01-Q05",
+          "stageId": "EN-L03-C08-S01",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 5번: I see a ___. 빈칸에 ‘오리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "duck"
+          ],
+          "correctAnswer": "duck",
+          "explanation": "문맥과 뜻에 맞는 단어는 duck입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "duck",
+            "DUCK"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S01-Q06",
+          "stageId": "EN-L03-C08-S01",
+          "type": "categorization",
+          "prompt": "동물과 자연: 핵심 표현 이해 · 6번: frog을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "학교",
+            "날씨와 계절",
+            "동물과 자연",
+            "집"
+          ],
+          "correctAnswer": "동물과 자연",
+          "explanation": "frog은 동물과 자연 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "concept",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동물과 자연"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S02",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S02-Q01",
+          "stageId": "EN-L03-C08-S02",
+          "type": "matching",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 1번: rabbit과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "고양이",
+            "개",
+            "새",
+            "토끼"
+          ],
+          "correctAnswer": "토끼",
+          "explanation": "rabbit은 ‘토끼’입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "토끼"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S02-Q02",
+          "stageId": "EN-L03-C08-S02",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 2번: ‘오리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "duck",
+            "cat"
+          ],
+          "correctAnswer": "duck",
+          "explanation": "‘오리’은 영어로 duck입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "duck",
+            "DUCK"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S02-Q03",
+          "stageId": "EN-L03-C08-S02",
+          "type": "categorization",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 3번: frog을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "음식과 음료",
+            "동물과 자연",
+            "색과 모양",
+            "신체"
+          ],
+          "correctAnswer": "동물과 자연",
+          "explanation": "frog은 동물과 자연 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동물과 자연"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C08-S02-Q04",
+          "stageId": "EN-L03-C08-S02",
+          "type": "spelling",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 4번: tr_e에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "e",
+          "explanation": "tree의 빠진 글자는 e입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "e",
+            "E"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        },
+        {
+          "questionId": "EN-L03-C08-S02-Q05",
+          "stageId": "EN-L03-C08-S02",
+          "type": "wordBuilding",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 5번: 글자를 바르게 배열해 ‘꽃’을 만드세요.",
+          "choices": [
+            "rewolf",
+            "lowerf",
+            "flowe",
+            "flower"
+          ],
+          "correctAnswer": "flower",
+          "explanation": "바른 철자는 flower입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flower",
+            "FLOWER"
+          ],
+          "koreanMeaning": "꽃",
+          "exampleSentence": "It is a flower."
+        },
+        {
+          "questionId": "EN-L03-C08-S02-Q06",
+          "stageId": "EN-L03-C08-S02",
+          "type": "fillBlank",
+          "prompt": "동물과 자연: 생활 어휘 문맥 학습 · 6번: su_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "n",
+          "explanation": "sun의 빠진 글자는 n입니다.",
+          "difficulty": 3,
+          "skill": "vocabulary",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "n",
+            "N"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S03",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S03-Q01",
+          "stageId": "EN-L03-C08-S03",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 문장 구조 발견 · 1번: I see a ___. 빈칸에 ‘나무’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "tree"
+          ],
+          "correctAnswer": "tree",
+          "explanation": "문맥과 뜻에 맞는 단어는 tree입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tree",
+            "TREE"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        },
+        {
+          "questionId": "EN-L03-C08-S03-Q02",
+          "stageId": "EN-L03-C08-S03",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 문장 구조 발견 · 2번: ‘꽃’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "flower",
+            "cat"
+          ],
+          "correctAnswer": "flower",
+          "explanation": "‘꽃’은 영어로 flower입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flower",
+            "FLOWER"
+          ],
+          "koreanMeaning": "꽃",
+          "exampleSentence": "It is a flower."
+        },
+        {
+          "questionId": "EN-L03-C08-S03-Q03",
+          "stageId": "EN-L03-C08-S03",
+          "type": "trueFalse",
+          "prompt": "동물과 자연: 문장 구조 발견 · 3번: sun의 뜻이 ‘고양이’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "sun의 뜻은 ‘해’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        },
+        {
+          "questionId": "EN-L03-C08-S03-Q04",
+          "stageId": "EN-L03-C08-S03",
+          "type": "ordering",
+          "prompt": "동물과 자연: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "It is a moon.",
+            "moon a is It.",
+            "is a moon It."
+          ],
+          "correctAnswer": "It is a moon.",
+          "explanation": "바른 어순은 “It is a moon.”입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is a moon.",
+            "It is a moon"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C08-S03-Q05",
+          "stageId": "EN-L03-C08-S03",
+          "type": "fillBlank",
+          "prompt": "동물과 자연: 문장 구조 발견 · 5번: ca_에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "t",
+          "explanation": "cat의 빠진 글자는 t입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "t",
+            "T"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        },
+        {
+          "questionId": "EN-L03-C08-S03-Q06",
+          "stageId": "EN-L03-C08-S03",
+          "type": "matching",
+          "prompt": "동물과 자연: 문장 구조 발견 · 6번: dog과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "새",
+            "토끼",
+            "개",
+            "고양이"
+          ],
+          "correctAnswer": "개",
+          "explanation": "dog은 ‘개’입니다.",
+          "difficulty": 3,
+          "skill": "grammar",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S04",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S04-Q01",
+          "stageId": "EN-L03-C08-S04",
+          "type": "wordBuilding",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 1번: 글자를 바르게 배열해 ‘달’을 만드세요.",
+          "choices": [
+            "noom",
+            "oonm",
+            "moo",
+            "moon"
+          ],
+          "correctAnswer": "moon",
+          "explanation": "바른 철자는 moon입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "moon",
+            "MOON"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C08-S04-Q02",
+          "stageId": "EN-L03-C08-S04",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 2번: I see a ___. 빈칸에 ‘고양이’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "bird",
+            "rabbit",
+            "cat",
+            "dog"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "문맥과 뜻에 맞는 단어는 cat입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        },
+        {
+          "questionId": "EN-L03-C08-S04-Q03",
+          "stageId": "EN-L03-C08-S04",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 3번: ‘개’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rabbit",
+            "dog",
+            "cat",
+            "bird"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "‘개’은 영어로 dog입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C08-S04-Q04",
+          "stageId": "EN-L03-C08-S04",
+          "type": "categorization",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 4번: bird을 알맞은 범주로 분류하세요.",
+          "choices": [
+            "동물과 자연",
+            "신체",
+            "음식과 음료",
+            "집"
+          ],
+          "correctAnswer": "동물과 자연",
+          "explanation": "bird은 동물과 자연 범주의 단어입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "동물과 자연"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S04-Q05",
+          "stageId": "EN-L03-C08-S04",
+          "type": "ordering",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 5번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "rabbit a is It.",
+            "is a rabbit It.",
+            "It is a rabbit."
+          ],
+          "correctAnswer": "It is a rabbit.",
+          "explanation": "바른 어순은 “It is a rabbit.”입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is a rabbit.",
+            "It is a rabbit"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S04-Q06",
+          "stageId": "EN-L03-C08-S04",
+          "type": "fillBlank",
+          "prompt": "동물과 자연: 짧은 문장 연습 · 6번: du_k에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "c",
+          "explanation": "duck의 빠진 글자는 c입니다.",
+          "difficulty": 3,
+          "skill": "practice",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "c",
+            "C"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S05",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S05-Q01",
+          "stageId": "EN-L03-C08-S05",
+          "type": "sentenceMeaning",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 1번: “I see a bird.”에서 bird의 뜻을 고르세요.",
+          "choices": [
+            "고양이",
+            "개",
+            "토끼",
+            "새"
+          ],
+          "correctAnswer": "새",
+          "explanation": "bird은 ‘새’이라는 뜻입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "새"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S05-Q02",
+          "stageId": "EN-L03-C08-S05",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 2번: ‘토끼’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "rabbit",
+            "cat"
+          ],
+          "correctAnswer": "rabbit",
+          "explanation": "‘토끼’은 영어로 rabbit입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S05-Q03",
+          "stageId": "EN-L03-C08-S05",
+          "type": "trueFalse",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 3번: duck의 뜻이 ‘고양이’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "duck의 뜻은 ‘오리’이므로 X가 정답입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S05-Q04",
+          "stageId": "EN-L03-C08-S05",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 4번: It is a ___. 빈칸에 ‘개구리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "frog",
+            "cat",
+            "dog",
+            "bird"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "문맥과 뜻에 맞는 단어는 frog입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C08-S05-Q05",
+          "stageId": "EN-L03-C08-S05",
+          "type": "matching",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 5번: tree과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "고양이",
+            "개",
+            "새",
+            "나무"
+          ],
+          "correctAnswer": "나무",
+          "explanation": "tree은 ‘나무’입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "나무"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        },
+        {
+          "questionId": "EN-L03-C08-S05-Q06",
+          "stageId": "EN-L03-C08-S05",
+          "type": "ordering",
+          "prompt": "동물과 자연: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is a flower It.",
+            "It is a flower.",
+            "flower a is It."
+          ],
+          "correctAnswer": "It is a flower.",
+          "explanation": "바른 어순은 “It is a flower.”입니다.",
+          "difficulty": 3,
+          "skill": "reading",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "It is a flower.",
+            "It is a flower"
+          ],
+          "koreanMeaning": "꽃",
+          "exampleSentence": "It is a flower."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S06",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S06-Q01",
+          "stageId": "EN-L03-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 1번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "frog"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "음성의 핵심 단어는 frog입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "frog",
+          "acceptedAnswers": [
+            "frog"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C08-S06-Q02",
+          "stageId": "EN-L03-C08-S06",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 2번: ‘나무’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "tree",
+            "cat"
+          ],
+          "correctAnswer": "tree",
+          "explanation": "‘나무’은 영어로 tree입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tree",
+            "TREE"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        },
+        {
+          "questionId": "EN-L03-C08-S06-Q03",
+          "stageId": "EN-L03-C08-S06",
+          "type": "listeningChoice",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "bird",
+            "flower",
+            "cat",
+            "dog"
+          ],
+          "correctAnswer": "flower",
+          "explanation": "음성의 핵심 단어는 flower입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "flower",
+          "acceptedAnswers": [
+            "flower"
+          ],
+          "koreanMeaning": "꽃",
+          "exampleSentence": "It is a flower."
+        },
+        {
+          "questionId": "EN-L03-C08-S06-Q04",
+          "stageId": "EN-L03-C08-S06",
+          "type": "dictation",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 4번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "sun",
+          "explanation": "해은 영어로 sun입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sun",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        },
+        {
+          "questionId": "EN-L03-C08-S06-Q05",
+          "stageId": "EN-L03-C08-S06",
+          "type": "trueFalse",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 5번: moon의 뜻이 ‘고양이’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "moon의 뜻은 ‘달’이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C08-S06-Q06",
+          "stageId": "EN-L03-C08-S06",
+          "type": "matching",
+          "prompt": "동물과 자연: 생활 대화 듣기 · 6번: cat과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "새",
+            "토끼",
+            "고양이",
+            "개"
+          ],
+          "correctAnswer": "고양이",
+          "explanation": "cat은 ‘고양이’입니다.",
+          "difficulty": 4,
+          "skill": "listening",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "고양이"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S07",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S07-Q01",
+          "stageId": "EN-L03-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "동물과 자연: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I see a sun.",
+          "explanation": "I see a sun.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I see a sun.",
+          "acceptedAnswers": [
+            "I see a sun.",
+            "I see a sun"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        },
+        {
+          "questionId": "EN-L03-C08-S07-Q02",
+          "stageId": "EN-L03-C08-S07",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 표현 말하기 · 2번: ‘달’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "moon",
+            "cat"
+          ],
+          "correctAnswer": "moon",
+          "explanation": "‘달’은 영어로 moon입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "moon",
+            "MOON"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C08-S07-Q03",
+          "stageId": "EN-L03-C08-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "동물과 자연: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "I see a cat.",
+          "explanation": "I see a cat.를 천천히 따라 읽어 보세요.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "I see a cat.",
+          "acceptedAnswers": [
+            "I see a cat.",
+            "I see a cat"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        },
+        {
+          "questionId": "EN-L03-C08-S07-Q04",
+          "stageId": "EN-L03-C08-S07",
+          "type": "sentenceMeaning",
+          "prompt": "동물과 자연: 표현 말하기 · 4번: “It is a dog.”에서 dog의 뜻을 고르세요.",
+          "choices": [
+            "개",
+            "고양이",
+            "새",
+            "토끼"
+          ],
+          "correctAnswer": "개",
+          "explanation": "dog은 ‘개’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C08-S07-Q05",
+          "stageId": "EN-L03-C08-S07",
+          "type": "matching",
+          "prompt": "동물과 자연: 표현 말하기 · 5번: bird과 뜻이 맞는 것을 고르세요.",
+          "choices": [
+            "고양이",
+            "개",
+            "토끼",
+            "새"
+          ],
+          "correctAnswer": "새",
+          "explanation": "bird은 ‘새’입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "새"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S07-Q06",
+          "stageId": "EN-L03-C08-S07",
+          "type": "trueFalse",
+          "prompt": "동물과 자연: 표현 말하기 · 6번: rabbit의 뜻이 ‘토끼’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "rabbit의 뜻은 ‘토끼’이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "speaking",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S08",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S08-Q01",
+          "stageId": "EN-L03-C08-S08",
+          "type": "spelling",
+          "prompt": "동물과 자연: 문장 쓰기 · 1번: _og에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "d",
+          "explanation": "dog의 빠진 글자는 d입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "d",
+            "D"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C08-S08-Q02",
+          "stageId": "EN-L03-C08-S08",
+          "type": "fillBlank",
+          "prompt": "동물과 자연: 문장 쓰기 · 2번: bi_d에서 빠진 글자를 쓰세요.",
+          "choices": [],
+          "correctAnswer": "r",
+          "explanation": "bird의 빠진 글자는 r입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "r",
+            "R"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S08-Q03",
+          "stageId": "EN-L03-C08-S08",
+          "type": "dictation",
+          "prompt": "동물과 자연: 문장 쓰기 · 3번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "rabbit",
+          "explanation": "토끼은 영어로 rabbit입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "rabbit",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S08-Q04",
+          "stageId": "EN-L03-C08-S08",
+          "type": "wordBuilding",
+          "prompt": "동물과 자연: 문장 쓰기 · 4번: 글자를 바르게 배열해 ‘오리’을 만드세요.",
+          "choices": [
+            "duck",
+            "kcud",
+            "uckd",
+            "duc"
+          ],
+          "correctAnswer": "duck",
+          "explanation": "바른 철자는 duck입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "duck",
+            "DUCK"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S08-Q05",
+          "stageId": "EN-L03-C08-S08",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 문장 쓰기 · 5번: It is a ___. 빈칸에 ‘개구리’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "frog"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "문맥과 뜻에 맞는 단어는 frog입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C08-S08-Q06",
+          "stageId": "EN-L03-C08-S08",
+          "type": "ordering",
+          "prompt": "동물과 자연: 문장 쓰기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "see a tree I.",
+            "I see a tree.",
+            "tree a see I."
+          ],
+          "correctAnswer": "I see a tree.",
+          "explanation": "바른 어순은 “I see a tree.”입니다.",
+          "difficulty": 4,
+          "skill": "writing",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "I see a tree.",
+            "I see a tree"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L03-C08-S09",
+      "questions": [
+        {
+          "questionId": "EN-L03-C08-S09-Q01",
+          "stageId": "EN-L03-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "동물과 자연: 과정 평가 · 1번: ‘오리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "duck"
+          ],
+          "correctAnswer": "duck",
+          "explanation": "‘오리’은 영어로 duck입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "duck",
+            "DUCK"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q02",
+          "stageId": "EN-L03-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 과정 평가 · 2번: ‘개구리’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "frog",
+            "cat"
+          ],
+          "correctAnswer": "frog",
+          "explanation": "‘개구리’은 영어로 frog입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "frog",
+            "FROG"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q03",
+          "stageId": "EN-L03-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "동물과 자연: 과정 평가 · 3번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "bird",
+            "tree",
+            "cat",
+            "dog"
+          ],
+          "correctAnswer": "tree",
+          "explanation": "음성의 핵심 단어는 tree입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "tree",
+          "acceptedAnswers": [
+            "tree"
+          ],
+          "koreanMeaning": "나무",
+          "exampleSentence": "I see a tree."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q04",
+          "stageId": "EN-L03-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 과정 평가 · 4번: It is a ___. 빈칸에 ‘꽃’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "flower",
+            "cat",
+            "dog",
+            "bird"
+          ],
+          "correctAnswer": "flower",
+          "explanation": "문맥과 뜻에 맞는 단어는 flower입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "flower",
+            "FLOWER"
+          ],
+          "koreanMeaning": "꽃",
+          "exampleSentence": "It is a flower."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q05",
+          "stageId": "EN-L03-C08-S09",
+          "type": "dictation",
+          "prompt": "동물과 자연: 과정 평가 · 5번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "sun",
+          "explanation": "해은 영어로 sun입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "sun",
+          "acceptedAnswers": [
+            "sun",
+            "SUN"
+          ],
+          "koreanMeaning": "해",
+          "exampleSentence": "I see a sun."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q06",
+          "stageId": "EN-L03-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "동물과 자연: 과정 평가 · 6번: “It is a moon.”에서 moon의 뜻을 고르세요.",
+          "choices": [
+            "개",
+            "새",
+            "달",
+            "고양이"
+          ],
+          "correctAnswer": "달",
+          "explanation": "moon은 ‘달’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "달"
+          ],
+          "koreanMeaning": "달",
+          "exampleSentence": "It is a moon."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q07",
+          "stageId": "EN-L03-C08-S09",
+          "type": "reviewMixed",
+          "prompt": "동물과 자연: 과정 평가 · 7번: ‘고양이’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "rabbit",
+            "cat",
+            "dog",
+            "bird"
+          ],
+          "correctAnswer": "cat",
+          "explanation": "‘고양이’은 영어로 cat입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "cat",
+            "CAT"
+          ],
+          "koreanMeaning": "고양이",
+          "exampleSentence": "I see a cat."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q08",
+          "stageId": "EN-L03-C08-S09",
+          "type": "multipleChoice",
+          "prompt": "동물과 자연: 과정 평가 · 8번: ‘개’에 해당하는 영어 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "cat",
+            "bird",
+            "rabbit"
+          ],
+          "correctAnswer": "dog",
+          "explanation": "‘개’은 영어로 dog입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "dog",
+            "DOG"
+          ],
+          "koreanMeaning": "개",
+          "exampleSentence": "It is a dog."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q09",
+          "stageId": "EN-L03-C08-S09",
+          "type": "listeningChoice",
+          "prompt": "동물과 자연: 과정 평가 · 9번: 음성을 듣고 알맞은 단어를 고르세요.",
+          "choices": [
+            "cat",
+            "dog",
+            "rabbit",
+            "bird"
+          ],
+          "correctAnswer": "bird",
+          "explanation": "음성의 핵심 단어는 bird입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "bird",
+          "acceptedAnswers": [
+            "bird"
+          ],
+          "koreanMeaning": "새",
+          "exampleSentence": "I see a bird."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q10",
+          "stageId": "EN-L03-C08-S09",
+          "type": "sentenceCompletion",
+          "prompt": "동물과 자연: 과정 평가 · 10번: It is a ___. 빈칸에 ‘토끼’이라는 뜻의 단어를 고르세요.",
+          "choices": [
+            "dog",
+            "bird",
+            "rabbit",
+            "cat"
+          ],
+          "correctAnswer": "rabbit",
+          "explanation": "문맥과 뜻에 맞는 단어는 rabbit입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "rabbit",
+            "RABBIT"
+          ],
+          "koreanMeaning": "토끼",
+          "exampleSentence": "It is a rabbit."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q11",
+          "stageId": "EN-L03-C08-S09",
+          "type": "dictation",
+          "prompt": "동물과 자연: 과정 평가 · 11번: 음성을 듣고 단어를 영어로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "duck",
+          "explanation": "오리은 영어로 duck입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "duck",
+          "acceptedAnswers": [
+            "duck",
+            "DUCK"
+          ],
+          "koreanMeaning": "오리",
+          "exampleSentence": "I see a duck."
+        },
+        {
+          "questionId": "EN-L03-C08-S09-Q12",
+          "stageId": "EN-L03-C08-S09",
+          "type": "sentenceMeaning",
+          "prompt": "동물과 자연: 과정 평가 · 12번: “It is a frog.”에서 frog의 뜻을 고르세요.",
+          "choices": [
+            "개구리",
+            "고양이",
+            "개",
+            "새"
+          ],
+          "correctAnswer": "개구리",
+          "explanation": "frog은 ‘개구리’이라는 뜻입니다.",
+          "difficulty": 4,
+          "skill": "checkpoint",
+          "vocabularyTopic": "동물과 자연",
+          "grammarFocus": "I see + 명사",
+          "sourceObjective": "동물과 자연 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "개구리"
+          ],
+          "koreanMeaning": "개구리",
+          "exampleSentence": "It is a frog."
+        }
+      ]
+    }
+  ]
+}

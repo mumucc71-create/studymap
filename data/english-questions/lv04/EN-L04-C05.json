@@ -1,0 +1,1666 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L04",
+  "courseId": "EN-L04-C05",
+  "stages": [
+    {
+      "stageId": "EN-L04-C05-S01",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S01-Q01",
+          "stageId": "EN-L04-C05-S01",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 1번: He ___ apples. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "drinks",
+            "likes"
+          ],
+          "correctAnswer": "likes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 likes입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "likes",
+            "likes"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S01-Q02",
+          "stageId": "EN-L04-C05-S01",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 2번: “She reads books.”의 핵심 문법 표현이 ‘reads’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 reads이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S01-Q03",
+          "stageId": "EN-L04-C05-S01",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 3번: Tom ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "drinks",
+            "plays",
+            "likes",
+            "reads"
+          ],
+          "correctAnswer": "plays",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 plays입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plays",
+            "plays"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S01-Q04",
+          "stageId": "EN-L04-C05-S01",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 4번: “Mina drinks water.”의 뜻을 고르세요.",
+          "choices": [
+            "Mina는 물을 마신다.",
+            "그는 사과를 좋아한다.",
+            "그녀는 책을 읽는다.",
+            "Tom은 축구를 한다."
+          ],
+          "correctAnswer": "Mina는 물을 마신다.",
+          "explanation": "문장의 뜻은 ‘Mina는 물을 마신다.’입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina는 물을 마신다."
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S01-Q05",
+          "stageId": "EN-L04-C05-S01",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 5번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S01-Q06",
+          "stageId": "EN-L04-C05-S01",
+          "type": "ordering",
+          "prompt": "3인칭 단수 현재형: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "watches TV She.",
+            "She watches TV.",
+            "TV watches She."
+          ],
+          "correctAnswer": "She watches TV.",
+          "explanation": "바른 어순은 “She watches TV.”입니다.",
+          "difficulty": 4,
+          "skill": "concept",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "She watches TV.",
+            "She watches TV"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S02",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S02-Q01",
+          "stageId": "EN-L04-C05-S02",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 1번: Mina ___ water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "drinks"
+          ],
+          "correctAnswer": "drinks",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 drinks입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drinks",
+            "drinks"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S02-Q02",
+          "stageId": "EN-L04-C05-S02",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 2번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "has",
+            "likes"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S02-Q03",
+          "stageId": "EN-L04-C05-S02",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 3번: “She watches TV.”의 뜻을 고르세요.",
+          "choices": [
+            "Tom은 축구를 한다.",
+            "그녀는 TV를 본다.",
+            "그는 사과를 좋아한다.",
+            "그녀는 책을 읽는다."
+          ],
+          "correctAnswer": "그녀는 TV를 본다.",
+          "explanation": "문장의 뜻은 ‘그녀는 TV를 본다.’입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 TV를 본다."
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S02-Q04",
+          "stageId": "EN-L04-C05-S02",
+          "type": "fillBlank",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 4번: Tom ___ to school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "goes",
+            "likes",
+            "reads",
+            "plays"
+          ],
+          "correctAnswer": "goes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 goes입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "goes",
+            "goes"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S02-Q05",
+          "stageId": "EN-L04-C05-S02",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 5번: He ___ apples. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "drinks",
+            "likes"
+          ],
+          "correctAnswer": "likes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 likes입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "likes",
+            "likes"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S02-Q06",
+          "stageId": "EN-L04-C05-S02",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 생활 어휘 문맥 학습 · 6번: “She reads books.”의 핵심 문법 표현이 ‘reads’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 reads이므로 O가 정답입니다.",
+          "difficulty": 4,
+          "skill": "vocabulary",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S03",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S03-Q01",
+          "stageId": "EN-L04-C05-S03",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 1번: Tom ___ to school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "goes"
+          ],
+          "correctAnswer": "goes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 goes입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "goes",
+            "goes"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S03-Q02",
+          "stageId": "EN-L04-C05-S03",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 2번: He ___ apples. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "plays",
+            "drinks",
+            "likes",
+            "reads"
+          ],
+          "correctAnswer": "likes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 likes입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "likes",
+            "likes"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S03-Q03",
+          "stageId": "EN-L04-C05-S03",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 3번: “She reads books.”의 핵심 문법 표현이 ‘likes’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 reads이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S03-Q04",
+          "stageId": "EN-L04-C05-S03",
+          "type": "ordering",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Tom plays soccer.",
+            "soccer plays Tom.",
+            "plays soccer Tom."
+          ],
+          "correctAnswer": "Tom plays soccer.",
+          "explanation": "바른 어순은 “Tom plays soccer.”입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom plays soccer.",
+            "Tom plays soccer"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S03-Q05",
+          "stageId": "EN-L04-C05-S03",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 5번: Mina ___ water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "drinks"
+          ],
+          "correctAnswer": "drinks",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 drinks입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drinks",
+            "drinks"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S03-Q06",
+          "stageId": "EN-L04-C05-S03",
+          "type": "fillBlank",
+          "prompt": "3인칭 단수 현재형: 문장 구조 발견 · 6번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "has",
+            "likes"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 4,
+          "skill": "grammar",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S04",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S04-Q01",
+          "stageId": "EN-L04-C05-S04",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 1번: Tom ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "drinks",
+            "plays"
+          ],
+          "correctAnswer": "plays",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 plays입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plays",
+            "plays"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S04-Q02",
+          "stageId": "EN-L04-C05-S04",
+          "type": "ordering",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "drinks water Mina.",
+            "Mina drinks water.",
+            "water drinks Mina."
+          ],
+          "correctAnswer": "Mina drinks water.",
+          "explanation": "바른 어순은 “Mina drinks water.”입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina drinks water.",
+            "Mina drinks water"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S04-Q03",
+          "stageId": "EN-L04-C05-S04",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 3번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "plays",
+            "has",
+            "likes",
+            "reads"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S04-Q04",
+          "stageId": "EN-L04-C05-S04",
+          "type": "fillBlank",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 4번: She ___ TV. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "watches",
+            "likes",
+            "reads",
+            "plays"
+          ],
+          "correctAnswer": "watches",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 watches입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watches",
+            "watches"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S04-Q05",
+          "stageId": "EN-L04-C05-S04",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 5번: “Tom goes to school.”의 핵심 문법 표현이 ‘likes’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 goes이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S04-Q06",
+          "stageId": "EN-L04-C05-S04",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 짧은 문장 연습 · 6번: He ___ apples. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "plays",
+            "drinks",
+            "likes",
+            "reads"
+          ],
+          "correctAnswer": "likes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 likes입니다.",
+          "difficulty": 4,
+          "skill": "practice",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "likes",
+            "likes"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S05",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S05-Q01",
+          "stageId": "EN-L04-C05-S05",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 1번: “She watches TV.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 사과를 좋아한다.",
+            "그녀는 책을 읽는다.",
+            "Tom은 축구를 한다.",
+            "그녀는 TV를 본다."
+          ],
+          "correctAnswer": "그녀는 TV를 본다.",
+          "explanation": "문장의 뜻은 ‘그녀는 TV를 본다.’입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 TV를 본다."
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S05-Q02",
+          "stageId": "EN-L04-C05-S05",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 2번: Tom ___ to school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "goes",
+            "likes"
+          ],
+          "correctAnswer": "goes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 goes입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "goes",
+            "goes"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S05-Q03",
+          "stageId": "EN-L04-C05-S05",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 3번: “He likes apples.”의 핵심 문법 표현이 ‘reads’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 likes이므로 X가 정답입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S05-Q04",
+          "stageId": "EN-L04-C05-S05",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 4번: She ___ books. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "likes",
+            "plays",
+            "drinks"
+          ],
+          "correctAnswer": "reads",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 reads입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reads",
+            "reads"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S05-Q05",
+          "stageId": "EN-L04-C05-S05",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 5번: Tom ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "drinks",
+            "plays"
+          ],
+          "correctAnswer": "plays",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 plays입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plays",
+            "plays"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S05-Q06",
+          "stageId": "EN-L04-C05-S05",
+          "type": "ordering",
+          "prompt": "3인칭 단수 현재형: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "drinks water Mina.",
+            "Mina drinks water.",
+            "water drinks Mina."
+          ],
+          "correctAnswer": "Mina drinks water.",
+          "explanation": "바른 어순은 “Mina drinks water.”입니다.",
+          "difficulty": 4,
+          "skill": "reading",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina drinks water.",
+            "Mina drinks water"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S06",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S06-Q01",
+          "stageId": "EN-L04-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He likes apples.",
+            "Tom plays soccer.",
+            "Mina drinks water.",
+            "She reads books."
+          ],
+          "correctAnswer": "She reads books.",
+          "explanation": "들은 문장은 “She reads books.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She reads books.",
+          "acceptedAnswers": [
+            "She reads books."
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S06-Q02",
+          "stageId": "EN-L04-C05-S06",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 2번: Tom ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "drinks",
+            "plays",
+            "likes"
+          ],
+          "correctAnswer": "plays",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 plays입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plays",
+            "plays"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S06-Q03",
+          "stageId": "EN-L04-C05-S06",
+          "type": "listeningChoice",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Tom plays soccer.",
+            "Mina drinks water.",
+            "He likes apples.",
+            "She reads books."
+          ],
+          "correctAnswer": "Mina drinks water.",
+          "explanation": "들은 문장은 “Mina drinks water.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina drinks water.",
+          "acceptedAnswers": [
+            "Mina drinks water."
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S06-Q04",
+          "stageId": "EN-L04-C05-S06",
+          "type": "dictation",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He has a bag.",
+          "explanation": "바른 문장은 “He has a bag.”입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has a bag.",
+          "acceptedAnswers": [
+            "He has a bag.",
+            "He has a bag"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S06-Q05",
+          "stageId": "EN-L04-C05-S06",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 5번: “She watches TV.”의 핵심 문법 표현이 ‘likes’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 watches이므로 X가 정답입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S06-Q06",
+          "stageId": "EN-L04-C05-S06",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 생활 대화 듣기 · 6번: Tom ___ to school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "goes",
+            "likes"
+          ],
+          "correctAnswer": "goes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 goes입니다.",
+          "difficulty": 5,
+          "skill": "listening",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "goes",
+            "goes"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S07",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S07-Q01",
+          "stageId": "EN-L04-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "He has a bag.",
+          "explanation": "“He has a bag.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "He has a bag.",
+          "acceptedAnswers": [
+            "He has a bag.",
+            "He has a bag"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S07-Q02",
+          "stageId": "EN-L04-C05-S07",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 2번: She ___ TV. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "watches",
+            "likes"
+          ],
+          "correctAnswer": "watches",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 watches입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watches",
+            "watches"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S07-Q03",
+          "stageId": "EN-L04-C05-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom goes to school.",
+          "explanation": "“Tom goes to school.”를 천천히 따라 읽으세요.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom goes to school.",
+          "acceptedAnswers": [
+            "Tom goes to school.",
+            "Tom goes to school"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S07-Q04",
+          "stageId": "EN-L04-C05-S07",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 4번: “He likes apples.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 사과를 좋아한다.",
+            "그녀는 책을 읽는다.",
+            "Tom은 축구를 한다.",
+            "Mina는 물을 마신다."
+          ],
+          "correctAnswer": "그는 사과를 좋아한다.",
+          "explanation": "문장의 뜻은 ‘그는 사과를 좋아한다.’입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 사과를 좋아한다."
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S07-Q05",
+          "stageId": "EN-L04-C05-S07",
+          "type": "matching",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 5번: She ___ books. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "plays",
+            "drinks",
+            "reads"
+          ],
+          "correctAnswer": "reads",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 reads입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "reads",
+            "reads"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S07-Q06",
+          "stageId": "EN-L04-C05-S07",
+          "type": "trueFalse",
+          "prompt": "3인칭 단수 현재형: 표현 말하기 · 6번: “Tom plays soccer.”의 핵심 문법 표현이 ‘plays’이면 O, 아니면 X를 고르세요.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 plays이므로 O가 정답입니다.",
+          "difficulty": 5,
+          "skill": "speaking",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S08",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S08-Q01",
+          "stageId": "EN-L04-C05-S08",
+          "type": "fillBlank",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 1번: He ___ apples. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "drinks",
+            "likes"
+          ],
+          "correctAnswer": "likes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 likes입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "likes",
+            "likes"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S08-Q02",
+          "stageId": "EN-L04-C05-S08",
+          "type": "dictation",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "She reads books.",
+          "explanation": "바른 문장은 “She reads books.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She reads books.",
+          "acceptedAnswers": [
+            "She reads books.",
+            "She reads books"
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S08-Q03",
+          "stageId": "EN-L04-C05-S08",
+          "type": "ordering",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Tom plays soccer.",
+            "soccer plays Tom.",
+            "plays soccer Tom."
+          ],
+          "correctAnswer": "Tom plays soccer.",
+          "explanation": "바른 어순은 “Tom plays soccer.”입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Tom plays soccer.",
+            "Tom plays soccer"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S08-Q04",
+          "stageId": "EN-L04-C05-S08",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 4번: Mina ___ water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "drinks",
+            "likes",
+            "reads",
+            "plays"
+          ],
+          "correctAnswer": "drinks",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 drinks입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drinks",
+            "drinks"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S08-Q05",
+          "stageId": "EN-L04-C05-S08",
+          "type": "fillBlank",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 5번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "has"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S08-Q06",
+          "stageId": "EN-L04-C05-S08",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 문장 쓰기 · 6번: She ___ TV. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "watches",
+            "likes"
+          ],
+          "correctAnswer": "watches",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 watches입니다.",
+          "difficulty": 5,
+          "skill": "writing",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watches",
+            "watches"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L04-C05-S09",
+      "questions": [
+        {
+          "questionId": "EN-L04-C05-S09-Q01",
+          "stageId": "EN-L04-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 1번: Mina ___ water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "likes",
+            "reads",
+            "plays",
+            "drinks"
+          ],
+          "correctAnswer": "drinks",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 drinks입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drinks",
+            "drinks"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q02",
+          "stageId": "EN-L04-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 2번: He ___ a bag. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "has",
+            "likes"
+          ],
+          "correctAnswer": "has",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 has입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "has",
+            "has"
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q03",
+          "stageId": "EN-L04-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Tom plays soccer.",
+            "She watches TV.",
+            "He likes apples.",
+            "She reads books."
+          ],
+          "correctAnswer": "She watches TV.",
+          "explanation": "들은 문장은 “She watches TV.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "She watches TV.",
+          "acceptedAnswers": [
+            "She watches TV."
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q04",
+          "stageId": "EN-L04-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 4번: Tom ___ to school. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "goes",
+            "likes",
+            "reads",
+            "plays"
+          ],
+          "correctAnswer": "goes",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 goes입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "goes",
+            "goes"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q05",
+          "stageId": "EN-L04-C05-S09",
+          "type": "dictation",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "He likes apples.",
+          "explanation": "바른 문장은 “He likes apples.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He likes apples.",
+          "acceptedAnswers": [
+            "He likes apples.",
+            "He likes apples"
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q06",
+          "stageId": "EN-L04-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 6번: “She reads books.”의 뜻을 고르세요.",
+          "choices": [
+            "Tom은 축구를 한다.",
+            "Mina는 물을 마신다.",
+            "그녀는 책을 읽는다.",
+            "그는 사과를 좋아한다."
+          ],
+          "correctAnswer": "그녀는 책을 읽는다.",
+          "explanation": "문장의 뜻은 ‘그녀는 책을 읽는다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그녀는 책을 읽는다."
+          ],
+          "exampleSentence": "She reads books.",
+          "koreanMeaning": "그녀는 책을 읽는다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q07",
+          "stageId": "EN-L04-C05-S09",
+          "type": "reviewMixed",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 7번: Tom ___ soccer. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "drinks",
+            "plays",
+            "likes",
+            "reads"
+          ],
+          "correctAnswer": "plays",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 plays입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "plays",
+            "plays"
+          ],
+          "exampleSentence": "Tom plays soccer.",
+          "koreanMeaning": "Tom은 축구를 한다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q08",
+          "stageId": "EN-L04-C05-S09",
+          "type": "multipleChoice",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 8번: Mina ___ water. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "drinks",
+            "likes",
+            "reads",
+            "plays"
+          ],
+          "correctAnswer": "drinks",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 drinks입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "drinks",
+            "drinks"
+          ],
+          "exampleSentence": "Mina drinks water.",
+          "koreanMeaning": "Mina는 물을 마신다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q09",
+          "stageId": "EN-L04-C05-S09",
+          "type": "listeningChoice",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "He likes apples.",
+            "She reads books.",
+            "Tom plays soccer.",
+            "He has a bag."
+          ],
+          "correctAnswer": "He has a bag.",
+          "explanation": "들은 문장은 “He has a bag.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "He has a bag.",
+          "acceptedAnswers": [
+            "He has a bag."
+          ],
+          "exampleSentence": "He has a bag.",
+          "koreanMeaning": "그는 가방이 있다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q10",
+          "stageId": "EN-L04-C05-S09",
+          "type": "sentenceCompletion",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 10번: She ___ TV. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "reads",
+            "plays",
+            "watches",
+            "likes"
+          ],
+          "correctAnswer": "watches",
+          "explanation": "3인칭 단수 현재형 규칙에 맞는 표현은 watches입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "watches",
+            "watches"
+          ],
+          "exampleSentence": "She watches TV.",
+          "koreanMeaning": "그녀는 TV를 본다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q11",
+          "stageId": "EN-L04-C05-S09",
+          "type": "dictation",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Tom goes to school.",
+          "explanation": "바른 문장은 “Tom goes to school.”입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom goes to school.",
+          "acceptedAnswers": [
+            "Tom goes to school.",
+            "Tom goes to school"
+          ],
+          "exampleSentence": "Tom goes to school.",
+          "koreanMeaning": "Tom은 학교에 간다."
+        },
+        {
+          "questionId": "EN-L04-C05-S09-Q12",
+          "stageId": "EN-L04-C05-S09",
+          "type": "sentenceMeaning",
+          "prompt": "3인칭 단수 현재형: 과정 평가 · 12번: “He likes apples.”의 뜻을 고르세요.",
+          "choices": [
+            "그는 사과를 좋아한다.",
+            "그녀는 책을 읽는다.",
+            "Tom은 축구를 한다.",
+            "Mina는 물을 마신다."
+          ],
+          "correctAnswer": "그는 사과를 좋아한다.",
+          "explanation": "문장의 뜻은 ‘그는 사과를 좋아한다.’입니다.",
+          "difficulty": 5,
+          "skill": "checkpoint",
+          "grammarFocus": "3인칭 단수 현재형",
+          "vocabularyTopic": "Lv.3 생활 어휘 적용",
+          "sourceObjective": "3인칭 단수 현재형 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "그는 사과를 좋아한다."
+          ],
+          "exampleSentence": "He likes apples.",
+          "koreanMeaning": "그는 사과를 좋아한다."
+        }
+      ]
+    }
+  ]
+}

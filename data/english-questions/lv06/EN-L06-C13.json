@@ -1,0 +1,1671 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L06",
+  "courseId": "EN-L06-C13",
+  "stages": [
+    {
+      "stageId": "EN-L06-C13-S01",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S01-Q01",
+          "stageId": "EN-L06-C13-S01",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 1번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "three",
+            "close"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S01-Q02",
+          "stageId": "EN-L06-C13-S01",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 2번: 핵심 표현이 ‘library’이면 O, 아니면 X를 고르세요: Meet me at the library.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 library이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S01-Q03",
+          "stageId": "EN-L06-C13-S01",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 3번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "three",
+            "tomorrow",
+            "close",
+            "library"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S01-Q04",
+          "stageId": "EN-L06-C13-S01",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 4번: “The game starts at three.”의 뜻을 고르세요.",
+          "choices": [
+            "경기는 세 시에 시작한다.",
+            "문을 닫아 주세요.",
+            "도서관에서 만나자.",
+            "내일 책을 가져와라."
+          ],
+          "correctAnswer": "경기는 세 시에 시작한다.",
+          "explanation": "뜻은 ‘경기는 세 시에 시작한다.’입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "경기는 세 시에 시작한다."
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S01-Q05",
+          "stageId": "EN-L06-C13-S01",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 5번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "tomorrow",
+            "Do not run"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S01-Q06",
+          "stageId": "EN-L06-C13-S01",
+          "type": "ordering",
+          "prompt": "짧은 안내문 쓰기: 핵심 표현 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "close the door Please.",
+            "is",
+            "Please close the door.",
+            "door the close Please."
+          ],
+          "correctAnswer": "Please close the door.",
+          "explanation": "바른 어순은 “Please close the door.”입니다.",
+          "difficulty": 6,
+          "skill": "concept",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 핵심 표현 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Please close the door.",
+            "Please close the door"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S02",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S02-Q01",
+          "stageId": "EN-L06-C13-S02",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 1번: The game starts at ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "tomorrow",
+            "three"
+          ],
+          "correctAnswer": "three",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 three입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "three",
+            "three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S02-Q02",
+          "stageId": "EN-L06-C13-S02",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 2번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "Do not run",
+            "close"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S02-Q03",
+          "stageId": "EN-L06-C13-S02",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 3번: “Please close the door.”의 뜻을 고르세요.",
+          "choices": [
+            "경기는 세 시에 시작한다.",
+            "문을 닫아 주세요.",
+            "도서관에서 만나자.",
+            "내일 책을 가져와라."
+          ],
+          "correctAnswer": "문을 닫아 주세요.",
+          "explanation": "뜻은 ‘문을 닫아 주세요.’입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "문을 닫아 주세요."
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S02-Q04",
+          "stageId": "EN-L06-C13-S02",
+          "type": "fillBlank",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 4번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "close",
+            "tomorrow",
+            "three"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S02-Q05",
+          "stageId": "EN-L06-C13-S02",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 5번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "three",
+            "tomorrow"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S02-Q06",
+          "stageId": "EN-L06-C13-S02",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 생활 어휘 문맥 학습 · 6번: 핵심 표현이 ‘three’이면 O, 아니면 X를 고르세요: The game starts at three.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 three이므로 O가 정답입니다.",
+          "difficulty": 6,
+          "skill": "vocabulary",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 어휘 문맥 학습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S03",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S03-Q01",
+          "stageId": "EN-L06-C13-S03",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 1번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "tomorrow",
+            "three",
+            "library"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S03-Q02",
+          "stageId": "EN-L06-C13-S03",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 2번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "three",
+            "tomorrow",
+            "close"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S03-Q03",
+          "stageId": "EN-L06-C13-S03",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 3번: 핵심 표현이 ‘close’이면 O, 아니면 X를 고르세요: The game starts at three.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 three이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S03-Q04",
+          "stageId": "EN-L06-C13-S03",
+          "type": "ordering",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Do not run in the hall.",
+            "hall the in run not Do.",
+            "not run in the hall Do.",
+            "is"
+          ],
+          "correctAnswer": "Do not run in the hall.",
+          "explanation": "바른 어순은 “Do not run in the hall.”입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run in the hall.",
+            "Do not run in the hall"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S03-Q05",
+          "stageId": "EN-L06-C13-S03",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 5번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "three",
+            "close"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S03-Q06",
+          "stageId": "EN-L06-C13-S03",
+          "type": "fillBlank",
+          "prompt": "짧은 안내문 쓰기: 문장 구조 발견 · 6번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "library",
+            "close"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 6,
+          "skill": "grammar",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 구조 발견 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S04",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S04-Q01",
+          "stageId": "EN-L06-C13-S04",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 1번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "tomorrow",
+            "Do not run"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S04-Q02",
+          "stageId": "EN-L06-C13-S04",
+          "type": "ordering",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "close the door Please.",
+            "is",
+            "Please close the door.",
+            "door the close Please."
+          ],
+          "correctAnswer": "Please close the door.",
+          "explanation": "바른 어순은 “Please close the door.”입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Please close the door.",
+            "Please close the door"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S04-Q03",
+          "stageId": "EN-L06-C13-S04",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 3번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "three",
+            "library",
+            "close",
+            "tomorrow"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S04-Q04",
+          "stageId": "EN-L06-C13-S04",
+          "type": "fillBlank",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 4번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "close",
+            "library",
+            "three"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S04-Q05",
+          "stageId": "EN-L06-C13-S04",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 5번: 핵심 표현이 ‘close’이면 O, 아니면 X를 고르세요: The game starts at three.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 three이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S04-Q06",
+          "stageId": "EN-L06-C13-S04",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 짧은 문장 연습 · 6번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "Do not run",
+            "close"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 6,
+          "skill": "practice",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 문장 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S05",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S05-Q01",
+          "stageId": "EN-L06-C13-S05",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 1번: “Bring your book tomorrow.”의 뜻을 고르세요.",
+          "choices": [
+            "문을 닫아 주세요.",
+            "도서관에서 만나자.",
+            "경기는 세 시에 시작한다.",
+            "내일 책을 가져와라."
+          ],
+          "correctAnswer": "내일 책을 가져와라.",
+          "explanation": "뜻은 ‘내일 책을 가져와라.’입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "내일 책을 가져와라."
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S05-Q02",
+          "stageId": "EN-L06-C13-S05",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 2번: The game starts at ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "three",
+            "close"
+          ],
+          "correctAnswer": "three",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 three입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "three",
+            "three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S05-Q03",
+          "stageId": "EN-L06-C13-S05",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 3번: 핵심 표현이 ‘close’이면 O, 아니면 X를 고르세요: Do not run in the hall.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Do not run이므로 X가 정답입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S05-Q04",
+          "stageId": "EN-L06-C13-S05",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 4번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "tomorrow",
+            "three"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S05-Q05",
+          "stageId": "EN-L06-C13-S05",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 5번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "tomorrow",
+            "three",
+            "library"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S05-Q06",
+          "stageId": "EN-L06-C13-S05",
+          "type": "ordering",
+          "prompt": "짧은 안내문 쓰기: 짧은 글 읽기 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "your book tomorrow Bring.",
+            "is",
+            "Bring your book tomorrow.",
+            "tomorrow book your Bring."
+          ],
+          "correctAnswer": "Bring your book tomorrow.",
+          "explanation": "바른 어순은 “Bring your book tomorrow.”입니다.",
+          "difficulty": 6,
+          "skill": "reading",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 짧은 글 읽기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Bring your book tomorrow.",
+            "Bring your book tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S06",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S06-Q01",
+          "stageId": "EN-L06-C13-S06",
+          "type": "listeningChoice",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Meet me at the library.",
+            "Bring your book tomorrow.",
+            "The game starts at three.",
+            "Please close the door."
+          ],
+          "correctAnswer": "Please close the door.",
+          "explanation": "들은 문장은 “Please close the door.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Please close the door.",
+          "acceptedAnswers": [
+            "Please close the door."
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S06-Q02",
+          "stageId": "EN-L06-C13-S06",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 2번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "library",
+            "close"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S06-Q03",
+          "stageId": "EN-L06-C13-S06",
+          "type": "listeningChoice",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The game starts at three.",
+            "Bring your book tomorrow.",
+            "Please close the door.",
+            "Meet me at the library."
+          ],
+          "correctAnswer": "Bring your book tomorrow.",
+          "explanation": "들은 문장은 “Bring your book tomorrow.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Bring your book tomorrow.",
+          "acceptedAnswers": [
+            "Bring your book tomorrow."
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S06-Q04",
+          "stageId": "EN-L06-C13-S06",
+          "type": "dictation",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The game starts at three.",
+          "explanation": "바른 문장은 “The game starts at three.”입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The game starts at three.",
+          "acceptedAnswers": [
+            "The game starts at three.",
+            "The game starts at three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S06-Q05",
+          "stageId": "EN-L06-C13-S06",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 5번: 핵심 표현이 ‘close’이면 O, 아니면 X를 고르세요: Do not run in the hall.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 표현은 Do not run이므로 X가 정답입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S06-Q06",
+          "stageId": "EN-L06-C13-S06",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 생활 대화 듣기 · 6번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "close",
+            "library"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 7,
+          "skill": "listening",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 생활 대화 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S07",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S07-Q01",
+          "stageId": "EN-L06-C13-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 1번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The game starts at three.",
+          "explanation": "“The game starts at three.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The game starts at three.",
+          "acceptedAnswers": [
+            "The game starts at three.",
+            "The game starts at three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S07-Q02",
+          "stageId": "EN-L06-C13-S07",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 2번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "Do not run",
+            "close"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S07-Q03",
+          "stageId": "EN-L06-C13-S07",
+          "type": "pronunciationPrompt",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 3번: 음성을 듣고 문장을 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Please close the door.",
+          "explanation": "“Please close the door.”를 따라 읽으세요.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Please close the door.",
+          "acceptedAnswers": [
+            "Please close the door.",
+            "Please close the door"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S07-Q04",
+          "stageId": "EN-L06-C13-S07",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 4번: “Meet me at the library.”의 뜻을 고르세요.",
+          "choices": [
+            "도서관에서 만나자.",
+            "문을 닫아 주세요.",
+            "내일 책을 가져와라.",
+            "경기는 세 시에 시작한다."
+          ],
+          "correctAnswer": "도서관에서 만나자.",
+          "explanation": "뜻은 ‘도서관에서 만나자.’입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "도서관에서 만나자."
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S07-Q05",
+          "stageId": "EN-L06-C13-S07",
+          "type": "matching",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 5번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "three",
+            "tomorrow"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S07-Q06",
+          "stageId": "EN-L06-C13-S07",
+          "type": "trueFalse",
+          "prompt": "짧은 안내문 쓰기: 표현 말하기 · 6번: 핵심 표현이 ‘three’이면 O, 아니면 X를 고르세요: The game starts at three.",
+          "choices": [
+            "X",
+            "O"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 표현은 three이므로 O가 정답입니다.",
+          "difficulty": 7,
+          "skill": "speaking",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 표현 말하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S08",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S08-Q01",
+          "stageId": "EN-L06-C13-S08",
+          "type": "fillBlank",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 1번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "tomorrow",
+            "three",
+            "library"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S08-Q02",
+          "stageId": "EN-L06-C13-S08",
+          "type": "dictation",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Bring your book tomorrow.",
+          "explanation": "바른 문장은 “Bring your book tomorrow.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Bring your book tomorrow.",
+          "acceptedAnswers": [
+            "Bring your book tomorrow.",
+            "Bring your book tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S08-Q03",
+          "stageId": "EN-L06-C13-S08",
+          "type": "ordering",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "is",
+            "The game starts at three.",
+            "three at starts game The.",
+            "game starts at three The."
+          ],
+          "correctAnswer": "The game starts at three.",
+          "explanation": "바른 어순은 “The game starts at three.”입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The game starts at three.",
+            "The game starts at three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S08-Q04",
+          "stageId": "EN-L06-C13-S08",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 4번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "Do not run",
+            "close",
+            "library",
+            "tomorrow"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S08-Q05",
+          "stageId": "EN-L06-C13-S08",
+          "type": "fillBlank",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 5번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "three",
+            "close"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S08-Q06",
+          "stageId": "EN-L06-C13-S08",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 문장 쓰기 · 6번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "library",
+            "close"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 7,
+          "skill": "writing",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L06-C13-S09",
+      "questions": [
+        {
+          "questionId": "EN-L06-C13-S09-Q01",
+          "stageId": "EN-L06-C13-S09",
+          "type": "reviewMixed",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 1번: ___ in the hall. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "close",
+            "library",
+            "tomorrow",
+            "Do not run"
+          ],
+          "correctAnswer": "Do not run",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 Do not run입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Do not run",
+            "do not run"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q02",
+          "stageId": "EN-L06-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 2번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "three",
+            "close",
+            "library"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q03",
+          "stageId": "EN-L06-C13-S09",
+          "type": "listeningChoice",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The game starts at three.",
+            "Meet me at the library.",
+            "Please close the door.",
+            "Bring your book tomorrow."
+          ],
+          "correctAnswer": "Meet me at the library.",
+          "explanation": "들은 문장은 “Meet me at the library.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Meet me at the library.",
+          "acceptedAnswers": [
+            "Meet me at the library."
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q04",
+          "stageId": "EN-L06-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 4번: Bring your book ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "tomorrow",
+            "close",
+            "library",
+            "three"
+          ],
+          "correctAnswer": "tomorrow",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 tomorrow입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "tomorrow",
+            "tomorrow"
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q05",
+          "stageId": "EN-L06-C13-S09",
+          "type": "dictation",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The game starts at three.",
+          "explanation": "바른 문장은 “The game starts at three.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The game starts at three.",
+          "acceptedAnswers": [
+            "The game starts at three.",
+            "The game starts at three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q06",
+          "stageId": "EN-L06-C13-S09",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 6번: “Do not run in the hall.”의 뜻을 고르세요.",
+          "choices": [
+            "도서관에서 만나자.",
+            "내일 책을 가져와라.",
+            "복도에서 뛰지 마라.",
+            "문을 닫아 주세요."
+          ],
+          "correctAnswer": "복도에서 뛰지 마라.",
+          "explanation": "뜻은 ‘복도에서 뛰지 마라.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "복도에서 뛰지 마라."
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q07",
+          "stageId": "EN-L06-C13-S09",
+          "type": "reviewMixed",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 7번: Please ___ the door. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "three",
+            "close",
+            "library",
+            "tomorrow"
+          ],
+          "correctAnswer": "close",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 close입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "close",
+            "close"
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q08",
+          "stageId": "EN-L06-C13-S09",
+          "type": "multipleChoice",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 8번: Meet me at the ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "close",
+            "tomorrow",
+            "three"
+          ],
+          "correctAnswer": "library",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 library입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "library",
+            "library"
+          ],
+          "exampleSentence": "Meet me at the library.",
+          "koreanMeaning": "도서관에서 만나자."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q09",
+          "stageId": "EN-L06-C13-S09",
+          "type": "listeningChoice",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "Please close the door.",
+            "Meet me at the library.",
+            "The game starts at three.",
+            "Bring your book tomorrow."
+          ],
+          "correctAnswer": "Bring your book tomorrow.",
+          "explanation": "들은 문장은 “Bring your book tomorrow.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Bring your book tomorrow.",
+          "acceptedAnswers": [
+            "Bring your book tomorrow."
+          ],
+          "exampleSentence": "Bring your book tomorrow.",
+          "koreanMeaning": "내일 책을 가져와라."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q10",
+          "stageId": "EN-L06-C13-S09",
+          "type": "sentenceCompletion",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 10번: The game starts at ___. 빈칸에 알맞은 표현을 고르세요.",
+          "choices": [
+            "library",
+            "tomorrow",
+            "three",
+            "close"
+          ],
+          "correctAnswer": "three",
+          "explanation": "짧은 안내문 쓰기에 맞는 표현은 three입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "three",
+            "three"
+          ],
+          "exampleSentence": "The game starts at three.",
+          "koreanMeaning": "경기는 세 시에 시작한다."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q11",
+          "stageId": "EN-L06-C13-S09",
+          "type": "dictation",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Do not run in the hall.",
+          "explanation": "바른 문장은 “Do not run in the hall.”입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Do not run in the hall.",
+          "acceptedAnswers": [
+            "Do not run in the hall.",
+            "Do not run in the hall"
+          ],
+          "exampleSentence": "Do not run in the hall.",
+          "koreanMeaning": "복도에서 뛰지 마라."
+        },
+        {
+          "questionId": "EN-L06-C13-S09-Q12",
+          "stageId": "EN-L06-C13-S09",
+          "type": "sentenceMeaning",
+          "prompt": "짧은 안내문 쓰기: 과정 평가 · 12번: “Please close the door.”의 뜻을 고르세요.",
+          "choices": [
+            "문을 닫아 주세요.",
+            "도서관에서 만나자.",
+            "내일 책을 가져와라.",
+            "경기는 세 시에 시작한다."
+          ],
+          "correctAnswer": "문을 닫아 주세요.",
+          "explanation": "뜻은 ‘문을 닫아 주세요.’입니다.",
+          "difficulty": 7,
+          "skill": "checkpoint",
+          "grammarFocus": "짧은 안내문 쓰기",
+          "vocabularyTopic": "생활 문장 적용",
+          "sourceObjective": "짧은 안내문 쓰기 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "문을 닫아 주세요."
+          ],
+          "exampleSentence": "Please close the door.",
+          "koreanMeaning": "문을 닫아 주세요."
+        }
+      ]
+    }
+  ]
+}

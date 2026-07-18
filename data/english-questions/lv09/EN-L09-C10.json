@@ -1,0 +1,1840 @@
+{
+  "schemaVersion": "1.0.0",
+  "levelId": "EN-L09",
+  "courseId": "EN-L09-C10",
+  "stages": [
+    {
+      "stageId": "EN-L09-C10-S01",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S01-Q01",
+          "stageId": "EN-L09-C10-S01",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 1번: The young artist makes a simple plan ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "before lunch",
+            "at home"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "The young artist makes a simple plan at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S01-Q02",
+          "stageId": "EN-L09-C10-S01",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 2번: 핵심 구조가 ‘at home’이면 O, 아니면 X를 고르세요: The soccer player makes a simple plan at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 at home입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S01-Q03",
+          "stageId": "EN-L09-C10-S01",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 3번: The new student makes a simple plan ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "at home",
+            "near the school",
+            "during study time"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "The new student makes a simple plan at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S01-Q04",
+          "stageId": "EN-L09-C10-S01",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 4번: “Mina finds the answer at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "at home은 장소나 시간을 덧붙이는 수식어다.",
+            "near the school은 장소나 시간을 덧붙이는 수식어다.",
+            "during study time은 장소나 시간을 덧붙이는 수식어다.",
+            "before lunch은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "at home은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘at home은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "Mina finds the answer at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S01-Q05",
+          "stageId": "EN-L09-C10-S01",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 5번: Tom finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "before lunch",
+            "at home"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "Tom finds the answer at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S01-Q06",
+          "stageId": "EN-L09-C10-S01",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 핵심 구문 이해 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother finds the answer at home My.",
+            "subject",
+            "My brother finds the answer at home.",
+            "home at answer the finds brother My."
+          ],
+          "correctAnswer": "My brother finds the answer at home.",
+          "explanation": "바른 어순은 “My brother finds the answer at home.”입니다.",
+          "difficulty": 9,
+          "skill": "concept",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 구문 이해 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother finds the answer at home.",
+            "My brother finds the answer at home"
+          ],
+          "exampleSentence": "My brother finds the answer at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S02",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S02-Q01",
+          "stageId": "EN-L09-C10-S02",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 1번: Tom plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "near the school",
+            "during study time",
+            "after class"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "Tom plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S02-Q02",
+          "stageId": "EN-L09-C10-S02",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 2번: My brother plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "My brother plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S02-Q03",
+          "stageId": "EN-L09-C10-S02",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 3번: “The student plays soccer after class.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "during study time은 장소나 시간을 덧붙이는 수식어다.",
+            "after class은 장소나 시간을 덧붙이는 수식어다.",
+            "at home은 장소나 시간을 덧붙이는 수식어다.",
+            "near the school은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "after class은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘after class은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "The student plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S02-Q04",
+          "stageId": "EN-L09-C10-S02",
+          "type": "fillBlank",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 4번: Our teacher plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "near the school",
+            "during study time"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "Our teacher plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S02-Q05",
+          "stageId": "EN-L09-C10-S02",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 5번: The young artist plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "near the school",
+            "during study time",
+            "after class"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "The young artist plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S02-Q06",
+          "stageId": "EN-L09-C10-S02",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 문맥 어휘 확장 · 6번: 핵심 구조가 ‘after class’이면 O, 아니면 X를 고르세요: The soccer player plays soccer after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 after class입니다.",
+          "difficulty": 9,
+          "skill": "vocabulary",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문맥 어휘 확장 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player plays soccer after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S03",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S03-Q01",
+          "stageId": "EN-L09-C10-S03",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 1번: The young artist finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "on Saturday morning",
+            "before lunch"
+          ],
+          "correctAnswer": "before lunch",
+          "explanation": "수식어 구분 문맥에 맞는 답은 before lunch입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before lunch",
+            "before lunch"
+          ],
+          "exampleSentence": "The young artist finds the answer before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S03-Q02",
+          "stageId": "EN-L09-C10-S03",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 2번: The soccer player finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "on Saturday morning",
+            "before lunch",
+            "after class"
+          ],
+          "correctAnswer": "before lunch",
+          "explanation": "수식어 구분 문맥에 맞는 답은 before lunch입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before lunch",
+            "before lunch"
+          ],
+          "exampleSentence": "The soccer player finds the answer before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S03-Q03",
+          "stageId": "EN-L09-C10-S03",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 3번: 핵심 구조가 ‘after class’이면 O, 아니면 X를 고르세요: The new student finds the answer before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 before lunch입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student finds the answer before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S03-Q04",
+          "stageId": "EN-L09-C10-S03",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 4번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "Mina reads books at the community center.",
+            "center community the at books reads Mina.",
+            "reads books at the community center Mina.",
+            "subject"
+          ],
+          "correctAnswer": "Mina reads books at the community center.",
+          "explanation": "바른 어순은 “Mina reads books at the community center.”입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "Mina reads books at the community center.",
+            "Mina reads books at the community center"
+          ],
+          "exampleSentence": "Mina reads books at the community center.",
+          "koreanMeaning": "at the community center은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S03-Q05",
+          "stageId": "EN-L09-C10-S03",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 5번: Tom reads books ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "near the school",
+            "at the community center"
+          ],
+          "correctAnswer": "at the community center",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at the community center입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at the community center",
+            "at the community center"
+          ],
+          "exampleSentence": "Tom reads books at the community center.",
+          "koreanMeaning": "at the community center은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S03-Q06",
+          "stageId": "EN-L09-C10-S03",
+          "type": "fillBlank",
+          "prompt": "조건과 양보 절: 문법 구조 분석 · 6번: My brother reads books ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "near the school",
+            "at the community center",
+            "after class"
+          ],
+          "correctAnswer": "at the community center",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at the community center입니다.",
+          "difficulty": 9,
+          "skill": "grammar",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문법 구조 분석 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at the community center",
+            "at the community center"
+          ],
+          "exampleSentence": "My brother reads books at the community center.",
+          "koreanMeaning": "at the community center은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S04",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S04-Q01",
+          "stageId": "EN-L09-C10-S04",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 1번: Tom opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "after class",
+            "at home",
+            "during study time"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "Tom opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S04-Q02",
+          "stageId": "EN-L09-C10-S04",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 2번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother opens the window during study time My.",
+            "subject",
+            "My brother opens the window during study time.",
+            "time study during window the opens brother My."
+          ],
+          "correctAnswer": "My brother opens the window during study time.",
+          "explanation": "바른 어순은 “My brother opens the window during study time.”입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother opens the window during study time.",
+            "My brother opens the window during study time"
+          ],
+          "exampleSentence": "My brother opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S04-Q03",
+          "stageId": "EN-L09-C10-S04",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 3번: The student opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "during study time",
+            "before lunch",
+            "after class"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "The student opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S04-Q04",
+          "stageId": "EN-L09-C10-S04",
+          "type": "fillBlank",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 4번: Our teacher opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "Our teacher opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S04-Q05",
+          "stageId": "EN-L09-C10-S04",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 5번: 핵심 구조가 ‘before lunch’이면 O, 아니면 X를 고르세요: The young artist opens the window during study time.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 during study time입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The young artist opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S04-Q06",
+          "stageId": "EN-L09-C10-S04",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 문장 분석 연습 · 6번: The soccer player opens the window ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "during study time",
+            "before lunch"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 9,
+          "skill": "practice",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문장 분석 연습 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "The soccer player opens the window during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S05",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S05-Q01",
+          "stageId": "EN-L09-C10-S05",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 1번: “The young artist reads books near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "during study time은 장소나 시간을 덧붙이는 수식어다.",
+            "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+            "after class은 장소나 시간을 덧붙이는 수식어다.",
+            "near the school은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "near the school은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘near the school은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "The young artist reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S05-Q02",
+          "stageId": "EN-L09-C10-S05",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 2번: The soccer player reads books ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "after class",
+            "near the school",
+            "during study time"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "The soccer player reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S05-Q03",
+          "stageId": "EN-L09-C10-S05",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 3번: 핵심 구조가 ‘during study time’이면 O, 아니면 X를 고르세요: The new student reads books near the school.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 near the school입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The new student reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S05-Q04",
+          "stageId": "EN-L09-C10-S05",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 4번: Mina writes short notes ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "before lunch",
+            "after class"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "Mina writes short notes near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S05-Q05",
+          "stageId": "EN-L09-C10-S05",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 5번: Tom writes short notes ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "after class",
+            "near the school"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "Tom writes short notes near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S05-Q06",
+          "stageId": "EN-L09-C10-S05",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 문단 구조 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "brother writes short notes near the school My.",
+            "subject",
+            "My brother writes short notes near the school.",
+            "school the near notes short writes brother My."
+          ],
+          "correctAnswer": "My brother writes short notes near the school.",
+          "explanation": "바른 어순은 “My brother writes short notes near the school.”입니다.",
+          "difficulty": 9,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 문단 구조 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "My brother writes short notes near the school.",
+            "My brother writes short notes near the school"
+          ],
+          "exampleSentence": "My brother writes short notes near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S06",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S06-Q01",
+          "stageId": "EN-L09-C10-S06",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 1번: “Tom carries a blue bag at home.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "on Saturday morning은 장소나 시간을 덧붙이는 수식어다.",
+            "during study time은 장소나 시간을 덧붙이는 수식어다.",
+            "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+            "at home은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "at home은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘at home은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "Tom carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S06-Q02",
+          "stageId": "EN-L09-C10-S06",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 2번: My brother carries a blue bag ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "at home",
+            "on Saturday morning"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "My brother carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S06-Q03",
+          "stageId": "EN-L09-C10-S06",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 3번: 핵심 구조가 ‘near the school’이면 O, 아니면 X를 고르세요: The student carries a blue bag at home.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 at home입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "The student carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S06-Q04",
+          "stageId": "EN-L09-C10-S06",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 4번: Our teacher carries a blue bag ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "near the school",
+            "during study time",
+            "before lunch"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "Our teacher carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S06-Q05",
+          "stageId": "EN-L09-C10-S06",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 5번: The young artist carries a blue bag ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "before lunch",
+            "at home"
+          ],
+          "correctAnswer": "at home",
+          "explanation": "수식어 구분 문맥에 맞는 답은 at home입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "at home",
+            "at home"
+          ],
+          "exampleSentence": "The young artist carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S06-Q06",
+          "stageId": "EN-L09-C10-S06",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 구문독해 적용 · 6번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "soccer player carries a blue bag at home The.",
+            "subject",
+            "The soccer player carries a blue bag at home.",
+            "home at bag blue a carries player soccer The."
+          ],
+          "correctAnswer": "The soccer player carries a blue bag at home.",
+          "explanation": "바른 어순은 “The soccer player carries a blue bag at home.”입니다.",
+          "difficulty": 10,
+          "skill": "reading",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 구문독해 적용 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The soccer player carries a blue bag at home.",
+            "The soccer player carries a blue bag at home"
+          ],
+          "exampleSentence": "The soccer player carries a blue bag at home.",
+          "koreanMeaning": "at home은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S07",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S07-Q01",
+          "stageId": "EN-L09-C10-S07",
+          "type": "listeningChoice",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 1번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother opens the window at home.",
+            "The new student makes a simple plan on Saturday morning.",
+            "Our teacher writes short notes during study time.",
+            "The young artist writes short notes after class."
+          ],
+          "correctAnswer": "The young artist writes short notes after class.",
+          "explanation": "들은 문장은 “The young artist writes short notes after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist writes short notes after class.",
+          "acceptedAnswers": [
+            "The young artist writes short notes after class."
+          ],
+          "exampleSentence": "The young artist writes short notes after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S07-Q02",
+          "stageId": "EN-L09-C10-S07",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 2번: The soccer player writes short notes ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "on Saturday morning",
+            "during study time",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "The soccer player writes short notes after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S07-Q03",
+          "stageId": "EN-L09-C10-S07",
+          "type": "listeningChoice",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player writes short notes during study time.",
+            "The new student writes short notes after class.",
+            "Our teacher opens the window at home.",
+            "Tom finds the answer on Saturday morning."
+          ],
+          "correctAnswer": "The new student writes short notes after class.",
+          "explanation": "들은 문장은 “The new student writes short notes after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The new student writes short notes after class.",
+          "acceptedAnswers": [
+            "The new student writes short notes after class."
+          ],
+          "exampleSentence": "The new student writes short notes after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S07-Q04",
+          "stageId": "EN-L09-C10-S07",
+          "type": "dictation",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 4번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "Mina studies English after class.",
+          "explanation": "바른 문장은 “Mina studies English after class.”입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Mina studies English after class.",
+          "acceptedAnswers": [
+            "Mina studies English after class.",
+            "Mina studies English after class"
+          ],
+          "exampleSentence": "Mina studies English after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S07-Q05",
+          "stageId": "EN-L09-C10-S07",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 5번: 핵심 구조가 ‘at home’이면 O, 아니면 X를 고르세요: Tom studies English after class.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "X",
+          "explanation": "핵심 답은 after class입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "X"
+          ],
+          "exampleSentence": "Tom studies English after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S07-Q06",
+          "stageId": "EN-L09-C10-S07",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 핵심 정보 듣기 · 6번: My brother studies English ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "on Saturday morning",
+            "during study time",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "after class",
+          "explanation": "수식어 구분 문맥에 맞는 답은 after class입니다.",
+          "difficulty": 10,
+          "skill": "listening",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 핵심 정보 듣기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "after class",
+            "after class"
+          ],
+          "exampleSentence": "My brother studies English after class.",
+          "koreanMeaning": "after class은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S08",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S08-Q01",
+          "stageId": "EN-L09-C10-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 1번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "Tom makes a simple plan before lunch.",
+          "explanation": "“Tom makes a simple plan before lunch.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "Tom makes a simple plan before lunch.",
+          "acceptedAnswers": [
+            "Tom makes a simple plan before lunch.",
+            "Tom makes a simple plan before lunch"
+          ],
+          "exampleSentence": "Tom makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S08-Q02",
+          "stageId": "EN-L09-C10-S08",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 2번: My brother makes a simple plan ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "at home",
+            "on Saturday morning",
+            "before lunch",
+            "after class"
+          ],
+          "correctAnswer": "before lunch",
+          "explanation": "수식어 구분 문맥에 맞는 답은 before lunch입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before lunch",
+            "before lunch"
+          ],
+          "exampleSentence": "My brother makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S08-Q03",
+          "stageId": "EN-L09-C10-S08",
+          "type": "pronunciationPrompt",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 3번: 음성을 듣고 따라 읽은 뒤 그대로 입력하세요.",
+          "choices": [],
+          "correctAnswer": "The student makes a simple plan before lunch.",
+          "explanation": "“The student makes a simple plan before lunch.”를 따라 읽으세요.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis-practice",
+          "audioText": "The student makes a simple plan before lunch.",
+          "acceptedAnswers": [
+            "The student makes a simple plan before lunch.",
+            "The student makes a simple plan before lunch"
+          ],
+          "exampleSentence": "The student makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S08-Q04",
+          "stageId": "EN-L09-C10-S08",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 4번: “Our teacher makes a simple plan before lunch.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+            "after class은 장소나 시간을 덧붙이는 수식어다.",
+            "at home은 장소나 시간을 덧붙이는 수식어다.",
+            "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘before lunch은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before lunch은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "Our teacher makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S08-Q05",
+          "stageId": "EN-L09-C10-S08",
+          "type": "matching",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 5번: The young artist makes a simple plan ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "on Saturday morning",
+            "before lunch"
+          ],
+          "correctAnswer": "before lunch",
+          "explanation": "수식어 구분 문맥에 맞는 답은 before lunch입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "before lunch",
+            "before lunch"
+          ],
+          "exampleSentence": "The young artist makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S08-Q06",
+          "stageId": "EN-L09-C10-S08",
+          "type": "trueFalse",
+          "prompt": "조건과 양보 절: 근거 설명하기 · 6번: 핵심 구조가 ‘before lunch’이면 O, 아니면 X를 고르세요: The soccer player makes a simple plan before lunch.",
+          "choices": [
+            "O",
+            "X"
+          ],
+          "correctAnswer": "O",
+          "explanation": "핵심 답은 before lunch입니다.",
+          "difficulty": 10,
+          "skill": "speaking",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 근거 설명하기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "O"
+          ],
+          "exampleSentence": "The soccer player makes a simple plan before lunch.",
+          "koreanMeaning": "before lunch은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S09",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S09-Q01",
+          "stageId": "EN-L09-C10-S09",
+          "type": "fillBlank",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 1번: The young artist studies English ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "in the library",
+            "at home",
+            "during study time"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "The young artist studies English during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S09-Q02",
+          "stageId": "EN-L09-C10-S09",
+          "type": "dictation",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 2번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The soccer player studies English during study time.",
+          "explanation": "바른 문장은 “The soccer player studies English during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The soccer player studies English during study time.",
+          "acceptedAnswers": [
+            "The soccer player studies English during study time.",
+            "The soccer player studies English during study time"
+          ],
+          "exampleSentence": "The soccer player studies English during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S09-Q03",
+          "stageId": "EN-L09-C10-S09",
+          "type": "ordering",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 3번: 낱말을 바르게 배열한 문장을 고르세요.",
+          "choices": [
+            "subject",
+            "The new student studies English during study time.",
+            "time study during English studies student new The.",
+            "new student studies English during study time The."
+          ],
+          "correctAnswer": "The new student studies English during study time.",
+          "explanation": "바른 어순은 “The new student studies English during study time.”입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "The new student studies English during study time.",
+            "The new student studies English during study time"
+          ],
+          "exampleSentence": "The new student studies English during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S09-Q04",
+          "stageId": "EN-L09-C10-S09",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 4번: Mina plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "after class",
+            "at home"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "Mina plays soccer during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S09-Q05",
+          "stageId": "EN-L09-C10-S09",
+          "type": "fillBlank",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 5번: Tom plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "after class",
+            "at home",
+            "during study time"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "Tom plays soccer during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S09-Q06",
+          "stageId": "EN-L09-C10-S09",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 논리 문장 쓰기 · 6번: My brother plays soccer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "after class",
+            "at home",
+            "during study time",
+            "before lunch"
+          ],
+          "correctAnswer": "during study time",
+          "explanation": "수식어 구분 문맥에 맞는 답은 during study time입니다.",
+          "difficulty": 10,
+          "skill": "writing",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 논리 문장 쓰기 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "during study time",
+            "during study time"
+          ],
+          "exampleSentence": "My brother plays soccer during study time.",
+          "koreanMeaning": "during study time은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    },
+    {
+      "stageId": "EN-L09-C10-S10",
+      "questions": [
+        {
+          "questionId": "EN-L09-C10-S10-Q01",
+          "stageId": "EN-L09-C10-S10",
+          "type": "reviewMixed",
+          "prompt": "조건과 양보 절: 과정 평가 · 1번: Tom finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "during study time",
+            "before lunch",
+            "in the library",
+            "on Saturday morning"
+          ],
+          "correctAnswer": "on Saturday morning",
+          "explanation": "수식어 구분 문맥에 맞는 답은 on Saturday morning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 1,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "on Saturday morning",
+            "on saturday morning"
+          ],
+          "exampleSentence": "Tom finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q02",
+          "stageId": "EN-L09-C10-S10",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 과정 평가 · 2번: My brother finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "in the library",
+            "on Saturday morning",
+            "during study time"
+          ],
+          "correctAnswer": "on Saturday morning",
+          "explanation": "수식어 구분 문맥에 맞는 답은 on Saturday morning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 2,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "on Saturday morning",
+            "on saturday morning"
+          ],
+          "exampleSentence": "My brother finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q03",
+          "stageId": "EN-L09-C10-S10",
+          "type": "listeningChoice",
+          "prompt": "조건과 양보 절: 과정 평가 · 3번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "My brother finds the answer in the library.",
+            "The student finds the answer on Saturday morning.",
+            "Mina studies English during study time.",
+            "The young artist opens the window before lunch."
+          ],
+          "correctAnswer": "The student finds the answer on Saturday morning.",
+          "explanation": "들은 문장은 “The student finds the answer on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 3,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student finds the answer on Saturday morning.",
+          "acceptedAnswers": [
+            "The student finds the answer on Saturday morning."
+          ],
+          "exampleSentence": "The student finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q04",
+          "stageId": "EN-L09-C10-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 과정 평가 · 4번: Our teacher finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "on Saturday morning",
+            "during study time",
+            "before lunch",
+            "in the library"
+          ],
+          "correctAnswer": "on Saturday morning",
+          "explanation": "수식어 구분 문맥에 맞는 답은 on Saturday morning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 4,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "on Saturday morning",
+            "on saturday morning"
+          ],
+          "exampleSentence": "Our teacher finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q05",
+          "stageId": "EN-L09-C10-S10",
+          "type": "dictation",
+          "prompt": "조건과 양보 절: 과정 평가 · 5번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The young artist finds the answer on Saturday morning.",
+          "explanation": "바른 문장은 “The young artist finds the answer on Saturday morning.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 5,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The young artist finds the answer on Saturday morning.",
+          "acceptedAnswers": [
+            "The young artist finds the answer on Saturday morning.",
+            "The young artist finds the answer on Saturday morning"
+          ],
+          "exampleSentence": "The young artist finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q06",
+          "stageId": "EN-L09-C10-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 과정 평가 · 6번: “The soccer player finds the answer on Saturday morning.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+            "in the library은 장소나 시간을 덧붙이는 수식어다.",
+            "on Saturday morning은 장소나 시간을 덧붙이는 수식어다.",
+            "during study time은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘on Saturday morning은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 6,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "The soccer player finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q07",
+          "stageId": "EN-L09-C10-S10",
+          "type": "reviewMixed",
+          "prompt": "조건과 양보 절: 과정 평가 · 7번: The new student finds the answer ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "in the library",
+            "on Saturday morning",
+            "during study time",
+            "before lunch"
+          ],
+          "correctAnswer": "on Saturday morning",
+          "explanation": "수식어 구분 문맥에 맞는 답은 on Saturday morning입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 7,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "on Saturday morning",
+            "on saturday morning"
+          ],
+          "exampleSentence": "The new student finds the answer on Saturday morning.",
+          "koreanMeaning": "on Saturday morning은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q08",
+          "stageId": "EN-L09-C10-S10",
+          "type": "multipleChoice",
+          "prompt": "조건과 양보 절: 과정 평가 · 8번: Mina reads books ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "near the school",
+            "during study time",
+            "before lunch",
+            "in the library"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 8,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "Mina reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q09",
+          "stageId": "EN-L09-C10-S10",
+          "type": "listeningChoice",
+          "prompt": "조건과 양보 절: 과정 평가 · 9번: 문장을 듣고 같은 문장을 고르세요.",
+          "choices": [
+            "The soccer player studies English during study time.",
+            "The student carries a blue bag before lunch.",
+            "Mina reads books after class.",
+            "Tom reads books near the school."
+          ],
+          "correctAnswer": "Tom reads books near the school.",
+          "explanation": "들은 문장은 “Tom reads books near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 9,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "Tom reads books near the school.",
+          "acceptedAnswers": [
+            "Tom reads books near the school."
+          ],
+          "exampleSentence": "Tom reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q10",
+          "stageId": "EN-L09-C10-S10",
+          "type": "sentenceCompletion",
+          "prompt": "조건과 양보 절: 과정 평가 · 10번: My brother reads books ___. 빈칸에 알맞은 구조를 고르세요.",
+          "choices": [
+            "before lunch",
+            "after class",
+            "near the school",
+            "during study time"
+          ],
+          "correctAnswer": "near the school",
+          "explanation": "수식어 구분 문맥에 맞는 답은 near the school입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 10,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school",
+            "near the school"
+          ],
+          "exampleSentence": "My brother reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q11",
+          "stageId": "EN-L09-C10-S10",
+          "type": "dictation",
+          "prompt": "조건과 양보 절: 과정 평가 · 11번: 문장을 듣고 그대로 쓰세요.",
+          "choices": [],
+          "correctAnswer": "The student reads books near the school.",
+          "explanation": "바른 문장은 “The student reads books near the school.”입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 11,
+          "mediaRequired": "speechSynthesis",
+          "audioText": "The student reads books near the school.",
+          "acceptedAnswers": [
+            "The student reads books near the school.",
+            "The student reads books near the school"
+          ],
+          "exampleSentence": "The student reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        },
+        {
+          "questionId": "EN-L09-C10-S10-Q12",
+          "stageId": "EN-L09-C10-S10",
+          "type": "sentenceMeaning",
+          "prompt": "조건과 양보 절: 과정 평가 · 12번: “Our teacher reads books near the school.”의 핵심 의미를 고르세요.",
+          "choices": [
+            "near the school은 장소나 시간을 덧붙이는 수식어다.",
+            "during study time은 장소나 시간을 덧붙이는 수식어다.",
+            "before lunch은 장소나 시간을 덧붙이는 수식어다.",
+            "after class은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "correctAnswer": "near the school은 장소나 시간을 덧붙이는 수식어다.",
+          "explanation": "핵심 의미는 ‘near the school은 장소나 시간을 덧붙이는 수식어다.’입니다.",
+          "difficulty": 10,
+          "skill": "checkpoint",
+          "grammarFocus": "수식어 구분",
+          "vocabularyTopic": "고등 문장과 독해 적용",
+          "sourceObjective": "조건과 양보 절 내용을 활용해 과정 평가 과제를 수행한다.",
+          "order": 12,
+          "mediaRequired": "none",
+          "audioText": "",
+          "acceptedAnswers": [
+            "near the school은 장소나 시간을 덧붙이는 수식어다."
+          ],
+          "exampleSentence": "Our teacher reads books near the school.",
+          "koreanMeaning": "near the school은 장소나 시간을 덧붙이는 수식어다."
+        }
+      ]
+    }
+  ]
+}
