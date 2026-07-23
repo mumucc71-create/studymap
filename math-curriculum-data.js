@@ -2519,62 +2519,303 @@
   };
   const createTemplateQuestion = (node, mode, attempt, index) => {
     const seed = hashSeed(`${node.id}:${mode}:${attempt}:${index}`);
+    const title = node.title;
+    const chapterTitle = chapterById[node.chapterId]?.title || "";
     let prompt;
     let answer;
     let solution;
     if (node.worldId === "equations") {
       const addend = 2 + (seed % 8);
       const value = 3 + ((seed >>> 3) % 12);
-      answer = value;
-      prompt = `x + ${addend} = ${value + addend}일 때 x의 값을 구하세요.`;
-      solution = `양변에서 ${addend}를 빼면 x = ${value}입니다.`;
+      if (/이차|근의 공식|판별식|완전제곱|고차|삼차|사차|복소수/.test(title)) {
+        answer = value;
+        prompt = `x² - ${value * value} = 0의 양의 해를 구하세요.`;
+        solution = `x² = ${value * value}이므로 양의 해는 x = ${value}입니다.`;
+      } else if (/연립|두 미지수|가감법|대입법/.test(title)) {
+        const other = 2 + ((seed >>> 6) % 9);
+        answer = value;
+        prompt = `x + y = ${value + other}, x - y = ${value - other}일 때 x를 구하세요.`;
+        solution = `두 식을 더하면 2x = ${value * 2}이므로 x = ${value}입니다.`;
+      } else if (/곱셈식|나눗셈식|곱하기|나누기/.test(title)) {
+        answer = value;
+        prompt = `${addend}x = ${addend * value}일 때 x를 구하세요.`;
+        solution = `양변을 ${addend}로 나누면 x = ${value}입니다.`;
+      } else {
+        answer = value;
+        prompt = `x + ${addend} = ${value + addend}일 때 x의 값을 구하세요.`;
+        solution = `양변에서 ${addend}를 빼면 x = ${value}입니다.`;
+      }
     } else if (node.worldId === "functions") {
       const slope = 2 + (seed % 4);
       const intercept = 1 + ((seed >>> 2) % 5);
       const input = 1 + ((seed >>> 5) % 6);
-      answer = (slope * input) + intercept;
-      prompt = `y = ${slope}x + ${intercept}에서 x = ${input}일 때 y를 구하세요.`;
-      solution = `x에 ${input}을 대입하면 y = ${slope} × ${input} + ${intercept} = ${answer}입니다.`;
+      if (chapterTitle === "규칙 찾기") {
+        answer = input + slope * 3;
+        prompt = `${input}, ${input + slope}, ${input + slope * 2}, □의 규칙에서 □에 들어갈 수를 구하세요.`;
+        solution = `${slope}씩 커지는 규칙이므로 다음 수는 ${answer}입니다.`;
+      } else if (chapterTitle === "대응") {
+        answer = input * slope;
+        prompt = `입력값에 ${slope}를 곱해 출력하는 대응에서 입력이 ${input}일 때 출력을 구하세요.`;
+        solution = `${input} × ${slope} = ${answer}입니다.`;
+      } else if (chapterTitle === "좌표") {
+        answer = input;
+        prompt = `점 (${input}, ${intercept})의 x좌표를 구하세요.`;
+        solution = `순서쌍의 첫 번째 수가 x좌표이므로 ${input}입니다.`;
+      } else if (/이차|포물선|꼭짓점|축|최대|최소/.test(title)) {
+        answer = intercept;
+        prompt = `y = (x - ${input})² + ${intercept}의 최솟값을 구하세요.`;
+        solution = `(x - ${input})²은 0 이상이므로 최솟값은 ${intercept}입니다.`;
+      } else if (/반비례/.test(title)) {
+        answer = slope;
+        prompt = `y = ${slope * input} / x에서 x = ${input}일 때 y를 구하세요.`;
+        solution = `x에 ${input}을 대입하면 y = ${slope * input} ÷ ${input} = ${slope}입니다.`;
+      } else if (/지수/.test(title)) {
+        answer = 2 ** input;
+        prompt = `2^${input}의 값을 구하세요.`;
+        solution = `2를 ${input}번 곱하면 ${answer}입니다.`;
+      } else if (/로그/.test(title)) {
+        answer = input;
+        prompt = `log₂(${2 ** input})의 값을 구하세요.`;
+        solution = `2^${input} = ${2 ** input}이므로 log₂(${2 ** input}) = ${input}입니다.`;
+      } else if (chapterTitle === "정비례") {
+        answer = slope * input;
+        prompt = `y = ${slope}x에서 x = ${input}일 때 y를 구하세요.`;
+        solution = `x에 ${input}을 대입하면 y = ${slope} × ${input} = ${answer}입니다.`;
+      } else {
+        answer = (slope * input) + intercept;
+        prompt = `y = ${slope}x + ${intercept}에서 x = ${input}일 때 y를 구하세요.`;
+        solution = `x에 ${input}을 대입하면 y = ${slope} × ${input} + ${intercept} = ${answer}입니다.`;
+      }
     } else if (node.worldId === "geometry-measurement") {
       const width = 3 + (seed % 8);
       const height = 2 + ((seed >>> 3) % 7);
-      answer = width * height;
-      prompt = `가로가 ${width}cm, 세로가 ${height}cm인 직사각형의 넓이를 구하세요.`;
-      solution = `직사각형의 넓이는 가로 × 세로이므로 ${width} × ${height} = ${answer}cm²입니다.`;
+      if (chapterTitle === "합동") {
+        answer = width;
+        prompt = `합동인 두 삼각형에서 한 삼각형의 대응변 길이가 ${width}cm일 때 다른 삼각형의 대응변 길이를 구하세요.`;
+        solution = `합동인 도형의 대응변 길이는 같으므로 ${width}cm입니다.`;
+      } else if (chapterTitle === "닮음") {
+        const scale = 2 + (seed % 3);
+        answer = width * scale;
+        prompt = `닮음비가 1:${scale}인 두 도형에서 작은 도형의 대응변이 ${width}cm일 때 큰 도형의 대응변을 구하세요.`;
+        solution = `${width} × ${scale} = ${answer}cm입니다.`;
+      } else if (chapterTitle === "사각형") {
+        answer = 90;
+        prompt = `직사각형의 한 내각의 크기를 구하세요.`;
+        solution = `직사각형의 네 내각은 모두 직각이므로 90°입니다.`;
+      } else if (/벡터|내분점|직선의 방정식|원의 방정식|도형의 이동/.test(title)) {
+        answer = width + height;
+        prompt = `벡터 (${width}, ${height})의 두 성분의 합을 구하세요.`;
+        solution = `${width} + ${height} = ${answer}입니다.`;
+      } else if (/피타고라스|두 점 사이의 거리|공간좌표/.test(title)) {
+        const triples = [[3, 4, 5], [5, 12, 13], [8, 15, 17]];
+        const [a, b, c] = triples[seed % triples.length];
+        answer = c;
+        prompt = `직각삼각형의 두 직각변 길이가 ${a}cm와 ${b}cm일 때 빗변의 길이를 구하세요.`;
+        solution = `피타고라스 정리에 따라 √(${a}² + ${b}²) = ${c}cm입니다.`;
+      } else if (/삼각비|사인|코사인|탄젠트/.test(title)) {
+        answer = height;
+        prompt = `직각삼각형에서 밑변이 ${width}cm이고 tan θ = ${height}/${width}일 때 높이를 구하세요.`;
+        solution = `tan θ = 높이 ÷ 밑변이므로 높이는 ${height}cm입니다.`;
+      } else if (/원|원주|부채꼴|현과 접선|원주각/.test(title)) {
+        const radius = 2 + (seed % 7);
+        answer = radius * radius;
+        prompt = `반지름이 ${radius}cm인 원의 넓이를 π × □ cm²로 나타낼 때 □를 구하세요.`;
+        solution = `원의 넓이는 πr²이므로 □ = ${radius}² = ${answer}입니다.`;
+      } else if (/부피|입체|각기둥|직육면체|정육면체|원기둥|원뿔|구/.test(title)) {
+        const depth = 2 + ((seed >>> 6) % 6);
+        answer = width * height * depth;
+        prompt = `가로 ${width}cm, 세로 ${height}cm, 높이 ${depth}cm인 직육면체의 부피를 구하세요.`;
+        solution = `${width} × ${height} × ${depth} = ${answer}cm³입니다.`;
+      } else if (/둘레/.test(title)) {
+        answer = (width + height) * 2;
+        prompt = `가로 ${width}cm, 세로 ${height}cm인 직사각형의 둘레를 구하세요.`;
+        solution = `(${width} + ${height}) × 2 = ${answer}cm입니다.`;
+      } else if (/각|삼각형/.test(title)) {
+        const angleA = 30 + (seed % 4) * 10;
+        const angleB = 40 + ((seed >>> 3) % 4) * 10;
+        answer = 180 - angleA - angleB;
+        prompt = `삼각형의 두 내각이 ${angleA}°와 ${angleB}°일 때 나머지 내각을 구하세요.`;
+        solution = `삼각형의 내각의 합은 180°이므로 180 - ${angleA} - ${angleB} = ${answer}°입니다.`;
+      } else {
+        answer = width * height;
+        prompt = `가로가 ${width}cm, 세로가 ${height}cm인 직사각형의 넓이를 구하세요.`;
+        solution = `직사각형의 넓이는 가로 × 세로이므로 ${width} × ${height} = ${answer}cm²입니다.`;
+      }
     } else if (node.worldId === "probability-statistics") {
       const base = 2 + (seed % 8);
       const gap = 1 + ((seed >>> 3) % 4);
-      answer = base + gap;
-      prompt = `${base}, ${base + gap}, ${base + (gap * 2)}의 평균을 구하세요.`;
-      solution = `세 수의 합을 3으로 나누면 평균은 ${answer}입니다.`;
+      if (chapterTitle === "자료 정리" || chapterTitle === "표와 그래프") {
+        answer = base + (base + gap) + (base + gap * 2);
+        prompt = `세 항목의 도수가 각각 ${base}, ${base + gap}, ${base + gap * 2}일 때 전체 도수를 구하세요.`;
+        solution = `세 도수를 더하면 ${answer}입니다.`;
+      } else if (chapterTitle === "분산과 표준편차") {
+        answer = 1;
+        prompt = `자료 2, 2, 4, 4의 평균이 3일 때 분산을 구하세요.`;
+        solution = `편차의 제곱은 모두 1이고 그 평균도 1이므로 분산은 1입니다.`;
+      } else if (chapterTitle === "통계적 추정") {
+        answer = base + gap;
+        prompt = `표본의 값이 ${base}, ${base + gap}, ${base + gap * 2}일 때 표본평균을 구하세요.`;
+        solution = `세 값의 평균은 ${answer}입니다.`;
+      } else if (/조건부|베이즈/.test(title)) {
+        const conditionTotal = 5 + (seed % 5);
+        const both = 1 + ((seed >>> 4) % (conditionTotal - 1));
+        answer = Number(((both / conditionTotal) * 100).toFixed(1));
+        prompt = `사건 B가 일어난 경우가 ${conditionTotal * 10}번이고 그중 A도 일어난 경우가 ${both * 10}번일 때 P(A|B)를 백분율로 구하세요.`;
+        solution = `${both * 10} ÷ ${conditionTotal * 10} × 100 = ${answer}%입니다.`;
+      } else if (/순열|순서가 있는|원순열/.test(title)) {
+        const count = 4 + (seed % 5);
+        answer = count * (count - 1);
+        prompt = `서로 다른 ${count}명 중 2명을 뽑아 순서 있게 세우는 방법의 수를 구하세요.`;
+        solution = `${count}P2 = ${count} × ${count - 1} = ${answer}입니다.`;
+      } else if (/조합|순서가 없는/.test(title)) {
+        const count = 4 + (seed % 5);
+        answer = count * (count - 1) / 2;
+        prompt = `서로 다른 ${count}명 중 2명을 순서 없이 고르는 방법의 수를 구하세요.`;
+        solution = `${count}C2 = ${count} × ${count - 1} ÷ 2 = ${answer}입니다.`;
+      } else if (/확률|사건|표본공간|여사건|독립/.test(title)) {
+        const favorable = 1 + (seed % 4);
+        answer = favorable * 10;
+        prompt = `가능한 결과가 10개이고 그중 원하는 결과가 ${favorable}개일 때 확률을 백분율로 구하세요.`;
+        solution = `${favorable} ÷ 10 × 100 = ${answer}%입니다.`;
+      } else if (/중앙값/.test(title)) {
+        answer = base + gap;
+        prompt = `${base}, ${base + gap}, ${base + gap * 2}의 중앙값을 구하세요.`;
+        solution = `크기순으로 놓았을 때 가운데 값은 ${answer}입니다.`;
+      } else if (/최빈값/.test(title)) {
+        answer = base;
+        prompt = `${base}, ${base}, ${base + gap}, ${base + gap * 2}의 최빈값을 구하세요.`;
+        solution = `가장 많이 나타난 값은 ${base}입니다.`;
+      } else {
+        answer = base + gap;
+        prompt = `${base}, ${base + gap}, ${base + (gap * 2)}의 평균을 구하세요.`;
+        solution = `세 수의 합을 3으로 나누면 평균은 ${answer}입니다.`;
+      }
     } else if (node.worldId === "sequences") {
       const first = 1 + (seed % 7);
       const difference = 2 + ((seed >>> 3) % 5);
       const term = 4 + ((seed >>> 6) % 5);
-      answer = first + ((term - 1) * difference);
-      prompt = `첫째항이 ${first}, 공차가 ${difference}인 등차수열의 제${term}항을 구하세요.`;
-      solution = `${first} + (${term} - 1) × ${difference} = ${answer}입니다.`;
+      if (chapterTitle === "수학적 귀납법") {
+        answer = term * (term + 1) / 2;
+        prompt = `1 + 2 + ··· + ${term}의 값을 구하세요.`;
+        solution = `1부터 n까지의 합 n(n+1)/2에 n = ${term}을 대입하면 ${answer}입니다.`;
+      } else if (chapterTitle === "여러 가지 수열") {
+        answer = first + term * difference;
+        prompt = `a₁ = ${first}, aₙ₊₁ = aₙ + ${difference}일 때 a${term + 1}을 구하세요.`;
+        solution = `${first}에서 ${difference}를 ${term}번 더하면 ${answer}입니다.`;
+      } else if (/등비|공비|무한등비/.test(title)) {
+        const ratio = 2 + (seed % 3);
+        answer = first * (ratio ** (term - 1));
+        prompt = `첫째항이 ${first}, 공비가 ${ratio}인 등비수열의 제${term}항을 구하세요.`;
+        solution = `${first} × ${ratio}^(${term} - 1) = ${answer}입니다.`;
+      } else if (/등차수열의 합|항의 개수|첫째항과 마지막 항/.test(title)) {
+        const last = first + ((term - 1) * difference);
+        answer = term * (first + last) / 2;
+        prompt = `첫째항이 ${first}, 공차가 ${difference}인 등차수열의 첫 ${term}개 항의 합을 구하세요.`;
+        solution = `${term} × (${first} + ${last}) ÷ 2 = ${answer}입니다.`;
+      } else if (/점화식/.test(title)) {
+        answer = first + term * difference;
+        prompt = `a₁ = ${first}, aₙ₊₁ = aₙ + ${difference}일 때 a${term + 1}을 구하세요.`;
+        solution = `${first}에서 ${difference}를 ${term}번 더하면 ${answer}입니다.`;
+      } else {
+        answer = first + ((term - 1) * difference);
+        prompt = `첫째항이 ${first}, 공차가 ${difference}인 수열의 제${term}항을 구하세요.`;
+        solution = `${first} + (${term} - 1) × ${difference} = ${answer}입니다.`;
+      }
     } else if (node.worldId === "calculus") {
       const coefficient = 2 + (seed % 7);
       const power = 2 + ((seed >>> 3) % 4);
-      answer = coefficient * power;
-      prompt = `f(x) = ${coefficient}x^${power}일 때 f'(x)의 x^${power - 1}의 계수를 구하세요.`;
-      solution = `거듭제곱 미분법으로 계수는 ${coefficient} × ${power} = ${answer}입니다.`;
+      if (chapterTitle === "연속") {
+        const target = 1 + ((seed >>> 5) % 6);
+        answer = coefficient * target + power;
+        prompt = `연속함수 f(x) = ${coefficient}x + ${power}에서 f(${target})의 값을 구하세요.`;
+        solution = `연속함수의 식에 ${target}을 대입하면 ${answer}입니다.`;
+      } else if (/극한|가까워지는 값|좌극한|우극한/.test(title)) {
+        const target = 1 + ((seed >>> 5) % 6);
+        answer = coefficient * target + power;
+        prompt = `x가 ${target}에 가까워질 때 ${coefficient}x + ${power}의 극한값을 구하세요.`;
+        solution = `연속인 일차식에 x = ${target}을 대입하면 ${answer}입니다.`;
+      } else if (/평균변화율|변화량/.test(title)) {
+        const start = 1 + ((seed >>> 5) % 4);
+        const end = start + 2;
+        answer = coefficient * (start + end);
+        prompt = `f(x) = ${coefficient}x²의 x = ${start}에서 x = ${end}까지 평균변화율을 구하세요.`;
+        solution = `[f(${end}) - f(${start})] ÷ (${end} - ${start}) = ${coefficient}(${start} + ${end}) = ${answer}입니다.`;
+      } else if (/부정적분|원시함수|기본 부정적분/.test(title)) {
+        answer = coefficient;
+        prompt = `∫ ${coefficient * power}x^${power - 1} dx의 x^${power} 계수를 구하세요.`;
+        solution = `x^${power - 1}을 적분하면 x^${power}/${power}이므로 계수는 ${coefficient}입니다.`;
+      } else if (/정적분|구분구적|넓이|누적량|이동거리|부피/.test(title)) {
+        const end = 2 + (seed % 4);
+        answer = coefficient * end * end / 2;
+        prompt = `∫₀^${end} ${coefficient}x dx의 값을 구하세요.`;
+        solution = `[${coefficient}/2 × x²]₀^${end} = ${answer}입니다.`;
+      } else {
+        answer = coefficient * power;
+        prompt = `f(x) = ${coefficient}x^${power}일 때 f'(x)의 x^${power - 1}의 계수를 구하세요.`;
+        solution = `거듭제곱 미분법으로 계수는 ${coefficient} × ${power} = ${answer}입니다.`;
+      }
     } else {
       const left = 10 + (seed % 80);
       const right = 2 + ((seed >>> 4) % 30);
-      answer = left + right;
-      prompt = `${left} + ${right}을 계산하세요.`;
-      solution = `두 수를 더하면 ${answer}입니다.`;
+      if (/분수/.test(title)) {
+        const denominator = 3 + (seed % 7);
+        const numeratorA = 1 + ((seed >>> 3) % (denominator - 1));
+        const numeratorB = 1 + ((seed >>> 6) % (denominator - 1));
+        answer = numeratorA + numeratorB;
+        prompt = `${numeratorA}/${denominator} + ${numeratorB}/${denominator}의 분자를 구하세요.`;
+        solution = `분모가 같으므로 분자는 ${numeratorA} + ${numeratorB} = ${answer}입니다.`;
+      } else if (/소수/.test(title)) {
+        const decimalA = (left / 10).toFixed(1);
+        const decimalB = (right / 10).toFixed(1);
+        answer = Number(decimalA) + Number(decimalB);
+        prompt = `${decimalA} + ${decimalB}을 계산하세요.`;
+        solution = `소수점을 맞추어 더하면 ${answer}입니다.`;
+      } else if (/약수|공약수|최대공약수|소인수/.test(title)) {
+        const factor = 2 + (seed % 5);
+        answer = factor;
+        prompt = `${factor * 3}과 ${factor * 5}의 최대공약수를 구하세요.`;
+        solution = `두 수의 공통인 가장 큰 약수는 ${factor}입니다.`;
+      } else if (/배수|공배수|최소공배수/.test(title)) {
+        const factor = 2 + (seed % 5);
+        answer = factor * 6;
+        prompt = `${factor * 2}와 ${factor * 3}의 최소공배수를 구하세요.`;
+        solution = `두 수의 최소공배수는 ${factor * 6}입니다.`;
+      } else if (/나눗셈|나누기|몫|나머지/.test(title)) {
+        answer = right;
+        prompt = `${left * right} ÷ ${left}을 계산하세요.`;
+        solution = `${left * right}을 ${left}로 나누면 ${right}입니다.`;
+      } else if (/곱셈|곱하기/.test(title)) {
+        answer = left * right;
+        prompt = `${left} × ${right}을 계산하세요.`;
+        solution = `${left} × ${right} = ${answer}입니다.`;
+      } else if (/뺄셈|빼기/.test(title)) {
+        answer = left;
+        prompt = `${left + right} - ${right}을 계산하세요.`;
+        solution = `${left + right}에서 ${right}을 빼면 ${left}입니다.`;
+      } else if (/혼합|여러 단계|계산 순서|괄호/.test(title)) {
+        answer = left + right * 2;
+        prompt = `${left} + ${right} × 2를 계산하세요.`;
+        solution = `곱셈을 먼저 계산하여 ${left} + ${right * 2} = ${answer}입니다.`;
+      } else if (/큰 수|만 단위|십만|백만|천만|억|조|자릿값/.test(title)) {
+        const tenThousands = 2 + (seed % 8);
+        answer = tenThousands * 10000;
+        prompt = `10,000이 ${tenThousands}개 모인 수를 구하세요.`;
+        solution = `10,000 × ${tenThousands} = ${answer}입니다.`;
+      } else {
+        answer = left + right;
+        prompt = `${left} + ${right}을 계산하세요.`;
+        solution = `두 수를 더하면 ${answer}입니다.`;
+      }
     }
     const written = mode === "written";
+    const difficultyByMode = { concept: 1, basic: 2, typePractice: 3, advanced: Math.min(5, 4 + Math.floor((attempt - 1) / 2)), written: 4, pastExam: 4, assessment: 4 };
     return {
       id: `math-v2-${node.id}-${mode}-${attempt}-${index + 1}`,
       worldId: node.worldId,
       chapterId: node.chapterId,
       nodeId: node.id,
       mode,
-      difficulty: mode === "advanced" ? Math.min(5, 3 + Math.floor(attempt / 2)) : mode === "assessment" ? 3 : 2,
+      difficulty: difficultyByMode[mode] || 2,
       questionType: written ? "writtenResponse" : mode === "advanced" ? "multiStep" : "multipleChoice",
       sourceType: mode === "pastExam" ? "reconstructedPastExamType" : "generatedTemplate",
       skills: [node.title],

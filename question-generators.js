@@ -8,10 +8,47 @@
     return result;
   };
 
+  const comparableValue = (value) => {
+    const text = String(value).trim();
+    const fraction = text.match(/^(-?\d+)\s*\/\s*(-?\d+)$/);
+    if (fraction && Number(fraction[2]) !== 0) return Number(fraction[1]) / Number(fraction[2]);
+    const numericWithUnit = text.match(/^(-?\d+(?:\.\d+)?)(.*)$/);
+    if (numericWithUnit && Number.isFinite(Number(numericWithUnit[1]))) {
+      return `${Number(numericWithUnit[1])}:${numericWithUnit[2].trim()}`;
+    }
+    return text;
+  };
+
+  const sameChoiceValue = (left, right) => comparableValue(left) === comparableValue(right);
+
+  const fallbackChoices = (answer, seed) => {
+    const text = String(answer).trim();
+    const fraction = text.match(/^(-?\d+)\s*\/\s*(\d+)$/);
+    if (fraction) {
+      const numerator = Number(fraction[1]);
+      const denominator = Number(fraction[2]);
+      return [`${numerator + 1}/${denominator}`, `${numerator}/${denominator + 1}`, `${Math.max(0, numerator - 1)}/${denominator}`];
+    }
+    const numericWithUnit = text.match(/^(-?\d+(?:\.\d+)?)(.*)$/);
+    if (numericWithUnit) {
+      const value = Number(numericWithUnit[1]);
+      const unit = numericWithUnit[2];
+      const step = Number.isInteger(value) ? 1 : 0.1;
+      return [value + step, value - step, value + (step * (2 + (seed % 2)))].map((item) => `${Number(item.toFixed(10))}${unit}`);
+    }
+    return ["판단할 수 없음", "항상 성립", "성립하지 않음"];
+  };
+
   const choices = (answer, wrongs, seed) => {
-    const unique = [...new Set([String(answer), ...wrongs.map(String)])].slice(0, 4);
-    while (unique.length < 4) unique.push(String(Number(answer) + unique.length + seed));
-    return shuffle(unique, seed);
+    const answerText = String(answer);
+    const candidates = [answerText, ...wrongs.map(String), ...fallbackChoices(answerText, seed)];
+    const unique = [];
+    candidates.forEach((candidate) => {
+      if (!candidate || /^(?:NaN|undefined|null)$/i.test(candidate)) return;
+      if (unique.some((existing) => sameChoiceValue(existing, candidate))) return;
+      unique.push(candidate);
+    });
+    return shuffle(unique.slice(0, 4), seed);
   };
 
   const q = ({ grade, unit, conceptId, difficulty, text, answer, wrongs, index, prereq = [], time = 25 }) => ({
@@ -157,7 +194,7 @@
       ["좌표평면", "coordinate_plane", 15, (i) => [`점 (${i % 5 + 1}, ${i % 4 + 2})의 x좌표는?`, i % 5 + 1, [i % 4 + 2, 0, i]]],
       ["정비례와 반비례", "direct_inverse", 20, (i) => [`y=${i % 5 + 2}x에서 x=3일 때 y는?`, (i % 5 + 2) * 3, [3, i % 5 + 2, (i % 5 + 2) + 3]]],
       ["기본도형", "basic_geometry", 15, () => ["삼각형의 세 내각의 합은?", "180도", ["90도", "120도", "360도"]]],
-      ["평면도형", "plane_geometry", 15, () => ["평행한 두 직선이 만나서 이루는 동위각의 크기는?", "같다", ["다르다", "두 배", "절반"]]],
+      ["평면도형", "plane_geometry", 15, () => ["한 직선이 두 평행선을 가로지를 때 생기는 동위각의 크기는?", "같다", ["다르다", "두 배", "절반"]]],
       ["입체도형", "solid_geometry", 10, () => ["정육면체의 면의 개수는?", "6개", ["4개", "8개", "12개"]]],
       ["자료의 정리와 해석", "statistics_intro", 15, (i) => [`${70 + i}, ${80 + i}, ${90 + i}의 평균은?`, 80 + i, [70 + i, 90 + i, 240 + i]]],
     ];

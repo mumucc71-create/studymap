@@ -37,6 +37,15 @@
   ];
   const currentScreenKey = "studyCoinCurrentScreen";
   const learningVersion = 3;
+  function currentLearningGrade() {
+    try {
+      const userId = localStorage.getItem("studyCoinCurrentUser");
+      const users = JSON.parse(localStorage.getItem("studyCoinAuth") || "{}");
+      return users[userId]?.learningSettings?.grade || "초등 4학년";
+    } catch {
+      return "초등 4학년";
+    }
+  }
   function dailyQuestionGoal() {
     try {
       const userId = localStorage.getItem("studyCoinCurrentUser");
@@ -51,7 +60,7 @@
 
   function progressKeyForCurrentUser() {
     const userId = localStorage.getItem("studyCoinCurrentUser") || "guest";
-    return `studyCoinMathLearningV3:${userId}`;
+    return `studyCoinMathLearningV3:${userId}:${currentLearningGrade().replace(/\s+/g, "")}`;
   }
 
   let progressKey = progressKeyForCurrentUser();
@@ -64,6 +73,8 @@
     completedStages: [],
     stageScores: {},
     wrongAnswers: [],
+    roadmapAttemptHistory: [],
+    roadmapRecentEvidence: [],
     xp: 0,
     coins: 0,
     activeSession: null,
@@ -72,6 +83,7 @@
     notes: {},
     placementResult: null,
     mapView: "domains",
+    mathMapTab: "recommendations",
     selectedDomainIndex: null,
     selectedNumberTopicIndex: 0,
     numberOperationCompletedTopics: [],
@@ -112,6 +124,242 @@
   function saveState() {
     state.lastSavedAt = new Date().toISOString();
     localStorage.setItem(progressKey, JSON.stringify(state));
+  }
+
+  function middle3RecommendationMemoryKey() {
+    const userId = localStorage.getItem("studyCoinCurrentUser") || "guest";
+    return `studyCoinLevelTestMemoryV1:${userId}`;
+  }
+
+  function loadMiddle3RecommendationMemory() {
+    try {
+      const memory = JSON.parse(localStorage.getItem(middle3RecommendationMemoryKey()));
+      return memory && typeof memory === "object" ? memory : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function persistMiddle3RecommendationMemory(memory, reason) {
+    if (!memory) return;
+    memory.updatedAt = new Date().toISOString();
+    localStorage.setItem(middle3RecommendationMemoryKey(), JSON.stringify(memory));
+    window.dispatchEvent(new CustomEvent("study:math-recommendations-updated", {
+      detail: { memory, reason },
+    }));
+  }
+
+  function refreshMathStudyRecommendations(reason = "learning-map-open") {
+    const memory = loadMiddle3RecommendationMemory();
+    const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
+    if (!memory || typeof service?.refreshRecommendations !== "function") return memory;
+    const result = service.refreshRecommendations(memory, { reason });
+    if (result.changed) persistMiddle3RecommendationMemory(memory, reason);
+    return memory;
+  }
+
+  function updateMathStudyRecommendation(recommendationId, status, reason) {
+    const memory = loadMiddle3RecommendationMemory();
+    const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
+    if (!memory || typeof service?.updateRecommendationStatus !== "function") return null;
+    const changed = service.updateRecommendationStatus(memory, recommendationId, status);
+    if (status === "COMPLETED") service.refreshRecommendations(memory, { reason });
+    if (changed) persistMiddle3RecommendationMemory(memory, reason);
+    return (memory.studyMapRecommendations || []).find((item) => item.id === recommendationId) || null;
+  }
+
+  function recommendationStageLabel(stage) {
+    return window.STUDY_MATH_STUDY_RECOMMENDATIONS?.STAGE_LABELS?.[stage] || "기본";
+  }
+
+  function normalizeMathLearningStage(...values) {
+    const stages = window.STUDY_LEVEL_TEST_ENGINE?.STAGES
+      || window.STUDY_MATH_STUDY_RECOMMENDATIONS?.STAGES
+      || ["BASIC", "ADVANCED_1", "ADVANCED_2", "ADVANCED_3", "ADVANCED_4", "ADVANCED_5"];
+    for (const value of values) {
+      if (stages.includes(value)) return value;
+      if (Number.isInteger(value) && stages[value]) return stages[value];
+    }
+    return "BASIC";
+  }
+
+  function resolveCurrentMathLearning(memory) {
+    const hasLevelTestRecord = Boolean(
+      memory?.bootstrap?.completed
+      || memory?.activeCycle?.id
+      || memory?.currentLearningTarget
+    );
+    if (!hasLevelTestRecord) return null;
+
+    const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
+    const recommendations = (memory.studyMapRecommendations || [])
+      .filter((item) => !["COMPLETED", "DISMISSED"].includes(item.status))
+      .slice(0, 6);
+    const currentLearningTarget = memory.currentLearningTarget;
+    const explicitConceptId = typeof currentLearningTarget === "string"
+      ? currentLearningTarget
+      : currentLearningTarget?.conceptId || "";
+    const activeRecovery = (memory.recoveryStack || []).at(-1) || null;
+    const goalConceptId = explicitConceptId
+      || activeRecovery?.originalConceptId
+      || recommendations[0]?.conceptId
+      || memory.targetConceptIds?.[0]
+      || "";
+    const activeConceptId = activeRecovery?.recoveryConceptId || goalConceptId;
+    const activeRecommendation = recommendations.find((item) => item.conceptId === activeConceptId)
+      || recommendations[0]
+      || null;
+    const goalConcept = memory.conceptMastery?.[goalConceptId] || {};
+    const activeConcept = memory.conceptMastery?.[activeConceptId] || {};
+    const goalRoute = service?.resolveConceptRoute?.(memory, goalConceptId)
+      || service?.CONCEPT_ROUTES?.[goalConceptId]
+      || null;
+    const activeRoute = service?.resolveConceptRoute?.(memory, activeConceptId)
+      || service?.CONCEPT_ROUTES?.[activeConceptId]
+      || (Number.isInteger(activeRecommendation?.worldIndex) ? activeRecommendation : null);
+    const currentStage = activeConcept.currentStage
+      || memory.currentStage
+      || Number(activeConcept.stageIndex);
+    const stage = normalizeMathLearningStage(
+      activeRecovery ? null : currentLearningTarget?.stage || currentLearningTarget?.currentStage,
+      activeRecommendation?.recoveryStage,
+      activeRecommendation?.recommendedStage,
+      currentStage,
+      activeRecommendation?.savedCurrentStage
+    );
+
+    return {
+      recommendations,
+      activeRecovery,
+      activeRecommendation,
+      goalConceptId,
+      goalTitle: goalConcept.title || currentLearningTarget?.title || goalRoute?.unitTitle || activeRecommendation?.title || "현재 개념",
+      activeConceptId,
+      activeTitle: activeConcept.title || activeRecommendation?.title || activeRoute?.unitTitle || "현재 개념",
+      activeRoute,
+      stage,
+    };
+  }
+
+  function renderCurrentMathLearning(context, elements) {
+    const { map, title, heading, status, progressText, progressBar, completed, startButton } = elements;
+    const stageIndex = Math.max(0, (window.STUDY_LEVEL_TEST_ENGINE?.STAGES || []).indexOf(context.stage));
+    const stageLabel = recommendationStageLabel(context.stage);
+    const summaryLabel = document.querySelector(".math-roadmap-summary > div > span");
+    if (summaryLabel) summaryLabel.textContent = "현재 학습";
+    if (title) title.textContent = `중3 수학 · ${context.goalTitle}`;
+    if (heading) heading.textContent = "추천 학습";
+    if (status) status.textContent = context.activeRecovery
+      ? `원래 목표 · ${context.goalTitle} / 지금 보충 중 · ${context.activeTitle}`
+      : `현재 위치 · ${context.activeTitle} · ${stageLabel}`;
+    if (progressText) progressText.textContent = stageLabel;
+    if (progressBar) progressBar.style.width = `${Math.round(((stageIndex + 1) / 6) * 100)}%`;
+    if (completed) completed.textContent = `${context.recommendations.length}개 추천`;
+    if (startButton) {
+      startButton.hidden = false;
+      startButton.textContent = "이어서 학습";
+      startButton.dataset.learningAction = "open-current-math-target";
+      startButton.dataset.recommendationId = context.activeRecommendation?.id || "";
+      startButton.dataset.mathWorld = String(context.activeRoute?.worldIndex ?? "");
+      startButton.dataset.mathTopic = String(context.activeRoute?.topicIndex ?? "");
+      startButton.dataset.conceptId = context.activeConceptId;
+      startButton.dataset.recommendedStage = context.stage;
+    }
+
+    map.className = "english-roadmap-list math-roadmap-list";
+    const recommendationItems = context.recommendations.map((recommendation, index) => {
+      const recommendationStage = normalizeMathLearningStage(
+        recommendation.recoveryStage,
+        recommendation.recommendedStage,
+        recommendation.currentStage,
+        recommendation.savedCurrentStage
+      );
+      return `<article class="${index === 0 ? "is-current" : "is-open"}">
+        <i aria-hidden="true"></i><button type="button" data-learning-action="open-math-study-recommendation" data-recommendation-id="${escapeHtml(recommendation.id)}">
+          <b>${index + 1}</b><span><strong>${escapeHtml(recommendation.title || recommendation.unitTitle)}</strong><small>${escapeHtml(recommendation.label || "추천 학습")} · ${escapeHtml(recommendationStageLabel(recommendationStage))}</small></span><em>›</em>
+        </button>
+      </article>`;
+    }).join("");
+    map.innerHTML = `${recommendationItems}<article class="is-open">
+      <i aria-hidden="true"></i><button type="button" data-learning-action="show-math-all-map">
+        <b>7</b><span><strong>전체 학습지도</strong><small>기존 7개 World 모두 보기</small></span><em>›</em>
+      </button>
+    </article>`;
+  }
+
+  function conceptIdForMathRoute(memory, worldIndex, topicIndex, preferredConceptId = "") {
+    const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
+    const routeFor = (conceptId) => service?.resolveConceptRoute?.(memory, conceptId)
+      || service?.CONCEPT_ROUTES?.[conceptId]
+      || null;
+    const preferredRoute = routeFor(preferredConceptId);
+    if (preferredConceptId && preferredRoute
+      && preferredRoute.worldIndex === worldIndex
+      && preferredRoute.topicIndex === topicIndex
+      && memory?.conceptMastery?.[preferredConceptId]) {
+      return preferredConceptId;
+    }
+    const targetConceptIds = new Set(memory?.targetConceptIds || []);
+    const matching = Object.keys(memory?.conceptMastery || {})
+      .filter((conceptId) => {
+        const route = routeFor(conceptId);
+        return route
+          && (
+        route.worldIndex === worldIndex
+        && route.topicIndex === topicIndex
+        && memory?.conceptMastery?.[conceptId]
+          );
+      });
+    return matching.find((conceptId) => targetConceptIds.has(conceptId)) || matching[0] || "";
+  }
+
+  function recordMathLearningCompletion(session, accuracy) {
+    const engine = window.STUDY_LEVEL_TEST_ENGINE;
+    const memory = loadMiddle3RecommendationMemory();
+    if (!session || !memory || typeof engine?.recordLearningCompletion !== "function") return null;
+    const worldIndex = Number(session.mathWorldIndex);
+    const topicIndex = Number(session.mathTopicIndex);
+    if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex)) return null;
+    const conceptId = conceptIdForMathRoute(
+      memory,
+      worldIndex,
+      topicIndex,
+      session.learningConceptId || session.recommendationConceptId
+    );
+    const concept = memory.conceptMastery?.[conceptId];
+    if (!concept) return null;
+    const learnedStage = engine.STAGES.includes(session.recommendedStage)
+      ? session.recommendedStage
+      : engine.STAGES[Math.max(0, Math.min(engine.STAGES.length - 1, Number(concept.stageIndex) || 0))];
+    const sourceProblems = (session.initialQuestionIds || session.questionIds || [])
+      .map((questionId) => questionById.get(questionId))
+      .filter(Boolean)
+      .map((question) => ({
+        id: question.id,
+        questionId: question.id,
+        conceptId,
+        concept: concept.title,
+        problem: question.problem || question.question || question.questionText || "",
+        questionText: question.problem || question.question || question.questionText || "",
+        answer: question.answer,
+        choices: question.choices || [],
+        problemType: question.type || "choice",
+        adaptiveLevel: engine.STAGES.indexOf(learnedStage) + 1,
+      }));
+    const result = engine.recordLearningCompletion(memory, {
+      conceptId,
+      learnedStage,
+      lessonId: `math-world-${worldIndex + 1}-topic-${topicIndex + 1}`,
+      recommendationId: session.studyRecommendationId,
+      completedAt: new Date().toISOString(),
+      practiceCorrectRate: accuracy,
+      giveUpCount: 0,
+      explanationViewed: (session.mistakeQuestionIds || []).length > 0,
+      workedExampleViewed: Boolean(session.conceptSlidesComplete),
+      sourceProblems,
+    });
+    if (result.created) persistMiddle3RecommendationMemory(memory, "learning-completion-evidence");
+    return result.evidence;
   }
 
   function localDateKey(date = new Date()) {
@@ -209,13 +457,362 @@
     const description = card.querySelector("p");
     const bar = document.getElementById("mathLearningProgressBar");
     const percent = document.getElementById("mathLearningProgressText");
-    if (description) description.textContent = `중2-상 · ${stage.title} · 완료 ${completedUnits}/1단원`;
+    if (description) description.textContent = `${currentLearningGrade()} · ${stage.title} · 완료 ${completedUnits}/1단원`;
     if (bar) bar.style.width = `${progress}%`;
     if (percent) percent.textContent = `${progress}%`;
   }
 
   function largeNumberTestQuestions() {
-    return (window.generatedConceptBanks?.g4 || []).filter((question) => question.unit === "큰 수").slice(0, 10);
+    const makeQuestion = (index, questionText, choices, answer, explanation) => ({
+      questionId: `math-large-number-assessment-${String(index).padStart(2, "0")}`,
+      grade: "초4",
+      unit: "큰 수",
+      conceptId: "large_numbers",
+      difficulty: index <= 3 ? 2 : index <= 7 ? 3 : 4,
+      questionText,
+      choices,
+      answer,
+      explanation,
+      prerequisiteConcepts: ["number_sense", "place_value"],
+      estimatedSolveTime: index <= 5 ? 25 : 35,
+    });
+    return [
+      makeQuestion(1, "10,000이 7개 모인 수는 얼마인가요?", ["7,000", "70,000", "700,000", "7,000,000"], "70,000", "10,000을 7번 더하면 70,000입니다."),
+      makeQuestion(2, "3,405,000을 바르게 읽은 것은?", ["삼십사만 오천", "삼백사만 오천", "삼백사십만 오천", "삼천사백오만"], "삼백사십만 오천", "네 자리씩 끊으면 340만 5000이므로 삼백사십만 오천이라고 읽습니다."),
+      makeQuestion(3, "2억 3천만 400을 숫자로 바르게 쓴 것은?", ["203,000,400", "230,000,400", "230,400,000", "2,300,000,400"], "230,000,400", "2억은 200,000,000, 3천만은 30,000,000이므로 230,000,400입니다."),
+      makeQuestion(4, "47,325,100에서 숫자 7이 나타내는 값은?", ["700,000", "7,000,000", "70,000,000", "7,000"], "7,000,000", "7은 백만의 자리에 있으므로 7,000,000을 나타냅니다."),
+      makeQuestion(5, "가장 큰 수를 고르세요.", ["529,999", "530,009", "530,090", "530,900"], "530,900", "자릿수가 같으므로 높은 자리부터 비교하면 530,900이 가장 큽니다."),
+      makeQuestion(6, "수직선의 눈금이 20만, 30만, 40만으로 같은 간격입니다. 40만의 바로 다음 눈금은?", ["41만", "45만", "50만", "60만"], "50만", "눈금 한 칸은 10만이므로 40만 다음은 50만입니다."),
+      makeQuestion(7, "487,000을 십만의 자리까지 반올림하면 얼마인가요?", ["400,000", "480,000", "490,000", "500,000"], "500,000", "십만의 자리 아래인 만의 자리 숫자가 8이므로 올림합니다."),
+      makeQuestion(8, "두 도시의 인구가 각각 1,250,000명과 980,000명입니다. 인구 차이는?", ["170,000명", "270,000명", "370,000명", "2,230,000명"], "270,000명", "1,250,000에서 980,000을 빼면 270,000입니다."),
+      makeQuestion(9, "12억 3456만 7890을 숫자로 바르게 쓴 것은?", ["123,456,789", "1,203,456,790", "1,234,560,789", "1,234,567,890"], "1,234,567,890", "억·만·일 단위로 네 자리씩 쓰면 12|3456|7890입니다."),
+      makeQuestion(10, "어느 학교의 모금액 9,847,500원을 백만 원 단위로 어림하면?", ["9,000,000원", "9,800,000원", "9,850,000원", "10,000,000원"], "10,000,000원", "백만의 자리 아래인 십만의 자리 숫자가 8이므로 10,000,000원으로 반올림합니다."),
+    ];
+  }
+
+  function additionSubtractionQuestions() {
+    const seeds = [
+      [38425, 17638, "+"],
+      [72064, 28579, "-"],
+      [156807, 94326, "+"],
+      [300000, 128745, "-"],
+      [482916, 207584, "+"],
+      [650000, 297836, "-"],
+      [90547, 68975, "+"],
+      [814203, 356789, "-"],
+      [275648, 319576, "+"],
+      [1000000, 468927, "-"],
+    ];
+
+    return seeds.map(([left, right, operator], index) => {
+      const answer = operator === "+" ? left + right : left - right;
+      const distractors = [answer + 100, answer - 100, answer + (index % 2 ? 1000 : -1000)]
+        .filter((value) => value >= 0 && value !== answer);
+      const choices = [...new Set([answer, ...distractors])];
+      while (choices.length < 4) choices.push(answer + choices.length * 10);
+      const rotation = index % choices.length;
+      const rotatedChoices = [...choices.slice(rotation), ...choices.slice(0, rotation)].map(String);
+      return {
+        id: `math-add-sub-${String(index + 1).padStart(2, "0")}`,
+        subject: "mathematics",
+        grade: "초4",
+        semester: "",
+        unit: "덧셈과 뺄셈",
+        concept: operator === "+" ? "큰 수의 덧셈" : "큰 수의 뺄셈",
+        stage: "basic",
+        type: "multiple-choice",
+        difficulty: index < 3 ? 2 : index < 7 ? 3 : 4,
+        question: `${left.toLocaleString("ko-KR")} ${operator} ${right.toLocaleString("ko-KR")}의 값은?`,
+        choices: rotatedChoices,
+        answer: String(answer),
+        explanation: `${left.toLocaleString("ko-KR")} ${operator} ${right.toLocaleString("ko-KR")} = ${answer.toLocaleString("ko-KR")}입니다. 같은 자리끼리 맞추어 계산합니다.`,
+        hint: "일의 자리부터 같은 자리끼리 맞추어 계산해 보세요.",
+      };
+    });
+  }
+
+  function startAdditionSubtractionLesson(recommendationMeta = null) {
+    const questions = additionSubtractionQuestions();
+    questions.forEach((question) => questionById.set(question.id, question));
+    state.activeSession = null;
+    startStage("basic", {
+      force: true,
+      questionIds: questions.map((question) => question.id),
+      sessionMeta: {
+        mathRoadmapTopic: true,
+        mathWorldIndex: 0,
+        mathTopicIndex: 1,
+        placementGrade: "World 1. 수와 연산",
+        placementUnit: "덧셈과 뺄셈",
+        learningConceptId: recommendationMeta?.recommendationConceptId || "",
+        ...(recommendationMeta || {}),
+      },
+    });
+  }
+
+  function roadmapChapterForTopic(worldIndex, topicTitle) {
+    const roadmap = window.STUDY_MATH_ROADMAP_V2;
+    const world = roadmap?.worlds?.[worldIndex];
+    if (!roadmap || !world) return null;
+    const aliases = {
+      "수열": "수열의 뜻",
+      "둘레": "둘레와 넓이",
+      "넓이": "둘레와 넓이",
+      "겉넓이": "겉넓이와 부피",
+      "부피": "겉넓이와 부피",
+      "평균": "평균·중앙값·최빈값",
+      "중앙값": "평균·중앙값·최빈값",
+      "최빈값": "평균·중앙값·최빈값",
+      "변화율": "평균변화율",
+      "미분": "미분계수",
+      "최대·최소": "미분 활용",
+      "적분": "부정적분",
+      "미적분 활용": "적분 활용",
+      "통계 활용": "통계적 추정",
+      "함수 활용": "함수 활용",
+      "응용 계산": "응용 계산",
+    };
+    const target = aliases[topicTitle] || topicTitle;
+    const normalize = (value) => String(value).replace(/[·\s]/g, "");
+    const chapterList = world.chapterIds.map((chapterId) => roadmap.chapterById[chapterId]).filter(Boolean);
+    return chapterList.find((chapter) => chapter.title === target)
+      || chapterList.find((chapter) => normalize(chapter.title).includes(normalize(target)) || normalize(target).includes(normalize(chapter.title)))
+      || null;
+  }
+
+  function registerMathRoadmapTopicQuestions(worldIndex, topicIndex) {
+    const roadmap = window.STUDY_MATH_ROADMAP_V2;
+    const world = mathWorlds[worldIndex];
+    const topicTitle = world?.topics?.[topicIndex];
+    const chapter = roadmapChapterForTopic(worldIndex, topicTitle);
+    if (!roadmap || !world || !topicTitle || !chapter) return [];
+    const usableNodeIds = chapter.nodeIds.filter((nodeId) => !roadmap.nodeById[nodeId]?.isMasteryNode);
+    const selectedNodeIds = usableNodeIds;
+    return selectedNodeIds.map((nodeId, index) => {
+      const generated = roadmap.createPracticeSet(nodeId, "basic", 1, 1)[0];
+      const node = roadmap.nodeById[nodeId];
+      const id = `math-roadmap-${worldIndex + 1}-${topicIndex + 1}-${String(index + 1).padStart(2, "0")}`;
+      const question = {
+        id,
+        subject: "mathematics",
+        grade: roadmap.minGrade === roadmap.maxGrade ? roadmap.minGrade : `${roadmap.minGrade}~${roadmap.maxGrade}`,
+        semester: "",
+        unit: chapter.title,
+        concept: node.title,
+        stage: "basic",
+        type: generated.questionType === "writtenResponse" ? "short-answer" : "multiple-choice",
+        difficulty: generated.difficulty,
+        question: generated.prompt,
+        choices: generated.choices,
+        answer: generated.answer,
+        explanation: generated.solution,
+        hint: `${node.title}의 정의와 계산 순서를 먼저 확인해 보세요.`,
+        roadmapGeneratedProblem: generated.runtimeMetadata ? generated : null,
+      };
+      questionById.set(id, question);
+      return question;
+    });
+  }
+
+  function registerLargeNumberModeQuestions(stepIndex, modeIndex) {
+    const roadmap = window.STUDY_MATH_ROADMAP_V2;
+    const chapter = roadmapChapterForTopic(0, "큰 수");
+    const mode = mathLessonModes[modeIndex]?.kind || "basic";
+    const usableNodeIds = (chapter?.nodeIds || []).filter((nodeId) => !roadmap?.nodeById?.[nodeId]?.isMasteryNode);
+    const nodeId = usableNodeIds[Math.min(Math.max(stepIndex, 0), Math.max(usableNodeIds.length - 1, 0))];
+    const generatedSet = nodeId ? roadmap.createPracticeSet(nodeId, mode, modeIndex + 1, 5) : [];
+    const fallbackSet = largeNumberTestQuestions()
+      .slice(stepIndex, stepIndex + 5)
+      .concat(largeNumberTestQuestions().slice(0, Math.max(0, (stepIndex + 5) - largeNumberTestQuestions().length)))
+      .map((question, index) => ({
+        id: `math-large-number-${stepIndex + 1}-${mode}-${index + 1}`,
+        difficulty: question.difficulty,
+        prompt: question.questionText,
+        choices: question.choices,
+        answer: question.answer,
+        solution: question.explanation,
+        skills: [largeNumberSteps[stepIndex]?.title || "큰 수"],
+        questionType: "multipleChoice",
+      }));
+    const source = generatedSet.length ? generatedSet : fallbackSet;
+    return source.map((generated, index) => {
+      const id = generated.id || `math-large-number-${stepIndex + 1}-${mode}-${index + 1}`;
+      const question = {
+        id,
+        subject: "mathematics",
+        grade: currentLearningGrade(),
+        semester: "",
+        unit: "큰 수",
+        concept: generated.skills?.[0] || largeNumberSteps[stepIndex]?.title || "큰 수",
+        stage: "basic",
+        type: generated.questionType === "writtenResponse" ? "short-answer" : "multiple-choice",
+        difficulty: generated.difficulty || 2,
+        question: generated.prompt,
+        choices: generated.choices || [],
+        answer: String(generated.answer),
+        explanation: generated.solution || `정답은 ${generated.answer}입니다.`,
+        hint: `${largeNumberSteps[stepIndex]?.title || "큰 수"}의 자릿값과 계산 순서를 확인해 보세요.`,
+        roadmapGeneratedProblem: generated.runtimeMetadata ? generated : null,
+      };
+      questionById.set(id, question);
+      return question;
+    });
+  }
+
+  function startLargeNumberModePractice(stepIndex, modeIndex) {
+    const questions = registerLargeNumberModeQuestions(stepIndex, modeIndex);
+    if (!questions.length) return alert("이 단계의 문제 연결을 확인 중입니다.");
+    state.activeSession = null;
+    startStage("basic", {
+      force: true,
+      questionIds: questions.map((question) => question.id),
+      sessionMeta: {
+        largeNumberModePractice: true,
+        largeNumberStepIndex: stepIndex,
+        largeNumberModeIndex: modeIndex,
+        placementGrade: currentLearningGrade(),
+        placementUnit: `${largeNumberSteps[stepIndex]?.title || "큰 수"} · ${mathLessonModes[modeIndex]?.title || "문제풀이"}`,
+        ...(state.pendingRecommendationRoute || {}),
+      },
+    });
+  }
+
+  function startMathRoadmapTopic(worldIndex, topicIndex, recommendationMeta = null) {
+    const questions = registerMathRoadmapTopicQuestions(worldIndex, topicIndex);
+    if (!questions.length) return alert("이 단원의 문제 연결을 확인 중입니다.");
+    const world = mathWorlds[worldIndex];
+    const topicTitle = world.topics[topicIndex];
+    const memory = loadMiddle3RecommendationMemory();
+    const learningConceptId = conceptIdForMathRoute(memory, worldIndex, topicIndex, recommendationMeta?.recommendationConceptId);
+    state.activeSession = null;
+    startStage("basic", {
+      force: true,
+      questionIds: questions.map((question) => question.id),
+      sessionMeta: {
+        mathRoadmapTopic: true,
+        mathWorldIndex: worldIndex,
+        mathTopicIndex: topicIndex,
+        placementGrade: `World ${worldIndex + 1}. ${world.title}`,
+        placementUnit: topicTitle,
+        learningConceptId,
+        ...(recommendationMeta || {}),
+      },
+    });
+  }
+
+  function openMathStudyRecommendation(recommendationId) {
+    const memory = refreshMathStudyRecommendations("recommendation-open");
+    const recommendation = (memory?.studyMapRecommendations || []).find((item) => item.id === recommendationId);
+    if (!recommendation || recommendation.status === "COMPLETED" || recommendation.status === "DISMISSED") return;
+    const recommendedStage = recommendation.recoveryStage
+      || recommendation.recommendedStage
+      || recommendation.savedCurrentStage
+      || "BASIC";
+    const recommendationMeta = {
+      studyRecommendationId: recommendation.id,
+      recommendationConceptId: recommendation.conceptId,
+      learningConceptId: recommendation.conceptId,
+      recommendedStage,
+      recommendationSource: recommendation.source,
+    };
+    updateMathStudyRecommendation(recommendation.id, "STARTED", "recommendation-started");
+    const worldIndex = Number(recommendation.worldIndex);
+    const topicIndex = Number(recommendation.topicIndex);
+    if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex) || !mathWorlds[worldIndex]?.topics?.[topicIndex]) return;
+    state.mathMapTab = "recommendations";
+    state.selectedDomainIndex = worldIndex;
+    state.selectedMathTopicIndex = topicIndex;
+    state.selectedNumberTopicIndex = topicIndex;
+    saveState();
+    if (worldIndex === 0 && topicIndex === 0) {
+      state.mapView = "large-number";
+      state.pendingRecommendationRoute = recommendationMeta;
+      state.largeNumberStepIndex = Math.min((state.largeNumberCompletedSteps || []).length, largeNumberSteps.length - 1);
+      saveState();
+      return renderLearningMap();
+    }
+    if (worldIndex === 0 && topicIndex === 1) return startAdditionSubtractionLesson(recommendationMeta);
+    return startMathRoadmapTopic(worldIndex, topicIndex, recommendationMeta);
+  }
+
+  function ensureMathRoadmapQuestionRegistered(questionId) {
+    if (questionById.has(questionId)) return true;
+    const match = String(questionId).match(/^math-roadmap-(\d+)-(\d+)-\d+$/);
+    if (!match) return false;
+    registerMathRoadmapTopicQuestions(Number(match[1]) - 1, Number(match[2]) - 1);
+    return questionById.has(questionId);
+  }
+
+  function isAdditionSubtractionSession(session = state.activeSession) {
+    return Boolean(session?.questionIds?.length)
+      && session.questionIds.every((questionId) => String(questionId).startsWith("math-add-sub-"));
+  }
+
+  function placementBankForLevel(level) {
+    return {
+      "초등 4학년": "g4",
+      "초등 5학년": "g5",
+      "초등 6학년": "g6",
+      "중등 1학년": "m1",
+      "중등 2학년": "m2",
+      "중등 3학년": "m3",
+    }[level] || null;
+  }
+
+  function placementUnitForResult(result, bankQuestions) {
+    const units = [...new Set(bankQuestions.map((question) => question.unit).filter(Boolean))];
+    const keywords = [...(result?.weakDomains || []), ...(result?.recommendedPath || [])]
+      .map((value) => String(value).replace(/\s+/g, ""))
+      .filter(Boolean);
+    return units.find((unitName) => {
+      const normalizedUnit = String(unitName).replace(/\s+/g, "");
+      return keywords.some((keyword) => normalizedUnit.includes(keyword) || keyword.includes(normalizedUnit));
+    }) || units[0] || null;
+  }
+
+  function registerPlacementQuestions(bank, unitName) {
+    const source = (window.generatedConceptBanks?.[bank] || []).filter((question) => question.unit === unitName).slice(0, 10);
+    return source.map((question, index) => {
+      const id = `placement-${bank}-${String(index + 1).padStart(2, "0")}`;
+      questionById.set(id, {
+        id,
+        subject: "mathematics",
+        grade: question.grade,
+        semester: "",
+        unit: question.unit,
+        concept: question.conceptId,
+        stage: "basic",
+        type: "multiple-choice",
+        difficulty: question.difficulty,
+        question: question.questionText,
+        choices: [...(question.choices || [])],
+        answer: String(question.answer),
+        explanation: question.explanation || `정답은 ${question.answer}입니다.`,
+        hint: "문제의 조건과 계산 순서를 차례대로 확인해 보세요.",
+      });
+      return id;
+    });
+  }
+
+  function startPlacementLearning() {
+    syncCurrentUserState();
+    const result = state.placementResult;
+    const bank = placementBankForLevel(result?.estimatedLevel);
+    const bankQuestions = window.generatedConceptBanks?.[bank] || [];
+    if (!bank || !bankQuestions.length) return false;
+    const unitName = placementUnitForResult(result, bankQuestions);
+    const questionIds = registerPlacementQuestions(bank, unitName);
+    if (!unitName || !questionIds.length) return false;
+    startStage("basic", {
+      force: true,
+      questionIds,
+      sessionMeta: {
+        placementBank: bank,
+        placementGrade: result.estimatedLevel,
+        placementUnit: unitName,
+      },
+    });
+    return true;
   }
 
   function recordLargeNumberWrong(question, selectedAnswer) {
@@ -247,6 +844,24 @@
     const startButton = document.getElementById("learningMapStartButton");
 
     if (!map) return;
+
+    const recommendationMemory = refreshMathStudyRecommendations("learning-map-open");
+    const currentLearning = resolveCurrentMathLearning(recommendationMemory);
+    if (state.mapView === "domains" && currentLearning && state.mathMapTab !== "all") {
+      renderCurrentMathLearning(currentLearning, {
+        map,
+        title,
+        heading,
+        status,
+        progressText,
+        progressBar,
+        completed,
+        startButton,
+      });
+      return;
+    }
+    const summaryLabel = document.querySelector(".math-roadmap-summary > div > span");
+    if (summaryLabel) summaryLabel.textContent = "현재 과정";
 
     const previousStepTree = map.querySelector(".math-horizontal-step-tree");
     const previousStepTreeScrollLeft = previousStepTree ? previousStepTree.scrollLeft : null;
@@ -297,7 +912,7 @@
         const hint = "자릿값과 단위를 먼저 확인한 뒤, 필요한 계산을 한 단계씩 나누어 보세요.";
         const explanation = testQuestion.explanation || `정답은 ${testQuestion.answer}입니다.`;
         map.className = "math-large-number-study";
-        map.innerHTML = `${stepTree}<article class="math-large-number-card math-large-number-test"><span>${selectedStep.code} · 문제 ${Number(state.largeNumberTestIndex || 0) + 1} / ${testQuestions.length}</span><h2>${escapeHtml(testQuestion.questionText)}</h2><div class="math-large-number-choices">${testQuestion.choices.map((choice) => `<button type="button" class="${state.largeNumberTestSelected === choice ? answeredCorrectly ? "is-correct" : state.largeNumberTestFeedback === "wrong" ? "is-wrong" : "is-selected" : ""}" data-learning-action="answer-large-number-test" data-large-number-answer="${escapeHtml(choice)}" ${answered ? "disabled" : ""}>${escapeHtml(choice)}</button>`).join("")}</div>${state.largeNumberTestFeedback ? `<p class="math-large-number-feedback ${answeredCorrectly ? "is-correct" : "is-wrong"}">${answeredCorrectly ? "정답입니다." : state.largeNumberTestFeedback === "revealed" ? `정답은 ${escapeHtml(testQuestion.answer)}입니다. ${escapeHtml(explanation)}` : "정답이 아닙니다. 다시 선택해 보세요."}</p>` : state.largeNumberTestHintVisible ? `<p class="math-large-number-feedback">힌트 · ${escapeHtml(hint)}</p>` : ""}</article><div class="learning-question-actions math-large-number-test-actions"><button type="button" class="learning-secondary-button" data-learning-action="previous-large-number-question">이전</button><button type="button" class="learning-secondary-button" data-learning-action="show-large-number-hint">힌트</button><button type="button" class="learning-secondary-button" data-learning-action="show-large-number-explanation">풀이 보기</button><button type="button" class="learning-secondary-button" data-learning-action="open-large-number-notebook">계산 노트</button><button type="button" class="learning-secondary-button math-large-number-end-button" data-learning-action="end-large-number-test">여기까지</button><button type="button" class="learning-primary-button" data-learning-action="submit-large-number-answer">${answered ? Number(state.largeNumberTestIndex || 0) === testQuestions.length - 1 ? "결과 보기" : "다음 문제" : "정답 확인"}</button></div><section class="learning-notebook" id="largeNumberNotebook" hidden><div><b>계산 노트</b><button type="button" data-learning-action="clear-large-number-notebook">지우기</button><button type="button" data-learning-action="close-large-number-notebook">닫기</button></div><canvas id="largeNumberNotebookCanvas" aria-label="손글씨 계산 노트"></canvas></section>`;
+        map.innerHTML = `${stepTree}<article class="math-large-number-card math-large-number-test"><span>${selectedStep.code} · 문제 ${Number(state.largeNumberTestIndex || 0) + 1} / ${testQuestions.length}</span><h2>${escapeHtml(testQuestion.questionText)}</h2><div class="math-large-number-choices">${testQuestion.choices.map((choice) => `<button type="button" class="${state.largeNumberTestSelected === choice ? answeredCorrectly ? "is-correct" : state.largeNumberTestFeedback === "wrong" ? "is-wrong" : "is-selected" : ""}" data-learning-action="answer-large-number-test" data-large-number-answer="${escapeHtml(choice)}" ${answered ? "disabled" : ""}>${escapeHtml(choice)}</button>`).join("")}</div>${state.largeNumberTestFeedback ? `<p class="math-large-number-feedback ${answeredCorrectly ? "is-correct" : "is-wrong"}">${answeredCorrectly ? "정답입니다." : state.largeNumberTestFeedback === "revealed" ? `정답은 ${escapeHtml(testQuestion.answer)}입니다. ${escapeHtml(explanation)}` : "정답이 아닙니다. 다시 선택해 보세요."}</p>` : state.largeNumberTestHintVisible ? `<p class="math-large-number-feedback">힌트 · ${escapeHtml(hint)}</p>` : ""}</article><div class="learning-question-actions math-large-number-test-actions"><button type="button" class="learning-secondary-button" data-learning-action="previous-large-number-question">이전</button><button type="button" class="learning-secondary-button" data-learning-action="show-large-number-hint">힌트</button><button type="button" class="learning-secondary-button" data-learning-action="show-large-number-explanation">풀이 보기</button><button type="button" class="learning-secondary-button" data-learning-action="open-large-number-notebook">계산 노트</button><button type="button" class="learning-primary-button" data-learning-action="submit-large-number-answer">${answered ? Number(state.largeNumberTestIndex || 0) === testQuestions.length - 1 ? "결과 보기" : "다음 문제" : "정답 확인"}</button><button type="button" class="learning-secondary-button math-large-number-end-button" data-learning-action="end-large-number-test">여기까지</button></div><section class="learning-notebook" id="largeNumberNotebook" hidden><div><b>계산 노트</b><button type="button" data-learning-action="clear-large-number-notebook">지우기</button><button type="button" data-learning-action="close-large-number-notebook">닫기</button></div><canvas id="largeNumberNotebookCanvas" aria-label="손글씨 계산 노트"></canvas></section>`;
         restoreLargeNumberPosition(selectedStepIndex);
         return;
       }
@@ -310,7 +925,7 @@
         const isFutureMode = index > selectedModeIndex;
         return `<button type="button" class="${index < selectedModeIndex ? "is-passed" : index === selectedModeIndex ? "is-current" : "is-upcoming"}" data-learning-action="${isFutureMode ? "" : "select-large-number-mode"}" data-math-mode="${index}" aria-current="${index === selectedModeIndex ? "step" : "false"}" ${isFutureMode ? "disabled" : ""}><b>${index < selectedModeIndex ? "✓" : isFutureMode ? "🔒" : mode.icon}</b><span><strong>${mode.title}</strong><small>${mode.repeatable ? "계속 연습 가능" : index === 0 ? "개념과 예시" : "필수 연습"}</small></span><em>${index === selectedModeIndex ? "학습 중" : index < selectedModeIndex ? "다시 보기" : index === 1 ? "단원학습 후" : "앞 학습 후"}</em></button>`;
       }).join("")}</nav></section>`;
-      const primaryActionText = selectedModeIndex === 0 ? "단원학습 완료 · 기본 시작" : nextMode ? `다음: ${nextMode.title}` : selectedStepIndex === largeNumberSteps.length - 2 ? "단원평가로 이동" : "다음 소단원으로";
+      const primaryActionText = selectedModeIndex === 0 ? "단원학습 완료 · 기본 시작" : `${selectedMode.title} 문제풀기`;
       map.innerHTML = `${stepTree}${modeFlow}<article class="math-large-number-card"><span>${selectedStep.code} · ${selectedMode.icon} ${selectedMode.title}</span><h2>${selectedStep.title}</h2><p>${selectedStep.body}</p><strong>${selectedStep.example}</strong></article><div class="math-large-number-actions"><button type="button" data-learning-action="previous-large-number-mode" ${selectedModeIndex > 0 ? "" : "disabled"}>이전 학습</button><button type="button" data-learning-action="advance-large-number-mode">${primaryActionText}</button></div>`;
       restoreLargeNumberPosition(selectedStepIndex);
       return;
@@ -349,7 +964,11 @@
     if (progressText) progressText.textContent = "전체 해금";
     if (progressBar) progressBar.style.width = "100%";
     if (completed) completed.textContent = "7개 World 모두 선택 가능";
-    if (startButton) startButton.hidden = true;
+    if (startButton) {
+      startButton.hidden = !currentLearning;
+      startButton.textContent = "현재 학습";
+      startButton.dataset.learningAction = "show-math-recommendations";
+    }
     map.innerHTML = mathWorlds.map((world, index) => {
       return `<article class="is-open">
         <i aria-hidden="true"></i><button type="button" data-learning-action="open-math-domain" data-math-domain="${index}">
@@ -415,6 +1034,8 @@
   function openMathLearning() {
     syncCurrentUserState();
     state.mapView = "domains";
+    const memory = refreshMathStudyRecommendations("learning-tab-open");
+    state.mathMapTab = resolveCurrentMathLearning(memory) ? "recommendations" : "all";
     state.selectedDomainIndex = null;
     saveState();
     renderSubjectCard();
@@ -449,6 +1070,7 @@
     if (options.skipSlides && stage.type === "concept") {
       state.activeSession.conceptSlidesComplete = true;
     }
+    if (options.sessionMeta) Object.assign(state.activeSession, options.sessionMeta);
     saveState();
     showLearningScreen("learning-lesson");
     renderLesson();
@@ -463,7 +1085,16 @@
       return;
     }
 
-    document.getElementById("learningLessonTitle").textContent = stage.title;
+    const additionSubtractionSession = isAdditionSubtractionSession(session);
+    document.getElementById("learningLessonUnit").textContent = session.largeNumberModePractice
+      ? `${session.placementGrade} · 큰 수`
+      : session.placementGrade
+      ? `${session.placementGrade} · 레벨테스트 추천 과정`
+      : additionSubtractionSession
+        ? "초등 4학년 · 수와 연산"
+        : `1단원 ${unit.title}`;
+    document.getElementById("learningLessonTitle").textContent = session.placementUnit
+      || (additionSubtractionSession ? "덧셈과 뺄셈" : stage.title);
     const conceptCard = document.getElementById("learningConceptCard");
     const questionWrap = document.getElementById("learningQuestionWrap");
     const showingSlides = stage.type === "concept" && !session.conceptSlidesComplete;
@@ -498,14 +1129,46 @@
     return "상";
   }
 
+  function recordRoadmapProblemPresentation(question, session) {
+    const metadataService = window.STUDY_MATH_PROBLEM_METADATA;
+    const generated = question?.roadmapGeneratedProblem;
+    if (!generated?.runtimeMetadata || typeof metadataService?.createAttemptSnapshot !== "function") return;
+    const presentationRound = session.isReviewRound ? "review" : "initial";
+    const presentationId = `${session.startedAt}:${presentationRound}:${question.id}`;
+    state.roadmapAttemptHistory = Array.isArray(state.roadmapAttemptHistory) ? state.roadmapAttemptHistory : [];
+    if (state.roadmapAttemptHistory.some((item) => item.presentationId === presentationId)) return;
+    const snapshot = metadataService.createAttemptSnapshot(generated, {
+      presentationId,
+      questionId: question.id,
+    });
+    if (!snapshot) return;
+    state.roadmapAttemptHistory.push(snapshot);
+    state.roadmapRecentEvidence = metadataService.rememberRecentEvidence(
+      state.roadmapRecentEvidence,
+      snapshot,
+      60
+    );
+    saveState();
+  }
+
   function renderQuestion() {
     const session = state.activeSession;
     const stage = unit.stages.find((item) => item.id === session.stageId);
+    if (session.placementBank && session.placementUnit && !questionById.has(session.questionIds[session.index])) {
+      registerPlacementQuestions(session.placementBank, session.placementUnit);
+    }
+    if (session.mathRoadmapTopic && !questionById.has(session.questionIds[session.index])) {
+      registerMathRoadmapTopicQuestions(Number(session.mathWorldIndex), Number(session.mathTopicIndex));
+    }
+    if (session.largeNumberModePractice && !questionById.has(session.questionIds[session.index])) {
+      registerLargeNumberModeQuestions(Number(session.largeNumberStepIndex), Number(session.largeNumberModeIndex));
+    }
     const question = questionById.get(session.questionIds[session.index]);
     if (!question) {
       finishStage();
       return;
     }
+    recordRoadmapProblemPresentation(question, session);
 
     const total = session.questionIds.length;
     const slideOffset = stage.type === "concept" ? unit.slides.length : 0;
@@ -700,6 +1363,7 @@
   }
 
   function retryMathWrongQuestion(questionId) {
+    ensureMathRoadmapQuestionRegistered(questionId);
     const regularQuestion = questionById.get(questionId);
     closeMathWrongNote();
     if (regularQuestion) return startStage(regularQuestion.stage, { questionIds: [regularQuestion.id], force: true, skipSlides: true });
@@ -1011,6 +1675,7 @@
   function finishStage() {
     const session = state.activeSession;
     const stage = unit.stages.find((item) => item.id === session.stageId);
+    const placementSession = Boolean(session.placementGrade && session.placementUnit);
     const total = session.initialQuestionIds?.length || session.questionIds.length;
     const accuracy = Math.round((session.firstAttemptCorrect / total) * 100);
     const passed = accuracy >= stage.passScore;
@@ -1018,11 +1683,48 @@
     const wrongCount = session.mistakeQuestionIds.length;
     const weakConcept = weakConceptFromSession(session);
     const earnedXp = session.firstAttemptCorrect * 10;
-    const firstCompletion = passed && !state.completedStages.includes(stage.id);
+    const firstCompletion = !placementSession && passed && !state.completedStages.includes(stage.id);
     const completionBonus = firstCompletion ? 20 : 0;
     const earnedCoins = session.firstAttemptCorrect * 2 + completionBonus;
+    let learningCompletionEvidence = null;
 
-    state.stageScores[stage.id] = {
+    if (session.mathRoadmapTopic && passed) {
+      const worldIndex = Number(session.mathWorldIndex);
+      const topicIndex = Number(session.mathTopicIndex);
+      state.completedMathWorldTopics = state.completedMathWorldTopics || {};
+      state.completedMathWorldTopics[worldIndex] = [...new Set([...(state.completedMathWorldTopics[worldIndex] || []), topicIndex])].sort((left, right) => left - right);
+      if (worldIndex === 0) state.numberOperationCompletedTopics = [...state.completedMathWorldTopics[worldIndex]];
+    }
+
+    if (session.studyRecommendationId) {
+      updateMathStudyRecommendation(
+        session.studyRecommendationId,
+        passed ? "COMPLETED" : "STARTED",
+        passed ? "recommendation-learning-complete" : "recommendation-learning-retry"
+      );
+    }
+
+    if (session.mathRoadmapTopic && passed) {
+      learningCompletionEvidence = recordMathLearningCompletion(session, accuracy);
+    }
+
+    if (session.largeNumberModePractice && passed) {
+      const modeIndex = Number(session.largeNumberModeIndex || 1);
+      const stepIndex = Number(session.largeNumberStepIndex || 0);
+      const lastLearningModeIndex = mathLessonModes.length - 2;
+      if (modeIndex < lastLearningModeIndex) {
+        state.largeNumberModeIndex = modeIndex + 1;
+      } else {
+        const completedSteps = [...new Set(state.largeNumberCompletedSteps || [])];
+        if (!completedSteps.includes(stepIndex)) completedSteps.push(stepIndex);
+        state.largeNumberCompletedSteps = completedSteps.sort((left, right) => left - right);
+        state.largeNumberStepIndex = Math.min(completedSteps.length, largeNumberSteps.length - 1);
+        state.largeNumberModeIndex = 0;
+      }
+    }
+
+    const scoreKey = placementSession ? `placement:${session.placementGrade}:${session.placementUnit}` : stage.id;
+    state.stageScores[scoreKey] = {
       correct: session.firstAttemptCorrect,
       total,
       accuracy,
@@ -1053,6 +1755,14 @@
       wrongCount,
       weakConcept,
       elapsedSeconds,
+      placementGrade: session.placementGrade || null,
+      placementUnit: session.placementUnit || null,
+      placementBank: session.placementBank || null,
+      largeNumberModePractice: Boolean(session.largeNumberModePractice),
+      largeNumberStepIndex: session.largeNumberStepIndex ?? null,
+      largeNumberModeIndex: session.largeNumberModeIndex ?? null,
+      learningEvidenceId: learningCompletionEvidence?.evidenceId || null,
+      independentCheckScheduled: Boolean(learningCompletionEvidence),
     };
     state.latestResult = latestResult;
     state.activeSession = null;
@@ -1066,10 +1776,16 @@
     if (!latestResult) return;
     const stage = unit.stages.find((item) => item.id === latestResult.stageId);
     const next = unit.stages[stageIndex(stage.id) + 1];
-    document.getElementById("learningResultStageTitle").textContent = stage.title;
+    document.getElementById("learningResultStageTitle").textContent = latestResult.placementUnit
+      ? `${latestResult.placementGrade} · ${latestResult.placementUnit}`
+      : stage.title;
     document.getElementById("learningResultBadge").textContent = latestResult.passed ? (stage.id === "final" ? "★" : "✓") : "↻";
     document.getElementById("learningResultTitle").textContent = latestResult.passed ? "단계를 완료했어요!" : "조금 더 연습해볼까요?";
-    document.getElementById("learningResultMessage").textContent = latestResult.passed ? (next ? "다음 단계가 열렸어요." : "1단원 학습을 모두 마쳤어요.") : `통과 기준은 ${stage.passScore}%예요.`;
+    document.getElementById("learningResultMessage").textContent = latestResult.independentCheckScheduled
+      ? "학습을 마쳤어요. 다음 레벨테스트에서 새 문제로 다시 확인합니다."
+      : latestResult.passed
+        ? (next ? "다음 단계가 열렸어요." : "1단원 학습을 모두 마쳤어요.")
+        : `통과 기준은 ${stage.passScore}%예요.`;
     document.getElementById("learningResultCorrect").textContent = `${latestResult.correct} / ${latestResult.total}`;
     document.getElementById("learningResultAccuracy").textContent = `${latestResult.accuracy}%`;
     document.getElementById("learningResultXp").textContent = `+${latestResult.earnedXp} XP`;
@@ -1083,7 +1799,7 @@
     if (rewardChest) rewardChest.hidden = !latestResult.passed;
 
     const nextButton = document.getElementById("learningNextStageButton");
-    nextButton.hidden = !next;
+    nextButton.hidden = Boolean(latestResult.placementUnit) || !next;
     nextButton.disabled = !latestResult.passed;
     nextButton.textContent = latestResult.passed ? "다음 단계" : "통과 후 다음 단계가 열려요";
     const retryButton = document.getElementById("learningRetryButton");
@@ -1166,7 +1882,7 @@
 
     if (event.target.closest("#continueLearningAfterTest")) {
       event.preventDefault();
-      openMathLearning();
+      if (!startPlacementLearning()) openMathLearning();
       return;
     }
 
@@ -1233,9 +1949,34 @@
       const active = state.activeSession;
       if (active?.stageId && unit.stages.some((stage) => stage.id === active.stageId)) startStage(active.stageId, { resume: true });
       else startStage(currentUnlockedStage().id, { skipSlides: true });
+    } else if (action === "show-math-recommendations") {
+      state.mapView = "domains";
+      state.mathMapTab = "recommendations";
+      state.selectedDomainIndex = null;
+      saveState();
+      return renderLearningMap();
+    } else if (action === "show-math-all-map") {
+      state.mapView = "domains";
+      state.mathMapTab = "all";
+      state.selectedDomainIndex = null;
+      saveState();
+      return renderLearningMap();
+    } else if (action === "open-math-study-recommendation") {
+      return openMathStudyRecommendation(actionTarget.dataset.recommendationId);
+    } else if (action === "open-current-math-target") {
+      const recommendationId = actionTarget.dataset.recommendationId;
+      if (recommendationId) return openMathStudyRecommendation(recommendationId);
+      const worldIndex = Number(actionTarget.dataset.mathWorld);
+      const topicIndex = Number(actionTarget.dataset.mathTopic);
+      if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex)) return;
+      return startMathRoadmapTopic(worldIndex, topicIndex, {
+        learningConceptId: actionTarget.dataset.conceptId,
+        recommendedStage: actionTarget.dataset.recommendedStage || "BASIC",
+      });
     } else if (action === "open-math-domain") {
       const domainIndex = Number(actionTarget.dataset.mathDomain);
       state.selectedDomainIndex = domainIndex;
+      state.mathMapTab = "all";
       state.mapView = "world";
       saveState();
       return renderLearningMap();
@@ -1254,9 +1995,10 @@
         saveState();
         return renderLearningMap();
       }
-      const active = state.activeSession;
-      if (active?.stageId && unit.stages.some((stage) => stage.id === active.stageId)) startStage(active.stageId, { resume: true });
-      else startStage(currentUnlockedStage().id, { skipSlides: true });
+      if (worldIndex === 0 && topicIndex === 1) {
+        return startAdditionSubtractionLesson();
+      }
+      return startMathRoadmapTopic(worldIndex, topicIndex);
     } else if (action === "open-large-number-step") {
       const stepIndex = Number(actionTarget.dataset.largeNumberStep);
       const currentStepIndex = Math.min((state.largeNumberCompletedSteps || []).length, largeNumberSteps.length - 1);
@@ -1285,23 +2027,15 @@
       if (modeIndex > Number(state.largeNumberModeIndex || 0)) return;
       state.largeNumberModeIndex = Math.max(0, Math.min(modeIndex, mathLessonModes.length - 2));
       saveState();
+      if (state.largeNumberModeIndex > 0) return startLargeNumberModePractice(Number(state.largeNumberStepIndex || 0), state.largeNumberModeIndex);
       return renderLearningMap();
     } else if (action === "advance-large-number-mode") {
       const lastLearningModeIndex = mathLessonModes.length - 2;
       const modeIndex = Math.max(0, Math.min(Number(state.largeNumberModeIndex) || 0, lastLearningModeIndex));
-      if (modeIndex < lastLearningModeIndex) {
-        state.largeNumberModeIndex = modeIndex + 1;
-        saveState();
-        return renderLearningMap();
-      }
-      const stepIndex = Number(state.largeNumberStepIndex || 0);
-      const completedSteps = [...new Set(state.largeNumberCompletedSteps || [])];
-      if (stepIndex <= completedSteps.length && !completedSteps.includes(stepIndex)) completedSteps.push(stepIndex);
-      state.largeNumberCompletedSteps = completedSteps.sort((a, b) => a - b);
-      state.largeNumberStepIndex = Math.min(completedSteps.length, largeNumberSteps.length - 1);
-      state.largeNumberModeIndex = 0;
+      const practiceModeIndex = modeIndex === 0 ? 1 : modeIndex;
+      state.largeNumberModeIndex = practiceModeIndex;
       saveState();
-      return renderLearningMap();
+      return startLargeNumberModePractice(Number(state.largeNumberStepIndex || 0), practiceModeIndex);
     } else if (action === "complete-large-number-step") {
       const stepIndex = Number(state.largeNumberStepIndex || 0);
       const completedSteps = [...new Set(state.largeNumberCompletedSteps || [])];
@@ -1388,13 +2122,29 @@
         saveState();
         return renderLearningMap();
       }
+      if (state.mathMapTab === "all" && resolveCurrentMathLearning(refreshMathStudyRecommendations("learning-map-back"))) {
+        state.mathMapTab = "recommendations";
+        saveState();
+        return renderLearningMap();
+      }
       showLearningScreen("study-empty");
     } else if (action === "result-to-map") {
       renderLearningMap();
       renderSubjectCard();
       showLearningScreen("learning-map");
     } else if (action === "retry-wrong" && latestResult?.wrongQuestionIds.length) {
-      startStage(latestResult.stageId, { questionIds: latestResult.wrongQuestionIds, force: true });
+      startStage(latestResult.stageId, {
+        questionIds: latestResult.wrongQuestionIds,
+        force: true,
+        sessionMeta: latestResult.placementUnit ? {
+          placementBank: latestResult.placementBank,
+          placementGrade: latestResult.placementGrade,
+          placementUnit: latestResult.placementUnit,
+          largeNumberModePractice: latestResult.largeNumberModePractice,
+          largeNumberStepIndex: latestResult.largeNumberStepIndex,
+          largeNumberModeIndex: latestResult.largeNumberModeIndex,
+        } : null,
+      });
     } else if (action === "next-stage" && latestResult?.passed) {
       const next = unit.stages[stageIndex(latestResult.stageId) + 1];
       if (next) startStage(next.id);
@@ -1436,6 +2186,7 @@
     getState: () => JSON.parse(JSON.stringify(state)),
     getStorageKey: () => progressKey,
     openMathLearning,
+    openMathStudyRecommendation,
     recordPlacementResult,
   };
 })();

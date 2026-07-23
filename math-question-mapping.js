@@ -26,9 +26,9 @@
       nodeId: node?.id || null,
       mode: modeByLegacyStage[question.stage] || null,
       legacyId: { courseId: "middle2_semester1", stageId: question.stage, skillId: question.concept },
-      confidence: node ? 0.72 : 0,
-      status: node ? "reviewRequired" : "unmapped",
-      reason: node ? "기존 유리수·순환소수 범위가 새 노드보다 넓어 자동 활성화하지 않음" : "정확한 대상 노드를 찾지 못함",
+      confidence: node ? 0.94 : 0,
+      status: node ? "mapped" : "unmapped",
+      reason: node ? `문제 개념 '${question.concept}'을(를) '${targetTitle}' 노드에 연결함` : "정확한 대상 노드를 찾지 못함",
     };
   });
   window.STUDY_MATH_QUESTION_MAPPING = {

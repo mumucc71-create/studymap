@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="ko">
+  <head><meta charset="utf-8"><title>P0 Firebase Reward Harness</title></head>
+  <body>
+    <label>이메일 <input id="email" type="email"></label>
+    <label>비밀번호 <input id="password" type="password"></label>
+    <button id="login" type="button">로그인</button>
+    <button id="grant" type="button" disabled>동일 승급 보상 요청</button>
+    <button id="cleanup" type="button" disabled>테스트 문서 정리</button>
+    <pre id="result">READY</pre>
+    <script src="../firebase-config.js?v=p0-reward-harness"></script>
+    <script src="../cloud-auth.js?v=p0-reward-harness"></script>
+    <script>
+      const stateKey = "middle3-math-p0-reward-verification";
+      const result = document.querySelector("#result");
+      const email = document.querySelector("#email");
+      const password = document.querySelector("#password");
+      const login = document.querySelector("#login");
+      const grant = document.querySelector("#grant");
+      const cleanup = document.querySelector("#cleanup");
+      login.addEventListener("click", async () => {
+        try {
+          const account = await window.STUDY_CLOUD_AUTH.signInWithEmail(email.value, password.value);
+          result.textContent = JSON.stringify({ signedIn: true, userId: account.id });
+          grant.disabled = false;
+          cleanup.disabled = false;
+        } catch (error) {
+          result.textContent = JSON.stringify({ signedIn: false, error: String(error?.code || error?.message || error) });
+        }
+      });
+      grant.addEventListener("click", async () => {
+        const userId = email.value.trim().toLowerCase();
+        const event = {
+          rewardEventId: `LEVEL_UP:${userId}:p0_reward_verification:BASIC:ADVANCED_1:p0-cycle-1`,
+          userId,
+          conceptId: "p0_reward_verification",
+          fromStage: "BASIC",
+          toStage: "ADVANCED_1",
+          cycleId: "p0-cycle-1",
+          amount: 20,
+          createdAt: new Date().toISOString(),
+        };
+        try {
+          const response = await window.STUDY_CLOUD_AUTH.grantStudyCoinReward(stateKey, event);
+          result.textContent = JSON.stringify({
+            awarded: response.awarded,
+            reason: response.reason,
+            balance: response.studyCoinWallet.balance,
+            transactionCount: response.studyCoinTransactions.length,
+            processedCount: response.processedRewardEventIds.length,
+            rewardEventId: event.rewardEventId,
+          });
+        } catch (error) {
+          result.textContent = JSON.stringify({ awarded: false, error: String(error?.code || error?.message || error) });
+        }
+      });
+      cleanup.addEventListener("click", async () => {
+        const deleted = await window.STUDY_CLOUD_AUTH.deleteUserState(stateKey);
+        result.textContent = JSON.stringify({ deleted });
+      });
+    </script>
+  </body>
+</html>
