@@ -716,8 +716,24 @@
       recommendationSource: recommendation.source,
     };
     updateMathStudyRecommendation(recommendation.id, "STARTED", "recommendation-started");
-    const worldIndex = Number(recommendation.worldIndex);
-    const topicIndex = Number(recommendation.topicIndex);
+    const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+    const recommendationWorldIndex = Number(recommendation.worldIndex);
+    const recommendationTopicIndex = Number(recommendation.topicIndex);
+    if (
+      quadraticLearning?.isMiddle3Grade()
+      && (
+        quadraticLearning.isConceptId(recommendation.conceptId)
+        || (recommendationWorldIndex === 2 && recommendationTopicIndex === 6)
+      )
+    ) {
+      state.mapView = "middle3-quadratic";
+      saveState();
+      return quadraticLearning.isConceptId(recommendation.conceptId)
+        ? quadraticLearning.startFromRecommendation(recommendation)
+        : quadraticLearning.startRecommended();
+    }
+    const worldIndex = recommendationWorldIndex;
+    const topicIndex = recommendationTopicIndex;
     if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex) || !mathWorlds[worldIndex]?.topics?.[topicIndex]) return;
     state.mathMapTab = "recommendations";
     state.selectedDomainIndex = worldIndex;
@@ -832,6 +848,12 @@
   }
 
   function renderLearningMap() {
+    const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+    if (state.mapView === "middle3-quadratic" && quadraticLearning?.isMiddle3Grade()) {
+      quadraticLearning.openMap({ restoreSavedScreen: true });
+      return;
+    }
+    quadraticLearning?.deactivate();
     const progress = Math.round((state.completedStages.length / unit.stages.length) * 100);
     const current = currentUnlockedStage();
     const status = document.getElementById("learningMapStatus");
@@ -947,10 +969,13 @@
       map.innerHTML = world.topics.map((topic, index) => {
         const complete = completedTopics.includes(index);
         const currentTopic = !complete && index === currentTopicIndex;
-        const available = complete || currentTopic;
-        return `<article class="${complete ? "is-complete" : currentTopic ? "is-current" : "is-locked"}">
+        const quadraticRouteAvailable = worldIndex === 2
+          && index === 6
+          && window.STUDY_M3_QUADRATIC_LEARNING_UI?.isMiddle3Grade();
+        const available = complete || currentTopic || quadraticRouteAvailable;
+        return `<article class="${complete ? "is-complete" : currentTopic ? "is-current" : quadraticRouteAvailable ? "is-open" : "is-locked"}">
           <i aria-hidden="true"></i><button type="button" ${available ? `data-learning-action="open-math-world-topic" data-math-topic="${index}"` : "disabled"}>
-            <b>${index + 1}</b><span><strong>${topic}</strong><small>${complete ? "학습 완료" : currentTopic ? "현재 학습" : "앞 단원 완료 후 열림"}</small></span><em>›</em>
+            <b>${index + 1}</b><span><strong>${topic}</strong><small>${complete ? "학습 완료" : currentTopic ? "현재 학습" : quadraticRouteAvailable ? "학습 가능" : "앞 단원 완료 후 열림"}</small></span><em>›</em>
           </button>
         </article>`;
       }).join("") + `<article class="english-roadmap-finish ${completedTopics.length === world.topics.length ? "is-complete" : "is-locked"}"><i aria-hidden="true"></i><button type="button" disabled><b>${completedTopics.length === world.topics.length ? "🏆" : "🔒"}</b><span><strong>${world.master}</strong><small>${completedTopics.length} / ${world.topics.length} · 모든 단원을 완료하면 열려요.</small></span><em>›</em></button></article>`;
@@ -1032,6 +1057,7 @@
   }
 
   function openMathLearning() {
+    window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
     syncCurrentUserState();
     state.mapView = "domains";
     const memory = refreshMathStudyRecommendations("learning-tab-open");
@@ -1904,6 +1930,14 @@
     const actionTarget = event.target.closest("[data-learning-action]");
     if (!actionTarget) return;
     const action = actionTarget.dataset.learningAction;
+    const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+    const quadraticSessionAction = quadraticLearning?.isActive()
+      && quadraticLearning?.handlesAction(action);
+    if (String(action || "").startsWith("quadratic-") || quadraticSessionAction) {
+      event.preventDefault();
+      quadraticLearning.handleAction(actionTarget);
+      return;
+    }
     if (action === "next-concept") {
       const session = state.activeSession;
       if (session.slideIndex < unit.slides.length - 1) session.slideIndex += 1;
@@ -1966,9 +2000,30 @@
     } else if (action === "open-current-math-target") {
       const recommendationId = actionTarget.dataset.recommendationId;
       if (recommendationId) return openMathStudyRecommendation(recommendationId);
+      const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+      if (
+        quadraticLearning?.isMiddle3Grade()
+        && quadraticLearning.isConceptId(actionTarget.dataset.conceptId)
+      ) {
+        state.mapView = "middle3-quadratic";
+        saveState();
+        return quadraticLearning.startFromRecommendation({
+          conceptId: actionTarget.dataset.conceptId,
+          recommendedStage: actionTarget.dataset.recommendedStage || "BASIC",
+        });
+      }
       const worldIndex = Number(actionTarget.dataset.mathWorld);
       const topicIndex = Number(actionTarget.dataset.mathTopic);
       if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex)) return;
+      if (
+        worldIndex === 2
+        && topicIndex === 6
+        && window.STUDY_M3_QUADRATIC_LEARNING_UI?.isMiddle3Grade()
+      ) {
+        state.mapView = "middle3-quadratic";
+        saveState();
+        return window.STUDY_M3_QUADRATIC_LEARNING_UI.startRecommended();
+      }
       return startMathRoadmapTopic(worldIndex, topicIndex, {
         learningConceptId: actionTarget.dataset.conceptId,
         recommendedStage: actionTarget.dataset.recommendedStage || "BASIC",
@@ -1983,6 +2038,18 @@
     } else if (action === "open-math-world-topic") {
       const topicIndex = Number(actionTarget.dataset.mathTopic);
       const worldIndex = Math.max(0, Math.min(Number(state.selectedDomainIndex) || 0, mathWorlds.length - 1));
+      const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+      if (
+        worldIndex === 2
+        && topicIndex === 6
+        && quadraticLearning?.isMiddle3Grade()
+      ) {
+        state.selectedMathTopicIndex = topicIndex;
+        state.selectedNumberTopicIndex = topicIndex;
+        state.mapView = "middle3-quadratic";
+        saveState();
+        return quadraticLearning.openMap();
+      }
       const savedWorldTopics = state.completedMathWorldTopics?.[worldIndex];
       const completedTopics = [...new Set(Array.isArray(savedWorldTopics) ? savedWorldTopics : worldIndex === 0 ? state.numberOperationCompletedTopics || [] : [])];
       if (topicIndex > completedTopics.length) return;
@@ -2111,6 +2178,13 @@
     } else if (action === "next-large-number-test") {
       return advanceLargeNumberTest();
     } else if (action === "math-map-back") {
+      if (state.mapView === "middle3-quadratic") {
+        window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
+        state.mapView = "world";
+        state.selectedDomainIndex = 2;
+        saveState();
+        return renderLearningMap();
+      }
       if (state.mapView === "large-number") {
         state.mapView = "world";
         saveState();
