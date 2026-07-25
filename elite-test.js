@@ -167,6 +167,16 @@
     ],
   };
 
+  // 6차-A 문제 메타데이터 인덱스가 원문을 복제하지 않고 참조할 수 있도록 공개합니다.
+  window.STUDY_ELITE_MATH_BANKS = BANKS;
+
+  // 승인된 중3 수학·영어 모델이 준비되면 기존 화면은 공통 Elite 엔진에만 위임합니다.
+  // 아래의 기존 문제은행과 호환 런타임은 삭제하지 않고 구형 로딩의 fallback으로 보존합니다.
+  if (window.STUDY_ELITE_UI?.mount) {
+    window.STUDY_ELITE_UI.mount();
+    return;
+  }
+
   function validateBanks() {
     const ids = new Set();
     const errors = [];
