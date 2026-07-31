@@ -126,7 +126,7 @@ test("the learning tab restores current learning, recommendations, and the exist
   assert.match(learning, /activeRecommendation\?\.recoveryStage,[\s\S]*activeRecommendation\?\.recommendedStage,[\s\S]*currentStage/);
   assert.match(learning, /data-learning-action="show-math-all-map"/);
   assert.match(learning, /action === "show-math-recommendations"/);
-  assert.match(learning, /원래 목표 · \$\{context\.goalTitle\} \/ 지금 보충 중 · \$\{context\.activeTitle\}/);
+  assert.match(learning, /원래 학습으로 돌아가기 · \$\{context\.goalTitle\} \/ 기초 보충 · \$\{context\.activeTitle\}/);
   assert.match(learning, /mathWorlds\.map\(\(world, index\)/);
   assert.match(learning, /function openMathStudyRecommendation\(recommendationId\)/);
   assert.match(learning, /recommendation\.recoveryStage[\s\S]*recommendation\.recommendedStage[\s\S]*recommendation\.savedCurrentStage/);

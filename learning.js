@@ -14,6 +14,29 @@
     { title: "수열", master: "수열 Master", topics: ["규칙 찾기", "수열", "일반항", "등차수열", "등차수열의 합", "등비수열", "등비수열의 합", "점화식", "수학적 귀납법"] },
     { title: "미적분", master: "미적분 Master", topics: ["함수의 극한", "연속", "변화율", "미분", "도함수", "최대·최소", "적분", "정적분", "미적분 활용"] },
   ];
+  function middle3SpringUnits() {
+    return [
+      { order: 0, title: "제곱근과 실수", mapView: "middle3-sqrt", worldIndex: 0, topicIndex: 8, ui: window.STUDY_M3_SQRT_LEARNING_UI },
+      { order: 1, title: "다항식의 곱셈과 인수분해", mapView: "middle3-factorization", worldIndex: 1, topicIndex: 4, ui: window.STUDY_M3_FACTORIZATION_LEARNING_UI },
+      { order: 2, title: "이차방정식", mapView: "middle3-quadratic-equation", worldIndex: 1, topicIndex: 8, ui: window.STUDY_M3_QUADRATIC_EQUATION_LEARNING_UI },
+      { order: 3, title: "이차함수", mapView: "middle3-quadratic", worldIndex: 2, topicIndex: 6, ui: window.STUDY_M3_QUADRATIC_LEARNING_UI },
+      { order: 4, title: "삼각비", mapView: "middle3-trigonometric-ratio", worldIndex: 3, topicIndex: 11, ui: window.STUDY_M3_TRIGONOMETRIC_RATIO_LEARNING_UI },
+      { order: 5, title: "원의 성질", mapView: "middle3-circle-properties", worldIndex: 3, topicIndex: 3, ui: window.STUDY_M3_CIRCLE_PROPERTIES_LEARNING_UI },
+      { order: 6, title: "통계", mapView: "middle3-statistics", worldIndex: 4, topicIndex: 9, ui: window.STUDY_M3_STATISTICS_LEARNING_UI },
+    ];
+  }
+  function middle3UnitForConcept(conceptId) {
+    return middle3SpringUnits().find((entry) => entry.ui?.isConceptId?.(conceptId)) || null;
+  }
+  function middle3UnitForRoute(worldIndex, topicIndex) {
+    return middle3SpringUnits().find((entry) => entry.worldIndex === worldIndex && entry.topicIndex === topicIndex) || null;
+  }
+  function middle3UnitForMapView(mapView) {
+    return middle3SpringUnits().find((entry) => entry.mapView === mapView) || null;
+  }
+  function deactivateMiddle3Units(exceptUi = null, force = true) {
+    middle3SpringUnits().forEach((entry) => { if (entry.ui && entry.ui !== exceptUi) entry.ui.deactivate?.(force); });
+  }
   const largeNumberSteps = [
     { code: "1-1", title: "만 단위 알아보기", body: "천이 10개 모이면 1만입니다. 만 단위는 네 자리씩 끊어 읽는 큰 수의 첫 단위예요.", example: "10,000 = 1만 · 35,000 = 3만 5천" },
     { code: "1-2", title: "십만·백만·천만", body: "만이 10개면 십만, 100개면 백만, 1,000개면 천만입니다.", example: "100,000 = 10만 · 1,000,000 = 100만" },
@@ -153,7 +176,8 @@
     const memory = loadMiddle3RecommendationMemory();
     const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
     if (!memory || typeof service?.refreshRecommendations !== "function") return memory;
-    const result = service.refreshRecommendations(memory, { reason });
+    const graphState = window.STUDY_MATH_CONCEPT_GRAPH_UI?.getState?.() || null;
+    const result = service.refreshRecommendations(memory, { reason, graphState });
     if (result.changed) persistMiddle3RecommendationMemory(memory, reason);
     return memory;
   }
@@ -163,7 +187,10 @@
     const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
     if (!memory || typeof service?.updateRecommendationStatus !== "function") return null;
     const changed = service.updateRecommendationStatus(memory, recommendationId, status);
-    if (status === "COMPLETED") service.refreshRecommendations(memory, { reason });
+    if (status === "COMPLETED") service.refreshRecommendations(memory, {
+      reason,
+      graphState: window.STUDY_MATH_CONCEPT_GRAPH_UI?.getState?.() || null,
+    });
     if (changed) persistMiddle3RecommendationMemory(memory, reason);
     return (memory.studyMapRecommendations || []).find((item) => item.id === recommendationId) || null;
   }
@@ -247,11 +274,11 @@
     const stageLabel = recommendationStageLabel(context.stage);
     const summaryLabel = document.querySelector(".math-roadmap-summary > div > span");
     if (summaryLabel) summaryLabel.textContent = "현재 학습";
-    if (title) title.textContent = `중3 수학 · ${context.goalTitle}`;
+    if (title) title.textContent = `현재 학습 · ${context.goalTitle}`;
     if (heading) heading.textContent = "추천 학습";
     if (status) status.textContent = context.activeRecovery
-      ? `원래 목표 · ${context.goalTitle} / 지금 보충 중 · ${context.activeTitle}`
-      : `현재 위치 · ${context.activeTitle} · ${stageLabel}`;
+      ? `원래 학습으로 돌아가기 · ${context.goalTitle} / 기초 보충 · ${context.activeTitle}`
+      : `현재 학습 · ${context.activeTitle} · ${stageLabel}`;
     if (progressText) progressText.textContent = stageLabel;
     if (progressBar) progressBar.style.width = `${Math.round(((stageIndex + 1) / 6) * 100)}%`;
     if (completed) completed.textContent = `${context.recommendations.length}개 추천`;
@@ -716,9 +743,34 @@
       recommendationSource: recommendation.source,
     };
     updateMathStudyRecommendation(recommendation.id, "STARTED", "recommendation-started");
+    const dedicatedUnit = middle3UnitForConcept(recommendation.conceptId)
+      || middle3UnitForRoute(Number(recommendation.worldIndex), Number(recommendation.topicIndex));
+    if (dedicatedUnit?.ui?.isMiddle3Grade?.()) {
+      deactivateMiddle3Units(dedicatedUnit.ui);
+      state.mapView = dedicatedUnit.mapView;
+      saveState();
+      return dedicatedUnit.ui.isConceptId(recommendation.conceptId)
+        ? dedicatedUnit.ui.startFromRecommendation(recommendation)
+        : dedicatedUnit.ui.startRecommended();
+    }
+    const sqrtLearning = window.STUDY_M3_SQRT_LEARNING_UI;
     const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
     const recommendationWorldIndex = Number(recommendation.worldIndex);
     const recommendationTopicIndex = Number(recommendation.topicIndex);
+    if (
+      sqrtLearning?.isMiddle3Grade()
+      && (
+        sqrtLearning.isConceptId(recommendation.conceptId)
+        || (recommendationWorldIndex === 0 && recommendationTopicIndex === 8)
+      )
+    ) {
+      quadraticLearning?.deactivate(true);
+      state.mapView = "middle3-sqrt";
+      saveState();
+      return sqrtLearning.isConceptId(recommendation.conceptId)
+        ? sqrtLearning.startFromRecommendation(recommendation)
+        : sqrtLearning.startRecommended();
+    }
     if (
       quadraticLearning?.isMiddle3Grade()
       && (
@@ -848,12 +900,27 @@
   }
 
   function renderLearningMap() {
+    const dedicatedUnit = middle3UnitForMapView(state.mapView);
+    if (dedicatedUnit?.ui?.isMiddle3Grade?.()) {
+      deactivateMiddle3Units(dedicatedUnit.ui);
+      dedicatedUnit.ui.openMap({ restoreSavedScreen: true });
+      return;
+    }
+    const sqrtLearning = window.STUDY_M3_SQRT_LEARNING_UI;
     const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
+    if (state.mapView === "middle3-sqrt" && sqrtLearning?.isMiddle3Grade()) {
+      quadraticLearning?.deactivate(true);
+      sqrtLearning.openMap({ restoreSavedScreen: true });
+      return;
+    }
     if (state.mapView === "middle3-quadratic" && quadraticLearning?.isMiddle3Grade()) {
+      sqrtLearning?.deactivate(true);
       quadraticLearning.openMap({ restoreSavedScreen: true });
       return;
     }
+    sqrtLearning?.deactivate();
     quadraticLearning?.deactivate();
+    deactivateMiddle3Units(null, false);
     const progress = Math.round((state.completedStages.length / unit.stages.length) * 100);
     const current = currentUnlockedStage();
     const status = document.getElementById("learningMapStatus");
@@ -969,13 +1036,12 @@
       map.innerHTML = world.topics.map((topic, index) => {
         const complete = completedTopics.includes(index);
         const currentTopic = !complete && index === currentTopicIndex;
-        const quadraticRouteAvailable = worldIndex === 2
-          && index === 6
-          && window.STUDY_M3_QUADRATIC_LEARNING_UI?.isMiddle3Grade();
-        const available = complete || currentTopic || quadraticRouteAvailable;
-        return `<article class="${complete ? "is-complete" : currentTopic ? "is-current" : quadraticRouteAvailable ? "is-open" : "is-locked"}">
+        const directUnit = middle3UnitForRoute(worldIndex, index);
+        const directRouteAvailable = Boolean(directUnit?.ui?.isMiddle3Grade?.());
+        const available = complete || currentTopic || directRouteAvailable;
+        return `<article class="${complete ? "is-complete" : currentTopic ? "is-current" : directRouteAvailable ? "is-open" : "is-locked"}">
           <i aria-hidden="true"></i><button type="button" ${available ? `data-learning-action="open-math-world-topic" data-math-topic="${index}"` : "disabled"}>
-            <b>${index + 1}</b><span><strong>${topic}</strong><small>${complete ? "학습 완료" : currentTopic ? "현재 학습" : quadraticRouteAvailable ? "학습 가능" : "앞 단원 완료 후 열림"}</small></span><em>›</em>
+            <b>${index + 1}</b><span><strong>${topic}</strong><small>${complete ? "학습 완료" : currentTopic ? "현재 학습" : directRouteAvailable ? "학습 가능" : "앞 단원 완료 후 열림"}</small></span><em>›</em>
           </button>
         </article>`;
       }).join("") + `<article class="english-roadmap-finish ${completedTopics.length === world.topics.length ? "is-complete" : "is-locked"}"><i aria-hidden="true"></i><button type="button" disabled><b>${completedTopics.length === world.topics.length ? "🏆" : "🔒"}</b><span><strong>${world.master}</strong><small>${completedTopics.length} / ${world.topics.length} · 모든 단원을 완료하면 열려요.</small></span><em>›</em></button></article>`;
@@ -1057,7 +1123,7 @@
   }
 
   function openMathLearning() {
-    window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
+    deactivateMiddle3Units();
     syncCurrentUserState();
     state.mapView = "domains";
     const memory = refreshMathStudyRecommendations("learning-tab-open");
@@ -1930,6 +1996,20 @@
     const actionTarget = event.target.closest("[data-learning-action]");
     if (!actionTarget) return;
     const action = actionTarget.dataset.learningAction;
+    const activeDedicatedUnit = middle3SpringUnits().find((entry) => entry.ui?.isActive?.() && entry.ui?.handlesAction?.(action));
+    if (activeDedicatedUnit && ![window.STUDY_M3_SQRT_LEARNING_UI, window.STUDY_M3_QUADRATIC_LEARNING_UI].includes(activeDedicatedUnit.ui)) {
+      event.preventDefault();
+      activeDedicatedUnit.ui.handleAction(actionTarget);
+      return;
+    }
+    const sqrtLearning = window.STUDY_M3_SQRT_LEARNING_UI;
+    const sqrtSessionAction = sqrtLearning?.isActive()
+      && sqrtLearning?.handlesAction(action);
+    if (String(action || "").startsWith("sqrt-") || sqrtSessionAction) {
+      event.preventDefault();
+      sqrtLearning.handleAction(actionTarget);
+      return;
+    }
     const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
     const quadraticSessionAction = quadraticLearning?.isActive()
       && quadraticLearning?.handlesAction(action);
@@ -2000,6 +2080,29 @@
     } else if (action === "open-current-math-target") {
       const recommendationId = actionTarget.dataset.recommendationId;
       if (recommendationId) return openMathStudyRecommendation(recommendationId);
+      const dedicatedUnit = middle3UnitForConcept(actionTarget.dataset.conceptId);
+      if (dedicatedUnit?.ui?.isMiddle3Grade?.()) {
+        deactivateMiddle3Units(dedicatedUnit.ui);
+        state.mapView = dedicatedUnit.mapView;
+        saveState();
+        return dedicatedUnit.ui.startFromRecommendation({
+          conceptId: actionTarget.dataset.conceptId,
+          recommendedStage: actionTarget.dataset.recommendedStage || "BASIC",
+        });
+      }
+      const sqrtLearning = window.STUDY_M3_SQRT_LEARNING_UI;
+      if (
+        sqrtLearning?.isMiddle3Grade()
+        && sqrtLearning.isConceptId(actionTarget.dataset.conceptId)
+      ) {
+        window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
+        state.mapView = "middle3-sqrt";
+        saveState();
+        return sqrtLearning.startFromRecommendation({
+          conceptId: actionTarget.dataset.conceptId,
+          recommendedStage: actionTarget.dataset.recommendedStage || "BASIC",
+        });
+      }
       const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
       if (
         quadraticLearning?.isMiddle3Grade()
@@ -2015,6 +2118,23 @@
       const worldIndex = Number(actionTarget.dataset.mathWorld);
       const topicIndex = Number(actionTarget.dataset.mathTopic);
       if (!Number.isInteger(worldIndex) || !Number.isInteger(topicIndex)) return;
+      const routeUnit = middle3UnitForRoute(worldIndex, topicIndex);
+      if (routeUnit?.ui?.isMiddle3Grade?.()) {
+        deactivateMiddle3Units(routeUnit.ui);
+        state.mapView = routeUnit.mapView;
+        saveState();
+        return routeUnit.ui.startRecommended();
+      }
+      if (
+        worldIndex === 0
+        && topicIndex === 8
+        && window.STUDY_M3_SQRT_LEARNING_UI?.isMiddle3Grade()
+      ) {
+        window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
+        state.mapView = "middle3-sqrt";
+        saveState();
+        return window.STUDY_M3_SQRT_LEARNING_UI.startRecommended();
+      }
       if (
         worldIndex === 2
         && topicIndex === 6
@@ -2038,6 +2158,28 @@
     } else if (action === "open-math-world-topic") {
       const topicIndex = Number(actionTarget.dataset.mathTopic);
       const worldIndex = Math.max(0, Math.min(Number(state.selectedDomainIndex) || 0, mathWorlds.length - 1));
+      const dedicatedUnit = middle3UnitForRoute(worldIndex, topicIndex);
+      if (dedicatedUnit?.ui?.isMiddle3Grade?.()) {
+        deactivateMiddle3Units(dedicatedUnit.ui);
+        state.selectedMathTopicIndex = topicIndex;
+        state.selectedNumberTopicIndex = topicIndex;
+        state.mapView = dedicatedUnit.mapView;
+        saveState();
+        return dedicatedUnit.ui.openMap();
+      }
+      const sqrtLearning = window.STUDY_M3_SQRT_LEARNING_UI;
+      if (
+        worldIndex === 0
+        && topicIndex === 8
+        && sqrtLearning?.isMiddle3Grade()
+      ) {
+        window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
+        state.selectedMathTopicIndex = topicIndex;
+        state.selectedNumberTopicIndex = topicIndex;
+        state.mapView = "middle3-sqrt";
+        saveState();
+        return sqrtLearning.openMap();
+      }
       const quadraticLearning = window.STUDY_M3_QUADRATIC_LEARNING_UI;
       if (
         worldIndex === 2
@@ -2178,6 +2320,21 @@
     } else if (action === "next-large-number-test") {
       return advanceLargeNumberTest();
     } else if (action === "math-map-back") {
+      const dedicatedUnit = middle3UnitForMapView(state.mapView);
+      if (dedicatedUnit) {
+        dedicatedUnit.ui?.deactivate(true);
+        state.mapView = "world";
+        state.selectedDomainIndex = dedicatedUnit.worldIndex;
+        saveState();
+        return renderLearningMap();
+      }
+      if (state.mapView === "middle3-sqrt") {
+        window.STUDY_M3_SQRT_LEARNING_UI?.deactivate(true);
+        state.mapView = "world";
+        state.selectedDomainIndex = 0;
+        saveState();
+        return renderLearningMap();
+      }
       if (state.mapView === "middle3-quadratic") {
         window.STUDY_M3_QUADRATIC_LEARNING_UI?.deactivate(true);
         state.mapView = "world";
@@ -2240,6 +2397,14 @@
     syncCurrentUserState();
     renderSubjectCard();
     renderProgressSurfaces();
+  });
+  window.addEventListener("study:m3-unit-selected", (event) => {
+    const selected = middle3UnitForMapView(event.detail?.mapView);
+    if (!selected) return;
+    state.mapView = selected.mapView;
+    state.selectedDomainIndex = selected.worldIndex;
+    state.selectedMathTopicIndex = selected.topicIndex;
+    saveState();
   });
   document.addEventListener("study:social-updated", (event) => {
     renderHomeMissionProgress(event.detail?.state);

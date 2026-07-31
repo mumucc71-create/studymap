@@ -1368,6 +1368,49 @@
     return JSON.parse(JSON.stringify(state));
   }
 
+  function conceptMapper() {
+    if (typeof window !== "undefined" && window.STUDY_MATH_LEVEL_TEST_CONCEPT_MAPPER) return window.STUDY_MATH_LEVEL_TEST_CONCEPT_MAPPER;
+    if (typeof require === "function") {
+      try { return require("./math-level-test-concept-mapper.js"); } catch { return null; }
+    }
+    return null;
+  }
+
+  function mapLevelTestQuestionToConceptIds(question) {
+    return conceptMapper()?.mapLevelTestQuestionToConceptIds(question) || { status: "MAPPER_UNAVAILABLE", canonicalConceptIds: [] };
+  }
+
+  function convertLevelTestResultToEvidence(result, options) {
+    return conceptMapper()?.convertLevelTestResultToEvidence(result, options) || [];
+  }
+
+  function mergeLevelTestEvidence(existing, incoming) {
+    return conceptMapper()?.mergeLevelTestEvidence(existing, incoming) || [...(existing || []), ...(incoming || [])];
+  }
+
+  function calculateInitialConceptMastery(evidence) {
+    return conceptMapper()?.calculateInitialConceptMastery(evidence) || {};
+  }
+
+  function selectInitialLearningConcept(evidence, options) {
+    return conceptMapper()?.selectInitialLearningConcept(evidence, options) || null;
+  }
+
+  function attachCanonicalConceptEvidence(state, results = [], options = {}) {
+    const evidence = mergeLevelTestEvidence(
+      state.canonicalConceptEvidence || [],
+      results.flatMap((result) => convertLevelTestResultToEvidence(result, options))
+    );
+    state.canonicalConceptEvidence = evidence;
+    state.initialConceptMastery = calculateInitialConceptMastery(evidence);
+    state.initialConceptSelection = selectInitialLearningConcept(evidence, {
+      ...options,
+      masteryByConcept: state.initialConceptMastery,
+      selectedGrade: options.selectedGrade ?? state.selectedGrade ?? null,
+    });
+    return state.initialConceptSelection;
+  }
+
   return {
     VERSION,
     MODE_STANDARD,
@@ -1408,5 +1451,11 @@
     problemStageIndex,
     stageLabel,
     cloneState,
+    mapLevelTestQuestionToConceptIds,
+    convertLevelTestResultToEvidence,
+    mergeLevelTestEvidence,
+    calculateInitialConceptMastery,
+    selectInitialLearningConcept,
+    attachCanonicalConceptEvidence,
   };
 });

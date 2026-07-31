@@ -37,6 +37,13 @@
     SPACED_REVIEW: 6,
   };
   const RECOMMENDATION_STATUSES = new Set(["ACTIVE", "STARTED", "COMPLETED", "DISMISSED"]);
+  const GRAPH_TYPE_LABELS = Object.freeze({
+    CONTINUE_CURRENT: "현재 학습", REVIEW_PREREQUISITE: "먼저 복습할 개념", START_REMEDIAL: "기초 보충",
+    RETURN_TO_ORIGINAL: "원래 학습으로 돌아가기", PROMOTE_TO_NEXT: "다음 도전", ENTRY_CHECK: "현재 학습",
+    BLOCKED_NO_CONTENT: "현재 가능한 학습", MAXIMUM_REACHED: "다음 도전",
+  });
+  const GRAPH_TYPE_PRIORITIES = Object.freeze({ RETURN_TO_ORIGINAL: 1, START_REMEDIAL: 2, REVIEW_PREREQUISITE: 3,
+    CONTINUE_CURRENT: 4, ENTRY_CHECK: 4, PROMOTE_TO_NEXT: 5, BLOCKED_NO_CONTENT: 6, MAXIMUM_REACHED: 7 });
 
   const route = (worldIndex, topicIndex, worldId, worldTitle, unitTitle) => ({
     worldIndex,
@@ -96,6 +103,47 @@
     triangle: route(3, 1, "geometry-measurement", "도형과 측정", "삼각형"),
 
     real_numbers: route(0, 8, "numbers-operations", "수와 연산", "응용 계산"),
+    m3_sqrt_meaning: route(0, 8, "numbers-operations", "수와 연산", "제곱근과 실수"),
+    m3_sqrt_value: route(0, 8, "numbers-operations", "수와 연산", "제곱근과 실수"),
+    m3_irrational_number: route(0, 8, "numbers-operations", "수와 연산", "제곱근과 실수"),
+    m3_radical_simplification: route(0, 8, "numbers-operations", "수와 연산", "제곱근과 실수"),
+    m3_radical_operations: route(0, 8, "numbers-operations", "수와 연산", "제곱근과 실수"),
+    m3_polynomial_multiplication: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_multiplication_formula: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_common_factor: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_factor_perfect_square: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_factor_difference_squares: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_factor_sum_product: route(1, 4, "equations", "방정식", "다항식의 곱셈과 인수분해"),
+    m3_quadratic_meaning: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_factor_solve: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_sqrt_solve: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_formula: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_root_meaning: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_word_setup: route(1, 8, "equations", "방정식", "이차방정식"),
+    m3_quadratic_function_meaning: route(2, 6, "functions", "함수", "이차함수"),
+    m3_quadratic_graph_shape: route(2, 6, "functions", "함수", "이차함수"),
+    m3_quadratic_vertex_axis: route(2, 6, "functions", "함수", "이차함수"),
+    m3_quadratic_translation: route(2, 6, "functions", "함수", "이차함수"),
+    m3_quadratic_find_formula: route(2, 6, "functions", "함수", "이차함수"),
+    m3_quadratic_max_min: route(2, 6, "functions", "함수", "이차함수"),
+    m3_trig_meaning: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_trig_sine: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_trig_cosine: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_trig_tangent: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_trig_special_angles: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_trig_length: route(3, 11, "geometry-measurement", "도형과 측정", "삼각비"),
+    m3_circle_foundations: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_circle_chord: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_circle_tangent_radius: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_circle_tangent_segments: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_circle_central_inscribed: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_circle_same_arc: route(3, 3, "geometry-measurement", "도형과 측정", "원의 성질"),
+    m3_statistics_mean: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
+    m3_statistics_median_mode: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
+    m3_statistics_representative_range: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
+    m3_statistics_frequency_graphs: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
+    m3_statistics_variance: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
+    m3_statistics_standard_deviation: route(4, 9, "probability-statistics", "확률과 통계", "통계"),
     factorization: route(1, 4, "equations", "방정식", "식 만들기"),
     quadratic_equation: route(1, 8, "equations", "방정식", "이차방정식"),
     quadratic_function: route(2, 6, "functions", "함수", "이차함수"),
@@ -162,6 +210,57 @@
     };
   }
 
+  function graphServices() {
+    if (typeof window !== "undefined") return {
+      graph: window.STUDY_MATH_CONCEPT_GRAPH,
+      runtime: window.STUDY_MATH_CONCEPT_GRAPH_RUNTIME,
+    };
+    if (typeof require === "function") {
+      try { return { graph: require("./math-concept-graph-data.js"), runtime: require("./math-concept-graph-runtime.js") }; }
+      catch { return {}; }
+    }
+    return {};
+  }
+
+  function makeGraphCandidate(graph, type, conceptId, source) {
+    const node = graph?.conceptById?.[conceptId];
+    if (!node) return null;
+    const route = node.sourceRoutes?.[0] || {};
+    return {
+      id: `graph:${type}:${conceptId}`, conceptId, type, label: GRAPH_TYPE_LABELS[type], title: node.displayName,
+      description: type === "BLOCKED_NO_CONTENT"
+        ? "준비 중인 개념입니다. 현재 가능한 가장 가까운 학습으로 안내합니다."
+        : `${GRAPH_TYPE_LABELS[type]}을 확인해요.`,
+      ...route, source: source || "concept-graph", priority: GRAPH_TYPE_PRIORITIES[type] || 9,
+      recommendedStage: "BASIC", savedCurrentStage: "BASIC", recoveryStage: null,
+    };
+  }
+
+  function generateGraphRecommendations(graphState, options = {}) {
+    const { graph, runtime } = graphServices();
+    if (!graphState || !graph || !runtime) return [];
+    const output = [];
+    const add = (type, conceptId, source) => {
+      const candidate = makeGraphCandidate(graph, type, conceptId, source);
+      if (candidate && !output.some((item) => item.type === type && item.conceptId === conceptId)) output.push(candidate);
+    };
+    const decision = graphState.lastDecision || {};
+    const frame = graphState.recoveryStack?.at?.(-1);
+    if (decision.decision === "DESCEND") add("START_REMEDIAL", decision.toConceptId, "graph-descend");
+    if (decision.decision === "RETURN") add("RETURN_TO_ORIGINAL", decision.toConceptId, "graph-return");
+    if (decision.decision === "MAXIMUM_REACHED") add("MAXIMUM_REACHED", decision.conceptId || graphState.activeConceptId, "graph-maximum");
+    if (frame) add("RETURN_TO_ORIGINAL", frame.conceptId, "recovery-stack");
+    (graphState.pendingRemedialConceptIds || []).forEach((id) => add("REVIEW_PREREQUISITE", id, "pending-remedial"));
+    add(graphState.masteryByConcept?.[graphState.activeConceptId]?.status === "ENTRY_CHECK" ? "ENTRY_CHECK" : "CONTINUE_CURRENT",
+      graphState.activeConceptId, "active-concept");
+    const promotion = graphState.activeConceptId ? runtime.selectPromotionConcept(graphState) : null;
+    if (promotion?.decision === "PROMOTE") add("PROMOTE_TO_NEXT", promotion.toConceptId, "graph-promotion");
+    if (promotion?.decision === "PROMOTION_BLOCKED") {
+      (promotion.blockedCandidates || []).slice(0, 1).forEach((item) => add("BLOCKED_NO_CONTENT", item.conceptId, "blocked-content"));
+    }
+    return output.sort((left, right) => left.priority - right.priority).slice(0, options.limit || 6);
+  }
+
   function sortedTargetConcepts(memory) {
     const targets = new Set(memory?.targetConceptIds || []);
     const concepts = Object.values(memory?.conceptMastery || {})
@@ -198,8 +297,9 @@
   }
 
   function generateRecommendations(memory, options = {}) {
-    if (!memory || typeof memory !== "object") return [];
-    if (!memory.bootstrap?.completed) return [];
+    const graphRecommendations = generateGraphRecommendations(options.graphState || memory?.mathConceptGraphState, options);
+    if (!memory || typeof memory !== "object") return graphRecommendations;
+    if (!memory.bootstrap?.completed) return graphRecommendations;
     const candidates = [];
     const add = (candidate) => {
       if (candidate) candidates.push(candidate);
@@ -265,7 +365,14 @@
         seenConceptIds.add(candidate.conceptId);
         unique.push(candidate);
       });
-    return unique;
+    const merged = [];
+    const seen = new Set();
+    [...graphRecommendations, ...unique].forEach((candidate) => {
+      if (!candidate || seen.has(candidate.conceptId) || merged.length >= (options.limit || 6)) return;
+      seen.add(candidate.conceptId);
+      merged.push(candidate);
+    });
+    return merged;
   }
 
   function comparableRecommendation(recommendation) {
@@ -315,6 +422,8 @@
     TYPE_LABELS,
     TYPE_PRIORITIES,
     CONCEPT_ROUTES,
+    GRAPH_TYPE_LABELS,
+    generateGraphRecommendations,
     resolveConceptRoute,
     generateRecommendations,
     refreshRecommendations,

@@ -2199,7 +2199,10 @@ function ensureMiddle3LevelTestMemory() {
 function refreshMiddle3StudyRecommendations(reason = "state-update") {
   const service = window.STUDY_MATH_STUDY_RECOMMENDATIONS;
   if (!middle3LevelTestMemory || typeof service?.refreshRecommendations !== "function") return false;
-  return Boolean(service.refreshRecommendations(middle3LevelTestMemory, { reason })?.changed);
+  return Boolean(service.refreshRecommendations(middle3LevelTestMemory, {
+    reason,
+    graphState: window.STUDY_MATH_CONCEPT_GRAPH_UI?.getState?.() || null,
+  })?.changed);
 }
 
 function refreshMiddle3LevelReport(reason = "state-update") {
@@ -2252,10 +2255,18 @@ function completeMiddle3Bootstrap() {
     structureSignature: engine.structureSignature(question),
     solutionPathSignature: engine.solutionPathSignature(question),
   }));
+  engine.attachCanonicalConceptEvidence?.(memory, results, {
+    testGradeBand: "M3",
+    selectedGrade: memory.selectedGrade,
+    timestamp: Date.now(),
+  });
   engine.applyBootstrapResults(memory, results);
   configureMiddle3ConceptDiagnostics(memory);
   engine.prioritizeConceptDiagnosticsFromBootstrap?.(memory, results);
   saveMiddle3LevelTestMemory("bootstrap-complete");
+  window.dispatchEvent(new CustomEvent("study:math-level-test-completed", {
+    detail: { results, testGradeBand: "M3", selectedGrade: memory.selectedGrade, timestamp: Date.now() },
+  }));
   queueLevelTestNotice({
     icon: "✓",
     title: "기본 진단이 완료되었습니다.",
@@ -3588,6 +3599,28 @@ function updateResultFromTest() {
       .map(([domain, stats]) => `${domain}: ${stats.masteryStage}`)
       .join(" · ");
   learningPath.textContent = path.join(" → ");
+  if (levelTestSubject === "수학") {
+    const conceptResults = activeQuestions.map((question, index) => ({
+      question,
+      problemId: question.problemId || question.id,
+      conceptId: question.conceptId,
+      concept: question.concept,
+      correct: Boolean(selectedAnswers[index]) && selectedAnswers[index] === question.answer,
+      result: isGiveUpAnswer(selectedAnswers[index]) ? "GIVEUP"
+        : Boolean(selectedAnswers[index]) && selectedAnswers[index] === question.answer ? "CORRECT" : "INCORRECT",
+      misconceptionTags: question.misconceptionTags || [],
+      structureSignature: question.structureSignature || `level-test:${question.id}:structure`,
+      solutionPathSignature: question.solutionPathSignature || `level-test:${question.id}:path`,
+      difficulty: question.level || question.difficulty || "BASIC",
+      submissionId: `level-test:${question.id}`,
+      finalSubmission: true,
+      timestamp: Date.now(),
+    }));
+    window.dispatchEvent(new CustomEvent("study:math-level-test-completed", {
+      detail: { results: conceptResults, selectedGrade: getSelectedGrade(), testGradeBand: getSelectedGrade(), timestamp: Date.now() },
+    }));
+    resultLevel.textContent = "개념 진단";
+  }
   renderWrongReview(wrongEntries);
   renderConceptMap(weakQuestion);
   window.STUDY_LEARNING_ENGINE?.recordPlacementResult({

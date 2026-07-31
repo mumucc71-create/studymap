@@ -6,12 +6,13 @@ const path = require("node:path");
 const root = path.resolve(__dirname, "..");
 const read = (file) => fs.readFileSync(path.join(root, file), "utf8");
 
-test("브라우저는 승인 모델→설명→런타임→UI 순서로 로드한다", () => {
+test("브라우저는 승인 모델→설명→공통 런타임→adapter→UI 순서로 로드한다", () => {
   const html = read("index.html");
   const files = [
     "math-learning-schema.js",
     "middle3-quadratic-learning-model.js",
     "middle3-quadratic-learning-content.js",
+    "math-spring-learning-runtime.js",
     "middle3-quadratic-learning-runtime.js",
     "middle3-quadratic-learning-ui.js",
     "learning.js",
@@ -20,6 +21,7 @@ test("브라우저는 승인 모델→설명→런타임→UI 순서로 로드�
   positions.forEach((position, index) => assert.ok(position >= 0, files[index]));
   assert.deepEqual([...positions].sort((a, b) => a - b), positions);
   assert.match(read("middle3-quadratic-learning-model.js"), /STUDY_MIDDLE3_QUADRATIC_LEARNING_MODEL = api/);
+  assert.match(read("math-spring-learning-runtime.js"), /STUDY_MATH_SPRING_LEARNING_RUNTIME = api/);
   assert.match(read("middle3-quadratic-learning-runtime.js"), /root\?\.STUDY_MIDDLE3_QUADRATIC_LEARNING_MODEL/);
   assert.match(read("middle3-quadratic-learning-ui.js"), /window\.STUDY_MIDDLE3_QUADRATIC_LEARNING_MODEL/);
 });
@@ -84,6 +86,7 @@ test("Firebase hydrate는 원격을 먼저 읽고 FAILED 동안 로컬을 원본
 test("학습 전용 연결은 다른 과목 모듈과 전역 CSS를 참조하지 않는다", () => {
   const combined = [
     read("middle3-quadratic-learning-content.js"),
+    read("math-spring-learning-runtime.js"),
     read("middle3-quadratic-learning-runtime.js"),
     read("middle3-quadratic-learning-ui.js"),
   ].join("\n");

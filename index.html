@@ -454,6 +454,7 @@
           </div>
           <img src="assets/study-subject-math.png" alt="수학 학습" />
         </section>
+        <section id="mathConceptGraphLearningStatus" class="adaptive-summary math-concept-graph-status" hidden aria-label="개념별 학습 안내"></section>
         <section class="learning-path-section math-roadmap-path">
           <div class="learning-section-heading">
             <h2 id="learningMapHeading">수학 학습 로드맵</h2>
@@ -985,6 +986,8 @@
           <article><span>개념 숙련도</span><strong id="masteryDomains">분수: 기초 이해</strong></article>
           <article><span>추천 학습 경로</span><strong id="learningPath">초6 비와 비율 → 비례식 → 문자식</strong></article>
         </section>
+
+        <section id="mathConceptGraphResult" class="adaptive-summary math-concept-graph-status" hidden aria-label="개념별 학습 안내"></section>
         <section class="review-card">
           <div class="panel-title"><h2>오답 리뷰</h2><span id="wrongReviewSummary">오답 0개</span></div>
           <ul id="wrongReviewList">
@@ -1349,18 +1352,53 @@
     <script src="question-generators.js?v=math-bank-audit-v2"></script>
     <script src="middle3-concept-diagnostics.js?v=middle3-detail-basic-v1"></script>
     <script src="middle3-stage-question-bank.js?v=middle3-stage-a1-a5-v2"></script>
+    <script src="math-learning-schema.js?v=math-learning-schema-v3"></script>
+    <script src="math-algebra-validator.js?v=math-algebra-validator-v1"></script>
+    <script src="middle3-quadratic-learning-model.js?v=m3-quadratic-learning-model-v3"></script>
+    <script src="middle3-quadratic-learning-content.js?v=m3-quadratic-learning-content-v2"></script>
+      <script src="middle3-sqrt-learning-model.js?v=m3-sqrt-learning-model-v1"></script>
+      <script src="middle3-sqrt-learning-content.js?v=m3-sqrt-learning-content-v1"></script>
+      <script src="middle3-factorization-learning-model.js?v=m3-factorization-learning-model-v1"></script>
+      <script src="middle3-factorization-learning-content.js?v=m3-factorization-learning-content-v1"></script>
+      <script src="middle3-quadratic-equation-learning-model.js?v=m3-quadratic-equation-learning-model-v1"></script>
+      <script src="middle3-quadratic-equation-learning-content.js?v=m3-quadratic-equation-learning-content-v1"></script>
+      <script src="middle3-trigonometric-ratio-learning-model.js?v=m3-trigonometric-ratio-learning-model-v1"></script>
+      <script src="middle3-trigonometric-ratio-learning-content.js?v=m3-trigonometric-ratio-learning-content-v1"></script>
+      <script src="middle3-circle-properties-learning-model.js?v=m3-circle-properties-learning-model-v1"></script>
+      <script src="middle3-circle-properties-learning-content.js?v=m3-circle-properties-learning-content-v1"></script>
+      <script src="middle3-statistics-learning-model.js?v=m3-statistics-learning-model-v1"></script>
+      <script src="middle3-statistics-learning-content.js?v=m3-statistics-learning-content-v1"></script>
+      <script src="math-spring-learning-runtime.js?v=math-spring-learning-runtime-v1"></script>
+      <script src="middle3-spring-unit-runtime-factory.js?v=m3-spring-unit-runtime-factory-v1"></script>
+      <script src="middle3-quadratic-learning-runtime.js?v=m3-quadratic-learning-runtime-v6"></script>
+      <script src="middle3-sqrt-learning-runtime.js?v=m3-sqrt-learning-runtime-v1"></script>
+      <script src="middle3-factorization-learning-runtime.js?v=m3-factorization-learning-runtime-v1"></script>
+      <script src="middle3-quadratic-equation-learning-runtime.js?v=m3-quadratic-equation-learning-runtime-v1"></script>
+      <script src="middle3-trigonometric-ratio-learning-runtime.js?v=m3-trigonometric-ratio-learning-runtime-v1"></script>
+      <script src="middle3-circle-properties-learning-runtime.js?v=m3-circle-properties-learning-runtime-v1"></script>
+      <script src="middle3-statistics-learning-runtime.js?v=m3-statistics-learning-runtime-v1"></script>
+      <script src="middle3-spring-unit-ui-factory.js?v=m3-spring-unit-ui-factory-v1"></script>
+      <script src="middle3-quadratic-learning-ui.js?v=m3-quadratic-learning-ui-v19"></script>
+      <script src="middle3-sqrt-learning-ui.js?v=m3-sqrt-learning-ui-v1"></script>
+      <script src="middle3-factorization-learning-ui.js?v=m3-factorization-learning-ui-v1"></script>
+      <script src="middle3-quadratic-equation-learning-ui.js?v=m3-quadratic-equation-learning-ui-v1"></script>
+      <script src="middle3-trigonometric-ratio-learning-ui.js?v=m3-trigonometric-ratio-learning-ui-v1"></script>
+      <script src="middle3-circle-properties-learning-ui.js?v=m3-circle-properties-learning-ui-v1"></script>
+      <script src="middle3-statistics-learning-ui.js?v=m3-statistics-learning-ui-v1"></script>
     <script src="learning-content.js?v=math-learning-flow-v3"></script>
     <script src="math-curriculum-data.js?v=math-node-templates-v3"></script>
     <script src="math-question-mapping.js?v=math-question-mapping-v2"></script>
     <script src="firebase-config.js?v=auth-firebase-v4-p0"></script>
-    <script src="math-learning-schema.js?v=math-learning-schema-v3"></script>
-    <script src="middle3-quadratic-learning-model.js?v=m3-quadratic-learning-model-v3"></script>
-    <script src="middle3-quadratic-learning-content.js?v=m3-quadratic-learning-content-v2"></script>
-    <script src="middle3-quadratic-learning-runtime.js?v=m3-quadratic-learning-runtime-v5"></script>
-    <script src="middle3-quadratic-learning-ui.js?v=m3-quadratic-learning-ui-v19"></script>
     <script src="cloud-auth.js?v=auth-firebase-v6-p0"></script>
+    <script src="math-concept-graph-data.js?v=math-concept-graph-v1"></script>
+    <script src="math-concept-alias-registry.js?v=math-concept-graph-v1"></script>
+    <script src="math-concept-graph-runtime-state.js?v=math-concept-graph-runtime-v1"></script>
+    <script src="math-concept-graph-runtime.js?v=math-concept-graph-runtime-v1"></script>
+    <script src="math-level-test-concept-mapper.js?v=math-concept-graph-integration-v1"></script>
+    <script src="math-concept-graph-storage.js?v=math-concept-graph-integration-v1"></script>
     <script src="level-test-engine.js?v=middle3-p0-stability-v2"></script>
     <script src="math-study-recommendations.js?v=middle3-detail-basic-v1"></script>
+    <script src="math-concept-graph-ui.js?v=math-concept-graph-integration-v1"></script>
     <script src="math-level-report.js?v=middle3-level-report-v1"></script>
     <script src="elite-problem-schema.js?v=middle3-elite-model-v2"></script>
     <script src="middle3-elite-math-model.js?v=middle3-elite-model-v2"></script>
@@ -1373,7 +1411,7 @@
     <script src="math-problem-metadata.js?v=middle3-p0-validation-v1"></script>
     <script src="script.js?v=middle3-p0-stability-v2"></script>
     <script src="auth-recovery.js?v=login-fallback-v3-password-reset"></script>
-  <script src="learning.js?v=middle3-quadratic-spring-v7"></script>
+  <script src="learning.js?v=middle3-sqrt-spring-v1"></script>
     <script src="social-system.js?v=all-subject-daily-progress-v4"></script>
     <script src="hanja-levels-data.js?v=hanja-levels-3500"></script>
 <script src="subject-learning-content.js?v=subject-content-v4-hanja-full-test"></script>

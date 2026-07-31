@@ -1,9 +1,9 @@
 (function () {
   "use strict";
 
-  const runtime = window.STUDY_M3_QUADRATIC_LEARNING_RUNTIME;
-  const model = window.STUDY_MIDDLE3_QUADRATIC_LEARNING_MODEL;
-  const content = window.STUDY_M3_QUADRATIC_LEARNING_CONTENT;
+  const runtime = window.STUDY_M3_SQRT_LEARNING_RUNTIME;
+  const model = window.STUDY_MIDDLE3_SQRT_LEARNING_MODEL;
+  const content = window.STUDY_M3_SQRT_LEARNING_CONTENT;
   if (!runtime || !model || !content) return;
 
   const statusLabels = {
@@ -28,41 +28,45 @@
   let remoteRevision = 0;
   let remoteUpdatedAt = null;
   let savePromise = Promise.resolve();
+  let actionPromise = Promise.resolve();
+  let userRestorePromise = null;
+  let pendingUserRestoreId = null;
+  let userRestoreGeneration = 0;
   let submissionInProgress = false;
   let active = false;
   let draftSaveTimer = null;
 
   const defaultActions = Object.freeze({
-    "quadratic-next-content": "next-concept",
-    "quadratic-previous-content": "previous-concept",
-    "quadratic-previous-problem": "previous-question",
-    "quadratic-hint": "show-hint",
-    "quadratic-reveal": "reveal-answer",
-    "quadratic-pause": "pause-to-map",
-    "quadratic-result-map": "result-to-map",
-    "quadratic-next-cycle": "next-stage",
-    "quadratic-submit": "submit-answer",
+    "sqrt-next-content": "next-concept",
+    "sqrt-previous-content": "previous-concept",
+    "sqrt-previous-problem": "previous-question",
+    "sqrt-hint": "show-hint",
+    "sqrt-reveal": "reveal-answer",
+    "sqrt-pause": "pause-to-map",
+    "sqrt-result-map": "result-to-map",
+    "sqrt-next-cycle": "next-stage",
+    "sqrt-submit": "submit-answer",
   });
-  const quadraticActionsByDefault = Object.freeze(Object.fromEntries(
-    Object.entries(defaultActions).map(([quadraticAction, defaultAction]) => [defaultAction, quadraticAction])
+  const sqrtActionsByDefault = Object.freeze(Object.fromEntries(
+    Object.entries(defaultActions).map(([sqrtAction, defaultAction]) => [defaultAction, sqrtAction])
   ));
 
-  function actionElement(defaultAction, quadraticAction) {
+  function actionElement(defaultAction, sqrtAction) {
     return document.querySelector(
-      `[data-learning-action="${defaultAction}"], [data-learning-action="${quadraticAction}"]`
+      `[data-learning-action="${defaultAction}"], [data-learning-action="${sqrtAction}"]`
     );
   }
 
-  function actionElements(defaultAction, quadraticAction) {
+  function actionElements(defaultAction, sqrtAction) {
     return document.querySelectorAll(
-      `[data-learning-action="${defaultAction}"], [data-learning-action="${quadraticAction}"]`
+      `[data-learning-action="${defaultAction}"], [data-learning-action="${sqrtAction}"]`
     );
   }
 
   function restoreDefaultActions() {
-    Object.entries(defaultActions).forEach(([quadraticAction, defaultAction]) => {
+    Object.entries(defaultActions).forEach(([sqrtAction, defaultAction]) => {
       document.querySelectorAll(
-        `[data-learning-action="${quadraticAction}"], [data-learning-action="${defaultAction}"]`
+        `[data-learning-action="${sqrtAction}"], [data-learning-action="${defaultAction}"]`
       ).forEach((element) => {
         element.dataset.learningAction = defaultAction;
         element.onclick = null;
@@ -70,7 +74,7 @@
     });
   }
 
-  function bindQuadraticAction(element, action) {
+  function bindSqrtAction(element, action) {
     if (!element) return;
     element.dataset.learningAction = action;
     element.onclick = (event) => {
@@ -80,22 +84,22 @@
     };
   }
 
-  function quadraticDomSurfaceActive() {
+  function sqrtDomSurfaceActive() {
     const lessonActive = document.querySelector('[data-screen="learning-lesson"]')?.classList.contains("active")
-      && document.getElementById("learningLessonUnit")?.textContent === "중3 수학 · 이차함수";
+      && document.getElementById("learningLessonUnit")?.textContent === "중3 수학 · 제곱근과 실수";
     const mapActive = document.querySelector('[data-screen="learning-map"]')?.classList.contains("active")
-      && document.getElementById("learningMapCourseTitle")?.textContent === "중3 수학 · 이차함수";
+      && document.getElementById("learningMapCourseTitle")?.textContent === "중3 수학 · 제곱근과 실수";
     const resultActive = document.querySelector('[data-screen="learning-stage-result"]')?.classList.contains("active")
-      && document.getElementById("learningResultStageTitle")?.textContent?.includes("이차함수 스프링 사이클");
+      && document.getElementById("learningResultStageTitle")?.textContent?.includes("제곱근과 실수 스프링 사이클");
     return Boolean(lessonActive || mapActive || resultActive);
   }
 
-  function quadraticSurfaceActive() {
-    return active || quadraticDomSurfaceActive();
+  function sqrtSurfaceActive() {
+    return active || sqrtDomSurfaceActive();
   }
 
   function deactivate(force = false) {
-    if (!force && quadraticDomSurfaceActive()) return false;
+    if (!force && sqrtDomSurfaceActive()) return false;
     active = false;
     restoreDefaultActions();
     if (force) localStorage.removeItem(surfaceMarkerKey());
@@ -122,11 +126,11 @@
   }
 
   function localStateKey(userId = currentUserId()) {
-    return `studyCoinMiddle3QuadraticLearningV1:${userId}`;
+    return `studyCoinMiddle3SqrtLearningV1:${userId}`;
   }
 
   function surfaceMarkerKey(userId = currentUserId()) {
-    return `studyCoinMiddle3QuadraticSurfaceV1:${userId}`;
+    return `studyCoinMiddle3SqrtSurfaceV1:${userId}`;
   }
 
   function readLocal(userId) {
@@ -178,14 +182,14 @@
       hydrationStatus = "READY";
       writeLocal(state);
       if (resolved.conflict === "remoteWins") {
-        window.dispatchEvent(new CustomEvent("study:m3-quadratic-remote-wins", {
+        window.dispatchEvent(new CustomEvent("study:m3-sqrt-remote-wins", {
           detail: runtime.describeState(state),
         }));
       }
       return true;
     } catch (error) {
       hydrationStatus = "FAILED";
-      console.error("[m3-quadratic-learning] hydrate failed", error);
+      console.error("[m3-sqrt-learning] hydrate failed", error);
       return false;
     }
   }
@@ -205,13 +209,13 @@
       remoteRevision = remoteStateRevision;
       remoteUpdatedAt = state.updatedAt || null;
       writeLocal(state);
-      window.dispatchEvent(new CustomEvent("study:m3-quadratic-remote-wins", {
+      window.dispatchEvent(new CustomEvent("study:m3-sqrt-remote-wins", {
         detail: runtime.describeState(state),
       }));
       return false;
     }
     const saved = await cloud.saveUserState(runtime.CLOUD_STATE_KEY, runtime.serializeState(state));
-    if (!saved) throw new Error("M3_QUADRATIC_CLOUD_SAVE_FAILED");
+    if (!saved) throw new Error("M3_SQRT_CLOUD_SAVE_FAILED");
     remoteRevision = nextRevision;
     remoteUpdatedAt = state.updatedAt || null;
     return true;
@@ -224,7 +228,7 @@
       .catch(() => false)
       .then(() => saveCloud())
       .catch((error) => {
-        console.error("[m3-quadratic-learning] save failed", error);
+        console.error("[m3-sqrt-learning] save failed", error);
         return false;
       });
     return savePromise;
@@ -282,13 +286,14 @@
       )).length, 0);
     const verifiedCount = Object.values(state.masteryDepthByConcept)
       .reduce((sum, mastery) => sum + runtime.STAGES.filter((stage) => mastery.stageStatus[stage] === "VERIFIED").length, 0);
-    const percent = Math.round(((completedCount + verifiedCount) / 72) * 100);
+    const stageTotal = runtime.CONCEPT_IDS.length * runtime.STAGES.length * 2;
+    const percent = Math.round(((completedCount + verifiedCount) / stageTotal) * 100);
     const summaryLabel = document.querySelector(".math-roadmap-summary > div > span");
     if (summaryLabel) summaryLabel.textContent = "현재 학습";
-    setText("learningMapCourseTitle", "중3 수학 · 이차함수");
-    setText("learningMapHeading", "이차함수 학습지도");
+    setText("learningMapCourseTitle", "중3 수학 · 제곱근과 실수");
+    setText("learningMapHeading", "제곱근과 실수 학습지도");
     setText("learningMapStatus", current
-      ? `${content.CONTENT[current.conceptId]?.[current.stage]?.conceptTitle || "이차함수"} · ${current.stage} · ${purposeLabels[current.purpose]}`
+      ? `${content.CONTENT[current.conceptId]?.[current.stage]?.conceptTitle || "제곱근과 실수"} · ${current.stage} · ${purposeLabels[current.purpose]}`
       : "추천 학습을 시작해 보세요.");
     setText("learningMapProgress", `${percent}%`);
     const bar = document.getElementById("learningMapProgressBar");
@@ -300,18 +305,18 @@
       startButton.textContent = ["ACTIVE", "PAUSED"].includes(state.cycleStatus)
         ? "추천 학습 계속하기"
         : "추천 학습 시작";
-      bindQuadraticAction(startButton, "quadratic-start-recommended");
+      bindSqrtAction(startButton, "sqrt-start-recommended");
     }
     map.className = "math-large-number-study";
     map.innerHTML = runtime.getStageMap(state).map((concept) => `
       <article class="math-large-number-card">
-        <span>${concept.order}. 중3 이차함수</span>
+        <span>${concept.order}. 중3 제곱근과 실수</span>
         <h2>${escapeHtml(concept.title)}</h2>
         <div class="learning-answer-area">
           ${concept.stages.map((stage) => {
             const displayStatus = stageDisplayStatus(concept.conceptId, stage.stage);
             const viewed = stage.viewed && !stage.completed ? " · 열어봄" : "";
-            return `<button type="button" class="learning-choice ${displayStatus === "IN_PROGRESS" ? "is-selected" : displayStatus === "VERIFIED" ? "is-correct" : ""}" data-learning-action="quadratic-open-stage" data-concept-id="${escapeHtml(concept.conceptId)}" data-stage="${stage.stage}">
+            return `<button type="button" class="learning-choice ${displayStatus === "IN_PROGRESS" ? "is-selected" : displayStatus === "VERIFIED" ? "is-correct" : ""}" data-learning-action="sqrt-open-stage" data-concept-id="${escapeHtml(concept.conceptId)}" data-stage="${stage.stage}">
               <i>${stage.stage}</i><span>${statusLabels[displayStatus]}${viewed}</span>
             </button>`;
           }).join("")}
@@ -336,7 +341,7 @@
     const locked = attempt?.attemptStatus === "FINAL";
     if (problem.answerType === "MULTIPLE_CHOICE") {
       area.innerHTML = problem.choices.map((choice, index) => `
-        <button class="learning-choice ${draft === choice ? "is-selected" : ""}" type="button" data-learning-action="quadratic-select-choice" data-answer="${escapeHtml(choice)}" ${locked ? "disabled" : ""}>
+        <button class="learning-choice ${draft === choice ? "is-selected" : ""}" type="button" data-learning-action="sqrt-select-choice" data-answer="${escapeHtml(choice)}" ${locked ? "disabled" : ""}>
           <i>${index + 1}</i><span>${escapeHtml(choice)}</span>
         </button>
       `).join("");
@@ -347,18 +352,18 @@
       const available = deterministicSteps(problem).filter((step) => !selected.includes(step));
       area.innerHTML = `
         <div>
-          ${selected.map((step, index) => `<button class="learning-choice is-selected" type="button" data-learning-action="quadratic-remove-step" data-step="${escapeHtml(step)}" ${locked ? "disabled" : ""}><i>${index + 1}</i><span>${escapeHtml(step)}</span></button>`).join("")}
+          ${selected.map((step, index) => `<button class="learning-choice is-selected" type="button" data-learning-action="sqrt-remove-step" data-step="${escapeHtml(step)}" ${locked ? "disabled" : ""}><i>${index + 1}</i><span>${escapeHtml(step)}</span></button>`).join("")}
         </div>
         <div>
-          ${available.map((step) => `<button class="learning-choice" type="button" data-learning-action="quadratic-add-step" data-step="${escapeHtml(step)}" ${locked ? "disabled" : ""}><i>+</i><span>${escapeHtml(step)}</span></button>`).join("")}
+          ${available.map((step) => `<button class="learning-choice" type="button" data-learning-action="sqrt-add-step" data-step="${escapeHtml(step)}" ${locked ? "disabled" : ""}><i>+</i><span>${escapeHtml(step)}</span></button>`).join("")}
         </div>`;
       return;
     }
     if (problem.answerType === "WRITTEN_RESPONSE") {
-      area.innerHTML = `<textarea class="learning-text-answer" id="quadraticLearningAnswer" rows="7" placeholder="주장, 관계식, 계산, 결론을 순서대로 작성하세요." ${locked ? "disabled" : ""}>${escapeHtml(draft || "")}</textarea>`;
+      area.innerHTML = `<textarea class="learning-text-answer" id="sqrtLearningAnswer" rows="7" placeholder="주장, 관계식, 계산, 결론을 순서대로 작성하세요." ${locked ? "disabled" : ""}>${escapeHtml(draft || "")}</textarea>`;
       return;
     }
-    area.innerHTML = `<input class="learning-text-answer" id="quadraticLearningAnswer" type="text" inputmode="text" autocomplete="off" placeholder="${problem.answerType === "EXPRESSION_INPUT" ? "동치인 수식도 정답으로 인정됩니다." : "정답을 입력하세요."}" value="${escapeHtml(draft || "")}" ${locked ? "disabled" : ""} />`;
+    area.innerHTML = `<input class="learning-text-answer" id="sqrtLearningAnswer" type="text" inputmode="text" autocomplete="off" placeholder="${problem.answerType === "EXPRESSION_INPUT" ? "동치인 수식도 정답으로 인정됩니다." : "정답을 입력하세요."}" value="${escapeHtml(draft || "")}" ${locked ? "disabled" : ""} />`;
   }
 
   function renderFeedback(problem) {
@@ -387,14 +392,14 @@
     setText("learningConceptBody", slide.body);
     setText("learningConceptFormula", slide.formula);
     setText("learningConceptExample", slide.example);
-    const next = actionElement("next-concept", "quadratic-next-content");
-    const previous = actionElement("previous-concept", "quadratic-previous-content");
+    const next = actionElement("next-concept", "sqrt-next-content");
+    const previous = actionElement("previous-concept", "sqrt-previous-content");
     if (next) {
-      bindQuadraticAction(next, "quadratic-next-content");
+      bindSqrtAction(next, "sqrt-next-content");
       next.textContent = index === slides.length - 1 ? "문제 풀기" : "다음";
     }
     if (previous) {
-      bindQuadraticAction(previous, "quadratic-previous-content");
+      bindSqrtAction(previous, "sqrt-previous-content");
       previous.disabled = index === 0;
     }
     const progress = ((state.currentProblemIndex + ((index + 1) / slides.length)) / Math.max(1, state.cycleItems.length)) * 100;
@@ -424,23 +429,28 @@
     renderFeedback(problem);
     const submit = document.getElementById("learningSubmitButton");
     if (submit) {
-      bindQuadraticAction(submit, "quadratic-submit");
+      bindSqrtAction(submit, "sqrt-submit");
       submit.disabled = hydrationStatus !== "READY" || submissionInProgress;
       submit.textContent = attempt?.attemptStatus === "FINAL"
         ? state.currentProblemIndex === state.cycleItems.length - 1 ? "결과 보기" : "다음 문제"
         : "정답 확인";
     }
-    const previous = actionElement("previous-question", "quadratic-previous-problem");
+    const previous = actionElement("previous-question", "sqrt-previous-problem");
     if (previous) {
-      bindQuadraticAction(previous, "quadratic-previous-problem");
+      bindSqrtAction(previous, "sqrt-previous-problem");
       previous.disabled = state.currentProblemIndex === 0;
     }
-    const hint = actionElement("show-hint", "quadratic-hint");
-    bindQuadraticAction(hint, "quadratic-hint");
-    const reveal = actionElement("reveal-answer", "quadratic-reveal");
-    bindQuadraticAction(reveal, "quadratic-reveal");
-    const pauseButtons = actionElements("pause-to-map", "quadratic-pause");
-    pauseButtons.forEach((button) => { bindQuadraticAction(button, "quadratic-pause"); });
+    const hint = actionElement("show-hint", "sqrt-hint");
+    bindSqrtAction(hint, "sqrt-hint");
+    if (hint) hint.disabled = item.purpose === runtime.PURPOSES.INDEPENDENT_CHECK;
+    const reveal = actionElement("reveal-answer", "sqrt-reveal");
+    bindSqrtAction(reveal, "sqrt-reveal");
+    if (reveal) {
+      reveal.disabled = item.purpose === runtime.PURPOSES.INDEPENDENT_CHECK
+        && attempt?.attemptStatus !== "FINAL";
+    }
+    const pauseButtons = actionElements("pause-to-map", "sqrt-pause");
+    pauseButtons.forEach((button) => { bindSqrtAction(button, "sqrt-pause"); });
     const conceptReturn = document.getElementById("learningConceptReturn");
     if (conceptReturn) conceptReturn.hidden = true;
   }
@@ -449,7 +459,7 @@
     if (!state || !runtime.currentItem(state)) return renderCycleResult();
     const item = runtime.currentItem(state);
     const problem = runtime.currentProblem(state);
-    setText("learningLessonUnit", "중3 수학 · 이차함수");
+    setText("learningLessonUnit", "중3 수학 · 제곱근과 실수");
     setText("learningLessonTitle", `${problem.conceptTitle} · ${item.stage}`);
     if (runtime.shouldShowContent(state)) renderContent();
     else renderQuestion();
@@ -465,7 +475,7 @@
     const correct = cycleItems.filter((problem) => runtime.getFinalizedAttempt(state, problem.problemId)?.result?.status === "CORRECT").length;
     const total = cycleItems.length;
     const accuracy = total ? Math.round((correct / total) * 100) : 0;
-    setText("learningResultStageTitle", `이차함수 스프링 사이클 ${history?.number || state.activeCycleNumber}`);
+    setText("learningResultStageTitle", `제곱근과 실수 스프링 사이클 ${history?.number || state.activeCycleNumber}`);
     setText("learningResultBadge", "✓");
     setText("learningResultTitle", "이번 학습 사이클을 마쳤어요!");
     setText("learningResultMessage", `${state.pendingIndependentChecks.length}개 단계가 독립 확인을 기다리고 있어요.`);
@@ -487,12 +497,12 @@
       next.hidden = false;
       next.disabled = false;
       next.textContent = "다음 사이클";
-      bindQuadraticAction(next, "quadratic-next-cycle");
+      bindSqrtAction(next, "sqrt-next-cycle");
     }
     const retry = document.getElementById("learningRetryButton");
     if (retry) retry.disabled = true;
-    const mapButtons = actionElements("result-to-map", "quadratic-result-map");
-    mapButtons.forEach((button) => { bindQuadraticAction(button, "quadratic-result-map"); });
+    const mapButtons = actionElements("result-to-map", "sqrt-result-map");
+    mapButtons.forEach((button) => { bindSqrtAction(button, "sqrt-result-map"); });
     showScreen("learning-stage-result");
   }
 
@@ -500,7 +510,7 @@
     if (problem.answerType === "MULTIPLE_CHOICE" || problem.answerType === "STEP_ORDER") {
       return runtime.getDraftAnswer(state, problem.problemId);
     }
-    return document.getElementById("quadraticLearningAnswer")?.value || runtime.getDraftAnswer(state, problem.problemId) || "";
+    return document.getElementById("sqrtLearningAnswer")?.value || runtime.getDraftAnswer(state, problem.problemId) || "";
   }
 
   async function applyState(nextState, render = true) {
@@ -631,30 +641,30 @@
 
   async function handleAction(target) {
     const requestedAction = target?.dataset?.learningAction;
-    const action = requestedAction?.startsWith("quadratic-")
+    const action = requestedAction?.startsWith("sqrt-")
       ? requestedAction
-      : quadraticActionsByDefault[requestedAction];
-    if (!action?.startsWith("quadratic-")) return false;
-    if (quadraticDomSurfaceActive()) {
+      : sqrtActionsByDefault[requestedAction];
+    if (!action?.startsWith("sqrt-")) return false;
+    if (sqrtDomSurfaceActive()) {
       active = true;
       localStorage.setItem(surfaceMarkerKey(), "1");
     }
-    if (!state && quadraticDomSurfaceActive() && !await hydrate()) return false;
-    if (action === "quadratic-start-recommended") await startRecommended();
-    else if (action === "quadratic-open-stage") await startDirect(target.dataset.conceptId, target.dataset.stage);
-    else if (action === "quadratic-select-choice") {
+    if (!state && sqrtDomSurfaceActive() && !await hydrate()) return false;
+    if (action === "sqrt-start-recommended") await startRecommended();
+    else if (action === "sqrt-open-stage") await startDirect(target.dataset.conceptId, target.dataset.stage);
+    else if (action === "sqrt-select-choice") {
       const problem = runtime.currentProblem(state);
       state = runtime.setDraftAnswer(state, problem.problemId, target.dataset.answer);
       await applyState(state, false);
       renderQuestion();
-    } else if (action === "quadratic-add-step") {
+    } else if (action === "sqrt-add-step") {
       const problem = runtime.currentProblem(state);
       const savedDraft = runtime.getDraftAnswer(state, problem.problemId);
       const draft = Array.isArray(savedDraft) ? savedDraft : [];
       state = runtime.setDraftAnswer(state, problem.problemId, [...draft, target.dataset.step]);
       await applyState(state, false);
       renderQuestion();
-    } else if (action === "quadratic-remove-step") {
+    } else if (action === "sqrt-remove-step") {
       const problem = runtime.currentProblem(state);
       const savedDraft = runtime.getDraftAnswer(state, problem.problemId);
       const draft = Array.isArray(savedDraft) ? savedDraft : [];
@@ -663,7 +673,7 @@
       state = runtime.setDraftAnswer(state, problem.problemId, draft);
       await applyState(state, false);
       renderQuestion();
-    } else if (action === "quadratic-next-content") {
+    } else if (action === "sqrt-next-content") {
       const item = runtime.currentItem(state);
       const slides = runtime.contentSlides(item.conceptId, item.stage);
       if (state.currentContentSlideIndex < slides.length - 1) {
@@ -675,16 +685,16 @@
       await applyState(state, false);
       if (runtime.shouldShowContent(state)) renderContent();
       else renderQuestion();
-    } else if (action === "quadratic-previous-content") {
+    } else if (action === "sqrt-previous-content") {
       state.currentContentSlideIndex = Math.max(0, Number(state.currentContentSlideIndex) - 1);
       await applyState(state, false);
       renderContent();
-    } else if (action === "quadratic-submit") await submit();
-    else if (action === "quadratic-hint") {
+    } else if (action === "sqrt-submit") await submit();
+    else if (action === "sqrt-hint") {
       const hinted = runtime.useHint(state);
       await applyState(hinted.state, false);
       renderQuestion();
-    } else if (action === "quadratic-reveal") {
+    } else if (action === "sqrt-reveal") {
       const revealed = runtime.revealSolution(state);
       if (!revealed.revealed) {
         const problem = runtime.currentProblem(state);
@@ -699,12 +709,12 @@
       await applyState(revealed.state, false);
       dispatchGraphFinal(problem, revealed, "GIVEUP");
       renderQuestion();
-    } else if (action === "quadratic-previous-problem") {
+    } else if (action === "sqrt-previous-problem") {
       state = runtime.previous(state);
       await applyState(state, false);
       renderLesson();
-    } else if (action === "quadratic-pause") {
-      const input = document.getElementById("quadraticLearningAnswer");
+    } else if (action === "sqrt-pause") {
+      const input = document.getElementById("sqrtLearningAnswer");
       const problem = runtime.currentProblem(state);
       if (input && problem && !runtime.getFinalizedAttempt(state, problem.problemId)) {
         state = runtime.setDraftAnswer(state, problem.problemId, input.value);
@@ -713,10 +723,10 @@
       await applyState(state, false);
       renderMap();
       showScreen("learning-map");
-    } else if (action === "quadratic-result-map") {
+    } else if (action === "sqrt-result-map") {
       renderMap();
       showScreen("learning-map");
-    } else if (action === "quadratic-next-cycle") {
+    } else if (action === "sqrt-next-cycle") {
       state = runtime.startCycle(state, { resume: false });
       await applyState(state, false);
       renderLesson();
@@ -732,15 +742,21 @@
     const requestedAction = target?.dataset?.learningAction;
     if (
       !target
-      || !quadraticSurfaceActive()
+      || !sqrtSurfaceActive()
       || (
-        !String(requestedAction || "").startsWith("quadratic-")
-        && !quadraticActionsByDefault[requestedAction]
+        !String(requestedAction || "").startsWith("sqrt-")
+        && !sqrtActionsByDefault[requestedAction]
       )
     ) return;
     event.preventDefault();
     event.stopImmediatePropagation();
-    handleAction(target);
+    actionPromise = actionPromise
+      .catch(() => false)
+      .then(() => handleAction(target))
+      .catch((error) => {
+        console.error("[m3-sqrt-learning] action failed", error);
+        return false;
+      });
   }, true);
   async function restoreSavedSurface() {
     const savedScreen = localStorage.getItem("studyCoinCurrentScreen");
@@ -770,7 +786,7 @@
     restoreSavedSurface();
   }
   document.addEventListener("input", async (event) => {
-    if (!quadraticSurfaceActive() || event.target?.id !== "quadraticLearningAnswer") return;
+    if (!sqrtSurfaceActive() || event.target?.id !== "sqrtLearningAnswer") return;
     active = true;
     localStorage.setItem(surfaceMarkerKey(), "1");
     if (!state && !await hydrate()) return;
@@ -783,25 +799,73 @@
       persist();
     }, 500);
   });
-  window.addEventListener("study:user-changed", () => {
+  function resetUserHydrationState() {
     deactivate(true);
     state = null;
     hydrationStatus = "IDLE";
     hydratedUserId = null;
     remoteRevision = 0;
     remoteUpdatedAt = null;
+  }
+
+  function restoreSignedInUser(userId) {
+    if (
+      !userId
+      || (pendingUserRestoreId === userId && userRestorePromise)
+      || (hydratedUserId === userId && hydrationStatus === "READY" && state)
+    ) return userRestorePromise || Promise.resolve(false);
+
+    const generation = ++userRestoreGeneration;
+    pendingUserRestoreId = userId;
+    userRestorePromise = Promise.resolve()
+      .then(async () => {
+        if (
+          generation !== userRestoreGeneration
+          || currentUserId() !== userId
+          || window.STUDY_LEARNING_ENGINE?.getState?.().mapView !== "middle3-sqrt"
+        ) return false;
+        return openMap({ restoreSavedScreen: true });
+      })
+      .catch((error) => {
+        console.error("[m3-sqrt-learning] user restore failed", error);
+        return false;
+      })
+      .finally(() => {
+        if (pendingUserRestoreId === userId) {
+          pendingUserRestoreId = null;
+          userRestorePromise = null;
+        }
+      });
+    return userRestorePromise;
+  }
+
+  window.addEventListener("study:user-changed", (event) => {
+    const userId = String(event.detail?.userId || "").trim();
+    if (!userId) {
+      userRestoreGeneration += 1;
+      pendingUserRestoreId = null;
+      userRestorePromise = null;
+      resetUserHydrationState();
+      return;
+    }
+    if (
+      (pendingUserRestoreId === userId && userRestorePromise)
+      || (hydratedUserId === userId && hydrationStatus === "READY" && state)
+    ) return;
+    resetUserHydrationState();
+    restoreSignedInUser(userId);
   });
-  window.addEventListener("study:m3-quadratic-remote-wins", () => {
+  window.addEventListener("study:m3-sqrt-remote-wins", () => {
     if (document.querySelector('[data-screen="learning-lesson"]')?.classList.contains("active")) renderLesson();
     else if (document.querySelector('[data-screen="learning-map"]')?.classList.contains("active")) renderMap();
   });
 
-  window.STUDY_M3_QUADRATIC_LEARNING_UI = {
+  window.STUDY_M3_SQRT_LEARNING_UI = {
     isMiddle3Grade,
-    isActive: quadraticSurfaceActive,
+    isActive: sqrtSurfaceActive,
     handlesAction: (action) => Boolean(
-      String(action || "").startsWith("quadratic-")
-      || quadraticActionsByDefault[action]
+      String(action || "").startsWith("sqrt-")
+      || sqrtActionsByDefault[action]
     ),
     isConceptId: (conceptId) => runtime.CONCEPT_IDS.includes(conceptId),
     deactivate,
