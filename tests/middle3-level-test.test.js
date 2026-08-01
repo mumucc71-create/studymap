@@ -46,13 +46,14 @@ test("middle-school grade 3 bank covers all eight units with basic questions", (
   });
 });
 
-test("math placement bootstraps with 16 middle3 basics and continues in cycles", () => {
+test("math placement bootstraps with 32 canonical middle3 questions and continues in cycles", () => {
   assert.match(script, /middle3BasicTestMode = "middle3-bootstrap"/);
   assert.match(script, /middle3CycleTestMode = "middle3-continuous-cycle"/);
-  assert.match(script, /middle3BasicQuestionsPerUnit = 2/);
+  assert.match(script, /middle3BasicQuestionsPerUnit = 4/);
   assert.match(script, /function buildMiddle3BasicQuestionPool\(/);
-  assert.match(script, /question\.adaptiveLevel <= 2/);
-  assert.match(script, /createAdaptiveState\("중등 3학년", middle3BasicUnitOrder\)/);
+  assert.match(script, /buildGradeTestSession\(\{ selectedGrade: "M3" \}\)/);
+  assert.match(script, /routed\.questions\?\.length === 32/);
+  assert.match(script, /createAdaptiveState\(selectedGrade, middle3BasicUnitOrder\)/);
   assert.match(script, /if \(isMiddle3BasicLevelTest\(\)\) \{/);
   assert.match(script, /engine\?\.validateProblem\(question, \{/);
   assert.match(script, /strictMathValidation: true/);
@@ -80,7 +81,7 @@ test("continuous math UI uses give-up and loads the cycle engine before the app"
 });
 
 test("re-entering the math test resumes saved progress before resetting", () => {
-  const startFunction = script.match(/async function startSubjectLevelTest\(subjectName\) \{[\s\S]*?\n\}/)?.[0] || "";
+  const startFunction = script.match(/async function startSubjectLevelTest\(subjectName(?:, mathMode = "adaptive")?\) \{[\s\S]*?\n\}/)?.[0] || "";
   const savedCheck = startFunction.indexOf("const saved = getSavedLevelTest()");
   const resetCall = startFunction.indexOf("resetLevelTest()");
   assert.ok(savedCheck >= 0, "수학 시작 전에 저장 기록을 확인해야 합니다.");

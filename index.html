@@ -118,13 +118,10 @@
         </section>
         <section class="setup-block level-test-subject-block">
           <h2>진단할 과목</h2>
-          <p>레벨테스트는 한 과목씩 정확하게 진단해요.</p>
+          <p>레벨테스트는 수학과 영어를 한 과목씩 정확하게 진단해요.</p>
           <div class="subject-list" id="levelTestSubjectPicker">
             <button class="selected" type="button" data-level-test-subject="수학">수학</button>
             <button type="button" data-level-test-subject="영어">영어</button>
-            <button type="button" data-level-test-subject="독서">독서</button>
-            <button type="button" data-level-test-subject="과학">과학</button>
-            <button type="button" data-level-test-subject="한자">한자</button>
           </div>
         </section>
         <button class="primary bottom-action" id="setupLevelStart" type="button">레벨테스트 시작</button>
@@ -1331,11 +1328,9 @@
           <h2 id="testSubjectModalTitle">테스트할 과목을 골라주세요</h2>
           <p>선택한 과목의 문제로 테스트를 시작해요.</p>
           <div class="test-subject-options">
-            <button type="button" data-test-subject="수학">수학</button>
+            <button type="button" data-test-subject="수학" data-math-test-mode="adaptive">맞춤형 수학 진단</button>
+            <button type="button" data-test-subject="수학" data-math-test-mode="grade">학년별 범위 진단</button>
             <button type="button" data-test-subject="영어">영어</button>
-            <button type="button" data-test-subject="독서">독서</button>
-            <button type="button" data-test-subject="과학">과학</button>
-            <button type="button" data-test-subject="한자">한자</button>
           </div>
         </div>
       </section>
@@ -1394,7 +1389,18 @@
     <script src="math-concept-alias-registry.js?v=math-concept-graph-v1"></script>
     <script src="math-concept-graph-runtime-state.js?v=math-concept-graph-runtime-v1"></script>
     <script src="math-concept-graph-runtime.js?v=math-concept-graph-runtime-v1"></script>
+    <script src="math-adaptive-level-test-state.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-grade-gates.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-question-selector.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-runtime.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-result.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-storage.js?v=math-adaptive-level-test-integration-v1"></script>
+    <script src="math-adaptive-level-test-ui.js?v=math-adaptive-level-test-integration-v1"></script>
     <script src="math-level-test-concept-mapper.js?v=math-concept-graph-integration-v1"></script>
+    <script src="math-level-test-question-model.js?v=math-level-test-routing-v1"></script>
+    <script src="math-level-test-highschool-banks.js?v=math-level-test-routing-v1"></script>
+    <script src="math-level-test-grade-banks.js?v=math-level-test-routing-v1"></script>
+    <script src="math-level-test-quality-validator.js?v=math-level-test-routing-v1"></script>
     <script src="math-concept-graph-storage.js?v=math-concept-graph-integration-v1"></script>
     <script src="level-test-engine.js?v=middle3-p0-stability-v2"></script>
     <script src="math-study-recommendations.js?v=middle3-detail-basic-v1"></script>

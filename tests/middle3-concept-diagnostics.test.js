@@ -161,13 +161,15 @@ test("detailed concepts reuse existing World routes and diagnosis priority feeds
   assert.equal(cards[0].worldId, "geometry-measurement");
 });
 
-test("the app keeps the 16-question bootstrap and then enters detailed diagnosis", () => {
+test("the app uses the 32-question canonical bootstrap and then enters detailed diagnosis", () => {
   const html = fs.readFileSync(path.join(root, "index.html"), "utf8");
   const script = fs.readFileSync(path.join(root, "script.js"), "utf8");
   const diagnosticIndex = html.indexOf('src="middle3-concept-diagnostics.js');
   const engineIndex = html.indexOf('src="level-test-engine.js');
 
-  assert.match(script, /middle3BasicQuestionsPerUnit = 2/);
+  assert.match(script, /middle3BasicQuestionsPerUnit = 4/);
+  assert.match(script, /buildGradeTestSession\(\{ selectedGrade: "M3" \}\)/);
+  assert.match(script, /routed\.questions\?\.length === 32/);
   assert.match(script, /function buildMiddle3DetailedQuestionPool\(/);
   assert.match(script, /configureMiddle3ConceptDiagnostics\(memory\)/);
   assert.match(script, /prioritizeConceptDiagnosticsFromBootstrap\?\.\(memory, results\)/);

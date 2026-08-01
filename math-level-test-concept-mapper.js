@@ -34,6 +34,9 @@
   const unique = (values) => [...new Set(values.filter(Boolean))];
   const normalizedText = (value) => String(value || "").trim();
   const GRADE_BAND_BY_LABEL = Object.freeze({
+    "초4": "G4", "초5": "G5", "초6": "G6",
+    "중1": "M1", "중2": "M2", "중3": "M3",
+    "고1": "H1", "고2": "H2", "고3": "H3",
     "초등 4학년": "G4", "초등 5학년": "G5", "초등 6학년": "G6",
     "중등 1학년": "M1", "중등 2학년": "M2", "중등 3학년": "M3",
     "고등 1학년": "H1", "고등 2학년": "H2", "고등 3학년": "H3",
@@ -101,7 +104,9 @@
   }
 
   function evidenceKey(item) {
-    return item.submissionId || [item.problemId, item.canonicalConceptId || item.unitAliasId || item.conceptId, item.structureSignature].join("|");
+    const scope = item.canonicalConceptId || item.unitAliasId || item.conceptId || "UNKNOWN";
+    return item.structureSignature ? [scope, item.structureSignature].join("|")
+      : item.submissionId || [scope, item.problemId].join("|");
   }
 
   function mergeLevelTestEvidence(existing = [], incoming = []) {
@@ -173,18 +178,22 @@
     });
     const blockedCandidates = [];
     let activeConceptId = candidates.find((item) => autoAvailable(graph.conceptById[item.conceptId]))?.conceptId || null;
+    let recommendedConceptId = null;
     if (!activeConceptId && candidates.length) {
       blockedCandidates.push(...candidates.map((item) => item.conceptId));
-      activeConceptId = closestAvailableConcept(candidates.map((item) => item.conceptId));
+      recommendedConceptId = closestAvailableConcept(candidates.map((item) => item.conceptId));
+      const selectedBand = normalizeGradeBand(options.selectedGrade);
+      if (["G4", "G5", "G6", "M1", "M2"].includes(selectedBand)
+        && graph.conceptById[recommendedConceptId]?.internalGradeBand === "M3") recommendedConceptId = null;
     }
-    if (!activeConceptId) activeConceptId = "m3_sqrt_meaning";
     const active = graph.conceptById[activeConceptId];
     const weakest = candidates.filter((item) => item.incorrectCount > 0).sort((a, b) => a.accuracy - b.accuracy)[0];
     const reviewConceptId = weakest?.conceptId || active?.prerequisiteConceptIds.find((id) => autoAvailable(graph.conceptById[id])) || null;
     const foundationConceptId = reviewConceptId ? graph.conceptById[reviewConceptId]?.remedialConceptIds.find((id) => autoAvailable(graph.conceptById[id])) || null : null;
     const nextConceptId = active?.nextConceptIds.find((id) => autoAvailable(graph.conceptById[id])) || null;
     return Object.freeze({
-      activeConceptId, reviewConceptId, foundationConceptId, nextConceptId,
+      activeConceptId, reviewConceptId, foundationConceptId, nextConceptId, recommendedConceptId,
+      status: activeConceptId ? "READY" : blockedCandidates.length ? "BLOCKED_NO_CONTENT" : "NO_CANONICAL_EVIDENCE",
       blockedCandidates: Object.freeze(unique(blockedCandidates)), selectedGrade: options.selectedGrade || null,
     });
   }
