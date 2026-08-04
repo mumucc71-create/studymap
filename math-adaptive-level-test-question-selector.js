@@ -8,6 +8,7 @@
 })(typeof window !== "undefined" ? window : globalThis, function (gates) {
   "use strict";
   if (!gates) throw new Error("MATH_ADAPTIVE_SELECTOR_GATE_MISSING");
+  const TERMINAL_DOMAIN_STATUSES = new Set(["PASSED", "FAILED", "BLOCKED_NO_CONTENT"]);
 
   function createQuestionCatalog(input = {}) {
     const sessions = input.sessions || input;
@@ -26,7 +27,7 @@
 
   function unresolvedDomain(state) {
     const statuses = state.domainStatusByGrade[state.currentGradeGate] || {};
-    return gates.getGateDomains(state.currentGradeGate).find((domain) => !["PASSED", "FAILED"].includes(statuses[domain.domainId])) || null;
+    return gates.getGateDomains(state.currentGradeGate).find((domain) => !TERMINAL_DOMAIN_STATUSES.has(statuses[domain.domainId])) || null;
   }
 
   function selectFromCandidates(state, candidates, purpose) {

@@ -17,6 +17,16 @@
   const CURRENT_SCREEN_KEY = "studyCoinCurrentScreen";
   const LAST_SUBJECT_KEY = "studyEliteLastSubjectV1";
   const RESUME_REQUESTED_KEY = "studyEliteResumeRequestedV1";
+  const UI_STATES = Object.freeze({
+    AUTH_CHECKING: "AUTH_CHECKING",
+    AUTHENTICATED: "AUTHENTICATED",
+    ANONYMOUS_AUTHENTICATED: "ANONYMOUS_AUTHENTICATED",
+    UNAUTHENTICATED: "UNAUTHENTICATED",
+    AUTH_ERROR: "AUTH_ERROR",
+    ELITE_CONTENT_ERROR: "ELITE_CONTENT_ERROR",
+    ELITE_STORAGE_ERROR: "ELITE_STORAGE_ERROR",
+    READY: "READY",
+  });
   let mountedApi = null;
 
   function escapeHtml(value) {
@@ -76,7 +86,13 @@
       restart: root.document.querySelector("#eliteRestart"),
       resultHome: root.document.querySelector("#eliteResultHome"),
     };
-    const engine = dependencies.runtimeModule.createEngine();
+    let engine = null;
+    let engineLoadError = null;
+    try {
+      engine = dependencies.runtimeModule.createEngine();
+    } catch (error) {
+      engineLoadError = error;
+    }
     let storage = null;
     let state = null;
     let currentSubject = null;
@@ -86,6 +102,7 @@
     let timerId = null;
     let lastFeedback = "";
     let restoringScreen = false;
+    let uiStatus = UI_STATES.AUTH_CHECKING;
 
     function showScreen(name) {
       root.document.querySelectorAll("[data-screen]").forEach((item) => {
@@ -100,6 +117,10 @@
     function restoreEliteScreenIfOverridden() {
       if (restoringScreen || !state || storage?.getStatus() !== "READY") return;
       if (root.localStorage?.getItem(RESUME_REQUESTED_KEY) !== "1") return;
+      if (root.localStorage?.getItem(CURRENT_SCREEN_KEY) !== "elite-quiz") {
+        root.localStorage?.removeItem(RESUME_REQUESTED_KEY);
+        return;
+      }
       if (screen.classList.contains("active")) return;
       restoringScreen = true;
       root.queueMicrotask?.(() => {
@@ -107,6 +128,7 @@
           if (state
             && storage?.getStatus() === "READY"
             && root.localStorage?.getItem(RESUME_REQUESTED_KEY) === "1"
+            && root.localStorage?.getItem(CURRENT_SCREEN_KEY) === "elite-quiz"
             && !screen.classList.contains("active")) {
             showScreen("elite-quiz");
           }
@@ -146,11 +168,48 @@
 
     function setLoading(message) {
       busy = true;
+      uiStatus = UI_STATES.AUTH_CHECKING;
       showScreen("elite-quiz");
       elements.questionArea?.classList.remove("hidden");
       elements.resultPanel?.classList.add("hidden");
       if (elements.selectionMessage) elements.selectionMessage.textContent = message;
       setControlsDisabled(true);
+    }
+
+    function showError(status, message) {
+      busy = false;
+      uiStatus = status;
+      showScreen("elite-quiz");
+      elements.questionArea?.classList.remove("hidden");
+      elements.resultPanel?.classList.add("hidden");
+      if (elements.problem) elements.problem.textContent = "";
+      if (elements.answerList) elements.answerList.innerHTML = "";
+      if (elements.selectionMessage) {
+        elements.selectionMessage.classList.add("error");
+        elements.selectionMessage.textContent = message;
+      }
+      setControlsDisabled(true);
+    }
+
+    function problemIsRenderable(problem) {
+      if (!problem || !String(problem.prompt || "").trim()) return false;
+      if (problem.answerType === "MULTIPLE_CHOICE") {
+        return Array.isArray(problem.choices) && problem.choices.length >= 2;
+      }
+      return ["SHORT_ANSWER", "EXPRESSION_INPUT", "STEP_ORDER", "WRITTEN_RESPONSE"].includes(problem.answerType);
+    }
+
+    function classifyStartError(error) {
+      const code = String(error?.message || "");
+      if (code === "ELITE_AUTH_REQUIRED") {
+        return { status: UI_STATES.UNAUTHENTICATED, message: "로그인이 필요합니다." };
+      }
+      if (code.startsWith("ELITE_MODEL_MISSING")
+        || code.startsWith("ELITE_CONTENT_ERROR")
+        || code.startsWith("INVALID_ELITE_STATE_VERSION")) {
+        return { status: UI_STATES.ELITE_CONTENT_ERROR, message: "문제를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요." };
+      }
+      return { status: UI_STATES.AUTH_ERROR, message: "학습 정보를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요." };
     }
 
     function remainingSeconds() {
@@ -203,7 +262,10 @@
       }
       const problemId = state.sessionProblemIds[viewIndex];
       const problem = engine.getProblem(problemId);
-      if (!problem) return;
+      if (!problemIsRenderable(problem)) {
+        showError(UI_STATES.ELITE_CONTENT_ERROR, "문제를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.");
+        return;
+      }
       const attempt = state.finalizedAttempts[problemId];
       const locked = busy || state.cloudHydrationStatus !== "READY" || attempt?.attemptStatus === "FINAL";
       const submitted = Object.keys(state.finalizedAttempts).length;
@@ -239,6 +301,7 @@
               : "답을 입력하거나 모르겠어요를 눌러주세요."
         );
       }
+      uiStatus = storage?.getAuthStatus?.() || UI_STATES.AUTHENTICATED;
       lastFeedback = "";
       if (elements.previous) elements.previous.disabled = busy || viewIndex === 0;
       if (elements.unknown) elements.unknown.disabled = locked;
@@ -310,7 +373,10 @@
         return;
       }
       const problem = engine.getCurrentProblem(state);
-      if (!problem) return;
+      if (!problemIsRenderable(problem)) {
+        showError(UI_STATES.ELITE_CONTENT_ERROR, "문제를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.");
+        return;
+      }
       const answer = problem.answerType === "MULTIPLE_CHOICE"
         ? draftAnswer
         : root.document.querySelector("#eliteTextAnswer")?.value || "";
@@ -342,9 +408,12 @@
         busy = false;
         if (elements.selectionMessage) {
           elements.selectionMessage.classList.add("error");
-          elements.selectionMessage.textContent = error?.message === "ELITE_ATTEMPT_ALREADY_FINAL"
-            ? "이미 제출한 답안입니다."
-            : "저장 상태를 다시 확인하고 있습니다. 잠시 후 다시 시도해 주세요.";
+          if (error?.message === "ELITE_ATTEMPT_ALREADY_FINAL") {
+            elements.selectionMessage.textContent = "이미 제출한 답안입니다.";
+          } else {
+            uiStatus = UI_STATES.ELITE_STORAGE_ERROR;
+            elements.selectionMessage.textContent = "학습 기록을 저장하지 못했습니다. 잠시 후 다시 시도해 주세요.";
+          }
         }
         setControlsDisabled(false);
       }
@@ -357,14 +426,22 @@
         return { started: false, reason: "SUBJECT_NOT_ALLOWED" };
       }
       stopTimer();
-      setLoading("로그인과 저장 상태를 확인하고 있습니다.");
+      setLoading("학습 정보를 불러오는 중입니다.");
+      if (engineLoadError || !engine) {
+        showError(UI_STATES.ELITE_CONTENT_ERROR, "문제를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.");
+        return { started: false, reason: engineLoadError?.message || "ELITE_CONTENT_ERROR:ENGINE_NOT_READY" };
+      }
       currentSubject = subject;
       root.localStorage?.setItem(LAST_SUBJECT_KEY, subject);
       storage = dependencies.storageModule.createStorage();
       try {
         const hydrated = await storage.hydrate(subject);
         if (hydrated.state) {
-          state = engine.restoreState(hydrated.state, hydrated.uid);
+          try {
+            state = engine.restoreState(hydrated.state, hydrated.uid);
+          } catch {
+            state = null;
+          }
         } else {
           state = engine.createSession(subject, {
             uid: hydrated.uid,
@@ -373,6 +450,16 @@
           });
           await persist(state, 0);
         }
+        if (state?.sessionStatus === "IN_PROGRESS" && !problemIsRenderable(engine.getCurrentProblem(state))) {
+          const previousRevision = Number(hydrated.state?.revision) || storage.getLastRemoteRevision();
+          state = engine.createSession(subject, {
+            uid: hydrated.uid,
+            baseRevision: previousRevision,
+            cloudHydrationStatus: "READY",
+          });
+          if (!problemIsRenderable(engine.getCurrentProblem(state))) throw new Error("ELITE_CONTENT_ERROR:EMPTY_FIRST_PROBLEM");
+          await persist(state, previousRevision, { allowNewSession: true });
+        }
         showScreen("elite-quiz");
         viewIndex = state.currentProblemIndex;
         draftAnswer = null;
@@ -380,12 +467,8 @@
         if (state.sessionStatus === "IN_PROGRESS") startTimer();
         return { started: true, source: hydrated.source, state };
       } catch (error) {
-        busy = false;
-        if (elements.selectionMessage) {
-          elements.selectionMessage.classList.add("error");
-          elements.selectionMessage.textContent = "Firebase 로그인을 확인한 뒤 다시 시작해 주세요.";
-        }
-        setControlsDisabled(true);
+        const failure = classifyStartError(error);
+        showError(failure.status, failure.message);
         return { started: false, reason: error?.message || "HYDRATION_FAILED" };
       }
     }
@@ -478,6 +561,8 @@
       getViewIndex: () => viewIndex,
       getStorageConflicts: () => storage?.getConflicts() || [],
       getHydrationStatus: () => storage?.getStatus() || "NOT_STARTED",
+      getAuthStatus: () => storage?.getAuthStatus?.() || UI_STATES.AUTH_CHECKING,
+      getUiStatus: () => uiStatus,
       getEngine: () => engine,
     });
     root.STUDY_ELITE_APP = mountedApi;
@@ -489,5 +574,5 @@
     return mountedApi;
   }
 
-  return Object.freeze({ mount, levelLabel, subjectLabel, formatTime });
+  return Object.freeze({ mount, levelLabel, subjectLabel, formatTime, UI_STATES });
 });

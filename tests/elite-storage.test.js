@@ -159,3 +159,48 @@ test("FINAL·현재 위치·오류·결과 상태를 직렬화해 그대로 복�
   assert.equal(restored.state.errorEvidence.length, 1);
   assert.deepEqual(restored.state.pendingRechecks, target.pendingRechecks);
 });
+
+test("Firebase currentUser가 늦거나 없어도 일반 앱 로그인 사용자는 로컬 Elite 세션을 시작한다", async () => {
+  const memory = memoryStorage();
+  memory.setItem("studyCoinCurrentUser", "student@example.com");
+  memory.setItem("studyCoinAuth", JSON.stringify({
+    "student@example.com": { id: "student@example.com", uid: "app-uid-1", provider: "password" },
+  }));
+  const cloud = {
+    isConfigured: true,
+    stateSyncEnabled: true,
+    restoreSession: async () => null,
+  };
+  const storage = storageModule.createStorage({ cloudAuth: cloud, localStorage: memory });
+  const hydrated = await storage.hydrate("math");
+  assert.equal(hydrated.uid, "app-uid-1");
+  assert.equal(storage.getAuthStatus(), "AUTHENTICATED");
+  assert.equal(storage.isRemoteEnabled(), false);
+  const saved = await storage.save(session("math", "app-uid-1"), { expectedBaseRevision: 0 });
+  assert.equal(saved.saved, true);
+  assert.equal(saved.source, "LOCAL");
+});
+
+test("기존 앱의 익명 사용자도 Elite 인증 사용자로 구분한다", async () => {
+  const memory = memoryStorage();
+  memory.setItem("studyCoinCurrentUser", "guest-1");
+  memory.setItem("studyCoinAuth", JSON.stringify({
+    "guest-1": { id: "guest-1", uid: "anonymous-uid", provider: "anonymous", isAnonymous: true },
+  }));
+  const storage = storageModule.createStorage({
+    cloudAuth: { isConfigured: false, stateSyncEnabled: false },
+    localStorage: memory,
+  });
+  const hydrated = await storage.hydrate("math");
+  assert.equal(hydrated.uid, "anonymous-uid");
+  assert.equal(storage.getAuthStatus(), "ANONYMOUS_AUTHENTICATED");
+});
+
+test("실제 앱 로그인과 Firebase 사용자 모두 없을 때만 미로그인으로 판정한다", async () => {
+  const storage = storageModule.createStorage({
+    cloudAuth: { isConfigured: true, stateSyncEnabled: true, restoreSession: async () => null },
+    localStorage: memoryStorage(),
+  });
+  await assert.rejects(() => storage.hydrate("math"), /ELITE_AUTH_REQUIRED/);
+  assert.equal(storage.getAuthStatus(), "UNAUTHENTICATED");
+});

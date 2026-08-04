@@ -10,6 +10,13 @@
     math: "eliteAssessment-math-middle3",
     english: "eliteAssessment-english-middle3",
   });
+  const AUTH_STATES = Object.freeze({
+    AUTH_CHECKING: "AUTH_CHECKING",
+    AUTHENTICATED: "AUTHENTICATED",
+    ANONYMOUS_AUTHENTICATED: "ANONYMOUS_AUTHENTICATED",
+    UNAUTHENTICATED: "UNAUTHENTICATED",
+    AUTH_ERROR: "AUTH_ERROR",
+  });
 
   function clone(value) {
     return value === undefined ? undefined : JSON.parse(JSON.stringify(value));
@@ -51,13 +58,36 @@
     );
   }
 
+  function readAppAccount(local) {
+    if (!local) return null;
+    try {
+      const userId = String(local.getItem("studyCoinCurrentUser") || "").trim();
+      if (!userId) return null;
+      const users = JSON.parse(local.getItem("studyCoinAuth") || "{}") || {};
+      const record = users[userId] || {};
+      const provider = String(record.provider || "local");
+      return {
+        id: userId,
+        uid: String(record.uid || userId),
+        provider,
+        isAnonymous: Boolean(record.isAnonymous) || provider === "anonymous",
+        source: "APP_SESSION",
+      };
+    } catch {
+      return null;
+    }
+  }
+
   function createStorage(options = {}) {
     const cloud = options.cloudAuth || (typeof window !== "undefined" ? window.STUDY_CLOUD_AUTH : null);
     const local = options.localStorage || (typeof localStorage !== "undefined" ? localStorage : null);
     const getAccount = options.getAccount || (async () => cloud?.restoreSession?.());
     let hydrationStatus = "NOT_STARTED";
+    let authStatus = AUTH_STATES.AUTH_CHECKING;
     let currentUid = null;
     let currentSubject = null;
+    let remoteEnabled = false;
+    let lastError = null;
     let lastRemoteRevision = 0;
     const conflicts = [];
 
@@ -78,9 +108,31 @@
     }
 
     async function authenticatedAccount() {
-      if (!cloud?.isConfigured || !cloud?.stateSyncEnabled) throw new Error("ELITE_FIREBASE_REQUIRED");
-      const account = await getAccount();
-      if (!account?.uid) throw new Error("ELITE_AUTH_REQUIRED");
+      authStatus = AUTH_STATES.AUTH_CHECKING;
+      lastError = null;
+      let cloudAccount = null;
+      let cloudError = null;
+      if (cloud?.isConfigured && cloud?.stateSyncEnabled) {
+        try {
+          cloudAccount = await getAccount();
+        } catch (error) {
+          cloudError = error;
+        }
+      }
+      const account = cloudAccount?.uid ? cloudAccount : readAppAccount(local);
+      if (!account?.uid) {
+        if (cloudError) {
+          authStatus = AUTH_STATES.AUTH_ERROR;
+          lastError = cloudError;
+          throw new Error("ELITE_AUTH_CHECK_FAILED", { cause: cloudError });
+        }
+        authStatus = AUTH_STATES.UNAUTHENTICATED;
+        throw new Error("ELITE_AUTH_REQUIRED");
+      }
+      remoteEnabled = Boolean(cloudAccount?.uid && cloud?.isConfigured && cloud?.stateSyncEnabled);
+      authStatus = account.isAnonymous || account.provider === "anonymous"
+        ? AUTH_STATES.ANONYMOUS_AUTHENTICATED
+        : AUTH_STATES.AUTHENTICATED;
       return account;
     }
 
@@ -93,7 +145,7 @@
         currentUid = account.uid;
         currentSubject = subject;
         const localState = readLocal(currentUid, subject);
-        const remoteRaw = await cloud.loadUserState(stateKey(subject));
+        const remoteRaw = remoteEnabled ? await cloud.loadUserState(stateKey(subject)) : null;
         const remoteState = sanitizeRemote(remoteRaw);
         if (validState(remoteState, subject)) {
           lastRemoteRevision = Number(remoteState.revision) || 0;
@@ -129,6 +181,7 @@
         };
       } catch (error) {
         hydrationStatus = "FAILED";
+        lastError = error;
         throw error;
       }
     }
@@ -138,6 +191,13 @@
       if (!currentUid || !currentSubject) throw new Error("ELITE_AUTH_REQUIRED");
       if (!validState(state, currentSubject)) throw new Error("INVALID_ELITE_STATE");
       if (state.ownerUid && state.ownerUid !== currentUid) throw new Error("ELITE_STATE_OWNER_MISMATCH");
+
+      if (!remoteEnabled) {
+        const payload = clone({ ...state, ownerUid: currentUid });
+        writeLocal(payload);
+        lastRemoteRevision = Number(payload.revision) || lastRemoteRevision;
+        return { saved: true, conflict: false, state: payload, source: "LOCAL" };
+      }
 
       const remoteRaw = await cloud.loadUserState(stateKey(currentSubject));
       const remoteState = sanitizeRemote(remoteRaw);
@@ -176,6 +236,9 @@
       currentSubject = null;
       lastRemoteRevision = 0;
       hydrationStatus = "NOT_STARTED";
+      authStatus = AUTH_STATES.AUTH_CHECKING;
+      remoteEnabled = false;
+      lastError = null;
     }
 
     return Object.freeze({
@@ -185,6 +248,9 @@
       readLocal,
       resetIdentity,
       getStatus: () => hydrationStatus,
+      getAuthStatus: () => authStatus,
+      getLastError: () => lastError,
+      isRemoteEnabled: () => remoteEnabled,
       getUid: () => currentUid,
       getSubject: () => currentSubject,
       getLastRemoteRevision: () => lastRemoteRevision,
@@ -200,6 +266,8 @@
     cacheKey,
     sanitizeRemote,
     validState,
+    AUTH_STATES,
+    readAppAccount,
     createStorage,
   });
 });

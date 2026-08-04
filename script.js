@@ -2562,6 +2562,7 @@ function adaptiveLevelTestElements() {
   return {
     quizTitle: document.querySelector("#quizTitle"),
     quizConcept,
+    quizConceptSub: document.querySelector("#quizConceptSub"),
     quizPrompt: document.querySelector("#quizPrompt"),
     quizProblem,
     answerList,
@@ -2585,12 +2586,35 @@ function adaptiveLevelTestElements() {
 async function persistAdaptiveLevelTestSession(session) {
   const storage = window.STUDY_MATH_ADAPTIVE_LEVEL_TEST_STORAGE;
   if (!storage?.isValidSession(session)) return { saved: false, reason: "INVALID_STATE" };
-  return storage.persist({
+  const userId = adaptiveLevelTestUserId();
+  storage.saveLocal(localStorage, userId, session);
+  const cloud = adaptiveLevelTestCloud();
+  if (cloud) storage.persist({
     storage: localStorage,
-    userId: adaptiveLevelTestUserId(),
-    cloud: adaptiveLevelTestCloud(),
+    userId,
+    cloud,
     session,
-  });
+  }).catch(() => {});
+  return { saved: true, remoteSaved: false, reason: "LOCAL_FIRST", state: session };
+}
+
+function hydrateAdaptiveLevelTestFromCloud(baselineSession, controller) {
+  const storage = window.STUDY_MATH_ADAPTIVE_LEVEL_TEST_STORAGE;
+  const cloud = adaptiveLevelTestCloud();
+  if (!storage || !cloud?.loadUserState || !baselineSession || !controller) return;
+  const baselineSessionId = baselineSession.sessionId;
+  const baselineRevision = Number(baselineSession.revision || 0);
+  Promise.resolve(cloud.loadUserState(storage.CLOUD_KEY)).then((remote) => {
+    if (!storage.isValidSession(remote)) return;
+    const current = controller.getSession();
+    if (!current
+      || current.sessionId !== baselineSessionId
+      || Number(current.revision || 0) !== baselineRevision) return;
+    storage.saveLocal(localStorage, adaptiveLevelTestUserId(), remote);
+    controller.restore(remote);
+    if (["IN_PROGRESS", "PAUSED"].includes(remote.status)) showAdaptiveLevelTestResume(remote);
+    else if (remote.status === "COMPLETED") renderAdaptiveLevelTestResult(remote);
+  }).catch(() => {});
 }
 
 function syncAdaptiveLevelTestView(session) {
@@ -2660,15 +2684,22 @@ function showAdaptiveLevelTestUnavailable(session) {
     ? "준비 중인 개념입니다. 현재 가능한 가장 가까운 학습으로 안내합니다."
     : "현재 확인할 문제 범위를 준비하고 있습니다.";
   adaptiveLevelTestResultPending = { session, result: window.STUDY_MATH_ADAPTIVE_LEVEL_TEST_UI.resultLists(session) };
-  resultLevel.textContent = "개념 진단";
-  resultStartCopy.textContent = message;
-  strongDomains.textContent = "확인한 결과는 안전하게 저장했어요.";
-  weakDomains.textContent = "준비된 문제 범위까지 진단했어요.";
-  confidenceDomains.textContent = "현재 가능한 학습으로 안내할게요.";
-  masteryDomains.textContent = "학습 시작을 눌러 계속할 수 있어요.";
-  learningPath.textContent = "진단 결과는 그대로 보존됩니다.";
+  showScreen("quiz");
+  document.querySelector("#quizTitle").textContent = "맞춤형 수학 진단";
+  quizRoute.textContent = message;
+  quizConcept.textContent = "진단 대기";
+  document.querySelector("#quizPrompt").textContent = "다른 문제로 임의 전환하지 않았어요.";
+  quizProblem.textContent = session.status === "BLOCKED_NO_CONTENT"
+    ? "현재 가능한 가장 가까운 학습을 준비하고 있습니다."
+    : "선택한 범위의 문제은행을 준비하고 있습니다.";
+  answerList.innerHTML = "";
+  quizActions.classList.remove("hidden");
+  nextQuestion.textContent = session.status;
+  nextQuestion.disabled = true;
+  unknownQuestion.disabled = true;
+  stopTest.disabled = true;
+  stopTestTop.disabled = true;
   clearInterval(timerId);
-  showScreen("result");
 }
 
 function showAdaptiveLevelTestResume(session) {
@@ -2679,7 +2710,7 @@ function showAdaptiveLevelTestResume(session) {
   resumeChecked.textContent = `${session.totalQuestions || 0}문제 확인`;
   resumeFocus.textContent = window.STUDY_MATH_CONCEPT_GRAPH?.conceptById?.[session.activeConceptId]?.displayName || "현재 확인 중인 개념";
   resumeSavedAt.textContent = session.updatedAt ? new Date(session.updatedAt).toLocaleString("ko-KR") : "저장됨";
-  showScreen("resume");
+  showScreen("resume-test");
 }
 
 async function startAdaptiveMathDiagnosis({ forceNew = false } = {}) {
@@ -2687,16 +2718,12 @@ async function startAdaptiveMathDiagnosis({ forceNew = false } = {}) {
   if (!storage || !window.STUDY_MATH_ADAPTIVE_LEVEL_TEST_UI) return false;
   levelTestSubject = "수학";
   localStorage.setItem("studyCoinLevelTestSubject", levelTestSubject);
-  const hydrated = await storage.hydrate({
-    storage: localStorage,
-    userId: adaptiveLevelTestUserId(),
-    cloud: adaptiveLevelTestCloud(),
-  });
-  const previous = hydrated.state;
+  const previous = storage.loadLocal(localStorage, adaptiveLevelTestUserId());
   adaptiveLevelTestController = createAdaptiveLevelTestController();
   if (!forceNew && ["IN_PROGRESS", "PAUSED"].includes(previous?.status)) {
     adaptiveLevelTestController.restore(previous);
     showAdaptiveLevelTestResume(previous);
+    hydrateAdaptiveLevelTestFromCloud(previous, adaptiveLevelTestController);
     return true;
   }
   const started = adaptiveLevelTestController.start({
@@ -2714,6 +2741,17 @@ async function startAdaptiveMathDiagnosis({ forceNew = false } = {}) {
   showScreen("quiz");
   startTimer(0);
   renderAdaptiveLevelTestQuestion();
+  hydrateAdaptiveLevelTestFromCloud(session, adaptiveLevelTestController);
+  return true;
+}
+
+async function restoreAdaptiveMathDiagnosisRoute() {
+  const savedScreen = localStorage.getItem("studyCoinCurrentScreen");
+  if (!["quiz", "resume-test"].includes(savedScreen) || adaptiveLevelTestController) return false;
+  const storage = window.STUDY_MATH_ADAPTIVE_LEVEL_TEST_STORAGE;
+  const local = storage?.loadLocal?.(localStorage, adaptiveLevelTestUserId());
+  if (!local || !["IN_PROGRESS", "PAUSED"].includes(local.status)) return false;
+  await startAdaptiveMathDiagnosis();
   return true;
 }
 
@@ -2747,16 +2785,20 @@ async function submitAdaptiveLevelTestAnswer({ giveup = false } = {}) {
 
 async function startSubjectLevelTest(subjectName, mathMode = "adaptive") {
   if (!testableLevelTestSubjects.has(subjectName)) return;
+  if (subjectName === "수학") {
+    if (mathMode !== "grade") {
+      saveLearningSettings();
+      completeOnboarding().catch(() => {});
+      await startAdaptiveMathDiagnosis();
+      return;
+    }
+  }
   saveLearningSettings();
   await completeOnboarding();
   levelTestSubject = subjectName;
   localStorage.setItem("studyCoinLevelTestSubject", subjectName);
   const quizTitle = document.querySelector("#quizTitle");
   if (subjectName === "수학") {
-    if (mathMode !== "grade") {
-      await startAdaptiveMathDiagnosis();
-      return;
-    }
     const selectedMathGrade = getSelectedGrade();
     const selectedMathGradeBand = window.STUDY_MATH_LEVEL_TEST_GRADE_BANKS?.normalizeGradeBand(selectedMathGrade);
     if (selectedMathGradeBand === "M3") {
@@ -4146,6 +4188,10 @@ document.querySelectorAll("[data-open-test-subject]").forEach((button) => {
   button.addEventListener("click", () => {
     pendingTestMode = button.dataset.openTestSubject || "standard";
     if (testSubjectEyebrow) testSubjectEyebrow.textContent = pendingTestMode === "elite" ? "Elite Test" : "레벨테스트";
+    const adaptiveMathButton = testSubjectModal?.querySelector('[data-test-subject="수학"][data-math-test-mode="adaptive"]');
+    const gradeMathButton = testSubjectModal?.querySelector('[data-test-subject="수학"][data-math-test-mode="grade"]');
+    if (adaptiveMathButton) adaptiveMathButton.textContent = pendingTestMode === "elite" ? "수학" : "맞춤형 수학 진단";
+    if (gradeMathButton) gradeMathButton.hidden = pendingTestMode === "elite";
     testSubjectModal?.classList.remove("hidden");
   });
 });
@@ -5045,6 +5091,11 @@ if (window.STUDY_CLOUD_AUTH?.isConfigured) {
       routeAfterLogin({ restoreScreen: true });
     })
     .catch(() => {});
+}
+if (document.readyState === "complete") {
+  queueMicrotask(() => restoreAdaptiveMathDiagnosisRoute());
+} else {
+  window.addEventListener("load", () => restoreAdaptiveMathDiagnosisRoute(), { once: true });
 }
 ensureGlobalSettingsButtons();
 loadHomeProfile();

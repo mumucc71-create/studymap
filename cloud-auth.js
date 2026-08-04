@@ -367,7 +367,8 @@
 
   function toAccount(user, profile = {}, provider) {
     const email = normalizeEmail(user?.email || profile.email);
-    const providerKey = provider || profile.provider || user?.providerData?.[0]?.providerId || "password";
+    const isAnonymous = Boolean(user?.isAnonymous);
+    const providerKey = provider || profile.provider || user?.providerData?.[0]?.providerId || (isAnonymous ? "anonymous" : "password");
     return {
       id: email || `${providerKey}:${user.uid}`,
       uid: user.uid,
@@ -375,6 +376,7 @@
       name: profile.name || user.displayName || "학생",
       role: profile.role || "student",
       provider: providerKey,
+      isAnonymous,
       onboardingComplete: Boolean(profile.onboardingComplete),
       learningSettings: normalizeLearningSettings(profile.learningSettings),
     };

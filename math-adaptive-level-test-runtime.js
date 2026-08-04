@@ -27,6 +27,7 @@
   const MIN_DURATION = 20;
   const MAX_DURATION = 30;
   const unique = (values) => [...new Set((values || []).filter(Boolean))];
+  const TERMINAL_DOMAIN_STATUSES = new Set(["PASSED", "FAILED", "BLOCKED_NO_CONTENT"]);
   const resultValue = (submission) => submission.result || (submission.correct === true ? "CORRECT" : "INCORRECT");
 
   function createInitialState(options = {}) {
@@ -93,17 +94,28 @@
     draft.confidenceByDomain[`${gradeGate}:${domain.domainId}`] = Math.round((accuracy * 0.7 + evidenceFactor * 0.3) * 100);
   }
 
-  function advancePassedDomain(previous, gradeGate, domain, timestamp) {
+  function resolveDomain(previous, gradeGate, domain, status, timestamp, options = {}) {
+    const projectedStatuses = {
+      ...(previous.domainStatusByGrade[gradeGate] || {}),
+      [domain.domainId]: status,
+    };
+    const gradeFinished = gates.getGateDomains(gradeGate).every((item) => TERMINAL_DOMAIN_STATUSES.has(projectedStatuses[item.domainId]));
+    const nextGrade = gradeFinished ? gates.nextGradeGate(gradeGate) : gradeGate;
     return stateApi.commit(previous, (draft) => {
       draft.domainStatusByGrade[gradeGate] ||= {};
-      draft.domainStatusByGrade[gradeGate][domain.domainId] = "PASSED";
+      draft.domainStatusByGrade[gradeGate][domain.domainId] = status;
       draft.pendingConfirmation = null;
-      const nextDomain = gates.getGateDomains(gradeGate).find((item) => !["PASSED", "FAILED"].includes(draft.domainStatusByGrade[gradeGate][item.domainId]));
+      draft.pendingRemediation = null;
+      if (status === "BLOCKED_NO_CONTENT") {
+        draft.blockedNoContentConceptIds = unique([...draft.blockedNoContentConceptIds, ...domain.conceptIds]);
+      }
+      const nextDomain = gates.getGateDomains(gradeGate).find((item) => !TERMINAL_DOMAIN_STATUSES.has(draft.domainStatusByGrade[gradeGate][item.domainId]));
       if (nextDomain) {
         draft.currentDomain = nextDomain.domainId;
         return;
       }
-      draft.passedGradeGates = unique([...draft.passedGradeGates, gradeGate]);
+      const gradeStatuses = gates.getGateDomains(gradeGate).map((item) => draft.domainStatusByGrade[gradeGate][item.domainId]);
+      if (gradeStatuses.every((item) => item === "PASSED")) draft.passedGradeGates = unique([...draft.passedGradeGates, gradeGate]);
       const nextGrade = gates.nextGradeGate(gradeGate);
       if (nextGrade) {
         draft.currentGradeGate = nextGrade;
@@ -118,8 +130,36 @@
       const activeNode = graph.conceptById[draft.activeConceptId];
       const upper = unique([...(activeNode?.nextConceptIds || []), ...(activeNode?.transferConceptIds || [])]);
       draft.upperBoundaryConcepts = upper;
-      draft.blockedNoContentConceptIds = upper.filter((conceptId) => graph.conceptById[conceptId]?.contentAvailability !== "COMPLETE_SPRING");
-    }, { decision: gates.nextGradeGate(gradeGate) ? "PROMOTE_GRADE_GATE" : "ENTER_CONCEPT_GRAPH", fromGradeGate: gradeGate, toGradeGate: gates.nextGradeGate(gradeGate), domainId: domain.domainId }, timestamp);
+      draft.blockedNoContentConceptIds = unique([
+        ...draft.blockedNoContentConceptIds,
+        ...upper.filter((conceptId) => graph.conceptById[conceptId]?.contentAvailability !== "COMPLETE_SPRING"),
+      ]);
+    }, {
+      decision: options.decision || (gradeFinished ? (nextGrade ? "PROMOTE_GRADE_GATE" : "ENTER_CONCEPT_GRAPH") : "ADVANCE_DOMAIN"),
+      fromGradeGate: gradeGate,
+      toGradeGate: nextGrade,
+      domainId: domain.domainId,
+      domainStatus: status,
+      reason: options.reason || null,
+    }, timestamp);
+  }
+
+  function advancePassedDomain(previous, gradeGate, domain, timestamp) {
+    return resolveDomain(previous, gradeGate, domain, "PASSED", timestamp);
+  }
+
+  function handleQuestionUnavailable(previous, details = {}) {
+    if (previous.completed || previous.phase === "CONCEPT_GRAPH") return previous;
+    const gradeGate = previous.currentGradeGate;
+    const domain = currentDomain(previous);
+    if (!domain) return previous;
+    const wasRemediation = Boolean(previous.pendingRemediation);
+    return resolveDomain(previous, gradeGate, domain, wasRemediation ? "FAILED" : "BLOCKED_NO_CONTENT", details.timestamp ?? previous.updatedAt, {
+      decision: wasRemediation ? "REMEDIATION_CONTENT_EXHAUSTED" : "DOMAIN_CONTENT_UNAVAILABLE",
+      reason: wasRemediation
+        ? "보충 문제를 더 찾지 못해 취약 증거를 보존하고 다음 진단 가능한 영역을 확인합니다."
+        : "서로 다른 구조의 문제를 더 찾지 못해 이 영역을 완료 처리하지 않고 다음 진단 가능한 영역을 확인합니다.",
+    });
   }
 
   function beginDirectRemediation(previous, gradeGate, domain, evidence, timestamp) {
@@ -281,5 +321,5 @@
   function serializeState(state) { return stateApi.serializeAdaptiveState(state); }
   function hydrateState(value, options) { return stateApi.hydrateAdaptiveState(value, options); }
 
-  return Object.freeze({ VERSION, MIN_QUESTIONS, MAX_QUESTIONS, MIN_DURATION, MAX_DURATION, createInitialState, evaluateDomainEvidence, directRemedialConcept, recordEvidence, recordGateEvidence, recordGraphEvidence, shouldTerminate, completeSession, getNextQuestion, serializeState, hydrateState });
+  return Object.freeze({ VERSION, MIN_QUESTIONS, MAX_QUESTIONS, MIN_DURATION, MAX_DURATION, createInitialState, evaluateDomainEvidence, directRemedialConcept, recordEvidence, recordGateEvidence, recordGraphEvidence, handleQuestionUnavailable, shouldTerminate, completeSession, getNextQuestion, serializeState, hydrateState });
 });

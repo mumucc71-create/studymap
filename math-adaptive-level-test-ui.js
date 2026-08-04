@@ -82,6 +82,7 @@
     if (elements.quizConcept) elements.quizConcept.textContent = `Q.${Number(session.totalQuestions || 0) + 1}`;
     if (elements.quizPrompt) elements.quizPrompt.textContent = "문제를 읽고 답해보세요.";
     if (elements.quizProblem) elements.quizProblem.textContent = questionPrompt(question);
+    if (elements.quizConceptSub) elements.quizConceptSub.textContent = `수학 · ${conceptDisplayName(question, session)}`;
     if (elements.answerList) elements.answerList.innerHTML = renderAnswerInput(question);
     if (elements.quizCount) elements.quizCount.textContent = `${Number(session.totalQuestions || 0) + 1}문제 진행`;
     if (elements.quizProgress) elements.quizProgress.style.width = `${Math.min(100, Math.round((Number(session.totalQuestions || 0) / 24) * 100))}%`;
@@ -138,14 +139,23 @@
     }
     function restore(value) { session = storage.isValidSession(value) ? value : null; return session; }
     function selectNext() {
-      const selected = runtime.getNextQuestion(session.graphState, catalog);
-      if (selected.status !== "QUESTION_SELECTED") {
-        const status = session.graphState.phase === "CONCEPT_GRAPH" ? "BLOCKED_NO_CONTENT" : "TEST_BANK_NOT_READY";
-        session = storage.updateSession(session, { status, currentQuestion: null }, session.updatedAt);
-        return Object.freeze({ status, session });
+      const maxTransitions = gates.GRADE_SEQUENCE.reduce((sum, grade) => sum + gates.getGateDomains(grade).length, 0) + 2;
+      for (let transition = 0; transition < maxTransitions; transition += 1) {
+        const selected = runtime.getNextQuestion(session.graphState, catalog);
+        if (selected.status === "QUESTION_SELECTED") {
+          session = storage.updateSession(session, { status: "IN_PROGRESS", currentQuestion: selected.question, remainingPath: [selected.purpose] }, session.updatedAt);
+          return Object.freeze({ status: "QUESTION_SELECTED", question: selected.question, session });
+        }
+        const advanced = runtime.handleQuestionUnavailable(session.graphState, { timestamp: session.updatedAt });
+        if (advanced === session.graphState) {
+          const status = session.graphState.phase === "CONCEPT_GRAPH" ? "BLOCKED_NO_CONTENT" : "TEST_BANK_NOT_READY";
+          session = storage.updateSession(session, { status, currentQuestion: null }, session.updatedAt);
+          return Object.freeze({ status, session });
+        }
+        session = storage.updateSession(session, { graphState: advanced, status: "IN_PROGRESS", currentQuestion: null }, session.updatedAt);
       }
-      session = storage.updateSession(session, { currentQuestion: selected.question, remainingPath: [selected.purpose] }, session.updatedAt);
-      return Object.freeze({ status: "QUESTION_SELECTED", question: selected.question, session });
+      session = storage.updateSession(session, { status: "TEST_BANK_NOT_READY", currentQuestion: null }, session.updatedAt);
+      return Object.freeze({ status: "TEST_BANK_NOT_READY", session });
     }
     async function submit(answer, submission = {}) {
       if (!session?.currentQuestion || session.status !== "IN_PROGRESS") return Object.freeze({ accepted: false, reason: "NO_ACTIVE_QUESTION", session });
