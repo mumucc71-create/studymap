@@ -8914,3 +8914,67 @@ body {
   white-space: pre-line;
   line-height: 1.75;
 }
+
+/* English structured learning inputs */
+.english-structured-question .english-question-instruction {
+  margin: 0 0 10px;
+  color: #8a6b16;
+  font-size: 13px;
+  font-weight: 700;
+}
+.english-answer-fallback {
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: #fff8dc;
+  color: #725d24;
+  font-size: 12px;
+}
+.english-word-order,
+.english-matching {
+  display: grid;
+  gap: 12px;
+}
+.english-order-answer,
+.english-order-bank,
+.english-error-tokens,
+.english-matching > div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-height: 52px;
+  padding: 10px;
+  border: 1px solid #eadb9f;
+  border-radius: 14px;
+  background: #fffdf5;
+}
+.english-order-answer button,
+.english-order-bank button,
+.english-error-tokens button,
+.english-matching button {
+  min-height: 42px;
+  padding: 8px 12px;
+  border: 1px solid #ddca7a;
+  border-radius: 12px;
+  background: #fff;
+  color: #544b31;
+  font: inherit;
+}
+.english-order-answer button,
+.english-error-tokens button.is-selected,
+.english-matching button.is-selected,
+.english-matching button.is-linked {
+  border-color: #d5a91f;
+  background: #fff1b8;
+  color: #6b5110;
+}
+.english-order-answer span,
+.english-matching p {
+  align-self: center;
+  margin: 0;
+  color: #8a8370;
+  font-size: 13px;
+}
+.english-safe-fallback {
+  display: grid;
+  gap: 8px;
+}

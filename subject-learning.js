@@ -9,7 +9,9 @@
   const actions = $("#subjectLearningActions");
   let activeSubject = null;
 
-  const englishCoreRoadmap = [
+  const authoredEnglishCycles = [1, 2, 3, 4, 5]
+    .flatMap((level) => window[`STUDY_ENGLISH_LEVEL${level}_CONTENT`]?.cycles || []);
+  const legacyEnglishCoreRoadmap = [
     { title: "Be동사", courseIds: ["EN-L04-C01"], mode: "course" },
     { title: "일반동사", courseIds: ["EN-L04-C04", "EN-L04-C05"], mode: "course" },
     { title: "형용사와 부사", courseIds: ["EN-L05-C10", "EN-L05-C12"], mode: "course" },
@@ -20,6 +22,9 @@
     { title: "영작 연습", courseIds: ["EN-L05-C13"], mode: "writing" },
     { title: "AI 회화 연습", courseIds: ["EN-L05-C13"], mode: "ai" },
   ];
+  const englishCoreRoadmap = authoredEnglishCycles.length
+    ? authoredEnglishCycles.map((cycle) => ({ title: cycle.title, courseIds: [cycle.cycleId], mode: "practice" }))
+    : legacyEnglishCoreRoadmap;
 
   const hanjaCardVisuals = {
     "大": "🧍", "小": "🤏", "人": "🚶", "山": "⛰️", "水": "💧",
@@ -269,6 +274,33 @@
     localStorage.setItem(englishVocabularyStorageKey(), JSON.stringify(vocabularyState));
   }
 
+  function recordEnglishVocabularyAttempt(card, dimension, correct) {
+    const model = window.STUDY_ENGLISH_LEARNING;
+    if (!model || !card) return;
+    const userId = currentUser();
+    const subject = subjectState("english");
+    const legacy = {
+      completedStages: subject.completedStages,
+      completedEnglishStageIds: subject.completedEnglishStageIds,
+    };
+    const learningState = model.loadState(localStorage, userId, legacy);
+    const vocabulary = model.normalizeVocabulary(card, {
+      levelId: currentStage()?.levelId,
+      courseId: currentStage()?.id,
+    });
+    learningState.vocabularyResults[vocabulary.id] = model.updateVocabularyProgress(
+      learningState.vocabularyResults[vocabulary.id],
+      {
+        wordId: vocabulary.id,
+        stage: vocabulary.stage,
+        dimension,
+        correct,
+        attemptedAt: new Date().toISOString(),
+      }
+    );
+    model.saveState(localStorage, userId, learningState, window.STUDY_CLOUD_AUTH);
+  }
+
   function storageKey() {
     return `studyCoinSubjectLearningV2:${currentUser()}`;
   }
@@ -305,6 +337,7 @@
       englishDefaultPathV1: false,
       englishFoundationMode: false,
       englishAiMessages: [],
+      englishRemediationState: window.STUDY_ENGLISH_REMEDIATION?.createRemediationState?.() || null,
       mode: subjectId === "reading" ? "books" : "intro",
       queue: [],
       reviewQueue: [],
@@ -342,6 +375,7 @@
     subject.wrongQuestionIds = [...new Set(subject.wrongQuestionIds || [])];
     subject.mastered = [...new Set(subject.mastered || [])];
     subject.englishAiMessages = Array.isArray(subject.englishAiMessages) ? subject.englishAiMessages : [];
+    subject.englishRemediationState = subject.englishRemediationState || window.STUDY_ENGLISH_REMEDIATION?.createRemediationState?.() || null;
     subject.flashQueue = Array.isArray(subject.flashQueue) ? subject.flashQueue : [];
     subject.cardReview = subject.cardReview || {};
     subject.scienceCardIndex = Number.isInteger(subject.scienceCardIndex) ? subject.scienceCardIndex : 0;
@@ -988,10 +1022,11 @@
     main.innerHTML = `<section class="english-roadmap-home">
       <div class="english-roadmap-top">
         <div class="english-roadmap-summary">
-          <div><span>현재 과정</span><h2>초등 영어 6학년</h2><p>${escapeHtml(currentRoadmapItem.title)} · 진도 ${completedRoadmapItems} / ${englishCoreRoadmap.length} · 단어 암기 ${percent}%</p><i><em style="width:${roadmapPercent}%"></em></i></div>
+          <div><span>현재 과정</span><h2>${escapeHtml(course?.levelTitle || "영어 1단계")}</h2><p>${escapeHtml(currentRoadmapItem.title)} · 진도 ${completedRoadmapItems} / ${englishCoreRoadmap.length} · 단어 암기 ${percent}%</p><i><em style="width:${roadmapPercent}%"></em></i></div>
         </div>
         <div class="english-roadmap-companion"><img src="assets/profile-avatar-reading-cutout.png" alt="영어 학습을 돕는 공부 친구" /><button type="button" data-subject-action="open-english-roadmap-item" data-roadmap-index="${currentRoadmapIndex}">▣ 단어 학습</button></div>
       </div>
+      ${subject.englishEliteRecommended ? '<button class="primary subject-primary" type="button" data-subject-action="start-english-elite-recommendation">English Elite에 도전해 보기</button>' : ''}
       <div class="english-roadmap-list english-course-roadmap">${englishCoreRoadmap.map((item, index) => {
         const complete = englishRoadmapItemComplete(item, subject);
         const current = !complete && index === currentRoadmapIndex;
@@ -1005,7 +1040,7 @@
           </button>
         </article>`;
       }).join("")}<article class="english-roadmap-finish ${courseComplete ? "is-complete" : "is-locked"}">
-        <i aria-hidden="true"></i><button type="button" disabled><b>${courseComplete ? "🏆" : "🔒"}</b><span><strong>초등 영어 6학년 완료!</strong><small>${courseComplete ? "모든 학습 완료 · 다음 과정으로 넘어가세요." : `${completedRoadmapItems} / ${englishCoreRoadmap.length} · 모든 단계를 완료하면 열려요.`}</small></span><em>›</em></button>
+        <i aria-hidden="true"></i><button type="button" ${courseComplete ? 'data-subject-action="open-english-article-path"' : "disabled"}><b>${courseComplete ? "🏆" : "🔒"}</b><span><strong>영어 5단계 완료!</strong><small>${courseComplete ? "영자신문·TOEFL형 선택 학습에 도전할 수 있어요." : `${completedRoadmapItems} / ${englishCoreRoadmap.length} · 모든 단계를 완료하면 열려요.`}</small></span><em>›</em></button>
       </article></div>
       <div class="english-roadmap-streak"><b>⚡</b><span><strong>오늘도 영어 학습을 이어가세요!</strong><small>한 단계씩 꾸준히 완료해 보세요.</small></span></div>
     </section>`;
@@ -1470,11 +1505,102 @@
     actions.innerHTML = endTodayControl();
   }
 
+  function renderStructuredEnglishQuestion(question, subject) {
+    const model = window.STUDY_ENGLISH_LEARNING;
+    const ui = window.STUDY_ENGLISH_UI;
+    if (!model || !ui) return false;
+    const normalizedQuestion = model.normalizeQuestion(question, {
+      levelId: currentStage()?.levelId,
+      courseId: currentStage()?.id,
+      stageId: subject.activeEnglishStageId,
+    });
+    return ui.render({
+      question: normalizedQuestion,
+      main,
+      actions,
+      response: subject.answer,
+      feedback: subject.feedback,
+      onChange(value) {
+        subject.answer = value;
+      },
+      onHint() {
+        alert(normalizedQuestion.explanation || "문장의 핵심 단어와 앞뒤 흐름을 다시 확인해 보세요.");
+      },
+      onSubmit(response) {
+        const userId = currentUser();
+        const result = model.createQuestionResult({
+          userId,
+          question: normalizedQuestion,
+          selectedAnswer: response,
+          responseTime: 0,
+        });
+        subject.answer = ui.serializeResponse(response);
+        subject.feedback = { correct: result.correct, errorTags: result.errorTags };
+        subject.explanationOpen = true;
+        subject.explanationQuestionId = question.id;
+        if (result.correct) {
+          if (!subject.mastered.includes(question.id)) subject.mastered.push(question.id);
+          subject.xp += 10;
+          subject.coins += 4;
+          if (subject.englishRemediationState && window.STUDY_ENGLISH_REMEDIATION) {
+            const remediation = window.STUDY_ENGLISH_REMEDIATION.recordRemediationAnswer(subject.englishRemediationState, question, true);
+            subject.englishRemediationState = remediation.state;
+          }
+        } else {
+          if (!subject.wrongQuestionIds.includes(question.id)) subject.wrongQuestionIds.push(question.id);
+          const remediationApi = window.STUDY_ENGLISH_REMEDIATION;
+          if (remediationApi) {
+            const remediation = remediationApi.recordEnglishError(subject.englishRemediationState, {
+              problemId: question.id,
+              misconceptionTag: result.errorTags?.[0] || "UNCLASSIFIED_ERROR",
+              position: subject.queue.indexOf(question.id),
+            }, allSubjectQuestions());
+            subject.englishRemediationState = remediation.state;
+            const remedialIds = (remediation.problems || [remediation.problem]).filter(Boolean).map((item) => item.id || item.problemId);
+            remedialIds.forEach((id) => {
+              if (id && id !== question.id && !subject.reviewQueue.includes(id)) subject.reviewQueue.push(id);
+            });
+          }
+        }
+        const legacy = {
+          completedStages: subject.completedStages,
+          completedEnglishStageIds: subject.completedEnglishStageIds,
+        };
+        const learningState = model.loadState(localStorage, userId, legacy);
+        const recorded = model.recordQuestionAttempt(learningState, {
+          userId,
+          question: normalizedQuestion,
+          selectedAnswer: response,
+          responseTime: 0,
+        });
+        model.saveState(localStorage, userId, recorded.state, window.STUDY_CLOUD_AUTH);
+        subject.lastUpdatedAt = new Date().toISOString();
+        reportActivity(result.correct);
+        save();
+        render();
+      },
+      onNext() {
+        subject.queue.shift();
+        subject.answer = "";
+        subject.feedback = null;
+        subject.explanationOpen = false;
+        subject.explanationQuestionId = null;
+        if (!subject.queue.length && subject.reviewQueue.length) {
+          subject.queue = [...subject.reviewQueue];
+          subject.reviewQueue = [];
+        }
+        save();
+        render();
+      },
+    });
+  }
+
   function renderQuestion() {
     const subject = subjectState(activeSubject);
     const question = questionForCurrent();
     if (!question) return completeStage();
     if (question.type === "journal") return renderJournalQuestion(question, subject);
+    if (activeSubject === "english" && renderStructuredEnglishQuestion(question, subject)) return;
     const feedback = subject.feedback;
     const passage = question.passage ? `<section class="subject-passage">${activeSubject === "english" ? "" : "<b>Reading passage</b>"}<p>${escapeHtml(question.passage)}</p></section>` : "";
     const englishBlankPicture = activeSubject === "english" && /_+/.test(question.question) && question.vocabularyWord
@@ -1693,8 +1819,23 @@
     state = load();
     state.activeSubject = subjectId;
     const subject = subjectState(subjectId);
+    if (subjectId === "english" && window.STUDY_ENGLISH_LEARNING) {
+      void window.STUDY_ENGLISH_LEARNING.hydrateState(
+        localStorage,
+        currentUser(),
+        window.STUDY_CLOUD_AUTH,
+        {
+          completedStages: subject.completedStages,
+          completedEnglishStageIds: subject.completedEnglishStageIds,
+        }
+      );
+    }
+    const resumeEnglishQuestion = subjectId === "english"
+      && subject.mode === "quiz"
+      && Boolean(subject.activeEnglishStageId)
+      && Boolean(subject.queue?.length);
     if (subject.mode !== "tree") subject.resumeMode = subject.mode;
-    subject.mode = "tree";
+    if (!resumeEnglishQuestion) subject.mode = "tree";
     save();
     syncScreens(screenName);
     render();
@@ -2226,6 +2367,27 @@
       return render();
     }
     if (action === "open-english-phase") return openEnglishPhase(actionTarget.dataset.englishPhase);
+    if (action === "start-english-elite-recommendation") {
+      document.dispatchEvent(new CustomEvent("study:start-elite-test", { detail: { subject: "영어" } }));
+      return;
+    }
+    if (action === "open-english-article-path") {
+      const subject = subjectState("english");
+      const targetIndex = (subjectInfo().stages || []).findIndex((course) => course.id === "EN-L5-CYCLE-05");
+      const course = subjectInfo().stages?.[targetIndex];
+      const phase = course?.courseStages?.[0];
+      if (!phase) return alert("기사형 학습을 준비 중입니다.");
+      subject.stageIndex = targetIndex;
+      subject.selectedEnglishLevelId = course.levelId;
+      subject.activeEnglishStageId = phase.stageId;
+      subject.queue = phase.questions.filter((question) => question.toeflTaskType).map((question) => question.id);
+      subject.mode = "quiz";
+      subject.resumeMode = "quiz";
+      subject.answer = "";
+      subject.feedback = null;
+      save();
+      return render();
+    }
     if (action === "open-english-ai-chat") {
       const subject = subjectState("english");
       subject.mode = "english-ai-chat";
@@ -2258,6 +2420,7 @@
       const status = englishVocabularyStatus(course);
       if (!status.currentCard) return;
       if (!status.courseState.memorizedIds.includes(status.currentCard.cardId)) status.courseState.memorizedIds.push(status.currentCard.cardId);
+      recordEnglishVocabularyAttempt(status.currentCard, "meaningRecognition", true);
       const next = status.cards.find((card) => !status.courseState.memorizedIds.includes(card.cardId));
       status.courseState.currentCardId = next?.cardId || status.currentCard.cardId;
       saveEnglishVocabularyState(status.vocabularyState);
@@ -2280,8 +2443,10 @@
     if (action === "relearn-english-vocabulary") {
       const cardIdValue = event.target.closest("[data-card-id]")?.dataset.cardId;
       const status = englishVocabularyStatus(currentStage());
+      const relearnCard = status.cards.find((card) => card.cardId === cardIdValue);
       status.courseState.memorizedIds = status.courseState.memorizedIds.filter((id) => id !== cardIdValue);
       status.courseState.currentCardId = cardIdValue;
+      recordEnglishVocabularyAttempt(relearnCard, "delayedRecall", false);
       saveEnglishVocabularyState(status.vocabularyState);
       return renderEnglishMemorized();
     }
@@ -2476,6 +2641,27 @@
 
   updateSubjectCards();
   restoreActiveSubject();
+  document.addEventListener("study:english-placement-accepted", (event) => {
+    const recommendation = event.detail || {};
+    const targetIndex = content.english?.stages?.findIndex((stage) => stage.id === recommendation.recommendedCycleId) ?? -1;
+    if (targetIndex < 0) return;
+    const subject = subjectState("english");
+    subject.stageIndex = targetIndex;
+    subject.selectedEnglishLevelId = `EN-QUALITY-L${recommendation.recommendedLevel}`;
+    subject.activeEnglishStageId = null;
+    subject.pendingWeakGrammarIds = [...(recommendation.weakGrammarIds || [])];
+    subject.pendingWeakVocabularyIds = [...(recommendation.weakVocabularyIds || [])];
+    subject.englishEliteRecommended = Boolean(recommendation.recommendElite);
+    subject.mode = "tree";
+    subject.resumeMode = "intro";
+    subject.queue = [];
+    subject.answer = "";
+    subject.feedback = null;
+    subject.lastUpdatedAt = new Date().toISOString();
+    save();
+    updateSubjectCards();
+    if (activeSubject === "english") render();
+  });
   window.addEventListener("study:user-changed", () => {
     state = load();
     updateSubjectCards();

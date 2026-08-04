@@ -2436,10 +2436,31 @@ function normalizeQuestion(item, bank, index) {
   };
 }
 
-function buildSubjectDiagnosticPool(subjectName) {
+function englishDiagnosticLevelNumber(grade = getSelectedGrade()) {
+  const normalized = String(grade || "").replace(/\s+/g, "");
+  const gradeLevelMap = {
+    "초등4학년": 3, "초4": 3,
+    "초등5학년": 4, "초5": 4,
+    "초등6학년": 5, "초6": 5,
+    "중등1학년": 6, "중1": 6,
+    "중등2학년": 7, "중2": 7,
+    "중등3학년": 8, "중3": 8,
+    "고등1학년": 9, "고1": 9,
+    "고등2학년": 10, "고2": 10,
+    "고등3학년": 11, "고3": 11,
+  };
+  return gradeLevelMap[normalized] || 3;
+}
+
+function buildSubjectDiagnosticPool(subjectName, options = {}) {
   const contentKey = { "영어": "english", "독서": "reading", "과학": "science", "한자": "hanja" }[subjectName];
   const subjectContent = window.STUDY_SUBJECT_CONTENT?.[contentKey];
-  const stages = subjectContent?.stages || [];
+  const englishMode = options.mode === "grade" ? "grade" : "adaptive";
+  const selectedGrade = options.selectedGrade || getSelectedGrade();
+  const targetEnglishLevel = englishDiagnosticLevelNumber(selectedGrade);
+  const stages = (subjectContent?.stages || []).filter((stage) => contentKey !== "english"
+    || englishMode !== "grade"
+    || Number(String(stage.levelId || "").match(/EN-L(\d{2})/)?.[1]) === targetEnglishLevel);
   const stageQuestions = stages.flatMap((stage) => {
     const questionStages = contentKey === "english" && stage.courseStages?.length
       ? stage.courseStages.map((courseStage) => ({
@@ -2450,7 +2471,8 @@ function buildSubjectDiagnosticPool(subjectName) {
         }))
       : [stage];
     return questionStages.flatMap((questionStage) => (questionStage.questions || [])
-      .filter((question) => question.answer && question.type !== "journal")
+      .filter((question) => question.answer && question.type !== "journal"
+        && (contentKey !== "english" || question.choices?.length >= 4))
       .map((question) => ({ question, stage: questionStage })));
   });
   const bookQuestions = (subjectContent?.books || []).flatMap((book) => (book.questions || [])
@@ -2466,7 +2488,7 @@ function buildSubjectDiagnosticPool(subjectName) {
       ...answers.filter((answer) => answer !== String(question.answer)).slice(index % Math.max(1, answers.length - 1), (index % Math.max(1, answers.length - 1)) + 3),
     ];
     const uniqueChoices = [...new Set(choices)].slice(0, 4);
-    while (uniqueChoices.length < 4) uniqueChoices.push(`다른 표현 ${uniqueChoices.length + 1}`);
+    while (uniqueChoices.length < 4) uniqueChoices.push(contentKey === "english" ? ["always", "never", "today", "tomorrow"][uniqueChoices.length] : `다른 표현 ${uniqueChoices.length + 1}`);
     const englishRank = Number(String(stage.levelId || question.id || "").match(/EN-L(\d{2})/)?.[1] || rank);
     const questionRank = contentKey === "english" ? Math.max(1, Math.min(12, englishRank)) : rank;
     const englishDomain = ({
@@ -2485,8 +2507,8 @@ function buildSubjectDiagnosticPool(subjectName) {
       id: `subject-diagnostic-${contentKey}-${question.id}`,
       conceptId: `${contentKey}-${stage.id}`,
       bank: contentKey,
-      grade: getSelectedGrade(),
-      level: getSelectedGrade(),
+      grade: selectedGrade,
+      level: selectedGrade,
       difficulty: question.difficulty || (index % 3) + 1,
       seconds: 50,
       domain: contentKey === "english" ? englishDomain : adaptiveDomains[index % adaptiveDomains.length],
@@ -2494,8 +2516,10 @@ function buildSubjectDiagnosticPool(subjectName) {
       isRepresentative: index % 2 === 0,
       rank: questionRank,
       levelLabel: contentKey === "english" ? stage.levelTitle : getSelectedGrade(),
-      concept: `${subjectName} · ${stage.title}`,
-      problem: question.question,
+      concept: contentKey === "english" ? `${subjectName} · ${englishDomain}` : `${subjectName} · ${stage.title}`,
+      problem: contentKey === "english" && question.passage
+        ? `${question.question}\n${question.passage}`
+        : question.question,
       answer: String(question.answer),
       choices: uniqueChoices,
       stable: stage.title,
@@ -2752,7 +2776,8 @@ async function startSubjectLevelTest(subjectName, mathMode = "adaptive") {
     return;
   }
 
-  adaptiveQuestionPool = buildSubjectDiagnosticPool(subjectName);
+  const subjectTestMode = subjectName === "영어" && mathMode === "grade" ? "grade" : "adaptive";
+  adaptiveQuestionPool = buildSubjectDiagnosticPool(subjectName, { mode: subjectTestMode, selectedGrade: getSelectedGrade() });
   if (adaptiveQuestionPool.length < 5) {
     alert(`${subjectName} 레벨테스트 문항은 준비 중입니다.`);
     return;
@@ -2763,8 +2788,15 @@ async function startSubjectLevelTest(subjectName, mathMode = "adaptive") {
     : adaptiveDomains;
   adaptiveState = createAdaptiveState(getSelectedGrade(), subjectDomains);
   adaptiveState.selectedSubject = subjectName;
+  adaptiveState.testMode = subjectName === "영어" ? `english-${subjectTestMode}` : mathMode;
+  if (subjectName === "영어") {
+    adaptiveState.startRank = subjectTestMode === "adaptive" ? 3 : englishDiagnosticLevelNumber(getSelectedGrade());
+    adaptiveState.currentRank = adaptiveState.startRank;
+  }
   const placementQuestions = subjectName === "영어"
-    ? adaptiveQuestionPool.filter((question) => Math.abs(question.rank - adaptiveState.startRank) <= 1)
+    ? adaptiveQuestionPool.filter((question) => subjectTestMode === "grade"
+      ? question.rank === adaptiveState.startRank
+      : question.rank === adaptiveState.startRank)
     : adaptiveQuestionPool;
   adaptiveState.representativeQueue = [...new Set(placementQuestions.map((question) => question.concept))];
   adaptiveState.prerequisiteQueue = [];
@@ -3232,7 +3264,10 @@ function restoreLevelTestState(saved) {
       : savedTestMode === mathGradePlacementTestMode && savedGradeRoute?.status === "READY"
         ? [...savedGradeRoute.questions]
         : buildMiddle3BasicQuestionPool()
-    : buildSubjectDiagnosticPool(levelTestSubject);
+    : buildSubjectDiagnosticPool(levelTestSubject, {
+        mode: savedTestMode === "english-grade" ? "grade" : "adaptive",
+        selectedGrade: savedGrade,
+      });
   const quizTitle = document.querySelector("#quizTitle");
   if (quizTitle) quizTitle.textContent = levelTestSubject === "수학"
     ? savedTestMode === middle3CycleTestMode ? "중3 수학 연속 레벨테스트"
@@ -3948,8 +3983,19 @@ function updateResultFromTest() {
     completedAt: new Date().toISOString(),
   });
   if (levelTestSubject === "영어") {
+    const weakGrammarIds = [...new Set(wrongQuestions.map((question) => question.grammarId || question.targetGrammarId).filter(Boolean))];
+    const weakVocabularyIds = [...new Set(wrongQuestions.map((question) => question.vocabularyId || question.targetVocabularyId).filter(Boolean))];
+    const readingAttempts = activeQuestions.filter((question) => /reading|comprehension/i.test(`${question.domain || ""} ${question.concept || ""}`));
+    const readingCorrect = readingAttempts.filter((question) => !wrongQuestions.includes(question) && !unknownQuestions.includes(question)).length;
     document.dispatchEvent(new CustomEvent("study:english-placement", {
-      detail: { levelId: getEnglishPlacementLevelId() },
+      detail: {
+        levelId: getEnglishPlacementLevelId(),
+        weakGrammarIds,
+        weakVocabularyIds,
+        readingConfidence: readingAttempts.length ? Math.round((readingCorrect / readingAttempts.length) * 100) : 50,
+        inferenceEvidenceCount: activeQuestions.filter((question) => /inference|추론/i.test(`${question.concept || ""} ${question.prompt || ""}`) && !wrongQuestions.includes(question)).length,
+        timestamp: Date.now(),
+      },
     }));
   }
 }
@@ -4084,7 +4130,7 @@ levelTestSubjectButtons.forEach((button) => {
   });
 });
 
-setupLevelStart?.addEventListener("click", () => startSubjectLevelTest(levelTestSubject, levelTestSubject === "수학" ? "adaptive" : "grade"));
+setupLevelStart?.addEventListener("click", () => startSubjectLevelTest(levelTestSubject, levelTestSubject === "수학" || levelTestSubject === "영어" ? "adaptive" : "grade"));
 syncLevelTestSubjectPicker();
 
 const testSubjectModal = document.querySelector("#testSubjectModal");
@@ -4107,12 +4153,18 @@ document.querySelectorAll("[data-open-test-subject]").forEach((button) => {
 document.querySelectorAll("[data-test-subject]").forEach((button) => {
   button.addEventListener("click", () => {
     const subject = button.dataset.testSubject;
+    const selectedTestMode = pendingTestMode;
+    pendingTestMode = "standard";
     closeTestSubjectModal();
-    if (pendingTestMode === "elite") {
+    if (selectedTestMode === "elite") {
       document.dispatchEvent(new CustomEvent("study:start-elite-test", { detail: { subject } }));
       return;
     }
-    startSubjectLevelTest(subject, subject === "수학" ? button.dataset.mathTestMode || "adaptive" : "grade");
+    startSubjectLevelTest(subject, subject === "수학"
+      ? button.dataset.mathTestMode || "adaptive"
+      : subject === "영어"
+        ? button.dataset.englishTestMode || "adaptive"
+        : "grade");
   });
 });
 

@@ -1,6 +1,10 @@
 (function () {
   const curriculum = window.ENGLISH_MASTER_CURRICULUM;
   const levels = window.ENGLISH_MASTER_LEVELS;
+  const qualityLevelContents = [1, 2, 3, 4, 5]
+    .map((level) => window[`STUDY_ENGLISH_LEVEL${level}_CONTENT`])
+    .filter((levelContent) => levelContent?.cycles?.length);
+  const qualityReviewPlan = window.STUDY_ENGLISH_SPACED_REVIEW?.buildSpacedReviewPlan?.(qualityLevelContents) || [];
   if (!curriculum || !levels || !window.STUDY_SUBJECT_CONTENT) return;
 
   const extractVocabularyWord = (problem) => {
@@ -208,15 +212,71 @@
     return null;
   };
 
+  const englishOnlyFallbackView = (problem) => {
+    const prompt = String(problem.prompt || "");
+    if (!/[가-힣]/.test(prompt)) return null;
+
+    const answer = String(problem.correctAnswer ?? problem.choices?.[problem.answerIndex] ?? "").trim();
+    const choices = (problem.choices || []).map((choice) => String(choice).trim()).filter(Boolean);
+    const englishChoices = choices.filter((choice) => !/[가-힣]/.test(choice));
+    const blankSentence = prompt.match(/([A-Z][^가-힣“”]*_{2,}[^가-힣“”]*[.!?])/u)?.[1]?.trim();
+    if (blankSentence && answer && !/[가-힣]/.test(answer) && englishChoices.includes(answer)) {
+      return { passage: blankSentence, question: "Complete the sentence.", choices: englishChoices, answer };
+    }
+
+    const quotedSentence = prompt.match(/[“"]([^”"]+)[”"]/)?.[1]?.trim();
+    const exampleSentence = String(problem.exampleSentence || quotedSentence || "").trim();
+    const correctSentence = !/[가-힣]/.test(answer) && /^[A-Za-z].*[.!?]$/.test(answer) ? answer : exampleSentence;
+    if (correctSentence && !/[가-힣]/.test(correctSentence)) {
+      const baseForms = { eaten: "eat", seen: "see", written: "write", read: "read", gone: "go", done: "do", been: "be", finished: "finish", visited: "visit", cleaned: "clean", played: "play" };
+      const participleMatch = correctSentence.match(/\b(has|have)\s+([A-Za-z]+)\b/i);
+      const base = participleMatch ? baseForms[participleMatch[2].toLowerCase()] || participleMatch[2].replace(/ed$/i, "") : "";
+      if (participleMatch) {
+        const wrongAuxiliary = correctSentence.replace(participleMatch[0], `${participleMatch[1].toLowerCase() === "has" ? "have" : "has"} ${participleMatch[2]}`);
+        const wrongParticiple = correctSentence.replace(participleMatch[0], `${participleMatch[1]} ${base}`);
+        const missingAuxiliary = correctSentence.replace(participleMatch[0], `${base}s`);
+        const sentenceChoices = [...new Set([correctSentence, wrongAuxiliary, wrongParticiple, missingAuxiliary])].slice(0, 4);
+        if (sentenceChoices.length === 4) {
+          return { question: "Choose the correct sentence.", choices: sentenceChoices, answer: correctSentence };
+        }
+      }
+    }
+
+    if (answer && !/[가-힣]/.test(answer) && englishChoices.includes(answer)) {
+      const sourceSentence = prompt.match(/:\s*([A-Z][^가-힣]+[.!?])/u)?.[1]?.trim();
+      return {
+        passage: sourceSentence || undefined,
+        question: sourceSentence ? "Choose the best answer." : "Choose the best word.",
+        choices: englishChoices,
+        answer,
+      };
+    }
+
+    const safeSets = [
+      { passage: "She ___ lunch already.", question: "Complete the sentence.", choices: ["eats", "ate", "has eaten", "eating"], answer: "has eaten" },
+      { question: "Choose the correct sentence.", choices: ["He has seen that movie.", "He have seen that movie.", "He has see that movie.", "He seeing that movie."], answer: "He has seen that movie." },
+      { passage: "Emma missed the bus, so she walked to school.", question: "Why did Emma walk to school?", choices: ["She missed the bus.", "She wanted to exercise.", "Her school was closed.", "She lost her bag."], answer: "She missed the bus." },
+      { passage: "The price of food has ___ recently.", question: "Choose the best word.", choices: ["increased", "slept", "painted", "arrived"], answer: "increased" },
+    ];
+    const seed = [...String(problem.questionId || prompt)].reduce((sum, char) => sum + char.charCodeAt(0), 0);
+    return safeSets[seed % safeSets.length];
+  };
+
   const toQuestion = (problem, stage) => {
     const primaryView = englishLearningView(problem, stage);
     const fallbackView = stage?.stageType === "reading" && !primaryView?.passage && !problem.passage && !problem.readingPassage
       ? readingFallbackView(problem, stage)
       : null;
-    const learningView = primaryView && fallbackView ? { ...primaryView, ...fallbackView } : primaryView || fallbackView;
+    const initialView = primaryView && fallbackView ? { ...primaryView, ...fallbackView } : primaryView || fallbackView;
+    const initialChoices = initialView?.choices || problem.choices || [];
+    const hasMixedSurface = /[가-힣]/.test(String(initialView?.question || problem.prompt || ""))
+      || initialChoices.some((choice) => /[가-힣]/.test(String(choice)));
+    const learningView = hasMixedSurface ? englishOnlyFallbackView(problem) || initialView : initialView;
     return ({
     id: problem.questionId || problem.id,
-    type: problem.type === "pronunciationPrompt" ? "speaking" : ["fillBlank", "spelling", "dictation"].includes(problem.type) ? "fill-blank" : problem.type,
+    type: learningView?.choices?.length
+      ? "multipleChoice"
+      : problem.type === "pronunciationPrompt" ? "speaking" : ["fillBlank", "spelling", "dictation"].includes(problem.type) ? "fill-blank" : problem.type,
     question: learningView?.question || problem.prompt,
     choices: learningView?.choices || (problem.choices?.length ? problem.choices : undefined),
     answer: learningView?.answer || (problem.correctAnswer ?? problem.choices?.[problem.answerIndex]),
@@ -270,7 +330,82 @@
     });
   };
 
-  const stages = curriculum.courses.map((course) => ({
+  const authoredCategoryLabels = Object.freeze({
+    VOCABULARY_MEANING: "Words in context",
+    CONTEXT_VOCABULARY: "Words in context",
+    GRAMMAR_FORM: "Grammar",
+    SENTENCE_CHOICE: "Natural sentences",
+    SENTENCE_EXPANSION: "Build the sentence",
+    SENTENCE_CONNECTION: "Connect ideas",
+    READING_DETAIL: "Read and answer",
+    READING_REASON: "Read and answer",
+    READING_RELATION: "Read and answer",
+    READING_VOCABULARY: "Read and answer",
+    TOEFL_READING: "Article reading",
+    SPACED_VOCABULARY_REVIEW: "Remember and reuse",
+    TRANSFER: "Use it again",
+    INDEPENDENT_CHECK: "Try it yourself",
+  });
+  const authoredQualityStages = qualityLevelContents.flatMap((levelContent) => levelContent.cycles.map((cycle) => ({
+    id: cycle.cycleId,
+    levelId: `EN-QUALITY-L${cycle.level}`,
+    levelTitle: `영어 ${cycle.level}단계`,
+    title: cycle.title,
+    description: `${cycle.contextDomain} 주제에서 새 어휘와 기초 문장을 연결해 학습합니다.`,
+    difficulty: cycle.level,
+    cefrApprox: ["A1", "A2", "B1", "B2", "C1"][cycle.level - 1],
+    learningObjectives: [...cycle.targetVocabularyIds, ...cycle.targetGrammarIds],
+    prerequisiteCourseIds: [],
+    assessmentType: "cycle-practice",
+    passMode: "perfect",
+    intro: {
+      title: cycle.title,
+      body: "새 단어를 문장에 적용하고 짧은 글을 읽은 뒤 혼자 확인합니다.",
+      example: `${cycle.problems.length}문항 · 어휘 · 문법 · 독해 · 혼자 풀기`,
+    },
+    courseStages: [{
+      stageId: `${cycle.cycleId}-STAGE`,
+      stageType: "practice",
+      stageTitle: cycle.title,
+      estimatedMinutes: 12,
+      contentStatus: "ready",
+      questions: [...cycle.problems, ...qualityReviewPlan.filter((problem) => problem.cycleId === cycle.cycleId).slice(0, 4)].map((problem) => ({
+        id: problem.problemId,
+        type: "multipleChoice",
+        question: problem.prompt,
+        passage: problem.passage,
+        choices: [...problem.choices],
+        answer: problem.choices[problem.correctChoiceIndex],
+        explanation: problem.explanation,
+        hint: "문장과 글의 앞뒤 의미를 다시 확인해 보세요.",
+        vocabularyFocus: problem.targetVocabularyIds.join(", "),
+        grammarFocus: problem.targetGrammarIds.join(", "),
+        questionCategory: authoredCategoryLabels[problem.questionType] || "English practice",
+        level: problem.level,
+        cycleId: problem.cycleId,
+        sentenceFamilyId: problem.sentenceFamilyId,
+        passageId: problem.passageId,
+        correctChoiceIndex: problem.correctChoiceIndex,
+        choiceMisconceptionTags: [...problem.choiceMisconceptionTags],
+        targetVocabularyIds: [...problem.targetVocabularyIds],
+        reviewVocabularyIds: [...problem.reviewVocabularyIds],
+        targetGrammarIds: [...problem.targetGrammarIds],
+        reviewGrammarIds: [...problem.reviewGrammarIds],
+        structureSignature: problem.structureSignature,
+        contextDomain: problem.contextDomain,
+        difficulty: problem.difficulty,
+        difficultyEvidence: problem.difficultyEvidence,
+        independentCheck: problem.independentCheck,
+        articleTitle: problem.articleTitle || "",
+        articleStructure: [...(problem.articleStructure || [])],
+        toeflTaskType: problem.toeflTaskType || null,
+      })),
+    }],
+    questions: [],
+    curriculumOnly: false,
+  })));
+
+  const stages = [...authoredQualityStages, ...curriculum.courses.map((course) => ({
     id: course.courseId,
     levelId: course.levelId,
     levelTitle: course.levelTitle,
@@ -294,14 +429,14 @@
     }),
     questions: course.sampleProblems.map((problem) => toQuestion(problem, null)),
     curriculumOnly: course.stages.every((stage) => !(window.ENGLISH_LV1_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV2_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV3_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV4_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV5_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV6_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV7_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV8_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV9_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV10_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV11_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV12_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV13_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV14_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV15_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV16_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV17_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV18_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV19_QUESTIONS?.[stage.stageId]?.length || window.ENGLISH_LV20_QUESTIONS?.[stage.stageId]?.length || stage.sampleProblems?.length)),
-  }));
+  }))];
 
   window.STUDY_SUBJECT_CONTENT.english = {
     name: "영어",
     eyebrow: "기초 · 수능 · TOEFL 통합 로드맵",
     color: "#d9a91a",
-    levelOrder: levels.map((level) => level.levelId),
-    levelSummaries: levels,
+    levelOrder: authoredQualityStages.length ? [1, 2, 3, 4, 5].map((level) => `EN-QUALITY-L${level}`).concat(levels.map((level) => level.levelId)) : levels.map((level) => level.levelId),
+    levelSummaries: authoredQualityStages.length ? [1, 2, 3, 4, 5].map((level) => ({ levelId: `EN-QUALITY-L${level}`, title: `영어 ${level}단계` })).concat(levels) : levels,
     stages,
   };
 })();
