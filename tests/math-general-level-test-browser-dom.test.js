@@ -213,3 +213,97 @@ test("실제 DOM에서 일반 진단과 Math Elite가 서로 오염 없이 왕�
     }
   }
 });
+
+test("실제 DOM에서 중2 학년별 범위 진단이 Elite와 맞춤형 진단과 분리된다", { timeout: 70000 }, async () => {
+  const chromePath = CHROME_PATHS.find(fs.existsSync);
+  assert.ok(chromePath, "Chrome 또는 Edge 실행 파일이 필요합니다.");
+  const app = await startStaticServer();
+  const debugPort = await freePort();
+  const profileDir = fs.mkdtempSync(path.join(os.tmpdir(), "study-grade-range-dom-"));
+  const chrome = spawn(chromePath, [
+    "--headless=new", "--disable-gpu", "--no-first-run", "--no-default-browser-check",
+    `--remote-debugging-port=${debugPort}`, `--user-data-dir=${profileDir}`,
+    `http://127.0.0.1:${app.port}/index.html`,
+  ], { stdio: "ignore", windowsHide: true });
+
+  let cdp;
+  try {
+    const targets = await waitForJson(`http://127.0.0.1:${debugPort}/json/list`);
+    const page = targets.find((item) => item.type === "page" && item.url.includes(`127.0.0.1:${app.port}`));
+    assert.ok(page?.webSocketDebuggerUrl);
+    cdp = await connectCdp(page.webSocketDebuggerUrl);
+    await cdp.send("Page.enable");
+    await cdp.send("Runtime.enable");
+    await cdp.send("Page.addScriptToEvaluateOnNewDocument", { source: `(() => {
+      Math.random=()=>0.2;
+      window.__gradeRangeErrors=[];
+      addEventListener("error", (event)=>window.__gradeRangeErrors.push(String(event.error?.stack || event.message)));
+      addEventListener("unhandledrejection", (event)=>window.__gradeRangeErrors.push(String(event.reason?.stack || event.reason)));
+    })();` });
+    await waitFor(cdp.evaluate, `document.readyState === "complete" && !!window.STUDY_ELITE_APP && typeof window.STUDY_NAV?.go === "function"`);
+    await cdp.evaluate(`localStorage.clear(); localStorage.setItem("studyCoinCurrentUser","m2@example.com"); localStorage.setItem("studyCoinAuth",JSON.stringify({"m2@example.com":{id:"m2@example.com",uid:"m2-dom-user",provider:"password",onboardingComplete:true,learningSettings:{role:"student",school:"middle",grade:"중등 2학년",subjects:["수학"]}}})); true`);
+    await cdp.send("Page.reload", { ignoreCache: true });
+    await new Promise((resolve) => setTimeout(resolve, 300));
+    await waitFor(cdp.evaluate, `document.readyState === "complete" && !!window.STUDY_ELITE_APP && typeof window.STUDY_NAV?.go === "function"`);
+
+    await cdp.evaluate(`window.STUDY_CLOUD_AUTH={isConfigured:true,stateSyncEnabled:true,syncUserRecord:()=>new Promise(()=>{}),loadUserState:()=>new Promise(()=>{}),saveUserState:()=>new Promise(()=>{})}; true`);
+
+    const openGradeRange = async () => {
+      await cdp.evaluate(`window.STUDY_NAV.go("home"); document.querySelector('[data-open-test-subject="standard"]').click(); true`);
+      await waitFor(cdp.evaluate, `!document.querySelector("#testSubjectModal").classList.contains("hidden")`);
+      const state = await cdp.evaluate(`(() => { const b=document.querySelector('[data-test-subject="수학"][data-math-test-mode="grade"]'); const s=getComputedStyle(b); const r=b.getBoundingClientRect(); return {visible:!b.hidden&&!b.disabled&&s.display!=="none"&&s.visibility!=="hidden"&&r.width>0&&r.height>0}; })()`);
+      assert.equal(state.visible, true);
+      await cdp.evaluate(`document.querySelector('[data-test-subject="수학"][data-math-test-mode="grade"]').click(); true`);
+    };
+
+    await openGradeRange();
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="quiz"]')?.classList.contains("active") && document.querySelector('[data-screen="quiz"]')?.dataset.testMode === "GRADE_RANGE_DIAGNOSIS" && document.querySelectorAll("#answerList [data-answer]").length === 4`, 3500);
+    const first = await cdp.evaluate(`({prompt:document.querySelector("#quizProblem").textContent.trim(),mode:document.querySelector('[data-screen="quiz"]').dataset.testMode,gradeBand:document.querySelector('[data-screen="quiz"]').dataset.gradeBand,bankId:document.querySelector('[data-screen="quiz"]').dataset.gradeBankId,choices:[...document.querySelectorAll("#answerList [data-answer]")].map((item)=>item.dataset.answer)})`);
+    assert.equal(first.mode, "GRADE_RANGE_DIAGNOSIS");
+    assert.equal(first.gradeBand, "M2");
+    assert.equal(first.bankId, "M2_GENERATED");
+    assert.equal(first.prompt, "3x+4x-2x = ?");
+    assert.equal(first.choices.length, 4);
+
+    await cdp.evaluate(`document.querySelector('#answerList [data-answer="5x"]').click(); document.querySelector("#nextQuestion").click(); true`);
+    await waitFor(cdp.evaluate, `document.querySelector("#quizProblem").textContent.trim() === "x+y=5, x-y=-1일 때 x는?"`);
+    const snapshot = await cdp.evaluate(`(() => { const key=Object.keys(localStorage).find((item)=>item.startsWith("studyCoinLevelTest:")); return JSON.parse(localStorage.getItem(key)||"null"); })()`);
+    assert.equal(snapshot.mode, "GRADE_RANGE_DIAGNOSIS");
+    assert.equal(snapshot.selectedGradeBand, "M2");
+    assert.equal(snapshot.selectedGradeBankId, "M2_GENERATED");
+    assert.equal(snapshot.activeQuestions.length, 2);
+    assert.equal(snapshot.activeQuestions.filter((item)=>item.testGradeBand!=="M2").length, 0);
+    assert.equal(await cdp.evaluate(`Object.keys(localStorage).filter((key)=>key.startsWith("studyCoinMathAdaptiveLevelTestV1:")).length`), 0);
+
+    await cdp.evaluate(`window.STUDY_NAV.go("home"); document.querySelector("#startEliteTestButton").click(); true`);
+    await waitFor(cdp.evaluate, `!document.querySelector("#testSubjectModal").classList.contains("hidden")`);
+    await cdp.evaluate(`document.querySelector('[data-test-subject="수학"][data-math-test-mode="adaptive"]').click(); true`);
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="elite-quiz"]')?.classList.contains("active") && document.querySelector("#eliteProblem").textContent.trim().length>0`);
+
+    await openGradeRange();
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="resume-test"]')?.classList.contains("active")`);
+    await cdp.evaluate(`document.querySelector("#resumeTest").click(); true`);
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="quiz"]')?.classList.contains("active") && document.querySelector("#quizProblem").textContent.trim() === "x+y=5, x-y=-1일 때 x는?"`);
+
+    await cdp.send("Page.reload", { ignoreCache: true });
+    await new Promise((resolve) => setTimeout(resolve, 300));
+    await waitFor(cdp.evaluate, `document.readyState === "complete" && (document.querySelector('[data-screen="resume-test"]')?.classList.contains("active") || document.querySelector('[data-screen="quiz"]')?.classList.contains("active"))`);
+    if (await cdp.evaluate(`document.querySelector('[data-screen="resume-test"]')?.classList.contains("active")`)) await cdp.evaluate(`document.querySelector("#resumeTest").click(); true`);
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="quiz"]')?.classList.contains("active") && document.querySelector("#quizProblem").textContent.trim() === "x+y=5, x-y=-1일 때 x는?"`);
+
+    await cdp.evaluate(`window.STUDY_NAV.go("home"); document.querySelector('[data-open-test-subject="standard"]').click(); document.querySelector('[data-test-subject="수학"][data-math-test-mode="adaptive"]').click(); true`);
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="quiz"]')?.classList.contains("active") && document.querySelector('[data-screen="quiz"]')?.dataset.testMode === "ADAPTIVE_CONCEPT_DIAGNOSIS"`);
+    assert.equal(await cdp.evaluate(`Object.keys(localStorage).some((key)=>key.startsWith("studyCoinLevelTest:"))`), true);
+    assert.equal(await cdp.evaluate(`Object.keys(localStorage).some((key)=>key.startsWith("studyCoinMathAdaptiveLevelTestV1:"))`), true);
+    assert.deepEqual(await cdp.evaluate(`window.__gradeRangeErrors`), []);
+    assert.equal(cdp.events.filter((event) => event.method === "Runtime.exceptionThrown").length, 0);
+  } finally {
+    cdp?.socket?.close();
+    chrome.kill();
+    await Promise.race([new Promise((resolve) => chrome.once("exit", resolve)), new Promise((resolve) => setTimeout(resolve, 2000))]);
+    await new Promise((resolve) => app.server.close(resolve));
+    try { fs.rmSync(profileDir, { recursive: true, force: true }); } catch (error) {
+      if (error?.code !== "EPERM" && error?.code !== "EBUSY") throw error;
+    }
+  }
+});

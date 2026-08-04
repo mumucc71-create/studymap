@@ -81,9 +81,11 @@ test("continuous math UI uses give-up and loads the cycle engine before the app"
 });
 
 test("re-entering the math test resumes saved progress before resetting", () => {
-  const startFunction = script.match(/async function startSubjectLevelTest\(subjectName(?:, mathMode = "adaptive")?\) \{[\s\S]*?\n\}/)?.[0] || "";
+  const startOffset = script.indexOf('async function startSubjectLevelTest(subjectName, mathMode = "adaptive")');
+  const endOffset = script.indexOf("\nfunction ", startOffset);
+  const startFunction = startOffset >= 0 ? script.slice(startOffset, endOffset) : "";
   const savedCheck = startFunction.indexOf("const saved = getSavedLevelTest()");
-  const resetCall = startFunction.indexOf("resetLevelTest()");
+  const resetCall = startFunction.indexOf("resetLevelTest(");
   assert.ok(savedCheck >= 0, "수학 시작 전에 저장 기록을 확인해야 합니다.");
   assert.ok(resetCall > savedCheck, "저장 확인이 초기화보다 먼저 실행되어야 합니다.");
   assert.ok(startFunction.indexOf("await hydrateMiddle3LevelTestFromCloud()") < savedCheck);

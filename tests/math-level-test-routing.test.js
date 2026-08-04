@@ -85,7 +85,8 @@ test("준비된 학년 세션의 unknown canonical ID는 0이다", () => {
 test("script 라우팅은 선택 학년을 읽고 중3 고정 fallback을 만들지 않는다", () => {
   const fs = require("node:fs");
   const script = fs.readFileSync(require("node:path").join(__dirname, "..", "script.js"), "utf8");
-  assert.match(script, /const selectedGrade = getSelectedGrade\(\)/);
+  assert.match(script, /const configuredGrade = getConfiguredGradeForRangeDiagnosis\(\)/);
+  assert.match(script, /gradeRangeDiagnosisMode = "GRADE_RANGE_DIAGNOSIS"/);
   assert.match(script, /buildGradeTestSession\(\{ selectedGrade/);
   assert.match(script, /TEST_BANK_NOT_READY/);
   assert.doesNotMatch(script, /adaptiveState = createAdaptiveState\("중등 3학년", middle3BasicUnitOrder\)/);

@@ -71,8 +71,8 @@ test("테스트 완료 이벤트는 학습 시작 버튼에서만 전달한다",
 });
 
 test("기존 학년별 resetLevelTest 경로를 삭제하지 않았다", () => {
-  assert.match(script, /function resetLevelTest\(\)/);
-  assert.match(script, /mathGradePlacementTestMode/);
+  assert.match(script, /function resetLevelTest\(selectedGradeOverride = ""\)/);
+  assert.match(script, /gradeRangeDiagnosisMode = "GRADE_RANGE_DIAGNOSIS"/);
   assert.match(script, /if \(mathMode !== "grade"\)/);
 });
 
