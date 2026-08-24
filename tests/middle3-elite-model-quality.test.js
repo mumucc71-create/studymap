@@ -6,6 +6,7 @@ const path = require("node:path");
 const schema = require("../elite-problem-schema.js");
 const mathModel = require("../middle3-elite-math-model.js");
 const englishModel = require("../middle3-elite-english-model.js");
+const geometryRenderer = require("../elite-geometry-renderer.js");
 
 const mathProblems = mathModel.problems;
 const englishProblems = englishModel.problems;
@@ -33,20 +34,16 @@ test("공통 Elite 스키마가 두 과목의 절대 난이도 필드를 제공�
   assert.ok(schema.CONTENT_ROLES.includes("ELITE_CEILING"));
 });
 
-test("재작성 버전은 75문항을 교체하고 승인된 핵심 구조 7문항을 보존한다", () => {
+test("수학 42문항은 학생용 문장 버전이고 영어 40문항은 기존 승인 버전을 보존한다", () => {
   assert.equal(allProblems.length, 82);
   assert.deepEqual(countBy(allProblems, "contentVersion"), {
-    "m3-elite-reviewed-v2": 7,
-    "m3-elite-rewrite-v2": 75,
+    "m3-elite-student-language-v3": 42,
+    "m3-elite-reviewed-v2": 2,
+    "m3-elite-rewrite-v2": 38,
   });
   assert.deepEqual(
     allProblems.filter((problem) => problem.contentVersion === "m3-elite-reviewed-v2").map((problem) => problem.problemId),
     [
-      "elite-m3-math-rad-h01",
-      "elite-m3-math-rad-h03",
-      "elite-m3-math-fac-h01",
-      "elite-m3-math-qfn-h02",
-      "elite-m3-math-cir-h03",
       "elite-m3-eng-h13",
       "elite-m3-eng-h20",
     ]
@@ -76,6 +73,26 @@ test("중3 수학의 다섯 답안형 분포를 고정한다", () => {
     EXPRESSION: 7,
     PROCESS: 7,
     WRITTEN: 7,
+  });
+});
+
+test("수학 난이도와 문장 난이도를 분리하고 42문항을 학생용 표현으로 제공한다", () => {
+  mathProblems.forEach((problem) => {
+    assert.equal(problem.mathematicalDifficulty, problem.eliteLevel === "TOP" ? 5 : 4, problem.problemId);
+    assert.equal(problem.languageDifficulty, 2, problem.problemId);
+    assert.doesNotMatch(problem.prompt, /구하여라|작성하여라|증명하여라|확인하여라|P-A-B|작은 각/, problem.problemId);
+  });
+});
+
+test("그림이 필요한 13문항은 geometryData와 읽을 수 있는 SVG를 가진다", () => {
+  const geometryProblems = mathProblems.filter((problem) => problem.geometryData);
+  assert.equal(geometryProblems.length, 13);
+  geometryProblems.forEach((problem) => {
+    assert.ok(problem.geometryData.alt.length >= 15, problem.problemId);
+    const svg = geometryRenderer.render(problem.geometryData);
+    assert.match(svg, /^<svg /, problem.problemId);
+    assert.match(svg, /role="img"/, problem.problemId);
+    assert.match(svg, /aria-label=/, problem.problemId);
   });
 });
 

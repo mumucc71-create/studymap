@@ -22,10 +22,88 @@
     statistics: "2015 개정 중3 평균·중앙값·분산·표준편차와 산점도 해석 범위만 사용한다.",
   };
 
+  const geometryByProblemId = Object.freeze({
+    "elite-m3-math-qeq-h01": Object.freeze({
+      kind: "inset-rectangle", outerWidth: 20, outerHeight: 14, innerArea: 40,
+      alt: "가로 20미터, 세로 14미터인 화단 안쪽에 폭 x인 길이 둘러진 그림",
+    }),
+    "elite-m3-math-tri-h01": Object.freeze({
+      kind: "right-triangle", variant: "altitude", leftLabel: "tan A=3/4", baseLabel: "AD-BD=7",
+      alt: "직각삼각형 ABC에서 빗변 AB에 내린 높이 CD를 나타낸 그림",
+    }),
+    "elite-m3-math-tri-h02": Object.freeze({
+      kind: "two-roads-pole", angleA: "A", angleB: "B",
+      alt: "서로 수직인 두 도로 위의 점 A와 B에서 깃대 꼭대기를 바라보는 그림",
+    }),
+    "elite-m3-math-tri-h03": Object.freeze({
+      kind: "triangle-altitude",
+      alt: "삼각형 ABC에서 꼭짓점 B에서 변 AC에 수직으로 내린 선분 BD를 나타낸 그림",
+    }),
+    "elite-m3-math-tri-t01": Object.freeze({
+      kind: "collinear-pole",
+      alt: "한 직선 위의 점 A, B, 깃대의 밑점 O, 점 C와 세 시선을 나타낸 그림",
+    }),
+    "elite-m3-math-tri-t02": Object.freeze({
+      kind: "right-triangle", variant: "altitude", baseLabel: "AD+DB=25",
+      alt: "직각삼각형 ABC에서 빗변 AB에 내린 높이 CD를 나타낸 그림",
+    }),
+    "elite-m3-math-tri-t03": Object.freeze({
+      kind: "right-triangle", variant: "bisector", leftLabel: "tan A=3/4", rightLabel: "BD=15√5",
+      alt: "직각삼각형 ABC에서 각 B를 똑같이 나누는 선분 BD를 나타낸 그림",
+    }),
+    "elite-m3-math-cir-h01": Object.freeze({
+      kind: "circle-secants",
+      alt: "원 밖의 점 P에서 원을 가로지르는 두 직선 PAB와 PCD를 그린 그림",
+    }),
+    "elite-m3-math-cir-h02": Object.freeze({
+      kind: "circle-tangent-quadrilateral", tangentAt: "A", angleAB: "35°", angleAD: "50°",
+      alt: "원 위의 네 점 A, B, C, D와 점 A에서 그은 접선을 나타낸 그림",
+    }),
+    "elite-m3-math-cir-h03": Object.freeze({
+      kind: "circle-tangent-quadrilateral", tangentAt: "C",
+      alt: "원 위의 네 점 A, B, C, D와 점 C에서 그은 접선을 나타낸 그림",
+    }),
+    "elite-m3-math-cir-t01": Object.freeze({
+      kind: "circle-tangent-quadrilateral", tangentAt: "A", angleAB: "32°", angleAD: "68°", bisector: true,
+      alt: "원 위의 네 점 A, B, C, D와 점 A의 접선, 각 B를 똑같이 나누는 선분 BD를 나타낸 그림",
+    }),
+    "elite-m3-math-cir-t02": Object.freeze({
+      kind: "circle-tangent-secant", tangentLength: 12,
+      alt: "원 밖의 점 P에서 그은 접선 PT와 원을 가로지르는 직선 PAB를 나타낸 그림",
+    }),
+    "elite-m3-math-cir-t03": Object.freeze({
+      kind: "circle-intersecting-chords", chordAB: 13, chordCD: 14,
+      alt: "원 안의 점 P에서 만나는 두 현 AB와 CD를 나타낸 그림",
+    }),
+  });
+
+  const studentPromptOverrides = Object.freeze({
+    "elite-m3-math-cir-h01": "그림처럼 점 P, A, B가 이 순서로 한 직선 위에 있고, 점 P, C, D도 이 순서로 한 직선 위에 있습니다. A, B, C, D는 원 위의 점입니다. PA=5, AB=3, PC=x, CD=x+2일 때 PD의 길이를 구하세요.",
+    "elite-m3-math-cir-h02": "그림처럼 A, B, C, D가 원 위에 있습니다. 점 A에서 원에 접하는 직선을 그었습니다. 이 접선과 선분 AB가 이루는 각은 35°, 접선과 선분 AD가 이루는 각은 50°입니다. ∠BCD의 크기를 구하세요.",
+    "elite-m3-math-cir-h03": "그림처럼 A, B, C, D가 원 위에 있고 ∠BAD=70°입니다. 점 C에서 원에 접하는 직선과 선분 CD가 이루는 각이 50°일 때 ∠BDC의 크기를 구하세요.",
+    "elite-m3-math-cir-t01": "그림처럼 A, B, C, D가 원 위에 있습니다. 점 A에서 그은 접선과 선분 AB가 이루는 각은 32°, 접선과 선분 AD가 이루는 각은 68°입니다. 선분 BD가 ∠ABC를 크기가 같은 두 각으로 나눌 때 ∠BDC를 구하는 과정을 써 보세요.",
+    "elite-m3-math-cir-t02": "지름이 10인 원 밖의 점 P에서 접선을 그었더니 접선의 길이가 12였습니다. 점 P에서 원을 가로지르는 직선을 하나 더 그었습니다. 이 직선에서 원 밖 부분의 길이를 a, 원 안 부분의 길이를 b라고 할 때, a와 b는 모두 양의 정수입니다. 가능한 모든 (a,b)를 구하세요. 원 안의 선분은 지름보다 길 수 없다는 조건도 사용하세요.",
+    "elite-m3-math-cir-t03": "그림처럼 길이가 13인 현 AB와 길이가 14인 현 CD가 원 안의 점 P에서 만납니다. AP와 CP는 양의 정수이고 AP<PB, CP<PD일 때 AP+CP의 값을 구하세요.",
+  });
+
+  function studentFriendlyPrompt(input) {
+    const override = studentPromptOverrides[input.problemId];
+    if (override) return override;
+    return String(input.prompt || "")
+      .replace(/구하여라/g, "구하세요")
+      .replace(/작성하여라/g, "써 보세요")
+      .replace(/증명하여라/g, "설명하세요")
+      .replace(/확인하여라/g, "확인하세요")
+      .replace(/만족한다\./g, "만족합니다.")
+      .replace(/이다\./g, "입니다.")
+      .replace(/일 때/g, "일 때")
+      .replace(/\?$/g, "?");
+  }
+
   function makeProblem(input) {
     return Object.freeze({
       problemId: input.problemId,
-      contentVersion: input.contentVersion || "m3-elite-rewrite-v2",
+      contentVersion: "m3-elite-student-language-v3",
       subject: "수학",
       gradeOrLevel: GRADE,
       curriculumVersion: CURRICULUM,
@@ -33,7 +111,10 @@
       conceptId: input.conceptId,
       eliteLevel: input.eliteLevel,
       answerType: input.answerType,
-      prompt: input.prompt,
+      prompt: studentFriendlyPrompt(input),
+      geometryData: geometryByProblemId[input.problemId] || null,
+      mathematicalDifficulty: input.eliteLevel === "TOP" ? 5 : 4,
+      languageDifficulty: 2,
       choices: Object.freeze(input.choices || []),
       correctAnswer: input.correctAnswer,
       explanation: input.explanation,
@@ -1038,7 +1119,7 @@
   ];
 
   return Object.freeze({
-    version: "middle3-elite-math-model-v2",
+    version: "middle3-elite-math-model-v3",
     gradeOrLevel: GRADE,
     curriculumVersion: CURRICULUM,
     domains: Object.freeze([

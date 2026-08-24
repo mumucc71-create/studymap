@@ -175,6 +175,16 @@
         errors.push("영어 문항에 정답 근거 문장이 없습니다.");
       }
     }
+    if (problem.subject === "수학") {
+      if (![4, 5].includes(problem.mathematicalDifficulty)) {
+        errors.push("수학 문항의 mathematicalDifficulty는 4 또는 5여야 합니다.");
+      }
+      if (!Number.isInteger(problem.languageDifficulty)
+        || problem.languageDifficulty < 1
+        || problem.languageDifficulty > 5) {
+        errors.push("수학 문항의 languageDifficulty는 1부터 5 사이의 정수여야 합니다.");
+      }
+    }
 
     return errors;
   }

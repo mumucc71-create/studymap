@@ -3,10 +3,12 @@
     ? {
       runtimeModule: require("./elite-runtime.js"),
       storageModule: require("./elite-storage.js"),
+      geometryRenderer: require("./elite-geometry-renderer.js"),
     }
     : {
       runtimeModule: root.STUDY_ELITE_RUNTIME,
       storageModule: root.STUDY_ELITE_STORAGE,
+      geometryRenderer: root.STUDY_ELITE_GEOMETRY_RENDERER,
     };
   const api = factory(root, dependencies);
   if (typeof module === "object" && module.exports) module.exports = api;
@@ -70,6 +72,7 @@
       questionNumber: root.document.querySelector("#eliteQuestionNumber"),
       prompt: root.document.querySelector("#elitePrompt"),
       problem: root.document.querySelector("#eliteProblem"),
+      geometry: root.document.querySelector("#eliteGeometry"),
       answerList: root.document.querySelector("#eliteAnswerList"),
       selectionMessage: root.document.querySelector("#eliteSelectionMessage"),
       questionArea: root.document.querySelector("#eliteQuestionArea"),
@@ -105,22 +108,22 @@
     let uiStatus = UI_STATES.AUTH_CHECKING;
 
     function showScreen(name) {
-      root.document.querySelectorAll("[data-screen]").forEach((item) => {
-        item.classList.toggle("active", item.dataset.screen === name);
-      });
       root.localStorage?.setItem(CURRENT_SCREEN_KEY, name);
       if (name === "elite-quiz") root.localStorage?.setItem(RESUME_REQUESTED_KEY, "1");
       else root.localStorage?.removeItem(RESUME_REQUESTED_KEY);
+      if (root.STUDY_NAV?.go) {
+        root.STUDY_NAV.go(name, { silent: true });
+      } else {
+        root.document.querySelectorAll("[data-screen]").forEach((item) => {
+          item.classList.toggle("active", item.dataset.screen === name);
+        });
+      }
       root.scrollTo?.(0, 0);
     }
 
     function restoreEliteScreenIfOverridden() {
       if (restoringScreen || !state || storage?.getStatus() !== "READY") return;
       if (root.localStorage?.getItem(RESUME_REQUESTED_KEY) !== "1") return;
-      if (root.localStorage?.getItem(CURRENT_SCREEN_KEY) !== "elite-quiz") {
-        root.localStorage?.removeItem(RESUME_REQUESTED_KEY);
-        return;
-      }
       if (screen.classList.contains("active")) return;
       restoringScreen = true;
       root.queueMicrotask?.(() => {
@@ -128,7 +131,6 @@
           if (state
             && storage?.getStatus() === "READY"
             && root.localStorage?.getItem(RESUME_REQUESTED_KEY) === "1"
-            && root.localStorage?.getItem(CURRENT_SCREEN_KEY) === "elite-quiz"
             && !screen.classList.contains("active")) {
             showScreen("elite-quiz");
           }
@@ -183,6 +185,10 @@
       elements.questionArea?.classList.remove("hidden");
       elements.resultPanel?.classList.add("hidden");
       if (elements.problem) elements.problem.textContent = "";
+      if (elements.geometry) {
+        elements.geometry.innerHTML = "";
+        elements.geometry.classList.add("hidden");
+      }
       if (elements.answerList) elements.answerList.innerHTML = "";
       if (elements.selectionMessage) {
         elements.selectionMessage.classList.add("error");
@@ -287,6 +293,11 @@
         ? "문제를 읽고 가장 알맞은 답을 고르세요."
         : "문제를 읽고 답안을 작성하세요.";
       if (elements.problem) elements.problem.textContent = problem.prompt;
+      if (elements.geometry) {
+        const geometryMarkup = dependencies.geometryRenderer?.render?.(problem.geometryData) || "";
+        elements.geometry.innerHTML = geometryMarkup;
+        elements.geometry.classList.toggle("hidden", !geometryMarkup);
+      }
 
       if (problem.answerType === "MULTIPLE_CHOICE") renderChoiceAnswers(problem, attempt, locked);
       else renderTextAnswer(problem, attempt, locked);
@@ -323,6 +334,7 @@
         .join(", ") || "현재 결과에 맞는 다음 확인 위치";
       elements.questionArea?.classList.add("hidden");
       elements.resultPanel?.classList.remove("hidden");
+      if (elements.geometry) elements.geometry.classList.add("hidden");
       if (elements.progress) elements.progress.style.width = "100%";
       if (elements.progressLabel) elements.progressLabel.textContent = "Elite 분석 완료";
       if (elements.resultTitle) elements.resultTitle.textContent = `${subjectLabel(state.subject)} 상위권 사고력 진단 결과`;

@@ -6640,6 +6640,74 @@ body {
   border: 1px solid #f0d99e !important;
   background: #fffdf7 !important;
 }
+.elite-quiz-screen .elite-geometry {
+  margin: 18px 0 2px;
+  padding: 10px;
+  border: 1px solid #ecdba9;
+  border-radius: 16px;
+  background: #fff;
+}
+.elite-quiz-screen .elite-geometry.hidden {
+  display: none !important;
+}
+.elite-quiz-screen .elite-geometry svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 260px;
+}
+.elite-quiz-screen .elite-geometry .shape,
+.elite-quiz-screen .elite-geometry .ground,
+.elite-quiz-screen .elite-geometry .helper,
+.elite-quiz-screen .elite-geometry .sight,
+.elite-quiz-screen .elite-geometry .tangent,
+.elite-quiz-screen .elite-geometry .measure,
+.elite-quiz-screen .elite-geometry .right-angle {
+  fill: none;
+  stroke: #3e3422;
+  stroke-width: 2.4;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.elite-quiz-screen .elite-geometry .fill-path {
+  fill: #fff0c6;
+}
+.elite-quiz-screen .elite-geometry .inner {
+  fill: #fff;
+}
+.elite-quiz-screen .elite-geometry .helper,
+.elite-quiz-screen .elite-geometry .sight {
+  stroke: #d79a19;
+  stroke-dasharray: 6 5;
+}
+.elite-quiz-screen .elite-geometry .tangent {
+  stroke: #c75d41;
+}
+.elite-quiz-screen .elite-geometry .right-angle {
+  stroke-width: 1.7;
+}
+.elite-quiz-screen .elite-geometry .arrow-head {
+  fill: #806c44;
+}
+.elite-quiz-screen .elite-geometry text {
+  fill: #443a29;
+  font-size: 14px;
+  font-weight: 700;
+  text-anchor: middle;
+}
+.elite-quiz-screen .elite-geometry .small-label {
+  font-size: 11px;
+}
+.elite-quiz-screen .elite-geometry .measure-label {
+  fill: #765b24;
+  font-size: 12px;
+}
+.elite-quiz-screen .elite-geometry .accent-label {
+  fill: #bd6c00;
+}
+.elite-quiz-screen .elite-geometry .center-label {
+  font-size: 13px;
+}
 .elite-quiz-screen .answers button.selected {
   border-color: #d79a19 !important;
   background: #fff8e7 !important;

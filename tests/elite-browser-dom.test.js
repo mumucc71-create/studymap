@@ -162,9 +162,10 @@ test("실제 Elite 카드부터 인증·문제·제출·복원·오류 상태까
     await waitFor(cdp.evaluate, `document.querySelector('[data-screen="elite-quiz"]').classList.contains("active") && document.querySelector("#eliteProblem").textContent.trim().length > 0 && document.querySelectorAll("#eliteAnswerList [data-answer]").length >= 2`);
 
     const first = await cdp.evaluate(`({prompt:document.querySelector("#eliteProblem").textContent.trim(),choices:[...document.querySelectorAll("#eliteAnswerList [data-answer]")].map((item)=>item.dataset.answer),index:window.STUDY_ELITE_APP.getState().currentProblemIndex,status:window.STUDY_ELITE_APP.getAuthStatus()})`);
-    assert.equal(first.prompt, "직각삼각형 ABC에서 ∠C=90°, tan A=3/4이다. C에서 빗변 AB에 내린 높이의 발을 D라 할 때 AD-BD=7이다. 삼각형 ABC의 넓이는?");
+    assert.equal(first.prompt, "직각삼각형 ABC에서 ∠C=90°, tan A=3/4입니다. C에서 빗변 AB에 내린 높이의 발을 D라 할 때 AD-BD=7입니다. 삼각형 ABC의 넓이는?");
     assert.deepEqual(first.choices, ["75", "125", "150", "300"]);
     assert.equal(first.status, "AUTHENTICATED");
+    assert.equal(await cdp.evaluate(`document.querySelector("#eliteGeometry svg")?.getAttribute("role")`), "img");
 
     await cdp.evaluate(`document.querySelector("#eliteNext").click(); true`);
     assert.equal(await cdp.evaluate(`window.STUDY_ELITE_APP.getState().currentProblemIndex`), first.index);
@@ -172,6 +173,9 @@ test("실제 Elite 카드부터 인증·문제·제출·복원·오류 상태까
     await waitFor(cdp.evaluate, `window.STUDY_ELITE_APP.getState().currentProblemIndex > ${first.index}`);
     const advanced = await cdp.evaluate(`({id:window.STUDY_ELITE_APP.getEngine().getCurrentProblem(window.STUDY_ELITE_APP.getState()).problemId,index:window.STUDY_ELITE_APP.getState().currentProblemIndex,prompt:document.querySelector("#eliteProblem").textContent.trim()})`);
     assert.ok(advanced.prompt.length > 10);
+
+    await cdp.evaluate(`window.STUDY_NAV.go("home", {silent:true}); true`);
+    await waitFor(cdp.evaluate, `document.querySelector('[data-screen="elite-quiz"]').classList.contains("active")`);
 
     await cdp.send("Page.reload", { ignoreCache: true });
     await new Promise((resolve) => setTimeout(resolve, 300));

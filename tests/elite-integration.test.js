@@ -111,6 +111,7 @@ test("index와 elite-test는 새 엔진을 최소 hunk로 연결하고 전역 CS
     "elite-diagnosis.js",
     "elite-runtime.js",
     "elite-storage.js",
+    "elite-geometry-renderer.js",
     "elite-ui.js",
   ].forEach((file) => assert.match(index, new RegExp(file.replaceAll(".", "\\.")), file));
   assert.match(bridge, /STUDY_ELITE_UI\?\.mount/);
